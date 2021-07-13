@@ -8,7 +8,6 @@ from IPython.core.display import Markdown, display
 
 def sentiment_analysis_textBlob(tweet):
     analysis = TextBlob(tweet)
-    analysis = analysis.translate(to='en')
     # print(analysis.sentiment)
     if analysis.sentiment[0]>0:
         return 'Positive'

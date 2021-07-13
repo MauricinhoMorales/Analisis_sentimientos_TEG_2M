@@ -18,7 +18,7 @@ word_list = df_words_counter['word'].tolist()
 # display(df_words_counter)
 # print(word_list)
 
-df = pd.read_csv('tweets_list//prueba2.csv')
+df = pd.read_csv('tweets_list//tweets.csv')
 df = df.drop('Unnamed: 0',1)
 df['tweet_tokenized'] = df['tweet_tokenized'].apply(eval)
 tweet_tokenized_lists = df['tweet_tokenized'].tolist()
@@ -56,6 +56,7 @@ list_matrix_index_df.columns = new_header
 list_matrix_index_df = list_matrix_index_df.assign(tweet_tokenized = tweet_tokenized_lists)
 
 # display(list_matrix_index_df)
+list_matrix_index_df.to_csv('tweets_list//prueba_matrix_frequent_words.csv')
 
 
 # print(list_matrix)
