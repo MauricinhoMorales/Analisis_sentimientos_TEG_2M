@@ -8,6 +8,8 @@ from IPython.core.display import Markdown, display
 # Función utilizada para crear el archivo .csv con las predicciones de los test realizados
 def create_prediction(folder,testX, testY):
     
+    print('1')
+    
     dataFrame = pd.DataFrame()
     dataFrame['tweet_translated_tokenized'] = pd.DataFrame(testX, columns = ['tweet_translated_tokenized'])['tweet_translated_tokenized']
     dataFrame['sentiment'] = pd.DataFrame(testY, columns = ['sentiment'])['sentiment']
@@ -16,6 +18,8 @@ def create_prediction(folder,testX, testY):
     
 # Función utilizada para actualizar el archivo .csv para cada algoritmo de clasficación utilizado
 def actualizar_prediction(folder, data, name):
+    
+    print('2')
     
     dataFrame = pd.read_csv("{}//Predicted_Tweets.csv".format(folder))
     dataFrame[name] = pd.DataFrame(data, columns = [name])[name]
@@ -26,12 +30,13 @@ def actualizar_prediction(folder, data, name):
 class tweets_classification():
     
     def __init__(self, user):
-        self.user = user
-        self.folder = user+'_folder'
+        
+        self.folder = user+"_Folder"
         self.testing_messages = pd.DataFrame()
         self.testing_labels = pd.DataFrame()
         self.training_messages = pd.DataFrame()
         self.training_labels = pd.DataFrame()
+        
         pass
     
     def training(self,test_size):
@@ -109,7 +114,7 @@ class tweets_classification():
     
     def test_Max_Entropy(self):
         
-        MaxEnt = linear_model.LogisticRegression(penalty='12', C= 1.0)
+        MaxEnt = linear_model.LogisticRegression(penalty='l2', C= 1.0)
         
         # Entrenamiento del algoritmo
         MaxEnt.fit(self.training_messages,self.training_labels)

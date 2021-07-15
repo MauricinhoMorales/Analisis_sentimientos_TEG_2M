@@ -75,10 +75,20 @@ def remove_stopwords(word_list, language):
     return str(final_words)
 
 # Función que permite traducir un mensaje al idioma inglés
-def googletrans_translate(text,translator,num):
+def googletrans_translate(text):
     
     return GoogleTranslator(source='auto', target='english').translate(text)
 
+# Función que permite analizar el valor del sentimiento 
+def assign_sentiment(row):
+    
+    if row['pos'] > row['neg'] and row['pos'] > row['neu']:
+        return 'Positivo'
+    elif row['neg']> row['neu']:
+        return 'Negativo'
+    else:
+        return 'Neutral'
+    
 # Función que permite realizar el análisis de sentimientos usando la librería Vader.
 def sentiment_analysis(folder):
     
@@ -86,20 +96,12 @@ def sentiment_analysis(folder):
 
     analyzer = SentimentIntensityAnalyzer()
     
-    df['neg'] = [analyzer.polarity_scores(x)['neg'] for x in df['tweet_translated']]
-    df['neu'] = [analyzer.polarity_scores(x)['neu'] for x in df['tweet_translated']]
-    df['pos'] = [analyzer.polarity_scores(x)['pos'] for x in df['tweet_translated']]
+    df['neg'] = [analyzer.polarity_scores(x)['neg'] for x in df['tweet_translated_tokenized']]
+    df['neu'] = [analyzer.polarity_scores(x)['neu'] for x in df['tweet_translated_tokenized']]
+    df['pos'] = [analyzer.polarity_scores(x)['pos'] for x in df['tweet_translated_tokenized']]
     
-    for row in df.iterrows():
-        
-        if row['pos'] > row['neg'] and row['pos'] > row['neu']:
-            df['sentiment'] = 'Positivo'
-        elif row['neg'] > row['neu']:
-            df['sentiment'] = 'Negativo'
-        else:
-            df['sentiment'] = 'Neutral'
-        pass
-
+    df['sentiment'] = df.apply(assign_sentiment, axis=1)
+    
     df.to_csv("{}//Processed_Tweets.csv".format(folder),index=False)
 
 # Clase que se encarga de la recopilción, manejo y análisis de sentimientos de los tweets extraídos
@@ -131,5 +133,5 @@ class tweets_management():
     def sentiment_analysis(self):
         
         sentiment_analysis(self.folder)
-    
+        
     pass
