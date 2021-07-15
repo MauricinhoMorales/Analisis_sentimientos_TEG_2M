@@ -17,7 +17,7 @@ def monogram(folder):
     words_counter_df = pd.DataFrame.from_dict(words_counter, orient='index').reset_index()
     words_counter_df = words_counter_df.rename(columns={'index':'word', 0:'count'})
 
-    words_counter_df.to_csv('{}//Monograms.csv'.format(folder))
+    words_counter_df.to_csv('{}//Monograms.csv'.format(folder), index=False)
 
 # Función que permite obtener las asociaciones de dos y tres palabras mas repetidas en el corpus
 def bigram_trigram(folder):
@@ -32,7 +32,7 @@ def bigram_trigram(folder):
     vocab = c_vec.vocabulary_
     df_ngram = pd.DataFrame(sorted([(count_values[i],k) for k,i in vocab.items()], reverse=True)).rename(columns={0: 'frequency', 1:'bigram/trigram'})
     
-    df_ngram.to_csv('{}//Bigrams_Trigrams.csv'.format(folder))
+    df_ngram.to_csv('{}//Bigrams_Trigrams.csv'.format(folder), index=False)
 
 # Clase que se encarga de la obtención de palabras frecuentes y su asociación para determinar los temas presentes en el corpus
 class tweets_ngrams():
