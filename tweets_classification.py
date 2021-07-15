@@ -19,14 +19,14 @@ def create_prediction(folder,testX, testY):
     
     dataFrame.to_csv("{}//Predicted_Tweets.csv".format(folder), index =  False)
     
-# Función utilizada para actualizar el archivo .csv para cada algoritmo de clasficación utilizado
+# Función utilizada para actualizar el archivo .csv de Predicciones para cada algoritmo de clasficación utilizado
 def update_predictions(folder, data, name):
 
     dataFrame = pd.read_csv("{}//Predicted_Tweets.csv".format(folder))
     dataFrame[name] = pd.DataFrame(data, columns = [name])[name]
     dataFrame.to_csv("{}//Predicted_Tweets.csv".format(folder), index = False)   
     
-    
+# Funcion utilizada para actualizar el archivo .csv de Estadisticas para cada algoritmo de clasificacion utilizado  
 def update_statistics(folder,name, testing_labels, predicted_labels):
     
     dataFrame = pd.read_csv("{}//Statistics_Tweets.csv".format(folder))
