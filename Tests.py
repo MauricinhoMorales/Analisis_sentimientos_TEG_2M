@@ -1,10 +1,11 @@
-from googletrans import Translator
-from deep_translator import GoogleTranslator
-
 import pandas as pd
-from sklearn.feature_extraction.text import CountVectorizer
-from IPython.display import display
+
 from nltk.corpus import stopwords
+from googletrans import Translator
+from IPython.display import display
+from deep_translator import GoogleTranslator
+from sklearn.feature_extraction.text import CountVectorizer
+
 # translator = Translator()
 # text = 'hola mundo'
 # print(translator.translate(text).text)

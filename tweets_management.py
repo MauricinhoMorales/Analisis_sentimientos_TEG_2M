@@ -1,11 +1,12 @@
 import os
-import twint
 import re
+import twint
 import pandas as pd
-from googletrans import Translator
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+
 from nltk.corpus import stopwords
+from googletrans import Translator
 from deep_translator import GoogleTranslator
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # Función que crea una carpeta (en caso de que no exista) con el nombre dado.
 def create_folder(folder):

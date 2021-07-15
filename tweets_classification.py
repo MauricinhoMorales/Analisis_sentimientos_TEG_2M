@@ -1,9 +1,9 @@
 import pandas as pd
+
 from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import model_selection, naive_bayes, svm, tree, linear_model
 from sklearn.metrics import accuracy_score,precision_score, recall_score, f1_score, confusion_matrix
-from IPython.core.display import Markdown, display
 
 # Función utilizada para crear el archivo .csv con las predicciones de los test realizados
 def create_prediction(folder,testX, testY):
