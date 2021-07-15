@@ -30,6 +30,6 @@ def ngramas():
     user_tweets_ngrams.ngraming()
     
     
-management()
+# management()
 classification()
-ngramas()
+# ngramas()
