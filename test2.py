@@ -1,9 +1,7 @@
-class Employee:
-    pass
-
-john = Employee()  # Create an empty employee record
-
-# Fill the fields of the record
-john.name = 'John Doe'
-john.dept = 'computer lab'
-john.salary = 1000
+from googletrans import Translator
+from deep_translator import GoogleTranslator
+translator = Translator()
+text = 'hola mundo'
+# print(translator.translate(text).text)
+translated = GoogleTranslator(source='auto', target='english').translate('hola mundo')
+print(translated)
