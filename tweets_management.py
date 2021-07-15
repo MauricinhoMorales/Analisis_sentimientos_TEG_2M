@@ -78,10 +78,7 @@ def remove_stopwords(word_list, language):
     return str(final_words)
 
 # Función para traducir un mensaje al idioma ingles (Aun no sirve)
-def googletrans_translate(text,translator,num):
-    num+=1
-    print(num)
-    # time.sleep(0.5)
+def googletrans_translate(text,translator):
     # return translator.translate(text).text
     return GoogleTranslator(source='auto', target='english').translate(text)
 
@@ -114,7 +111,6 @@ class tweets_management():
         self.user = user
         self.folder = user+"_Folder"
         self.translator = Translator()
-        self.num_aux = 0
         
     def scraping(self,amount):
         scrape_info(self.user,amount,self.folder)
@@ -125,7 +121,7 @@ class tweets_management():
         df['tweet_tokenized'] = df['tweet'].apply(lambda x: clean_tokenized(x))
         df['tweet_tokenized'] = df['tweet_tokenized'].apply(lambda x: remove_stopwords(x,"spanish"))
         
-        df['tweet_translated'] = df['tweet'].apply(lambda x: googletrans_translate(x,self.translator,self.num_aux))
+        df['tweet_translated'] = df['tweet'].apply(lambda x: googletrans_translate(x,self.translator))
         df['tweet_translated_tokenized'] = df['tweet_translated'].apply(lambda x: clean_tokenized(x))
         df['tweet_translated_tokenized'] = df['tweet_translated_tokenized'].apply(lambda x: remove_stopwords(x,"english"))
         
