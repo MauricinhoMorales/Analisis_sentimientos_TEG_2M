@@ -1,28 +1,20 @@
-from typing_extensions import final
 import pandas as pd
-import numpy as np
-import re
-from nltk.tokenize import word_tokenize
-from nltk import pos_tag
-from nltk.corpus import stopwords
 from sklearn.preprocessing import LabelEncoder
-from collections import defaultdict
-from nltk.corpus import wordnet as wn
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn import model_selection, naive_bayes, svm, tree
-from sklearn.metrics import accuracy_score
+from sklearn import model_selection, naive_bayes, svm, tree, linear_model
+from sklearn.metrics import accuracy_score,precision_score, recall_score, f1_score, confusion_matrix
 from IPython.core.display import Markdown, display
 
-# Función utilizada para crear el archivo .csv con las predicciones del test realizado
+# Función utilizada para crear el archivo .csv con las predicciones de los test realizados
 def create_prediction(folder,testX, testY):
     
     dataFrame = pd.DataFrame()
-    dataFrame['tweet_tokenized'] = pd.DataFrame(testX, columns = ['tweet_tokenized'])['tweet_tokenized']
-    dataFrame['Sentiment'] = pd.DataFrame(testY, columns = ['Sentiment'])['Sentiment']
+    dataFrame['tweet_translated_tokenized'] = pd.DataFrame(testX, columns = ['tweet_translated_tokenized'])['tweet_translated_tokenized']
+    dataFrame['sentiment'] = pd.DataFrame(testY, columns = ['sentiment'])['sentiment']
     
     dataFrame.to_csv("{}//Predicted_Tweets.csv".format(folder), index =  False)
     
-# Función utilizada para actualizar el archivo .csv para cada algoritmo
+# Función utilizada para actualizar el archivo .csv para cada algoritmo de clasficación utilizado
 def actualizar_prediction(folder, data, name):
     
     dataFrame = pd.read_csv("{}//Predicted_Tweets.csv".format(folder))
@@ -30,8 +22,8 @@ def actualizar_prediction(folder, data, name):
     
     dataFrame.to_csv("{}//Predicted_Tweets.csv".format(folder), index = False)   
     
-# Clase utilizada para el entrenamiento y clasificación de los tweets por diferentes algoritmos 
-class classification():
+# Clase utilizada para el entrenamiento y prueba de diferentes algoritmos de clasficación
+class tweets_classification():
     
     def __init__(self, user):
         self.user = user
@@ -46,7 +38,7 @@ class classification():
         
         Corpus = pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
         
-        Train_X, Test_X, Train_Y, Test_Y = model_selection.train_test_split(Corpus['tweet_tokenized'],Corpus['Sentiment'],test_size=test_size,shuffle=False)
+        Train_X, Test_X, Train_Y, Test_Y = model_selection.train_test_split(Corpus['tweet_translated_tokenized'],Corpus['sentiment'],test_size=test_size,shuffle=False)
 
         create_prediction(self.folder,Test_X, Test_Y)
 
@@ -56,12 +48,12 @@ class classification():
         self.testing_labels = Encoder.fit_transform(Test_Y)
 
         Tfidf_vect = TfidfVectorizer(max_features=5000)
-        Tfidf_vect.fit(Corpus['tweet_tokenized'])
+        Tfidf_vect.fit(Corpus['tweet_translated_tokenized'])
         
         self.training_messages = Tfidf_vect.transform(Train_X)
         self.testing_messages  = Tfidf_vect.transform(Test_X)
         
-    def test_naive_bayes(self):
+    def test_Naive_Bayes(self):
         
         NaiveBayes = naive_bayes.MultinomialNB()
         
@@ -112,5 +104,23 @@ class classification():
         
         # Guardado de los resultados
         actualizar_prediction(self.folder, predictions_DF,'DF')
+        
+        pass
+    
+    def test_Max_Entropy(self):
+        
+        MaxEnt = linear_model.LogisticRegression(penalty='12', C= 1.0)
+        
+        # Entrenamiento del algoritmo
+        MaxEnt.fit(self.training_messages,self.training_labels)
+        
+        # Prediccion del algoritmo
+        predictions_MaxEnt = MaxEnt.predict(self.testing_messages)
+        
+        # Verificación de los resultados
+        print("Max Entropy Accuracy Score -> ",accuracy_score(predictions_MaxEnt, self.testing_labels)*100)
+        
+        # Guardado de los resultados
+        actualizar_prediction(self.folder, predictions_MaxEnt,'MaxEnt')
         
         pass

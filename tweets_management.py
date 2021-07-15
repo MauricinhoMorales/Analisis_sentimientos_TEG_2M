@@ -1,23 +1,19 @@
 import os
 import twint
-import time
 import re
 import pandas as pd
 from googletrans import Translator
-from textblob import TextBlob
-from IPython.core.display import display
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-from pathlib import Path
 from nltk.corpus import stopwords
-
 from deep_translator import GoogleTranslator
 
-# Función que crea una carpeta (en caso de que no exista) personalizada con el nombre del perfil de Twitter que se este usando en el momento.
+# Función que crea una carpeta (en caso de que no exista) con el nombre dado.
 def create_folder(folder):
+    
     if not os.path.exists(folder):
         os.makedirs(folder)
 
-# Función que Scrappea los tweets usando diferentes filtros.
+# Función que Recopila los tweets deseados usando diferentes filtros.
 def scrape_info(user,quantity,folder):
     
     create_folder(folder)
@@ -41,13 +37,13 @@ def scrape_info(user,quantity,folder):
 
     twint.run.Search(c)
     
-# Funcion para limpiar y tokenizar los tweets.
+# Funcion que permite limpiar y tokenizar los tweets
 def clean_tokenized(texto):
     
-    # Se convierte todo el texto a minúsculas
+    # Transformación del texto a minúsculas
     nuevo_texto = texto.lower()
     
-    # Eliminación de páginas web (palabras que empiezan por "http")
+    # Eliminación de páginas web 
     nuevo_texto = re.sub('http\S+', ' ', nuevo_texto)
     
     # Eliminación de signos de puntuación
@@ -68,8 +64,9 @@ def clean_tokenized(texto):
     
     return(nuevo_texto)
 
-# Función para remover las palabras de parada (Stopwords) en un idioma en específico.
+# Función que permite remover las palabras que no aportar valor al analisis en un idioma dado
 def remove_stopwords(word_list, language):
+    
     initial_words = list(word_list)
     final_words = [] 
     for token in word_list: # iterate over word_list
@@ -77,26 +74,24 @@ def remove_stopwords(word_list, language):
             final_words.append(token)
     return str(final_words)
 
-# Función para traducir un mensaje al idioma ingles (Aun no sirve)
+# Función que permite traducir un mensaje al idioma inglés
 def googletrans_translate(text,translator,num):
-    num+=1
-    print(num)
-    # time.sleep(0.5)
-    # return translator.translate(text).text
+    
     return GoogleTranslator(source='auto', target='english').translate(text)
 
-# Función para realizar el análisis de sentimientos usando la librería Vader.
+# Función que permite realizar el análisis de sentimientos usando la librería Vader.
 def sentiment_analysis(folder):
+    
     df = pd.read_csv("{}//Processed_Tweets.csv".format(folder))
 
     analyzer = SentimentIntensityAnalyzer()
-    # sentence = df.at[0,'tweet_translated']
     
-    df['neg'] = [analyzer.polarity_scores(x)['neg'] for x in df['tweet']]
-    df['neu'] = [analyzer.polarity_scores(x)['neu'] for x in df['tweet']]
-    df['pos'] = [analyzer.polarity_scores(x)['pos'] for x in df['tweet']]
+    df['neg'] = [analyzer.polarity_scores(x)['neg'] for x in df['tweet_translated']]
+    df['neu'] = [analyzer.polarity_scores(x)['neu'] for x in df['tweet_translated']]
+    df['pos'] = [analyzer.polarity_scores(x)['pos'] for x in df['tweet_translated']]
     
-    for index,row in df.iterrows():
+    for row in df.iterrows():
+        
         if row['pos'] > row['neg'] and row['pos'] > row['neu']:
             df['sentiment'] = 'Positivo'
         elif row['neg'] > row['neu']:
@@ -107,16 +102,18 @@ def sentiment_analysis(folder):
 
     df.to_csv("{}//Processed_Tweets.csv".format(folder),index=False)
 
-# Clase que se encarga de la recopilción, manejo y analisis de sentimientos de los tweets.
+# Clase que se encarga de la recopilción, manejo y análisis de sentimientos de los tweets extraídos
 class tweets_management():
     
     def __init__(self,user):
+        
         self.user = user
         self.folder = user+"_Folder"
         self.translator = Translator()
         self.num_aux = 0
         
     def scraping(self,amount):
+        
         scrape_info(self.user,amount,self.folder)
     
     def cleaning(self):
@@ -130,9 +127,9 @@ class tweets_management():
         df['tweet_translated_tokenized'] = df['tweet_translated_tokenized'].apply(lambda x: remove_stopwords(x,"english"))
         
         df.to_csv('{}//Processed_Tweets.csv'.format(self.folder), columns=['tweet','tweet_tokenized','tweet_translated','tweet_translated_tokenized'],index=False)
-        # df.to_csv('{}//Processed_Tweets.csv'.format(self.folder), columns=['tweet','tweet_tokenized'],index=False)
     
     def sentiment_analysis(self):
+        
         sentiment_analysis(self.folder)
     
     pass
