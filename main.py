@@ -22,5 +22,5 @@ def classification():
     sorter.test_Decision_Forest()
     sorter.test_Max_Entropy()
     
-# management()
+management()
 classification()

@@ -7,9 +7,7 @@ from IPython.core.display import Markdown, display
 
 # Función utilizada para crear el archivo .csv con las predicciones de los test realizados
 def create_prediction(folder,testX, testY):
-    
-    print('1')
-    
+
     dataFrame = pd.DataFrame()
     dataFrame['tweet_translated_tokenized'] = pd.DataFrame(testX, columns = ['tweet_translated_tokenized'])['tweet_translated_tokenized']
     dataFrame['sentiment'] = pd.DataFrame(testY, columns = ['sentiment'])['sentiment']
@@ -18,12 +16,9 @@ def create_prediction(folder,testX, testY):
     
 # Función utilizada para actualizar el archivo .csv para cada algoritmo de clasficación utilizado
 def actualizar_prediction(folder, data, name):
-    
-    print('2')
-    
+
     dataFrame = pd.read_csv("{}//Predicted_Tweets.csv".format(folder))
     dataFrame[name] = pd.DataFrame(data, columns = [name])[name]
-    
     dataFrame.to_csv("{}//Predicted_Tweets.csv".format(folder), index = False)   
     
 # Clase utilizada para el entrenamiento y prueba de diferentes algoritmos de clasficación
@@ -36,6 +31,7 @@ class tweets_classification():
         self.testing_labels = pd.DataFrame()
         self.training_messages = pd.DataFrame()
         self.training_labels = pd.DataFrame()
+        self.encoder = LabelEncoder()
         
         pass
     
@@ -46,11 +42,11 @@ class tweets_classification():
         Train_X, Test_X, Train_Y, Test_Y = model_selection.train_test_split(Corpus['tweet_translated_tokenized'],Corpus['sentiment'],test_size=test_size,shuffle=False)
 
         create_prediction(self.folder,Test_X, Test_Y)
-
-        Encoder = LabelEncoder()
         
-        self.training_labels = Encoder.fit_transform(Train_Y)
-        self.testing_labels = Encoder.fit_transform(Test_Y)
+        self.training_labels = self.encoder.fit_transform(Train_Y)
+        self.testing_labels = self.encoder.fit_transform(Test_Y)
+        
+        print(self.encoder.classes_)
 
         Tfidf_vect = TfidfVectorizer(max_features=5000)
         Tfidf_vect.fit(Corpus['tweet_translated_tokenized'])
@@ -71,8 +67,10 @@ class tweets_classification():
         # Verificación de los resultados
         print("Naive Bayes Accuracy Score -> ",accuracy_score(predictions_NB, self.testing_labels)*100)
         
+        predictions_NB_labels = self.encoder.inverse_transform(predictions_NB)
+        
         # Guardado de los resultados
-        actualizar_prediction(self.folder,predictions_NB,'NB')
+        actualizar_prediction(self.folder,predictions_NB_labels,'NB')
         
         pass
 
@@ -89,8 +87,10 @@ class tweets_classification():
         # Verificación de los resultados
         print("SVM Accuracy Score -> ",accuracy_score(predictions_SVM,self.testing_labels)*100)
         
+        predictions_SVM_labels = self.encoder.inverse_transform(predictions_SVM)
+        
         # Guardado de los resultados
-        actualizar_prediction(self.folder, predictions_SVM,'SVM')
+        actualizar_prediction(self.folder,predictions_SVM_labels,'SVM')
 
         pass
     
@@ -107,8 +107,10 @@ class tweets_classification():
         # Verificación de los resultados
         print("DecisionForest Accuracy Score -> ",accuracy_score(predictions_DF, self.testing_labels)*100)
         
+        predictions_DF_labels = self.encoder.inverse_transform(predictions_DF)
+        
         # Guardado de los resultados
-        actualizar_prediction(self.folder, predictions_DF,'DF')
+        actualizar_prediction(self.folder,predictions_DF_labels,'DF')
         
         pass
     
@@ -125,7 +127,9 @@ class tweets_classification():
         # Verificación de los resultados
         print("Max Entropy Accuracy Score -> ",accuracy_score(predictions_MaxEnt, self.testing_labels)*100)
         
+        predictions_MaxEnt_labels = self.encoder.inverse_transform(predictions_MaxEnt)
+        
         # Guardado de los resultados
-        actualizar_prediction(self.folder, predictions_MaxEnt,'MaxEnt')
+        actualizar_prediction(self.folder,predictions_MaxEnt_labels,'MaxEnt')
         
         pass
