@@ -1,56 +1,31 @@
-from googletrans import Translator
-from deep_translator import GoogleTranslator
-
 import pandas as pd
-from sklearn.feature_extraction.text import CountVectorizer
-from IPython.display import display
-from nltk.corpus import stopwords
-# translator = Translator()
-# text = 'hola mundo'
-# print(translator.translate(text).text)
-# translated = GoogleTranslator(source='auto', target='english').translate('hola mundo')
-# print(translated)
+from IPython.core.display import display
 
-# corpus = [
-# 'Great course. Love the professor.',
-# 'Great content. Textbook was great',
-# 'This course has very hard assignments. Great content.',
-# 'Love the professor.',
-# 'Hard assignments though',
-# 'Hard to understand.'
-# ]
-# df = pd.DataFrame(corpus)
-# df.columns = ['reviews']
+folders_users_individuals = 'users_folders'
+folder_all_in_one_file = 'user_one_file'
 
-# stoplist = stopwords.words('english')
+users_lists_38_19 = ['raleonc71','AndresFGuevaraB','clavelrangel','ramses_siverio','ricardolodice','kevinaviladdhh','jhoalys','gabosantana35','orianafaoro','TatoCelis','salvabenasayag','JesusMolinaCs','bpulidom','gzuzkstro','Rogerlruizh9','paola_morales14','Arthur_Canga','YoSoyMarlys','vicman_ve','anthxnyb_','Isaacsb2000','nisequiensoypue','Demenciand0']
 
-# c_vec = CountVectorizer(stop_words=stoplist, ngram_range=(2,3))
-# display(df['reviews'].head())
-# # matrix of ngrams
-# ngrams = c_vec.fit_transform(df['reviews'])
-# print(type(ngrams))
-# # count frequency of ngrams
-# count_values = ngrams.toarray().sum(axis=0)
-# # list of ngrams
-# vocab = c_vec.vocabulary_
-# df_ngram = pd.DataFrame(sorted([(count_values[i],k) for k,i in vocab.items()], reverse=True)).rename(columns={0: 'frequency', 1:'bigram/trigram'})
-# # display(df_ngram.head())
+concat_df = pd.DataFrame()
 
+for user in users_lists_38_19:
+    df = pd.read_csv("{}//{}//Bigrams_Trigrams.csv".format(folders_users_individuals,user+'_Folder',index=False))
+    
+    concat_df = concat_df.append(df)
 
-df = pd.read_csv('luisvicenteleon_Folder//Processed_Tweets.csv')
-df['tweet_tokenized'] = df['tweet_tokenized'].apply(eval)
+# result = pd.concat(concat_df)
+concat_df = concat_df.sort_values(by=['frequency'], ascending=False)
+concat_df = concat_df.rename(columns={'bigram/trigram':'bigram_trigram'})
 
-stoplist = stopwords.words('spanish') + ['https','co'] + ['pm','am'] + ['10', '11'] + ['_','lvl']
+# display(concat_df)
 
-c_vec = CountVectorizer(stop_words=stoplist, ngram_range=(2,3))
-# display(df['tweet'].head())
-# matrix of ngrams
-ngrams = c_vec.fit_transform(df['tweet'])
-print(type(ngrams))
-# count frequency of ngrams
-count_values = ngrams.toarray().sum(axis=0)
-# list of ngrams
-vocab = c_vec.vocabulary_
-df_ngram = pd.DataFrame(sorted([(count_values[i],k) for k,i in vocab.items()], reverse=True)).rename(columns={0: 'frequency', 1:'bigram/trigram'})
+# display(concat_df.bigram_trigram.duplicated())
 
-display(df_ngram)
+# display(concat_df.loc[concat_df.bigram_trigram.duplicated(), :])
+
+concat_df_2 = concat_df.groupby('bigram_trigram').agg({'frequency': sum}).reset_index()
+concat_df_2 = concat_df_2.sort_values(by=['frequency'], ascending=False)
+
+# display(concat_df_2.head(5))
+
+concat_df_2.to_csv('{}//Bigrams_Trigrams2.csv'.format(folder_all_in_one_file),index=False)
