@@ -23,31 +23,50 @@ def monogram(folder):
 def bigram_trigram(folder):
     
     df = pd.read_csv('{}//Processed_Tweets.csv'.format(folder))
-    
-    stoplist = stopwords.words('spanish') + ['https','co'] + ['pm','am'] + ['10', '11'] + ['_','lvl']
+    stoplist = stopwords.words('spanish') + ['https','http'] + ['pm','am'] + ['10', '11'] + ['_','lvl'] + ['ja','eltiempolatino'] + ['today','unfollowers'] + ['and','followed'] + ['co', 'gt'] + ['followers','people'] + ['lt','dfk1urik4h'] + ['qhi53awlb9','2fshqrsmj3'] + ['maibortpetit','maibort'] + ['petit', 'stats'] + ['ee','uu'] + ['in','the'] + ['last','thank'] + ['you'+'day']
 
     c_vec = CountVectorizer(stop_words=stoplist, ngram_range=(2,3))
     ngrams = c_vec.fit_transform(df['tweet'])
     count_values = ngrams.toarray().sum(axis=0)
     vocab = c_vec.vocabulary_
     df_ngram = pd.DataFrame(sorted([(count_values[i],k) for k,i in vocab.items()], reverse=True)).rename(columns={0: 'frequency', 1:'bigram/trigram'})
-    
-    df_ngram.to_csv('{}//Bigrams_Trigrams.csv'.format(folder), index=False)
+    df_ngram.to_csv('{}//Bigrams_Trigrams.csv'.format(folder),index=False)
 
-# Clase que se encarga de la obtención de palabras frecuentes y su asociación para determinar los temas presentes en el corpus
-class tweets_ngrams():
+def bigram_trigram_all_in_one(folders_users_individuals,folder_all_in_one_file,users_list):
+    concat_df = pd.DataFrame()
     
-    def __init__(self,user):
-        
+    for user in users_list:
+        df = pd.read_csv("{}//{}//Bigrams_Trigrams.csv".format(folders_users_individuals,user+'_Folder',index=False))
+        concat_df = concat_df.append(df)
+
+    concat_df = concat_df.sort_values(by=['frequency'], ascending=False)
+    concat_df = concat_df.rename(columns={'bigram/trigram':'bigram_trigram'})
+    
+    concat_df_2 = concat_df.groupby('bigram_trigram').agg({'frequency': sum}).reset_index()
+    concat_df_2 = concat_df_2.sort_values(by=['frequency'], ascending=False)
+    
+    concat_df_2.to_csv('{}//Bigrams_Trigrams.csv'.format(folder_all_in_one_file),index=False)
+    
+    pass
+
+class ngrams():
+    def __init__(self,user,dir):
         self.user = user
         self.folder = user+"_Folder"
+        self.dir = dir
     
     def monogramming(self):
-        
-        monogram(self.folder)
+        if (self.dir == 'users_folders'):
+            monogram("{}//{}".format(self.dir,self.folder))
+        elif (self.dir == 'user_one_file'):
+            monogram(self.dir)
     
     def ngraming(self):
-        
-        bigram_trigram(self.folder)
+        if (self.dir == 'users_folders'):
+            bigram_trigram("{}//{}".format(self.dir,self.folder))
+        elif (self.dir == 'user_one_file'):
+            bigram_trigram(self.dir)
     
+    def ngraming_in_one_file(self,users_folders,user_one_file_folder,users_list):
+        bigram_trigram_all_in_one(users_folders,user_one_file_folder,users_list)
     pass
