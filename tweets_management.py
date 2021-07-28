@@ -82,6 +82,7 @@ def googletrans_translate(text,translator):
     # return translator.translate(text).text
     translated_tex = GoogleTranslator(source='auto', target='english').translate(text)
     return translated_tex
+
 # Función para realizar el análisis de sentimientos usando la librería Vader.
 def sentiment_analysis(folder):
     df = pd.read_csv("users_folders//{}//Processed_Tweets.csv".format(folder))
