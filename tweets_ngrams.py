@@ -51,7 +51,7 @@ def bigram_trigram_all_in_one(individual_folders,batch_folder,users_list):
 
 # Clase que se encarga de la recopilación de los conjuntos de monogramas, bigramas y trigramas provenientes del corpus
 class tweets_ngrams():
-    def __init__(self,user,dir):
+    def __init__(self,user,type):
         
         self.user = user
         if (type == 'users'):
@@ -69,4 +69,3 @@ class tweets_ngrams():
     
     def ngraming_in_one_file(self,users,batch,users_list):
         bigram_trigram_all_in_one(users,batch,users_list)
-    pass
