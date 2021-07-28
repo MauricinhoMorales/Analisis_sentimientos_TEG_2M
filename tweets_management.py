@@ -69,7 +69,6 @@ def clean_tokenized(texto):
 # Función que permite remover las palabras que no aportar valor al analisis en un idioma dado
 def remove_stopwords(word_list, language):
     
-    initial_words = list(word_list)
     final_words = [] 
     for token in word_list: # iterate over word_list
         if token not in stopwords.words(language):
@@ -78,6 +77,7 @@ def remove_stopwords(word_list, language):
 
 # Función para traducir un mensaje al idioma ingles (Aun no sirve)
 def googletrans_translate(text):
+    print('1')
     translated_text = GoogleTranslator(source='auto', target='english').translate(text)
     return translated_text
 

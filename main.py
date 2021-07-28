@@ -16,7 +16,7 @@ individual_folders = 'users'
 batch_folder = 'batch'
 
 user_twitter = tweets_management('nlluengo',individual_folders)
-user_twitter.scraping(100)
+# user_twitter.scraping(100)
 user_twitter.cleaning()
 user_twitter.sentiment_analysis()
 
