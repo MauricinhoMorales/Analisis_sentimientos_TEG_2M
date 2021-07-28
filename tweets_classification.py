@@ -53,9 +53,7 @@ class tweets_classification():
         self.training_messages = pd.DataFrame()
         self.training_labels = pd.DataFrame()
         self.encoder = LabelEncoder()
-        
-        pass
-    
+                                                                            
     def training(self,test_size):
         
         Corpus = pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
@@ -67,7 +65,7 @@ class tweets_classification():
         self.training_labels = self.encoder.fit_transform(Train_Y)
         self.testing_labels = self.encoder.fit_transform(Test_Y)
 
-        Tfidf_vect = TfidfVectorizer(max_features=5000)
+        Tfidf_vect = TfidfVectorizer()
         Tfidf_vect.fit(Corpus['tweet_translated_tokenized'])
         
         self.training_messages = Tfidf_vect.transform(Train_X)
@@ -92,7 +90,6 @@ class tweets_classification():
         # Guardado de los resultados
         update_predictions(self.folder,predictions_NB_labels,'NB')
         
-        pass
 
     def test_SVM(self):
 
@@ -112,8 +109,6 @@ class tweets_classification():
         
         # Guardado de los resultados
         update_predictions(self.folder,predictions_SVM_labels,'SVM')
-
-        pass
     
     def test_Decision_Forest(self):
         
@@ -133,8 +128,6 @@ class tweets_classification():
         
         # Guardado de los resultados
         update_predictions(self.folder,predictions_DF_labels,'DF')
-        
-        pass
     
     def test_Max_Entropy(self):
         
@@ -154,5 +147,3 @@ class tweets_classification():
         
         # Guardado de los resultados
         update_predictions(self.folder,predictions_MaxEnt_labels,'MaxEnt')
-        
-        pass
