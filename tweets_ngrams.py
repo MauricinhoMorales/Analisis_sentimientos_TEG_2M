@@ -49,6 +49,7 @@ def bigram_trigram_all_in_one(individual_folders,batch_folder,users_list):
     
     concat_df_2.to_csv('{}//Bigrams_Trigrams.csv'.format(batch_folder),index=False)
 
+# Clase que se encarga de la recopilación de los conjuntos de monogramas, bigramas y trigramas provenientes del corpus
 class tweets_ngrams():
     def __init__(self,user,dir):
         
