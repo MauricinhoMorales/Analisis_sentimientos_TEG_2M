@@ -128,7 +128,7 @@ class tweets_management():
         df['tweet_tokenized'] = df['tweet'].apply(lambda x: clean_tokenized(x))
         df['tweet_tokenized'] = df['tweet_tokenized'].apply(lambda x: remove_stopwords(x,"spanish"))
         
-        df['tweet_translated'] = df['tweet'].apply(lambda x: googletrans_translate(x,self.translator))
+        df['tweet_translated'] = df['tweet'].apply(lambda x: googletrans_translate(x))
         df['tweet_translated_tokenized'] = df['tweet_translated'].apply(lambda x: clean_tokenized(x))
         df['tweet_translated_tokenized'] = df['tweet_translated_tokenized'].apply(lambda x: remove_stopwords(x,"english"))
         
