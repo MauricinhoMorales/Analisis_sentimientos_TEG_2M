@@ -34,7 +34,7 @@ for user in users_38_19_translated:
     # sorter.test_Max_Entropy()
     
     sorter_batch = tweets_classification(user,batch_folder)
-    sorter_batch.load()
+    # sorter_batch.load()
         
     user_tweets_ngrams = tweets_ngrams(user,individual_folders)
     # user_tweets_ngrams.monogramming()
@@ -44,8 +44,8 @@ user_tweets_ngrams = tweets_ngrams('',batch_folder)
 # user_tweets_ngrams.ngraming_in_one_file(users_lists_38_19)
 
 sorter = tweets_classification('',batch_folder)
-sorter.training(0.25)
-sorter.test_Naive_Bayes()
-sorter.test_SVM()
-sorter.test_Decision_Forest()
-sorter.test_Max_Entropy()
+# sorter.training(0.25)
+# sorter.test_Naive_Bayes()
+# sorter.test_SVM()
+# sorter.test_Decision_Forest()
+# sorter.test_Max_Entropy()
