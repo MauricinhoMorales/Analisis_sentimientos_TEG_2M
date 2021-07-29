@@ -88,9 +88,9 @@ def sentiment_analysis(folder):
 
     analyzer = SentimentIntensityAnalyzer()
     
-    df['neg'] = [analyzer.polarity_scores(x)['neg'] for x in df['tweet']]
-    df['neu'] = [analyzer.polarity_scores(x)['neu'] for x in df['tweet']]
-    df['pos'] = [analyzer.polarity_scores(x)['pos'] for x in df['tweet']]
+    df['neg'] = [analyzer.polarity_scores(x)['neg'] for x in df['tweet_translated_tokenized']]
+    df['neu'] = [analyzer.polarity_scores(x)['neu'] for x in df['tweet_translated_tokenized']]
+    df['pos'] = [analyzer.polarity_scores(x)['pos'] for x in df['tweet_translated_tokenized']]
     
     for index,row in df.iterrows():
         if row['pos'] > row['neg'] and row['pos'] > row['neu']:
