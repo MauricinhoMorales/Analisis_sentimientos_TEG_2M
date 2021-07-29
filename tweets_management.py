@@ -4,7 +4,6 @@ import twint
 import pandas as pd
 
 from nltk.corpus import stopwords
-from googletrans import Translator
 from deep_translator import GoogleTranslator
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
@@ -70,7 +69,6 @@ def clean_tokenized(texto):
 # Función que permite remover las palabras que no aportar valor al analisis en un idioma dado
 def remove_stopwords(word_list, language):
     
-    initial_words = list(word_list)
     final_words = [] 
     for token in word_list: # iterate over word_list
         if token not in stopwords.words(language):
@@ -78,73 +76,78 @@ def remove_stopwords(word_list, language):
     return str(final_words)
 
 # Función para traducir un mensaje al idioma ingles (Aun no sirve)
-def googletrans_translate(text,translator):
-    # return translator.translate(text).text
-    translated_tex = GoogleTranslator(source='auto', target='english').translate(text)
-    return translated_tex
+def googletrans_translate(text):
+    # print('1')
+    translated_text = GoogleTranslator(source='auto', target='english').translate(text)
+    return translated_text
 
-# Función para realizar el análisis de sentimientos usando la librería Vader.
+# Función que permite analizar el valor del sentimiento 
+def assign_sentiment(row):
+    
+    if row['pos'] > row['neg'] and row['pos'] > row['neu']:
+        return 'Positivo'
+    elif row['neg']> row['neu']:
+        return 'Negativo'
+    else:
+        return 'Neutral'
+    
+    # if row['pos'] > row['neg']:
+    #     return 'Positivo'
+    # else:
+    #     return 'Negativo'
+    
+# Función que permite realizar el análisis de sentimientos usando la librería Vader.
 def sentiment_analysis(folder):
-    df = pd.read_csv("users_folders//{}//Processed_Tweets.csv".format(folder))
+    
+    df = pd.read_csv("{}//Processed_Tweets.csv".format(folder))
 
     analyzer = SentimentIntensityAnalyzer()
-    # sentence = df.at[0,'tweet_translated']
     
-    df['neg'] = [analyzer.polarity_scores(x)['neg'] for x in df['tweet']]
-    df['neu'] = [analyzer.polarity_scores(x)['neu'] for x in df['tweet']]
-    df['pos'] = [analyzer.polarity_scores(x)['pos'] for x in df['tweet']]
+    df['neg'] = [analyzer.polarity_scores(x)['neg'] for x in df['tweet_translated_tokenized']]
+    df['neu'] = [analyzer.polarity_scores(x)['neu'] for x in df['tweet_translated_tokenized']]
+    df['pos'] = [analyzer.polarity_scores(x)['pos'] for x in df['tweet_translated_tokenized']]
     
-    for index,row in df.iterrows():
-        if row['pos'] > row['neg'] and row['pos'] > row['neu']:
-            df['sentiment'] = 'Positivo'
-        elif row['neg'] > row['neu']:
-            df['sentiment'] = 'Negativo'
-        else:
-            df['sentiment'] = 'Neutral'
-        pass
-
-    df.to_csv("users_folders//{}//Processed_Tweets.csv".format(folder),index=False)
-
-# Clase que se encarga de la recopilción, manejo y análisis de sentimientos de los tweets extraídos
+    df['sentiment'] = df.apply(assign_sentiment, axis=1)
+    
+    df.to_csv("{}//Processed_Tweets.csv".format(folder),index=False)
+# Clase que se encarga de la recopilación, manejo y análisis de sentimientos de los tweets extraídos
 class tweets_management():
     
-    def __init__(self,user,dir):
+    def __init__(self,user,type):
+        
         self.user = user
-        self.folder = user+"_Folder"
-        self.dir = dir
-        self.translator = Translator()
+        if (type == 'users'):
+            self.folder = "users//"+user+"_Folder"
+        elif (type == 'batch'):
+            self.folder = 'batch'
         
     def scraping(self,amount):
-        if (self.dir == 'users_folders'):
-            scrape_info(self.user,amount,"{}//{}".format(self.dir,self.folder))
-        elif (self.dir == 'user_one_file'):
-            scrape_info(self.user,amount,self.dir)
+        
+        scrape_info(self.user,amount,self.folder)
+        
     
     def cleaning(self):
-        print('-----------------------------------------------------')
-        print('empieza limpieza y traducción')
-        if (self.dir == 'users_folders'):
-            df = pd.read_csv("{}//{}//Raw_Tweets.csv".format(self.dir,self.folder))
-        elif (self.dir == 'user_one_file'):
-            df = pd.read_csv("{}//Raw_Tweets.csv".format(self.dir))
+        
+        print('Empieza limpieza y traducción')
+        
+        df = pd.read_csv("{}//Raw_Tweets.csv".format(self.folder))
         
         df['tweet_tokenized'] = df['tweet'].apply(lambda x: clean_tokenized(x))
         df['tweet_tokenized'] = df['tweet_tokenized'].apply(lambda x: remove_stopwords(x,"spanish"))
         
-        df['tweet_translated'] = df['tweet'].apply(lambda x: googletrans_translate(x,self.translator))
+        df['tweet_translated'] = df['tweet'].apply(lambda x: googletrans_translate(x))
         df['tweet_translated_tokenized'] = df['tweet_translated'].apply(lambda x: clean_tokenized(x))
         df['tweet_translated_tokenized'] = df['tweet_translated_tokenized'].apply(lambda x: remove_stopwords(x,"english"))
         
-        if (self.dir == 'users_folders'):
-            df.to_csv('{}//{}//Processed_Tweets.csv'.format(self.dir,self.folder), columns=['tweet','tweet_tokenized','tweet_translated','tweet_translated_tokenized'],index=False)
-            # df.to_csv('{}//{}//Processed_Tweets.csv'.format(self.dir,self.folder), columns=['tweet','tweet_tokenized'],index=False)
-        elif (self.dir == 'user_one_file'):
-            df.to_csv('{}//Processed_Tweets.csv'.format(self.dir), columns=['tweet','tweet_tokenized','tweet_translated','tweet_translated_tokenized'],index=False)
-            # df.to_csv('{}//Processed_Tweets.csv'.format(self.dir), columns=['tweet','tweet_tokenized'],index=False)
-        print('termina limpieza y traducción')
-        print('-----------------------------------------------------')
+        df.to_csv('{}//Processed_Tweets.csv'.format(self.folder), columns=['tweet','tweet_tokenized','tweet_translated','tweet_translated_tokenized'],index=False)
+        
+        print('Termina limpieza y traducción')
+        
     def sentiment_analysis(self):
         
         sentiment_analysis(self.folder)
         
-    pass
+    def clean_sentiments(self):
+        dataFrame = pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
+        dataFrame.to_csv('{}//Processed_Tweets.csv'.format(self.folder), columns=['tweet','tweet_tokenized','tweet_translated','tweet_translated_tokenized'],index=False)
+        

@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 
 from sklearn.preprocessing import LabelEncoder
@@ -45,20 +46,32 @@ def update_statistics(folder,name, testing_labels, predicted_labels):
 # Clase utilizada para el entrenamiento y prueba de diferentes algoritmos de clasficación
 class tweets_classification():
     
-    def __init__(self, user):
+    def __init__(self, user, type):
         
-        self.folder = user+"_Folder"
+        self.user = user
+        if (type == 'users'):
+            self.folder = "users//"+user+"_Folder"
+        elif (type == 'batch'):
+            self.folder = 'batch'
         self.testing_messages = pd.DataFrame()
         self.testing_labels = pd.DataFrame()
         self.training_messages = pd.DataFrame()
         self.training_labels = pd.DataFrame()
         self.encoder = LabelEncoder()
-        
-        pass
+                                                                            
+    def load(self):
+            
+        if not os.path.exists("{}//Processed_Tweets.csv".format(self.folder)):
+            df = pd.DataFrame(columns=['tweet','tweet_tokenized','tweet_translated','tweet_translated_tokenized','neg','neu','pos','sentiment'])
+            df.to_csv("{}//Processed_Tweets.csv".format(self.folder), index =  False)
     
-    def training(self,test_size):
+        dataFrame = pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
+        dataFrame = dataFrame.append(pd.read_csv("{}//Processed_Tweets.csv".format("users//"+self.user+"_Folder")))
+        dataFrame.to_csv("{}//Processed_Tweets.csv".format(self.folder), index =  False)
         
-        Corpus = pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
+    def training(self, test_size):
+        
+        Corpus= pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
         
         Train_X, Test_X, Train_Y, Test_Y = model_selection.train_test_split(Corpus['tweet_translated_tokenized'],Corpus['sentiment'],test_size=test_size,shuffle=False)
 
@@ -67,7 +80,7 @@ class tweets_classification():
         self.training_labels = self.encoder.fit_transform(Train_Y)
         self.testing_labels = self.encoder.fit_transform(Test_Y)
 
-        Tfidf_vect = TfidfVectorizer(max_features=5000)
+        Tfidf_vect = TfidfVectorizer()
         Tfidf_vect.fit(Corpus['tweet_translated_tokenized'])
         
         self.training_messages = Tfidf_vect.transform(Train_X)
@@ -92,7 +105,6 @@ class tweets_classification():
         # Guardado de los resultados
         update_predictions(self.folder,predictions_NB_labels,'NB')
         
-        pass
 
     def test_SVM(self):
 
@@ -112,8 +124,6 @@ class tweets_classification():
         
         # Guardado de los resultados
         update_predictions(self.folder,predictions_SVM_labels,'SVM')
-
-        pass
     
     def test_Decision_Forest(self):
         
@@ -133,8 +143,6 @@ class tweets_classification():
         
         # Guardado de los resultados
         update_predictions(self.folder,predictions_DF_labels,'DF')
-        
-        pass
     
     def test_Max_Entropy(self):
         
@@ -154,5 +162,3 @@ class tweets_classification():
         
         # Guardado de los resultados
         update_predictions(self.folder,predictions_MaxEnt_labels,'MaxEnt')
-        
-        pass

@@ -4,7 +4,7 @@ import collections
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 
-# Función que permite obtener las palabras que mas se repiten del corpus dado
+# Función que permite obtener las palabras que mas se repiten del corpus de un usuario
 def monogram(folder):
     
     df = pd.read_csv('{}//Processed_Tweets.csv'.format(folder))
@@ -19,7 +19,7 @@ def monogram(folder):
 
     words_counter_df.to_csv('{}//Monograms.csv'.format(folder), index=False)
 
-# Función que permite obtener las asociaciones de dos y tres palabras mas repetidas en el corpus
+# Función que permite obtener las asociaciones de dos y tres palabras mas repetidas del corpus de un usuario
 def bigram_trigram(folder):
     
     df = pd.read_csv('{}//Processed_Tweets.csv'.format(folder))
@@ -32,11 +32,13 @@ def bigram_trigram(folder):
     df_ngram = pd.DataFrame(sorted([(count_values[i],k) for k,i in vocab.items()], reverse=True)).rename(columns={0: 'frequency', 1:'bigram/trigram'})
     df_ngram.to_csv('{}//Bigrams_Trigrams.csv'.format(folder),index=False)
 
-def bigram_trigram_all_in_one(folders_users_individuals,folder_all_in_one_file,users_list):
+# Función que permite obtener los conjuntos de bigramas y trigramas del corpus completo
+def bigram_trigram_all_in_one(users_list):
+    
     concat_df = pd.DataFrame()
     
     for user in users_list:
-        df = pd.read_csv("{}//{}//Bigrams_Trigrams.csv".format(folders_users_individuals,user+'_Folder',index=False))
+        df = pd.read_csv("{}//{}//Bigrams_Trigrams.csv".format('users',user+'_Folder',index=False))
         concat_df = concat_df.append(df)
 
     concat_df = concat_df.sort_values(by=['frequency'], ascending=False)
@@ -45,28 +47,25 @@ def bigram_trigram_all_in_one(folders_users_individuals,folder_all_in_one_file,u
     concat_df_2 = concat_df.groupby('bigram_trigram').agg({'frequency': sum}).reset_index()
     concat_df_2 = concat_df_2.sort_values(by=['frequency'], ascending=False)
     
-    concat_df_2.to_csv('{}//Bigrams_Trigrams.csv'.format(folder_all_in_one_file),index=False)
-    
-    pass
+    concat_df_2.to_csv('{}//Bigrams_Trigrams.csv'.format('batch'),index=False)
 
-class ngrams():
-    def __init__(self,user,dir):
+# Clase que se encarga de la recopilación de los conjuntos de monogramas, bigramas y trigramas provenientes del corpus
+class tweets_ngrams():
+    def __init__(self,user,type):
+        
         self.user = user
-        self.folder = user+"_Folder"
-        self.dir = dir
+        if (type == 'users'):
+            self.folder = "users//"+user+"_Folder"
+        elif (type == 'batch'):
+            self.folder = 'batch'
     
     def monogramming(self):
-        if (self.dir == 'users_folders'):
-            monogram("{}//{}".format(self.dir,self.folder))
-        elif (self.dir == 'user_one_file'):
-            monogram(self.dir)
+        
+        monogram(self.folder)
     
     def ngraming(self):
-        if (self.dir == 'users_folders'):
-            bigram_trigram("{}//{}".format(self.dir,self.folder))
-        elif (self.dir == 'user_one_file'):
-            bigram_trigram(self.dir)
+
+        bigram_trigram(self.folder)
     
-    def ngraming_in_one_file(self,users_folders,user_one_file_folder,users_list):
-        bigram_trigram_all_in_one(users_folders,user_one_file_folder,users_list)
-    pass
+    def ngraming_in_one_file(self,users_list):
+        bigram_trigram_all_in_one(users_list)

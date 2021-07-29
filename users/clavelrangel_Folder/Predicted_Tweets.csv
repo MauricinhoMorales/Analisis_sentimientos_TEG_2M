@@ -1,0 +1,251 @@
+tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
+"['manitaho', 'write', 'stay', 'stuck', 'time', 'time', 'circumstances', 'remember', 'capable']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['luisjlopezm', 'love', 'annotated']",Positivo,Neutral,Positivo,Positivo,Neutral
+"['lmaracara', 'adricultora', 'cc', 'marcosdavidv', 'small', 'farms', 'poor', 'guacas']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['savedra', 'dias', 'opening', 'patreon']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ciscoinc', 'study', 'together', '❤️❤️']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gregorio', 'afonso', 'yes', 'world', 'great', 'experience']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['middle', 'pandemic', 'hospitals', 'edge', 'bauxilum', 'celebrates', 'massive', 'assistance', 'lighting', 'little', 'tree']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['sidoristarrr', 'fortunately', 'camp', 'trailers', 'equipment', 'sold', 'house', 'still', 'furniture', 'dryer', 'dishes', 'etc', 'sidor', 'like', 'chávez', 'amp', 'co']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['someday', 'write', 'book', 'mapanare', 'endearing', 'sidor', 'camp', 'grew', 'stories', 'thanks', 'anecdotes']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['💗💗', 'rare', 'extraordinary', 'year', 'learning', 'collaboration', 'resilience']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['siriagastelum', 'gi', 'toc', 'judiekaberia', 'isazuleta', 'mariais', 'raffylerma', 'juanachange', 'eliberarero', 'thanks', 'wonderful', 'team', 'support', 'given', 'us', 'invaluable']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['che', 'stop']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['augustocesar', 'incredible']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tochekarla', 'good', 'idea']",Positivo,Neutral,Positivo,Neutral,Neutral
+"['ipysvenezuela', 'revealed', 'growing', 'map', 'information', 'deserts', '🇻🇪', 'disconnected', 'uninformed', 'citizens', 'whatsapp', 'infopublicave', 'reaches', 'groups', 'listeners', 'replicate', 'amplify', 'rigorous', 'work', 'journalists', 'throughout', 'country', 'help', 'us', 'grow']",Neutral,Neutral,Neutral,Negativo,Neutral
+"['hero', '‘hotel', 'rwanda’', 'fell', 'trap', 'vengeful', 'dictator', 'story']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lausolorzano', 'onu', 'es', 'since', 'december', 'already']",Neutral,Neutral,Neutral,Neutral,Neutral
+['daniealbarranr'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['daniealbarranr', 'maybe', 'google', 'photos', 'takes', 'away', 'storage', 'space']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['let', 'help', 'dear', 'colleague', 'luisa', 'defeat', 'cancer']",Negativo,Neutral,Neutral,Negativo,Neutral
+"['root', 'natalia', 'lafourcade', 'los', 'cojolites', 'los', 'authentic', 'decadentes', 'nowplaying']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuela', 'raids', 'food', 'charity', 'interrupting', 'meals', 'children']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['hundreds', 'families', 'organized', 'around', 'dining', 'room', 'children', 'bread', 'grown', 'network', 'solidarity', 'friendship', 'resilience', 'goes', 'beyond', 'plate', 'food', 'feedsolidarity']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['support', 'codehciu', 'lavidadenos', 'compiled', 'dossier', 'stories', 'disappeared', 'gi', 'toc', 'helped', 'us', 'place', 'phenomenon', 'global', 'level', 'correodelcaroni', 'follow', 'believe', 'partnerships', 'collaborative', 'work']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['sonindelebles', 'count', 'build', 'memory', 'impact', 'violence', 'maduro', 'regime', 'called', 'orinoco', 'mining', 'arc', 'seek', 'survive', 'return', 'families', 'waiting', 'state', 'must', 'look']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['laurahcastillo', 'wtf']",Negativo,Neutral,Neutral,Neutral,Neutral
+['totally'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['arlettemontilla', 'love', 'balconies']",Positivo,Neutral,Positivo,Positivo,Neutral
+"['oscarmedina', 'willymckey', 'juanvilloro', 'hahahaha', 'title', 'maradona', 'idols', 'keep', 'silent']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jeanfreddy', 'kathypennacchio', 'naldoxx', 'microtdh', 'want', 'read', 'call', 'recording', 'day', 'xd']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['cafecontodo', 'production', 'contract', 'dancers', 'contract', 'turkey']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['want', 'see', 'bloopers']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['netzahuatl', 'jajaajajajjaajajaja', 'know', 'take']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['go', 'facebook', 'take', 'first', 'profile', 'picture', 'alone', 'take', 'last', 'profile', 'picture', 'alone', 'put', 'side', 'side', 'let', 'see', 'change']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['president', 'elect', 'joe', 'biden', 'sworn', 'jan', 'face', 'fundamental', 'challenge', 'unlike', 'incoming', 'president', 'tens', 'millions', 'americans', 'doubt', 'legitimacy']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['paho', 'activate', 'mobile', 'laboratory', 'pcr', 'tests', 'bolívar', 'amazonas', 'mlclisanchez', 'correodelcaroni']",Neutral,Neutral,Neutral,Negativo,Neutral
+"['minister', 'trinidad', 'questioned', 'children', 'children', 'la', 'soyarepita', 'del', 'nov']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['investigate', 'narrate', 'disappearances', 'mines', 'southern', 'venezuela', 'disappeared', 'fosesdelsilencio']",Neutral,Neutral,Neutral,Negativo,Neutral
+"['back', 'first']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['situation', 'honduras', '🇭🇳', 'correspondent', 'reports', 'times', 'tragedy', 'size', 'invisible']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['pfcontrerasv', 'calendly', 'patricio', 'share', 'give', 'link', 'reserve', 'time', 'selected', 'available']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['one', 'case', 'live', 'hundreds', 'forced', 'pendular', 'migrants']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['che', 'need', 'talk']",Neutral,Neutral,Neutral,Neutral,Neutral
+['che'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['lorebornacelly', 'sent', 'dm']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['luusalomon', 'luisa', 'thank', 'time', 'inspiration', 'enthusiasm', '❤️', 'great', 'experience', 'lot', 'learning', 'continue']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['pleasure', 'accompanied', 'thanks', 'luusalomon', 'provision', 'good', 'work']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['andreinaclo', 'love']",Positivo,Neutral,Positivo,Positivo,Positivo
+"['rodoarico', 'cafecontodo', 'beautiful', 'kisses', 'cafecontodo', 'deserved']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['conviene', 'saber', 'feat', 'rozalén', 'marwán', 'rozalén', 'nowplaying']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['hl', 'lucena', 'sorry']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lassomusica', 'anaguerra', 'carlosb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['verolerolero', 'che', 'let', 'live', 'cc', 'che']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['carmenchu', 'happen', 'hahaha', 'gift']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['vosto', 'ah']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ximena', 'sariñana', 'nowplaying']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['vosto', 'hurt', 'lepe']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['yanefernandez', 'che']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['golden', 'slumbers', 'carry', 'weight', 'takes', 'medley', 'de', 'beatles', 'nowplaying']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['yugoslava', 'gagueando', 'josepulido', 'poeteca', 'maqroll', 'ah', 'beautiful', 'must', 'something', 'already', 'organized']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['yugoslava', 'gagueando', 'josepulido', 'also', 'want', 'let', 'make', 'reading', 'circle']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gagueando', 'yugoslava', 'josepulido', 'dalila', 'make', 'cry', 'delilah']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neither', 'national', 'police', 'long', 'etceteras']",Neutral,Neutral,Neutral,Neutral,Neutral
+['lalauraguevara'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['che', 'rule', 'hahahahaha']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['che', 'hater', 'well']",Negativo,Neutral,Neutral,Positivo,Neutral
+"['need', 'help', 'take', 'care', 'health', 'friend', 'toticasanova', 'image', 'options', 'available', 'assist', 'recovery']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['helecarpio', 'uff', 'good', 'wanna']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['danielsalazar', 'transfer']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['centrogabo', 'oscarmedina']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['regardless', 'results', 'beautiful', 'democracy']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['good', 'news', 'line', 'put', 'personalism', 'authoritarianism', 'done', 'much', 'damage']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ligiabolivar', 'maoliscastro', 'thank', 'dear', 'ligia', 'also', 'honor', 'maolis']",Positivo,Neutral,Positivo,Positivo,Neutral
+"['denmark', 'kill', 'million', 'minks', 'coronavirus', 'mutation', 'spreads', 'humans']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chanel', 'andreinaclo']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['danielajtb', 'chiguirebipolar', 'hahaha']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['dictatorship', 'loose', 'bow']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['oscarmedina', 'drops', 'hyaluronic', 'acid']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maiskell', 'pressfreedom', 'days', 'gone']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuelan', 'intelligence', 'service', 'raids', 'daily', 'correo', 'del', 'caroní', 'detains', 'employees', 'via', 'pressfreedom']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['relentless', 'harassment', 'correo', 'del', 'caroní', 'able', 'silence', 'la', 'soyarepita', 'del', 'octubre']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['marcosdavidv', 'mramirezcabello']",Neutral,Neutral,Neutral,Neutral,Neutral
+[],Neutral,Neutral,Neutral,Neutral,Neutral
+"['tv', 'monica', 'right', 'monica']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['informarnoesdelito', 'enough', 'persecution', 'press']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mramirezcabello', 'always', 'smart', 'reporter', 'accurate', 'committed', 'diligent', 'fair', 'minded', 'tenacious', 'informarnoesdelito', 'journalism', 'crime', 'harassment', 'correodelcaroni', 'team', 'continues']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fabianantonio', 'good', 'guy']",Positivo,Neutral,Neutral,Neutral,Neutral
+['informarnoesdelito'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['follow', 'raid', 'newsroom', 'correodelcaroni', 'place', 'many', 'complaints', 'made', 'many', 'stories', 'told', 'one', 'courier', 'house', 'ideas']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['injustice', 'nisbel', 'many', 'sidoristas', 'gave', 'lives', 'health', 'steelmaker']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['another', 'arbitrary', 'illegal', 'unfair', 'action', 'freedom', 'press', 'expression', 'way', 'one', 'many', 'correodelcaroni']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rmtf', 'smile']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['moralexis', 'ecsucabg', 'signing']",Neutral,Neutral,Neutral,Neutral,Neutral
+['miss'],Negativo,Neutral,Neutral,Neutral,Neutral
+"['jordy', 'like', 'put', 'middle', 'names', '👌🏻']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['first', 'harassment', 'david', 'natera', 'multiple', 'varied', 'including', 'conviction', 'defamation', 'silence', 'free', 'press', 'informarnoesdelito']",Neutral,Neutral,Neutral,Neutral,Neutral
+['informarnoesdelito'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['franciscowestal', 'great']",Positivo,Neutral,Positivo,Positivo,Neutral
+"['little', 'tears', 'rage', 'hahahaha']",Negativo,Neutral,Neutral,Negativo,Neutral
+"['weird', 'congratulations', 'verolerolero']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['important', 'organization', 'defense', 'human', 'rights', 'region', 'let', 'many', 'codehciu']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ah', 'well', 'comrade', 'changed', 'mind']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['huérfanosdelasalud', 'tells', 'neonatal', 'teams', 'status', 'vaccine', 'cold', 'chain', 'availability', 'infant', 'antibiotics', 'partial', 'justice', 'chaotic', 'state', 'emergency', 'nutritional', 'recovery', 'centers', 'nothing', 'changed']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['four', 'years', 'later', 'another', 'collaboration', 'allows', 'us', 'say', 'stop', 'disappearances', 'became', 'method', 'silence', 'incubate', 'fear', 'southern', 'municipalities']",Neutral,Neutral,Neutral,Neutral,Neutral
+['maribelastrid'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['melaperezarias', 'rodcasares', 'jajajajaja']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rodcasares', 'melaperezarias', 'epa', 'epa', 'cheese', 'patties', 'best']",Neutral,Neutral,Neutral,Neutral,Neutral
+['camilagon'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['camilagon', 'clavetas', 'best', 'time']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['jcrutchmer', 'moralexis']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['anything', 'liters', 'rationed', 'gasoline', 'mortadelas', 'russian', 'vaccines', 'electoral', 'offer', 'maduro', 'amp', 'co']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['marcelaturati', 'gi', 'toc', 'esp', 'okas', 'going']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['soyarepita', 'thanks', 'super', 'pfcontrerasv', 'excellent', 'tool', 'room', 'newsletter']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['gi', 'toc', 'esp', 'super', 'tutor', 'marcelaturati']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gi', 'toc', 'esp', 'thank', 'guidance', 'support', 'support']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['years', 'format', 'many', 'people', 'whatsapp', 'inform', 'infopublicave', 'works', 'thanks', 'work', 'dozens', 'venezuelan', 'media', 'journalists', 'street', 'community', 'wants', 'seeks', 'better', 'informed']",Neutral,Neutral,Neutral,Negativo,Neutral
+"['🇨🇺', '👇🏻']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['soyarepita', 'tripadvisor', 'heart', 'piu']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['ajcaleca', 'andrés', 'look', 'wonder', 'macagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+['october'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['oscarmedina', 'fundaciongabo', 'centrogabo', 'know', 'xd']",Neutral,Neutral,Neutral,Neutral,Neutral
+['danielsalazar'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['fundaciongabo', 'centrogabo', 'cc', 'oscarmedina']",Neutral,Neutral,Neutral,Neutral,Neutral
+['danielsalazar'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['odelopez', 'ivanzambrano', 'take']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['cesar', 'augusto', 'painful', 'strong']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['ivanzambrano', 'odelopez']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ivanzambrano', 'odelopez', 'playing', 'feelings']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['doritoribio', 'going', 'listen', 'today', 'report', 'preparing', 'coffee']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['petipuasaturno', 'ntn', 'communist', 'tendency', 'wtf']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuela', 'shortages', 'prompt', 'wave', 'protests', 'across', 'country']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['people', 'defy', 'virus', 'repression', 'least', 'protests', 'yesterday', 'soyarepita', '👇🏻']",Neutral,Neutral,Neutral,Neutral,Neutral
+['love'],Positivo,Positivo,Positivo,Positivo,Positivo
+"['josebaig', 'pages']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['《my', 'life', 'future', 'us》cuchi', 'enola']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alejandraimh', 'che', 'think', 'doctors', 'come', 'house']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['andreseloybello', 'laurahcastillo']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['laurahcastillo', 'well', 'yes', 'several', 'fulfilled', 'dream', 'rangel', 'gómez', 'wife', 'spent', 'millions', 'carnivals', 'presided', 'comparsas', 'luis', 'motta', 'dominguez', 'diving', 'guri', 'justo', 'noguera', 'put', 'horses', 'planted', 'sunflowers', 'sidor', 'estate', 'rangel', 'made', 'bolívar', 'fund', 'etc']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['carloscortesk', 'jvsebastia', 'route', 'maribelastrid']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['naldoxx', 'vivirmejor', 'botticello']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['naldoxx', 'vivirmejor', 'love', 'sette']",Positivo,Neutral,Positivo,Positivo,Neutral
+"['vasilco', 'philgunson', 'sorry', 'vane', 'love', 'hug']",Positivo,Neutral,Positivo,Positivo,Positivo
+"['gagueando', 'fertineo', 'go', 'soundtrack', 'put', 'together', 'weekly', 'summary', 'soyarepita']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fertineo', 'listen', 'golden', 'sumblers', 'courtesy', 'gagueando']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fertineo', 'suspiro']",Neutral,Neutral,Neutral,Neutral,Neutral
+['days'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['carolina', 'carlosi', 'suarez', 'thank', 'evelin']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['laurahcastillo', 'would', 'say', 'barquisimeto', 'siiiieeeecará']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['consolidated', 'report', 'detainees', 'yaracuy']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['carlosi', 'suarez', 'another', 'question', 'repression', 'continuing', 'time']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['carlosi', 'suarez', 'thank', 'much']",Neutral,Neutral,Positivo,Neutral,Neutral
+"['hello', 'carlosi', 'suarez', 'protests', 'yaracuy', 'repressed', 'thousand', 'thanks']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['aglaia', 'berlutti']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['elfaro', 'ready']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['tochekarla', '👌🏻', 'force']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['lepassionfruit', 'congratulations', 'ori']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['soystef', 'anymore', 'haha', '\u200b\u200b']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['soystef', 'ay', 'make', 'essssto']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['years', 'without', 'water', 'roscio', 'el', 'callao']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['carlosnarvaez', 'send', 'us', 'photo']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neighbors', 'organized', 'throughout', 'ciudad', 'guayana', 'breaking', 'silence', 'protesting', 'rights', 'basic', 'water']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['soyarepita', 'cecodap', 'ay', 'esas', 'patiiiicas']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuelans', 'mines', 'today', 'hostages', 'system', 'owe', 'high', 'taxes', 'gold', 'leave', 'mine', 'may', 'able', 'return', 'pay', 'arrime', 'plan', 'stay', 'outside', 'may', 'survive', 'work']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['evolution', 'violence', 'sifontes', 'el', 'callao', 'five', 'years', 'perverse', 'test', 'balloon', 'organized', 'crime', 'penetrated', 'promoted', 'state', 'tourist', 'whereabouts', 'carnival', 'party', 'war', 'zone', 'going', 'recover', 'south', 'country']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['consejomanoa', 'andreinaclo', 'everything', 'makes', 'sense']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['whole', 'system', 'made', 'rule', 'slave', 'labor', 'barely', 'produce', 'compared', 'big', 'machines', 'safety', 'health', 'conditions', 'makes', 'believe', 'independent', 'workers', 'fact', 'work', 'government']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['miners', 'arco', 'minero', 'work', 'regime', 'practice', 'slavery', 'one', 'hand', 'government', 'legalizes', 'extorts', 'imposes', 'taxes', 'fanb', 'collects', 'allows', 'violence', 'detains', 'according', 'power', 'group', 'duty', 'area']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['strange', 'thing', 'city', 'rivers', 'without', 'water', '👇🏻']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jairoguitarreao', 'teodardoporrasc', 'gobjustonoguera', 'seen', 'aqueduct', 'water', 'treatment', 'plants', 'please']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['elias', 'rivas', 'become', 'brother']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['verolerolero', 'going']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rangel', 'gómez', 'deleted', 'twitter', 'account', 'teófilo', 'león', 'teodardoporrasc', 'francisco', 'castillo', 'gobjustonoguera', 'maybe', 'explain', 'happened', 'bolívarsinagua']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['knocked', 'door', 'house', 'jose', 'johandris', 'slept', 'stripped', 'naked', 'put', 'knees', 'hands', 'heads', 'shot', 'chest', 'stomach', 'accuse', 'faes', 'barrancas', 'marched', 'photos', 'wruh']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['luzmelyreyes', 'pmarcano', 'xabiercosco', 'tipaza']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['women', 'worldwide', 'nearly', 'times', 'likely', 'men', 'report', 'mental', 'health', 'impact', 'covid']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['oliviadelv', 'strong']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['stepozzebon', 'doritoribio', 'espresso', 'sorry', 'disappoint', '🙃😬', 'still', 'love']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['doritoribio', 'va']",Neutral,Neutral,Neutral,Neutral,Neutral
+['hostage'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['fabiolaferrero', 'fabchinalatam', 'te', 'quiiiiieeero']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fabiolaferrero', 'fabchinalatam', 'russia']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['xabiercosco', 'yes']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['reports', 'forced', 'disappearances', 'barrancas', 'el', 'callao', 'tumeremo', 'three', 'weeks', 'officials', 'also', 'entered', 'town', 'excuse', 'supposed', 'operations', 'running', 'community']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['omairalabradorm', 'dear', 'omaira', 'hug', 'let', 'one', 'take', 'away', 'good', 'mood', 'always']",Positivo,Neutral,Positivo,Neutral,Neutral
+"['water', 'gas', 'electricity', 'happens', 'ciudad', 'guayana', 'reality', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['bolívar', 'state', 'two', 'large', 'rivers', 'running', 'water', 'increasingly', 'scarce', 'look', 'excellent', 'documentary', 'work', 'wruh']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['corner', 'venezuela', 'cry', 'water', 'among', 'services', 'caracas', 'la', 'vega', 'parish', 'procession', 'begins', 'tomorrow']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['anacastro', 'mariais', 'isazuleta', 'festivalesgt', 'casaartesana', 'inisinaloa', 'eldanteaguiler', 'thanks', 'ana', 'support', 'company', 'entire', 'gi', 'toc', 'team', 'helps', 'us', 'put', 'light', 'focus', 'urgent', 'issue']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['children', 'condition', 'malnutrition', 'first', 'operation', 'one', 'femur', 'fracture']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['pableostos', 'ctesare', 'sadness']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['lodiceruben', 'daniel', 'give', 'password', 'lorearraiz']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['darielasosa', 'moralexis']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['‘el', 'dolor’', 'marguerite', 'duras', 'orinoco', 'mining', 'arc', 'milagros', 'urbano', 'fosasdelsilencio', 'sonindelebles']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['naky', 'little', 'abnormality', 'un', 'report', 'two', 'little', 'details']",Neutral,Neutral,Neutral,Negativo,Neutral
+"['jose', 'escolano', 'imagine', 'must', 'less', 'like', 'like', 'bs', 'ticket', 'bounces', 'truck']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['lourdesjm', 'hahahahahahaha']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['secretary', 'citizen', 'security', 'psuv', 'ciudad', 'guayana', 'complains', 'farmatodo', 'accept', 'old', 'dollar', 'bill']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['naky', 'part']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['oscarmedina', 'fabiolaferrero', 'che', 'panama', 'papers']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['sicvonia', 'che', 'exact', '👌🏻']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fabiolaferrero', 'che', 'well', 'sell', 'hahaha', 'give', 'directions', 'get', 'similar', 'ones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['che', 'talk', 'veve']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['please', 'work', 'safety', 'implements']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['jpmorgan', 'largest', 'bank', 'based', 'united', 'states', 'moved', 'money', 'people', 'companies', 'tied', 'massive', 'looting', 'public', 'funds', 'malaysia', 'venezuela', 'ukraine', 'leaked', 'documents', 'reveal']",Neutral,Neutral,Neutral,Neutral,Neutral
+['visit'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['rafaelaroot', 'maiskell']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['«pearls»', 'jorge', 'arreaza', 'tarek', 'william', 'saab', '«disassembling»', 'un', 'report']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gedv', 'friend', 'beautiful']",Positivo,Neutral,Positivo,Positivo,Neutral
+"['gabomaestracci', 'yenifervannesa', 'oh', 'anymore']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['need', 'repair', 'charging', 'pin', 'xiaomi', 'phone', 'puerto', 'ordaz', 'make', 'ok', 'recommend', 'thanks']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['urgent', 'please', 'blood', 'donors', 'caracas', 'mr', 'josé']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['helecarpio', 'journey', 'looking', 'archive', 'images', 'painful', 'movie', 'report', 'much', 'missing']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ivanereyes', 'naky', 'leave', 'lol']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['naky', 'hahahaha', 'thought', 'tweeted', 'said', 'stop', 'kitsch', 'fuck', 'xd']",Neutral,Neutral,Neutral,Neutral,Neutral
+['tqm'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['pilgrimage', 'collect', 'water', 'unare', 'parish', 'guayana', 'sinagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['postcards', 'humanitarian', 'crisis', 'necessity', 'puts', 'people', 'danger']",Negativo,Neutral,Neutral,Negativo,Neutral
+"['rmtf', 'ah', 'pay']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuela', 'ffm', 'due', 'time', 'resource', 'constraints', 'mission', 'unable', 'investigate', 'contexts', 'violations', 'relevant', 'mandate', 'occurred', 'including', 'within', 'arco', 'minero', 'region', 'well', 'violations', 'indigenous', 'peoples']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['malagongil', 'ucabguayana', 'maryflorgamboa', 'damianprat', 'vigente']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['one', 'step', 'search', 'justice', 'venezuelans']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['luisbeltranf', 'ottojansen']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabo', 'dominguez', 'rafaelarraiz', 'started', 'yesterday', 'chapter']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['wilfredorangel', 'renehg', 'going', 'give']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['investigating', 'power', 'environmental', 'crisis', 'seminar', 'fundaciongabo', 'mramirezcabello', 'represents', 'correodelcaroni', 'forum', 'along', 'journalists', 'indonesia', 'brazil', 'september', 'registration']",Neutral,Neutral,Neutral,Negativo,Neutral
+"['palúa', 'next', 'ferrominera', 'orinoco', 'dock']",Neutral,Neutral,Neutral,Neutral,Neutral
+[],Neutral,Neutral,Neutral,Neutral,Neutral
+"['conversation', 'beginning', 'time', 'sign']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tour', 'unfinished', 'works', 'guyana', 'resources', 'approved', 'works', 'never', 'executed', 'corruption', 'jhoalys']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lorebornacelly', 'cheese', 'patties']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lorebornacelly', 'pouring', 'piña', 'colada']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['sentimientoguaro', 'present']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['permanence', 'oacnudh', 'team', 'venezuela', 'approved', 'number', 'officers', 'human', 'rights', 'office', 'triples', '🇻🇪']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['zimrirosas', 'correodelcaroni']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['deibysgallardo', 'correodelcaroni', 'sun', 'today', 'every', 'time', 'come', 'flight', 'fly', 'sidor', 'heart', 'races']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['kensanoja', 'correodelcaroni', 'mramirezcabello', 'came', 'pattern', 'went', 'straight', 'uyapar', 'emergency']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['years', 'ago', 'candidates', 'starred', 'gate', 'alcasa', 'displace', 'president', 'elio', 'sayago', 'goal', 'said', 'manage', 'make', 'company', 'productive', 'today', 'big', 'shed']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['aluminum', 'maticas']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'publish', 'report', 'correodelcaroni', 'years', 'conviasa', 'tragedy', 'patios', 'sidor', 'remember', 'impact']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['pm', 'alcabala', 'avenida', 'las', 'américas', 'coming', 'chilemex', 'height', 'service', 'station']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['crazy', 'breeze']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['damianprat', 'want', 'overdo', 'hahaha']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['carloscortesk', 'could', 'rené']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'publish', 'report', 'correodelcaroni', 'years', 'conviasa', 'tragedy', 'patios', 'sidor', 'remember', 'impact']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'publish', 'report', 'correodelcaroni', 'years', 'conviasa', 'tragedy', 'patios', 'sidor', 'remember', 'impact']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'publish', 'report', 'correodelcaroni', 'years', 'conviasa', 'tragedy', 'patios', 'sidor', 'remember', 'impact']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'publish', 'report', 'correodelcaroni', 'years', 'conviasa', 'tragedy', 'patios', 'sidor', 'remember', 'impact']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'publish', 'report', 'correodelcaroni', 'years', 'conviasa', 'tragedy', 'patios', 'sidor', 'remember', 'impact']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'publish', 'report', 'correodelcaroni', 'years', 'conviasa', 'tragedy', 'patios', 'sidor', 'remember', 'impact']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'publish', 'report', 'correodelcaroni', 'years', 'conviasa', 'tragedy', 'patios', 'sidor', 'remember', 'impact']",Neutral,Neutral,Neutral,Neutral,Neutral
