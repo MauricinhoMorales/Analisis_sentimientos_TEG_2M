@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 
 from sklearn.preprocessing import LabelEncoder
@@ -47,6 +48,7 @@ class tweets_classification():
     
     def __init__(self, user, type):
         
+        self.user = user
         if (type == 'users'):
             self.folder = "users//"+user+"_Folder"
         elif (type == 'batch'):
@@ -55,17 +57,23 @@ class tweets_classification():
         self.testing_labels = pd.DataFrame()
         self.training_messages = pd.DataFrame()
         self.training_labels = pd.DataFrame()
-        self.corpus = pd.DataFrame()
         self.encoder = LabelEncoder()
                                                                             
     def load(self):
-        
-        self.corpus = pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
-        
+            
+        if not os.path.exists("{}//Processed_Tweets.csv".format(self.folder)):
+            df = pd.DataFrame(columns=['tweet','tweet_tokenized','tweet_translated','tweet_translated_tokenized','neg','neu','pos','sentiment'])
+            df.to_csv("{}//Processed_Tweets.csv".format(self.folder), index =  False)
+    
+        dataFrame = pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
+        dataFrame = dataFrame.append(pd.read_csv("{}//Processed_Tweets.csv".format("users//"+self.user+"_Folder")))
+        dataFrame.to_csv("{}//Processed_Tweets.csv".format(self.folder), index =  False)
         
     def training(self, test_size):
         
-        Train_X, Test_X, Train_Y, Test_Y = model_selection.train_test_split(self.corpus['tweet_translated_tokenized'],self.corpus['sentiment'],test_size=test_size,shuffle=False)
+        Corpus= pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
+        
+        Train_X, Test_X, Train_Y, Test_Y = model_selection.train_test_split(Corpus['tweet_translated_tokenized'],Corpus['sentiment'],test_size=test_size,shuffle=False)
 
         create_prediction(self.folder,Test_X, Test_Y)
         
@@ -73,7 +81,7 @@ class tweets_classification():
         self.testing_labels = self.encoder.fit_transform(Test_Y)
 
         Tfidf_vect = TfidfVectorizer()
-        Tfidf_vect.fit(self.corpus['tweet_translated_tokenized'])
+        Tfidf_vect.fit(Corpus['tweet_translated_tokenized'])
         
         self.training_messages = Tfidf_vect.transform(Train_X)
         self.testing_messages  = Tfidf_vect.transform(Test_X)
@@ -92,10 +100,10 @@ class tweets_classification():
         update_statistics(self.folder,'Naive Bayes', self.testing_labels, predictions_NB)
         
         # Conversion de los sentimientos basados en el codificado
-        # predictions_NB_labels = self.encoder.inverse_transform(predictions_NB)
+        predictions_NB_labels = self.encoder.inverse_transform(predictions_NB)
         
         # Guardado de los resultados
-        update_predictions(self.folder,predictions_NB,'NB')
+        update_predictions(self.folder,predictions_NB_labels,'NB')
         
 
     def test_SVM(self):
@@ -112,10 +120,10 @@ class tweets_classification():
         update_statistics(self.folder,'Maquina de Soporte Vectorial', self.testing_labels, predictions_SVM)
 
         # Conversion de los sentimientos basados en el codificado
-        # predictions_SVM_labels = self.encoder.inverse_transform(predictions_SVM)
+        predictions_SVM_labels = self.encoder.inverse_transform(predictions_SVM)
         
         # Guardado de los resultados
-        update_predictions(self.folder,predictions_SVM,'SVM')
+        update_predictions(self.folder,predictions_SVM_labels,'SVM')
     
     def test_Decision_Forest(self):
         
@@ -131,10 +139,10 @@ class tweets_classification():
         update_statistics(self.folder, 'Random Forest', self.testing_labels, predictions_DF)
 
         # Conversion de los sentimientos basados en el codificado
-        # predictions_DF_labels = self.encoder.inverse_transform(predictions_DF)
+        predictions_DF_labels = self.encoder.inverse_transform(predictions_DF)
         
         # Guardado de los resultados
-        update_predictions(self.folder,predictions_DF,'DF')
+        update_predictions(self.folder,predictions_DF_labels,'DF')
     
     def test_Max_Entropy(self):
         
@@ -150,7 +158,7 @@ class tweets_classification():
         update_statistics(self.folder, 'Maximun Entropy', self.testing_labels, predictions_MaxEnt)
 
         # Conversion de los sentimientos basados en el codificado
-        # predictions_MaxEnt_labels = self.encoder.inverse_transform(predictions_MaxEnt)
+        predictions_MaxEnt_labels = self.encoder.inverse_transform(predictions_MaxEnt)
         
         # Guardado de los resultados
-        update_predictions(self.folder,predictions_MaxEnt,'MaxEnt')
+        update_predictions(self.folder,predictions_MaxEnt_labels,'MaxEnt')

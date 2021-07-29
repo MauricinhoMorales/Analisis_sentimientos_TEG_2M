@@ -1,251 +1,251 @@
 tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
-"['name', 'miguelángel', 'josé', 'freitas', 'loreto', 'appears', 'arrest', 'warrant', 'arrested', 'otoniel', 'ramos', 'half', 'suspended', 'corpoelec', 'according', 'record', 'issued', 'feb', 'freitas', 'stopped', 'working', 'state', 'company', 'jul']",Negativo,0,0,0,0
-"['jadesdelgado', 'judas', 'taken', 'prisoner']",Negativo,0,0,0,0
-"['augustocesar', 'farmatodo', 'villa', 'granada']",Negativo,0,0,0,0
-"['abr', 'summon', 'rally', 'demand', 'release', 'otoniel', 'ramos', 'detained', 'april', 'dgcim', 'suspended', 'corpoelec', 'years', 'intend', 'accuse', 'electrical', 'failures', 'another', 'also', 'year', 'inactive', 'state', 'arrest', 'warrant', 'guayana']",Negativo,0,0,0,0
-"['corpoelec', 'worker', 'otoniel', 'ramos', 'arrested', 'abr', 'another', 'workers', 'also', 'arrest', 'warrant', 'prequalification', 'crimes', 'damage', 'facilities', 'national', 'electric', 'system', 'interruption', 'electricity', 'service', 'criminal', 'association']",Negativo,0,0,0,0
-"['almost', 'months', 'ago', 'wrote', 'happened', 'february', 'kumarakapay', 'santa', 'de', 'elena', 'de', 'uairén', 'humanitarian', 'aid', 'expected', 'enter', 'english', 'version', 'available', 'bloodshed', 'fired', 'pemon', 'via', 'lavidadenos']",Negativo,0,0,0,0
-"['augustocesar', 'fortunately', 'internal', 'part', 'damaged']",Negativo,0,0,0,0
-"['penalverady', 'need', 'want', 'want', 'interview', 'mom', '😍😊']",Positivo,0,1,1,0
-"['apr', 'pm', 'report', 'fire', 'registered', 'front', 'cachamay', 'park', 'product', 'collision', 'pdvsa', 'truck', 'controlled', 'flames', 'consumed', 'kiosks', 'located', 'entrance', 'park', 'according', 'govt', 'justo', 'noguera', 'victims', 'guayana', 'courtesy']",Negativo,0,0,0,0
-"['bigchu', 'caraotadigital', 'yes', 'version', 'mean', 'true', 'important', 'thing', 'process', 'began', 'presentation', 'hearing', 'deprived', 'liberty', 'leaked', 'audio', 'key']",Positivo,0,1,1,0
-"['bigchu', 'caraotadigital', 'one', 'agreed', 'identify']",Positivo,0,0,0,0
-"['luiscarlos', 'signal', 'want', 'secure', 'communications']",Positivo,0,0,1,0
-"['important', 'presentation', 'hearing', 'hardly', 'held', 'charged', 'deprived', 'liberty', 'prosecutor', 'office', 'days', 'present', 'conclusive', 'acts', 'go', 'preliminary', 'hearing', 'decided', 'case', 'goes', 'trial', 'dismissal', 'case', 'fiscal', 'file']",Positivo,0,0,0,0
-"['abr', 'two', 'defendants', 'held', 'vizcaíno', 'five', 'men', 'agreed', 'held', 'vista', 'hermosa', 'defense', 'alleged', 'dangerousness', 'compound', 'remain', 'cicpc', 'justiceforangelaaguirre']",Positivo,0,0,0,0
-"['abr', 'rest', 'detainees', 'josé', 'antonio', 'zorrilla', 'glaubert', 'zorrilla', 'orlando', 'abraham', 'salazar', 'wilmer', 'díaz', 'joselyn', 'barreto', 'dayana', 'nicieza', 'charged', 'necessary', 'accomplices', 'crime', 'femicide', 'failure', 'assist', 'justiceforangelaaguirre']",Negativo,0,0,0,0
-"['abr', 'josé', 'alberto', 'cedeño', 'charged', 'femicide', 'sexual', 'abuse', 'supply', 'substances', 'failure', 'help', 'justiceforangelaaguirre']",Negativo,0,0,1,0
-"['abr', 'early', 'hours', 'morning', 'presentation', 'hearing', 'seven', 'detainees', 'case', 'angela', 'aguirre', 'ended', 'court', 'issued', 'custodial', 'sentence', 'seven', 'five', 'men', 'two', 'women', 'justiceforangelaaguirre']",Positivo,0,0,1,0
-"['pm', 'presentation', 'hearing', 'detainees', 'case', 'angela', 'aguirre', 'continues', 'justiciaparaángelaaguirre']",Negativo,0,0,1,0
-"['abr', 'angela', 'aguirre', 'relatives', 'close', 'friends', 'ngo', 'representatives', 'civil', 'society', 'general', 'gathered', 'puerto', 'ordaz', 'palace', 'justice', 'waiting', 'hearing', 'present', 'detainees', 'case', 'photos', 'steffipaolave', 'justiciaparaángelaaguirre']",Positivo,0,0,1,0
-"['facts', 'clarified', 'justiceparaángelaaguirre', 'essential', 'unpunished', 'cases', 'many', 'like', 'angela', 'forgotten', 'authorities']",Positivo,0,0,1,0
-"['justiciaparaángelaaguirre', 'today', 'abr', 'presentation', 'detainees', 'case', 'ángela', 'aguirre', 'expected', 'th', 'call', 'hopefully', 'time', 'defer', 'progress', 'made', 'clarify', 'facts', 'add', 'list', 'impunity', 'venezuela']",Positivo,0,1,1,0
-"['marlenisgimon', 'correct', 'thanks']",Positivo,1,1,1,0
-"['justiciaparaángelaaguirre', 'today', 'abr', 'presentation', 'detainees', 'case', 'ángela', 'aguirre', 'expected', 'th', 'call', 'hopefully', 'time', 'defer', 'progress', 'made', 'clarify', 'facts', 'add', 'list', 'impunity', 'venezuela']",Positivo,0,1,1,0
-"['leonervis', 'neither', 'wikipedia', 'knows', 'tito', 'oviedo', 'xd']",Negativo,0,0,0,0
-"['abr', 'lawyer', 'yamileth', 'carvajal', 'confirmed', 'supreme', 'court', 'decided', 'court', 'violence', 'women', 'handle', 'case', 'ángelaaguirre', 'hearing', 'detainees', 'postponed', 'times', 'two', 'courts', 'declared', 'incompetent']",Negativo,0,0,0,0
-"['jennifer', 'paola', 'sánchez', 'mother', 'recalled', 'disappearance', 'daughter', 'mi', 'bohío', 'spa', 'went', 'bathroom', 'return', 'young', 'woman', 'passport', 'given', 'cicpc', 'laminated', 'identity', 'card', 'time', 'prosecutor', 'office', 'requested', 'document', 'lost']",Negativo,0,0,0,0
-"['angela', 'aguirre', 'case', 'disappearances', 'femicides', 'remembered', 'investigations']",Negativo,0,0,1,0
-"['details', 'ángelaaguirre', 'case', 'continue', 'revealed', 'authorities', 'finish', 'saying', 'quépasóconángela', 'audio', 'leaked', 'autopsies', 'contradict', 'courts', 'decline', 'everything', 'indicates', 'money', 'involved', 'continue', 'impunity', 'justiceforangela']",Negativo,0,0,0,0
-"['iguana', 'electromagnetic', 'attack', 'sniper', 'bamboo', 'plant', 'movie', 'video', 'game', 'missing']",Negativo,0,0,0,0
-"['applies', 'gladylisflores', 'always', 'cell', 'phone', 'silence', 'already', 'warned', 'affectionately', 'next', 'time', 'going', 'throw', 'pot']",Positivo,0,1,1,0
-"['jennifer', 'mora', 'mother', 'would', 'years', 'old', 'today', 'also', 'accompanies', 'angela', 'aguirre', 'parents', 'case', 'reminds', 'daughter', 'thinks', 'young', 'women', 'gone', 'thing', 'justice', 'yet', 'done']",Positivo,0,0,1,0
-"['looked', 'find', 'years', 'since', 'jennifer', 'disappeared', 'answer', 'body', 'mother', 'lose', 'faith', 'appears', 'alive']",Positivo,0,0,0,0
-"['angela', 'case', 'recalls', 'others', 'investigated', 'jennifer', 'paola', 'mora', 'sánchez', 'mother', 'reminded', 'us', 'case', 'disappeared', 'nov', 'mi', 'bohío', 'spa', 'sister', 'friends', 'years', 'old', 'went', 'bathroom', 'return']",Positivo,0,0,1,0
-"['first', 'determined', 'injuries', 'private', 'parts', 'bruises', 'caused', 'person', 'days', 'floating', 'river', 'second', 'autopsy', 'shows', 'opposite', 'accidental', 'death']",Negativo,0,0,0,0
-"['apr', 'defense', 'relatives', 'angela', 'aguirre', 'recusal', 'procedure', 'tenth', 'prosecutor', 'due', 'irregularities', 'investigations', 'case', 'two', 'autopsies', 'contradict']",Negativo,0,0,1,0
-"['abr', 'although', 'bolívar', 'appears', 'schedules', 'electricity', 'rationing', 'plan', 'corpoelec', 'published', 'last', 'night', 'justo', 'noguera', 'reported', 'scheduled', 'cuts', 'applied', 'state', 'decision', 'considered', 'meeting', 'friday', 'morning']",Negativo,0,0,0,0
-"['juliomoya', 'judas', 'wife', 'hahahaha']",Negativo,0,0,0,0
-"['maduro', 'say', 'prepared', 'npi', 'solve', 'many', 'years', 'abandonment', 'corruption']",Positivo,0,0,0,0
-"['gladylisflores', 'danielameza', 'jajajajajjaja', 'join']",Positivo,0,0,0,0
-"['danielameza', 'yes', 'mardita', 'buy', 'hahahahaha']",Positivo,0,0,1,0
-"['danielameza', 'lero', 'lero', 'sold', '😀😁😂']",Positivo,0,0,0,0
-"['pableostos', 'marcosdavidv', 'jajajajajana', 'prefers', 'cry', 'corner']",Negativo,0,0,0,0
-"['apr', 'week', 'passed', 'since', 'angela', 'aguirre', 'body', 'found', 'instead', 'clarifying', 'case', 'hearing', 'presentation', 'detainees', 'postponed', 'third', 'time', 'courts', 'declared', 'incompetent', 'take', 'case', 'still', 'known', 'quépasóconangela']",Negativo,0,0,1,0
-"['leonervis', 'take', 'piece', 'paper', 'know', 'areas', 'play', 'organized', 'transparent']",Positivo,0,0,0,0
-"['vzla', 'already', 'asked', 'cream', 'time', 'arrive']",Negativo,0,1,1,0
-"['public', 'service', 'looking', 'cream', 'hirox', 'please', 'know', 'locate', 'guayana', 'puertoordaz', 'sanfélix', 'bolívar']",Positivo,0,0,0,0
-"['gladylisflores', 'let', 'said', 'collaborate', 'planet', 'hours', 'days', 'without', 'electricity', 'hours', 'days', 'without', 'water']",Negativo,0,0,0,0
-"['tatianitasantos', 'forgiveness', 'fair', 'children', 'adult', 'concerns']",Positivo,0,0,0,0
-"['public', 'service', 'friend', 'albaysabel', 'need', 'medications', 'year', 'old', 'nephew', 'please', 'contact', 'know', 'get', 'donate', 'guayana', 'puertoordaz', 'sanfelix', 'bolívar']",Positivo,0,1,1,0
-"['robert', 'kennedy', 'foundation', 'human', 'rights', 'arrive', 'mar', 'roraima', 'brazil', 'assess', 'situation', 'indigenous', 'venezuelans', 'fled', 'repression', 'regime', 'attack', 'kumarakapay', 'feb', 'visit', 'run', 'abr']",Negativo,0,0,0,0
-"['want', 'military', 'intervention', 'support', 'installation', 'russian', 'military', 'bases', 'venezuela', 'oh', 'okay']",Positivo,0,1,1,0
-"['lauracnnt', 'ufo', 'thing', 'say', 'ciudad', 'bolívar', 'preparing', 'entire', 'attack', 'daenerys', 'targaryen', 'dragons', 'missing']",Negativo,0,0,0,0
-"['mar', 'pm', 'several', 'areas', 'puerto', 'ordaz', 'san', 'félix', 'without', 'electricity', 'bolivar']",Negativo,0,0,0,0
-"['seven', 'detainees', 'angela', 'aguirre', 'case', 'yet', 'presented', 'hearing', 'held', 'thursday', 'mar', 'postponed', 'monday', 'abr']",Negativo,0,0,1,0
-"['kyrildambrosi', 'life', 'jacket', 'yes', 'death', 'drowning', 'water', 'could', 'also', 'caused', 'part', 'details', 'disclosed', 'far', 'investigations', 'continue']",Negativo,0,0,1,0
-"['given', 'speculation', 'douglas', 'rico', 'clarified', 'autopsy', 'determine', 'injuries', 'body', 'caused', 'person', 'blunt', 'object', 'angela', 'aguirre', 'case', 'injuries', 'caused', 'someone']",Negativo,0,0,1,0
-"['director', 'cicpc', 'also', 'said', 'angela', 'aguirre', 'drowned', 'lungs', 'fluid', 'according', 'autopsy', 'explained', 'someone', 'dies', 'thrown', 'water', 'lungs', 'fill', 'fluid', 'go']",Negativo,0,0,1,0
-"['case', 'consumption', 'alcoholic', 'beverages', 'douglasricovzla', 'explained', 'amount', 'two', 'days', 'tests', 'positive', 'rdp', 'reported', 'detected', 'addition', 'la', 'kaki', 'boat', 'another', 'escape', 'submitted', 'expert']",Positivo,0,0,0,0
-"['mar', 'pdr', 'douglasricovzla', 'details', 'already', 'known', 'case', 'ángela', 'aguirre', 'clarified', 'according', 'toxicological', 'tests', 'carried', 'victim', 'detainees', 'use', 'psychotropic', 'drugs', 'follow']",Negativo,0,0,0,0
-"['fresitarai', 'gerardoenrique', 'yes', 'cases', 'although', 'lean', 'towards', 'people', 'unhealthy', 'comments']",Negativo,0,0,1,0
-"['gerardoenrique', 'comments', 'one', 'worse', 'understand', 'justify']",Negativo,0,0,0,0
-"['gerardoenrique', 'comes', 'judging', 'everyone', 'holy', 'perfect', 'bothers', 'leave', 'background', 'two', 'crimes', 'homicide', 'sexual', 'abuse', 'say', 'anything', 'perpetrators', 'pay', 'society', 'really', 'sick']",Negativo,0,0,1,0
-"['statement', 'ángelaaguirre', 'family', 'please', 'enough', 'replicate', 'rumors', 'judge', 'without', 'knowing', 'enough', 'revictimization', 'attention', 'must', 'focus', 'ensuring', 'justice', 'done', 'responsible', 'femicide', 'paid', 'justiciaparaángela', 'niunamenos']",Positivo,0,0,0,0
-"['pableostos', 'marcosdavidv', 'ask', 'cocoa', 'hahahaha']",Negativo,0,0,0,0
-"['pableostos', 'marcosdavidv', 'witness', 'rejection', 'hugs', 'hahahaha']",Negativo,0,0,0,0
-"['comptroller', 'appointed', 'maduro', 'constituent', 'disables', 'jguaido', 'blackouts', 'continue', 'deaths', 'due', 'lack', 'medicines', 'supplies', 'hospitals', 'hyperinflation', 'persecution', 'illegitimate', 'deprivation', 'liberty', 'lack', 'water', 'supply', 'transportation']",Negativo,0,0,0,0
-"['let', 'us', 'forget', 'comptroller', 'appointed', 'constituent', 'illegitimate', 'like', 'regime', 'requested', 'disqualification', 'jguaido', 'years', 'alleges', 'travel', 'expenses', 'abroad', 'without', 'informing', 'money', 'comes', 'mar']",Positivo,0,0,0,0
-"['naky', 'people', 'strange', 'concept', 'peace']",Positivo,0,0,1,0
-"['mar', 'pm', 'power', 'sectors', 'vista', 'hermosa', 'catedral', 'parishes', 'ciudad', 'bolívar']",Negativo,0,0,0,0
-"['blame', 'parents', 'sirs', 'justify', 'perpetrators', 'normalize', 'happen', 'justiceforangela']",Negativo,0,0,0,0
-"['ángela', 'aguirre', 'found', 'mar', 'waters', 'caroní', 'river', 'without', 'vital', 'signs', 'determining', 'necropsy', 'causes', 'death', 'due', 'mechanical', 'suffocation', 'due', 'immersion', 'injuries', 'intimate', 'parts', 'bruises', 'various', 'parts', 'body', 'douglasricovzla']",Negativo,0,0,0,0
-"['read', 'homicide', 'justiceparaangela', 'whatpasóconangela']",Negativo,0,0,0,0
-"['lajula', 'caroní', 'river', 'left', 'boat', 'italo', 'club', 'marina', 'la', 'terecaya', 'island', 'minutes', 'away', 'sailed', 'pm', 'saturday', 'time', 'allowed', 'navigation', 'know', 'exactly', 'happened']",Negativo,0,0,1,0
-"['correction', 'body', 'found', 'today', 'mar', 'el', 'rey', 'spa']",Negativo,0,0,0,0
-"['correction', 'body', 'found', 'today', 'mar']",Negativo,0,0,0,0
-"['carola', 'correct']",Negativo,0,0,0,0
-"['quépasóconángela', 'beginning', 'versions', 'disappearance', 'ángela', 'aguirre', 'coincide', 'detainees', 'death', 'must', 'clarified', 'disappeared', 'saturday', 'la', 'terecaya', 'island', 'today', 'mar', 'found', 'body', 'spa', 'guiana']",Negativo,0,0,1,0
-"['mar', 'pm', 'several', 'states', 'report', 'blackouts', 'several', 'areas', 'electricity', 'failures', 'internet', 'telephone', 'signals']",Negativo,0,0,0,0
-"['tellobjr', 'dragons', 'arrive', 'april', 'part', 'last', 'season', 'got']",Negativo,0,0,0,0
-"['tellobjr', 'aliens', 'caused', 'blackout', 'mean', 'planets', 'want', 'maduro', 'either']",Positivo,0,0,1,0
-"['oliviadelv', 'fault', 'santa', 'elena', 'de', 'uairén', 'hospital', 'nothing', 'transferred', 'injured', 'february', 'brazil', 'surely', 'fault', 'doctors', 'nurses', 'cheeky']",Negativo,0,0,0,0
-"['rent', 'house', 'among', 'several', 'children', 'miss', 'classes', 'cannot', 'cross', 'border', 'avoid', 'daily', 'passage', 'trail', 'charge', 'reais', 'transport', 'plus', 'toll', 'military', 'residents', 'san', 'antonio', 'morichal']",Positivo,0,0,1,0
-"['commission', 'office', 'un', 'high', 'commissioner', 'human', 'rights', 'held', 'mar', 'bolivar', 'meeting', 'representatives', 'different', 'sectors', 'health', 'unions', 'victims', 'human', 'rights', 'violations', 'repressions', 'arbitrary', 'arrests', 'indigenous', 'people', 'arco', 'minero']",Negativo,0,0,0,0
-"['mar', 'guayana', 'workers', 'ask', 'un', 'human', 'rights', 'commission', 'space', 'expose', 'situation', 'basic', 'companies', 'cases', 'persecution', 'united', 'nations', 'commission', 'expected', 'arrive', 'puerto', 'ordaz', 'tonight', 'bolívar']",Positivo,0,0,0,0
-"['leonervis', 'hahahaha', 'used', 'flashlight', 'making', 'dinner']",Negativo,0,0,0,0
-"['leonervis', 'without', 'light', 'without', 'data', 'signal', 'full', 'charge', 'cell', 'phone', 'even', 'listen', 'music', 'saved', 'hahahaha']",Positivo,0,0,1,0
-"['leonervis', 'read', 'light', 'somewhere', 'want', 'recharge', 'cell', 'phone', 'even', 'know', 'happens', 'like', 'blackout', 'signal', 'sad']",Positivo,0,0,1,0
-"['adangarcia', 'totally', 'agree', 'criticizing', 'attitude', 'normalizing', 'badly', 'getting', 'used']",Negativo,0,0,0,0
-"['adangarcia', 'like', 'states', 'never', 'happened', 'country']",Positivo,0,0,1,0
-"['mean', 'say', 'irregular', 'normalized', 'know', 'try', 'survive', 'disaster', 'let', 'get', 'used', 'electrical', 'failure', 'occurred', 'hundreds', 'thousands', 'failures', 'occur', 'time', 'much', 'less']",Negativo,0,0,0,0
-"['taciraglup', 'greetings']",Positivo,1,1,1,0
-"['amonpri', 'reporteya', 'repeat', 'said', 'another', 'user', 'irregularity', 'normal', 'case', 'normalized', 'greetings']",Positivo,0,0,1,0
-"['well', 'funny', 'irregular', 'normalized', 'blackout', 'hours', 'blackout', 'simply', 'happen', 'already', 'know', 'done', 'hydroelectric', 'plants', 'companies', 'country']",Positivo,0,0,1,0
-"['mar', 'pm', 'two', 'blackouts', 'registered', 'puerto', 'ordaz', 'least', 'one', 'hour']",Negativo,0,0,0,0
-"['mar', 'week', 'arbitrarily', 'detained', 'sebin', 'court', 'issued', 'custodial', 'sentence', 'corpoelec', 'worker', 'puertoordaz', 'geovanny', 'zambrano', 'charged', 'instigation', 'commit', 'crime', 'information', 'leakage', 'suspicion', 'sabotage']",Negativo,0,0,0,0
-"['recommended', 'reading']",Positivo,1,1,1,0
-"['mar', 'house', 'two', 'blackouts', 'noon', 'electricity', 'táchira', 'caracas', 'blackout', 'today', 'living', 'normality', 'venezuela', 'exhausts']",Negativo,0,0,0,0
-"['cities', 'venezuela', 'appear', 'ranking', 'violent', 'world', 'caracas', 'third', 'place', 'ciudad', 'guayana', 'position', 'ciudadbolívar', 'barquisimeto', 'maturín', 'valencia']",Negativo,0,0,0,0
-"['marimarron', 'corrected', 'sherrerab']",Negativo,0,0,0,0
-"['report', 'block', 'characters', 'like', 'sherrerab']",Negativo,0,0,0,0
-"['lauracnnt', 'released', 'yesterday', 'yesterday', 'pm', 'arrested', 'early', 'morning', 'raided', 'house']",Negativo,0,0,0,0
-"['maduro', 'asks', 'prepare', 'worst', 'plan', 'solve', 'disaster', 'result', 'years', 'inefficiency', 'corruption']",Negativo,0,0,0,0
-"['oliviadelv', 'together', 'mother', 'asked', 'humanitarian', 'aid']",Negativo,0,0,1,0
-"['neiromero', 'good', 'seen', 'rough']",Positivo,1,1,1,0
-"['josé', 'solórzano', 'met', 'last', 'year', 'years', 'old', 'today', 'find', 'could', 'win', 'battle', 'leukemia', 'god', 'receives', 'open', 'arms', 'may', 'give', 'mom', 'lot', 'strength', 'veiled', 'today', 'mar', 'profamilia', 'guayana']",Positivo,0,0,0,0
-"['mar', 'pm', 'light', 'area']",Negativo,0,0,0,0
-"['free', 'journalist', 'luis', 'carlos', 'díaz', 'sign', 'petition', 'via', 'changeorglatino']",Positivo,0,0,0,0
-"['mar', 'due', 'lack', 'internet', 'telephone', 'failures', 'incommunicado', 'use', 'network', 'connect', 'spread', 'good', 'news', 'bolívar', 'two', 'deaths', 'attributable', 'march', 'blackout', 'confirmed', 'victims', 'two', 'newborns', 'uyapar', 'hospital']",Negativo,0,0,1,0
-"['mar', 'blackout', 'telephone', 'communications', 'continue', 'chaos', 'especially', 'movilnet', 'cantv', 'internet', 'aba', 'digitel', 'signal', 'data', 'guiana']",Negativo,0,0,0,0
-"['mar', 'pm', 'light', 'puerto', 'ordaz', 'guayana']",Negativo,0,0,0,0
-"['mar', 'still', 'areas', 'carabobo', 'mérida', 'among', 'states', 'without', 'electricity', 'hours', 'food', 'damaged', 'due', 'lack', 'refrigeration', 'others', 'cannot', 'cook', 'due', 'lack', 'gas', 'electric', 'stove', 'outlets', 'buy']",Negativo,0,0,1,0
-"['mar', 'blackout', 'keeps', 'venezuela', 'affected', 'makes', 'angry', 'sad', 'read', 'people', 'eaten', 'anything', 'day', 'electric', 'stove', 'problem', 'domestic', 'gas', 'maybe', 'one', 'cylinder', 'either', 'pay']",Negativo,0,0,1,0
-"['mar', 'pm', 'zulia', 'without', 'light', 'hours', 'people', 'protest', 'maracaibo', 'regime', 'responds', 'anti', 'riot', 'equipment']",Negativo,0,0,0,0
-"['thank', 'including', 'video', 'jesszambranor', 'happy', 'day', 'great', 'venezuelan', 'women', 'especially', 'colleagues', 'hard', 'days']",Positivo,0,1,1,0
-"['mar', 'mérida', 'táchira', 'trujillo', 'states', 'without', 'license', 'constant', 'data', 'signal', 'failures', 'movilnet', 'digitel', 'movistar', 'cantv', 'aba']",Negativo,0,0,0,0
-"['mar', 'pm', 'zulia', 'carabobo', 'power', 'arrived', 'caracas', 'gone', 'guyana', 'ago', 'downturn']",Negativo,0,0,0,0
-"['chikynan', 'reporteya', 'hope', 'corpoelec', 'workers', 'noticed', 'maintenance', 'carried', 'anything']",Positivo,0,0,0,0
-"['chikynan', 'reporteya', 'several', 'states', 'without', 'light', 'others', 'begins', 'restored']",Positivo,0,0,1,0
-"['chikynan', 'reporteya', 'right', 'operational', 'stopped', 'working', 'blackout']",Negativo,0,0,0,0
-"['chikynan', 'reporteya', 'aluminum', 'raw', 'materials', 'processed', 'produced']",Negativo,0,0,0,0
-"['chikynan', 'reporteya', 'cells', 'go', 'two', 'hours', 'little', 'without', 'electricity', 'spend', 'time', 'become', 'paralyzed', 'lost', 'cannot', 'reactivated', 'must', 'replaced', 'single', 'cell', 'operation']",Negativo,0,0,1,0
-"['mar', 'blackout', 'guayana', 'affected', 'basic', 'companies', 'confirm', 'cells', 'still', 'operative', 'alcasa', 'venalum', 'lost', 'zero']",Negativo,0,0,1,0
-"['worrying', 'thing', 'blackout', 'hospitals', 'poor', 'condition']",Negativo,0,0,0,0
-"['criminal', 'action', 'corruption', 'maintained', 'years', 'state', 'companies', 'hence', 'abandonment', 'lack', 'maintenance']",Negativo,0,0,0,0
-"['mar', 'pm', 'another', 'downturn', 'rather', 'several', 'dips', 'time', 'sector', 'counted', 'three', 'dips', 'light', 'guayana']",Negativo,0,0,0,0
-"['certainly', 'corpoelec', 'workers', 'denounced', 'maintenance', 'barely', 'done', 'warned', 'damage', 'machines', 'could', 'happen', 'even', 'recalled', 'happened', 'sayano', 'hydroelectric', 'plant', 'russia']",Negativo,0,0,1,0
-"['mar', 'two', 'dips', 'light', 'bolívar', 'several', 'states', 'without', 'electricity', 'always', 'talk', 'sabotage', 'addition', 'failures', 'movistar', 'digitel', 'services', 'prepare', 'tsunami', 'alert', 'charge', 'cell', 'recharge', 'balance', 'disconnect', 'devices']",Negativo,0,0,0,0
-"['samuel', 'appeared', 'omen', 'via', 'lavidadenos']",Negativo,0,0,1,0
-"['story', 'videos', 'one', 'testimony', 'pemón', 'kumarakapay', 'witnessed', 'happened', 'feb', 'army', 'attacked', 'injured', 'feb', 'arrived', 'gunshot', 'wounds', 'gn', 'fired', 'escamoto', 'santaelenadeuairén']",Negativo,0,0,1,0
-"['mar', 'wrote', 'story', 'already', 'five', 'murdered', 'february', 'kumarakapay', 'santaelenadeuairén', 'date', 'number', 'victims', 'rises', 'three', 'injured', 'transferred', 'boa', 'vista', 'died']",Negativo,0,0,0,0
-"['read', 'thread', 'eln', 'bolívar', 'muy', 'grave']",Negativo,0,0,0,0
-"['venezuelan', 'journalists', 'world', 'come', 'together', 'show', 'solidarity', 'country', 'support', 'entry', 'humanitarian', 'aid', 'venezuela', 'soon', 'possible', 'join…']",Positivo,0,0,0,0
-"['tellobjr', 'never', 'bad', 'behavior', 'school', 'time', 'come', 'hahaha']",Positivo,0,0,1,0
-"['yanileon', 'injured', 'taken', 'brazil', 'minor', 'injuries', 'others', 'stable', 'died', 'admitted', 'critical', 'condition']",Negativo,0,0,1,0
-"['mar', 'victims', 'military', 'attacks', 'kumarakapay', 'santaelenadeuairén', 'kliver', 'pérez', 'feb', 'injured', 'kumarakapay', 'rolando', 'garcía', 'mar', 'injured', 'kumarakapay', 'jorge', 'gonzález', 'parra', 'mar', 'injured', 'santa', 'elena']",Negativo,0,0,1,0
-"['mar', 'victims', 'military', 'attacks', 'zoraida', 'rodríguez', 'fen', 'kumarakapay', 'josé', 'hernández', 'feb', 'santaelenadeuairén', 'josé', 'pérez', 'feb', 'santa', 'elena', 'josé', 'barrios', 'feb', 'santa', 'elena']",Negativo,0,0,1,0
-"['mar', 'jorge', 'gonzález', 'parra', 'died', 'rd', 'injured', 'person', 'die', 'days', 'hospitalized', 'boa', 'vista', 'due', 'events', 'february', 'kumarakapay', 'santaelenadeuairén', 'number', 'victims', 'bolívar']",Negativo,0,0,0,0
-"['mar', 'victims', 'pemon', 'kumarakapay', 'santaelenadeuairén', 'zoraida', 'rolando', 'leave', 'orphaned', 'children', 'niece', 'took', 'away', 'managed', 'cross', 'border', 'brazil', 'fleeing', 'regime']",Negativo,0,0,0,0
-"['mar', 'confirm', 'death', 'rolando', 'garcía', 'one', 'injured', 'kumarakapay', 'feb', 'husband', 'zoraida', 'rodríguez', 'also', 'murdered', 'boa', 'vista', 'hospital', 'victims', 'attacks', 'feb', 'santaelenadeuairén', 'amount']",Negativo,0,0,0,0
-['nuevaperfilphoto'],Negativo,0,0,0,0
-"['mar', 'residents', 'ruíz', 'páez', 'protested', 'threats', 'attacks', 'patients', 'recent', 'case', 'review', 'elpitazotv', 'feb', 'women', 'beat', 'resident', 'reismar', 'straker', 'including', 'patient', 'delivery', 'days', 'ciudadbolívar']",Negativo,0,0,1,0
-"['mar', 'santaelenadeuairén', 'ask', 'forget', 'continue', 'denounce', 'military', 'intimidation', 'taken', 'away', 'peace', 'want', 'collect', 'vaccines', 'merchants', 'border', 'still', 'closed', 'managed', 'cross', 'trails', 'bolivar']",Negativo,0,0,1,0
-"['gedv', 'soystef', 'one', 'occasion', 'talking', 'subject', 'colleagues', 'studying', 'private', 'university', 'always', 'expensive', 'countries', 'economic', 'situation', 'makes', 'worse', 'ideally', 'public', 'ones', 'abandoned', 'opportunities']",Negativo,0,0,0,0
-"['turned', 'paradise', 'hell', 'inhabitant', 'santaelenadeuairén', 'tells', 'us', 'great', 'frustration', 'sadness', 'reading', 'story', 'lavidadenos', 'reliving', 'happened', 'today', 'mar', 'continues', 'militarization', 'several', 'areas']",Negativo,0,0,1,0
-"['write', 'lavidadenos', 'attention', 'focused', 'cúcuta', 'entry', 'humanitarian', 'aid', 'even', 'concert', 'pemones', 'attacked', 'military', 'forces', 'balance', 'two', 'days', 'repression', 'assassinated', 'feb']",Negativo,0,0,0,0
-"['feb', 'border', 'brazil', 'still', 'closed', 'people', 'cross', 'trails', 'governors', 'bolívar', 'governor', 'roraima', 'met', 'agree', 'opening', 'border', 'yet', 'done']",Positivo,0,0,0,0
-"['gedv', 'naky', 'oscarfmurillo', 'marcosdavidv', 'mramirezcabello', 'pableostos', 'carlossuniagag', 'orianafaoro', 'clavelrangel']",Negativo,1,1,1,1
-"['obrequemauricio', 'turning', 'perpetrator', 'victim']",Negativo,0,0,0,0
-"['lauracnnt', 'vent', 'twitter', 'hahahaha']",Negativo,0,0,0,0
-"['janett', 'regret', 'loss', 'people', 'continue', 'die', 'hands', 'dictatorship', 'rip']",Negativo,0,0,0,0
-['pableostos'],Negativo,0,0,0,0
-"['feb', 'kliver', 'pérez', 'five', 'murdered', 'confirmed', 'military', 'attacks', 'friday', 'saturday', 'kumarakapay', 'santaelenadeuairén']",Negativo,0,0,1,0
-"['feb', 'confirm', 'death', 'one', 'injured', 'pemons', 'friday', 'nd', 'kumarakapay', 'community', 'san', 'francisco', 'de', 'yuruaní', 'transferred', 'general', 'hospital', 'roraima', 'kliver', 'alfredo', 'pérez', 'rivero', 'years', 'old', 'santaelenadeuairén']",Negativo,0,0,0,0
-"['janett', 'good', 'evening', 'information', 'relative', 'kliver', 'pérez', 'understand', 'one', 'injured', 'kumarakapay']",Positivo,0,0,1,0
-"['feb', 'santa', 'elena', 'de', 'uairén', 'hospital', 'military', 'presence', 'since', 'monday', 'military', 'mobilization', 'entire', 'town', 'since', 'saturday', 'happened', 'escamoto', 'sources', 'scene', 'report', 'shooting', 'hospital', 'pm']",Negativo,0,0,1,0
-"['feb', 'early', 'denounce', 'military', 'forces', 'take', 'control', 'santa', 'elena', 'de', 'uairén', 'airport', 'attack', 'indigenous', 'people', 'maurak', 'community', 'friday', 'pemons', 'took', 'airport', 'attack', 'kumarakapay', 'left', 'indigenous', 'woman', 'murdered']",Negativo,0,0,0,0
-"['nerve', 'ask', 'respect']",Positivo,0,0,1,0
-"['feb', 'pm', 'santa', 'elena', 'de', 'uairén', 'denounce', 'detaining', 'people', 'helped', 'injured', 'took', 'videos', 'viralized', 'networks', 'ensure', 'faes', 'leads', 'operation', 'population', 'frightened', 'raids']",Negativo,0,0,0,0
-"['feb', 'mayor', 'gran', 'sabana', 'emilio', 'gonzález', 'appointed', 'josé', 'abraham', 'moreno', 'manager', 'monday', 'period', 'days', 'meanwhile', 'municipal', 'chamber', 'preparing', 'decree', 'absolute', 'absence', 'appoint', 'president', 'council', 'alejandro', 'barreto', 'tupamaro']",Negativo,0,0,0,0
-"['elmataguzman', 'mramirezcabello', 'carlossuniagag', 'marthallg', 'pableostos', 'marcosdavidv', 'glorifernandez', 'foro', 'penal', 'confirmed', 'missing', 'person', 'case', 'counted', 'disappeared', 'certain', 'also', 'people', 'detained']",Negativo,0,0,0,0
-"['marthallg', 'read', 'well', 'said', 'others', 'exist', 'false', 'news', 'talks', 'corrobored', 'ones']",Positivo,0,0,1,0
-"['davidsiga', 'case', 'handled', 'missing', 'confirmed']",Negativo,0,0,0,0
-"['davidsiga', 'relatives', 'deceased', 'died', 'entered', 'hospital', 'without', 'signs', 'yesterday', 'since', 'first', 'wounded', 'person', 'entering', 'came', 'wounded', 'began', 'fall']",Negativo,0,0,0,0
-"['feb', 'morning', 'third', 'deceased', 'yesterday', 'confirmed', 'santa', 'elena', 'de', 'uairén', 'total', 'died', 'since', 'february', 'indigenous', 'zoraida', 'rodríguez', 'assassinated', 'army', 'kumarakapay', 'feb', 'injured', 'saturday', 'confirmed', 'hospital']",Negativo,0,0,0,0
-"['jasacevedo', 'oscarfmurillo', 'mramirezcabello', 'pableostos', 'marcosdavidv', 'reporting', 'far', 'safe', 'sound']",Positivo,0,1,1,0
-"['feb', 'pm', 'confirmed', 'rosario', 'vera', 'zurita', 'hospital', 'santa', 'elena', 'de', 'uairén', 'balance', 'two', 'deaths', 'josé', 'hernández', 'bullet', 'hit', 'head', 'another', 'unidentified', 'shot', 'chest', 'wounded', 'attack', 'gn']",Negativo,0,0,0,0
-"['feb', 'pm', 'situation', 'santa', 'elena', 'de', 'uairén', 'continues', 'tense', 'gn', 'persecutes', 'inhabitants', 'thrown', 'tear', 'gas', 'bolivar']",Negativo,0,0,1,0
-"['feb', 'escamoto', 'crowd', 'tried', 'remove', 'gn', 'barricade', 'midst', 'disturbance', 'tear', 'gas', 'molotov', 'ambushed', 'soldiers', 'went', 'surroundings', 'fired', 'witnesses', 'reported', 'transferred', 'wounded', 'santa', 'elena', 'bolívar']",Negativo,0,0,1,0
-"['feb', 'hospital', 'report', 'two', 'deceased', 'josé', 'hernández', 'sister', 'reported', 'death', 'brother', 'however', 'assure', 'like', 'pm', 'deceased', 'remain', 'unidentified']",Positivo,0,0,0,0
-"['feb', 'pm', 'one', 'person', 'died', 'gunshot', 'wound', 'head', 'admitted', 'santa', 'elena', 'de', 'uairén', 'hospital', 'identified', 'josé', 'hernández', 'las', 'esquinas', 'least', 'injured', 'escamoto', 'counted', 'bolivar']",Positivo,0,0,0,0
-"['feb', 'although', 'gn', 'escamoto', 'withdrawn', 'allowed', 'passage', 'la', 'línea', 'hooded', 'men', 'put', 'barricades', 'center', 'santa', 'elena', 'de', 'uairén', 'riots', 'generated', 'vicinity', 'mayor', 'office', 'bolívar']",Negativo,0,0,0,0
-"['feb', 'dip', 'luis', 'silva', 'reports', 'humanitarian', 'aid', 'arriving', 'pacaraima', 'gandolas', 'left', 'boa', 'vista', 'dawn', 'escorted', 'army', 'statement', 'expected', 'ambassador', 'brazil', 'venezuelan', 'ambassador', 'brazil', 'maría', 'belandria']",Negativo,0,0,0,0
-"['feb', 'last', 'night', 'riots', 'santa', 'elena', 'de', 'uairén', 'gn', 'launched', 'tear', 'gas', 'disperse', 'demonstrations', 'barricades', 'two', 'buses', 'set', 'fire']",Negativo,0,0,1,0
-"['feb', 'woman', 'child', 'handed', 'new', 'testament', 'military', 'deputies', 'journalists', 'boy', 'recommended', 'reading', 'psalm', 'said', 'goodbye', 'god', 'bless', 'escamoto', 'fort', 'roraima', 'height', 'santa', 'elena', 'de', 'uairén', 'bolívar']",Positivo,0,0,1,0
-"['rafaelgoudeth', 'yes', 'arreaza', 'said', 'santa', 'elena', 'de', 'uairén', 'hospital', 'confirmed', 'admitted', 'wounded', 'gunshot', 'wounds']",Positivo,0,0,1,0
-"['alibert', 'reading', 'news', 'reading', 'tweet', 'go']",Negativo,0,0,0,0
-"['feb', 'signal', 'santa', 'elena', 'de', 'uairén', 'good', 'manage', 'connect', 'send', 'urgently', 'medium', 'photo', 'situation', 'fort', 'roraima', 'closed', 'gn', 'transfer', 'injured', 'kumarakapay', 'boa', 'vista', 'list', 'injured', 'zoraida', 'rodríguez', 'died']",Negativo,0,0,1,0
-"['nabybi', 'oliviadelv', 'soyarepita', 'lavidadenos', 'thank', 'reading', 'hug', 'santa', 'elena', 'de', 'uairén']",Positivo,1,1,1,0
-"['nabybi', 'oliviadelv', 'soyarepita', 'already', 'chief', 'richard', 'fernandez', 'kumarakapay', 'clarified', 'like', 'presumed', 'dead', 'suffered', 'arrest', 'hospital', 'transferred', 'boa', 'vista', 'serious', 'condition']",Negativo,0,0,0,0
-"['angelcarrillo', 'oliviadelv', 'denounce', 'army', 'fired', 'left', 'declared', 'richard', 'fernández', 'chief', 'kumarakapay']",Negativo,0,0,0,0
-"['feb', 'indigenous', 'people', 'kumarakapay', 'keep', 'soldiers', 'detained', 'although', 'ones', 'fired', 'measure', 'pressure', 'silence', 'gave', 'order', 'shoot', 'chief', 'richard', 'fernández', 'maintains', 'figure', 'one', 'deceased', 'zoraida', 'rodríguez']",Negativo,0,0,0,0
-"['fresitarai', 'carlossuniagag', 'new', 'report', 'keep', 'four', 'officials', 'detained', 'pressure', 'clarify', 'happened', 'kumarakapay']",Negativo,0,0,1,0
-"['manuelucab', 'far', 'confirmed', 'one', 'deceased', 'injured', 'kumarakapay']",Negativo,0,0,0,0
-"['santa', 'elena', 'de', 'uairén', 'hospital', 'suffered', 'respiratory', 'arrest', 'talk', 'death', 'however', 'status', 'remains', 'reserved', 'bolivar', 'feb']",Negativo,0,0,0,0
-"['feb', 'pm', 'contacted', 'richard', 'fernández', 'chief', 'kumarakapay', 'reported', 'rolando', 'garcía', 'husband', 'late', 'zoraida', 'rodríguez', 'died', 'seriously', 'injured', 'transferred', 'boa', 'vista', 'resisting', 'bolivar']",Negativo,0,0,0,0
-"['feb', 'wounded', 'one', 'deceased', 'named', 'zoraida', 'rodríguez', 'balance', 'reported', 'kumarakapay', 'indigenous', 'community', 'attack', 'military', 'officials', 'bolivar']",Negativo,0,0,1,0
-"['feb', 'yesterday', 'gandola', 'two', 'tanks', 'las', 'claritas', 'two', 'casa', 'blanca', 'via', 'santa', 'elena', 'de', 'uairén', 'bolívar']",Negativo,0,0,0,0
-"['feb', 'kumarakapay', 'report', 'injuries', 'repression', 'gn', 'indigenous', 'people', 'blocked', 'road', 'prevent', 'passage', 'riot', 'gear', 'ask', 'help', 'since', 'way', 'transfer', 'seriously', 'injured', 'people', 'bolivar']",Negativo,0,0,1,0
-"['feb', 'suspended', 'private', 'flights', 'venezuela', 'notice']",Negativo,0,0,0,0
-"['luisayala', 'link', 'information']",Negativo,0,0,0,0
-"['iraida', 'puerto', 'ordaz', 'clinic', 'someone', 'collaborate', 'share', 'reaches', 'others', 'guayana', 'venezuela', 'serviciopublico']",Positivo,0,0,0,0
-"['guayana', 'public', 'service', 'patient', 'maria', 'de', 'freitas', 'laxis', 'ampoule', 'requested', 'held', 'ferrominera', 'hospital', 'contact']",Negativo,0,0,0,0
-"['herreraos', 'lavidadenos', 'people', 'still', 'indulge', 'happy', 'invite', 'take', 'tour', 'hospitals', 'talk', 'relatives', 'patients', 'talk', 'people', 'including', 'children', 'live', 'street', 'understand']",Positivo,0,1,1,0
-"['rociogarces', 'thaised', 'thank', 'nice', 'words', 'reading', 'story']",Positivo,1,1,1,1
-"['friends', 'donamed', 'participate', 'forum', 'directv', 'contest', 'help', 'vote', 'video', 'project', 'positively', 'theforumtedavoz', 'theforumtedavoz']",Positivo,0,0,1,0
-"['regarding', 'wait', 'entry', 'humanitarian', 'aid', 'lavidadenos', 'stories', 'published', 'reflect', 'crisis', 'although', 'happened', 'one', 'person', 'particular', 'related', 'happens', 'many', 'shows', 'venezuela', 'requires', 'help']",Negativo,0,0,1,0
-"['knew', 'details', 'decided', 'write', 'nancy', 'chatted', 'thais', 'much', 'impressed', 'time', 'writing', 'could', 'find', 'words', 'even', 'lump', 'throat']",Positivo,0,0,0,0
-"['feb', 'informs', 'liborioguarulla', 'entry', 'humanitarian', 'aid', 'amazonas']",Negativo,0,0,0,0
-"['entered', 'fake', 'website', 'volunteering', 'humanitarian', 'aid', 'promoted', 'asambleve', 'check', 'thread', 'learn', 'eliminate', 'traces', 'corrupted', 'data', 'cantv', 'would', 'entered', 'dns', 'system', 'cache', 'via', 'espaciopublico']",Negativo,0,0,0,0
-"['feb', 'part', 'march', 'youth', 'day', 'guayana', 'bolívar']",Negativo,0,0,0,0
-"['feb', 'rafael', 'puga', 'augusto', 'puga', 'uncle', 'guayana']",Negativo,0,0,0,0
-"['feb', 'march', 'guayana', 'youth', 'day', 'arrives', 'rotary', 'walk']",Negativo,0,0,0,0
-"['oliviadelv', 'hcapriles', 'bend', 'stretch', 'necks', 'appear', 'photo', 'video', 'hahaha']",Positivo,0,0,1,0
-"['public', 'service', 'tatianitasantos', 'looking', 'cefadroxil', 'sultamicillin', 'suspension', 'mg', 'bacitracin', 'eight', 'month', 'old', 'baby', 'information', 'guayana', 'puertoordaz', 'sanfelix', 'upata', 'ciudadbolivar', 'bolivar']",Negativo,0,0,1,0
-"['majomenos', 'wilson', 'castro', 'mayor', 'caroní']",Negativo,0,0,0,0
-"['knew', 'prison', 'revolution', 'born', 'via', 'lavidadenos', 'photo', 'report', 'william', 'urdaneta', 'honor', 'collaborating', 'story', 'jickson']",Negativo,0,0,1,0
-"['etethebest', 'marcoszam', 'yesterday', 'asked', 'ibuprofen', 'told', 'thousand', 'atamel', 'thousand']",Negativo,0,0,1,0
-"['por', 'puesto', 'certain', 'thing', 'coffee', 'two']",Positivo,0,0,0,0
-"['danieletz', 'orianafaoro', 'problem', 'asked', 'speak', 'representatives', 'students', 'none', 'come', 'give', 'us', 'testimony', 'even', 'anonymity', 'happened', 'registered', 'arrests', 'recruitment']",Negativo,0,0,1,0
-"['gerardoenrique', 'luzmelyreyes', 'like', 'want', 'swear', 'without', 'confirmed', 'testimony', 'write', 'true', 'forced', 'recruitment', 'minors', 'different', 'arrest', 'arbitrary', 'happened']",Negativo,0,0,1,0
-"['josangelch', 'correodelcaroni', 'exactly', 'confusing', 'arbitrary', 'detentions', 'recruitment']",Negativo,0,0,0,0
-"['soynuevaprensa', 'uyapar']",Negativo,0,0,0,0
-"['manmet', 'january', 'chipía', 'square', 'puerto', 'ordaz', 'tweet', 'indicates', 'date']",Negativo,0,0,0,0
-"['ene', 'mrs', 'narcisa', 'years', 'old', 'protagonist', 'one', 'concentrations', 'guayana', 'broken', 'voice', 'said', 'misses', 'everything', 'venezuela']",Negativo,0,0,0,0
-"['ene', 'narcisa', 'chavero', 'years', 'old', 'asked', 'family', 'take', 'rally', 'av', 'paseo', 'caroní', 'puertoordaz', 'guayana']",Negativo,0,0,1,0
-"['national', 'protest', 'ene', 'guayana']",Negativo,0,0,0,0
-"['leonervis', 'still', 'got', 'dr', 'maduro', 'talking', 'someone', 'else', 'doctor', 'bears', 'last', 'name', 'mr', 'nicolás']",Negativo,0,0,1,0
-"['yadirarojasmata', 'caraotadigital', 'detained']",Negativo,0,0,0,0
-['reportnotcrime'],Negativo,0,0,0,0
-"['something', 'like', 'sends', 'live', 'dictatorship']",Positivo,0,0,0,0
-"['today', 'jan', 'son', 'released', 'year', 'old', 'boy', 'convulsed', 'several', 'times', 'military', 'allow', 'deliver', 'medicine', 'sunday', 'allowed', 'slapping', 'blows', 'head', 'feet', 'treatment', 'guayana', 'received']",Positivo,0,0,1,0
-"['jan', 'noon', 'jickson', 'rodríguez', 'years', 'old', 'released', 'precautionary', 'measures', 'arrested', 'villa', 'bahía', 'special', 'condition', 'suffered', 'seizures', 'detained', 'gn', 'allow', 'receive', 'medication', 'furthermore', 'physically', 'verbally', 'abused', 'guayana']",Negativo,0,0,0,0
-"['protests', 'arbitrary', 'arrests', 'gn', 'guyana', 'via', 'youtube']",Negativo,0,0,0,0
-"['ene', 'testimony', 'mother', 'one', 'detainees', 'guayana', 'demonstrations', 'year', 'old', 'son', 'special', 'condition', 'yesterday', 'two', 'seizures', 'allowed', 'receive', 'medicine', 'also', 'denounces', 'mistreatment', 'military']",Negativo,0,0,1,0
-"['empty', 'butter', 'containers', 'ice', 'cream', 'pots', 'plastic', 'containers', 'throw', 'friend', 'albaysabel', 'needs', 'foundation', 'dios', 'provee', 'bring', 'food', 'people', 'street', 'guiana']",Positivo,1,1,1,0
-"['jcvenez', 'yes', 'write', 'large', 'part', 'sectors', 'able', 'verify']",Positivo,0,0,1,0
-"['ene', 'since', 'yesterday', 'large', 'part', 'ciudad', 'guayana', 'without', 'aba', 'cantv', 'internet', 'areas', 'bolívar', 'state', 'rest', 'country', 'situation']",Negativo,0,0,0,0
-"['ene', 'early', 'hearing', 'minors', 'received', 'precautionary', 'measure', 'friday', 'ene', 'foropenal', 'bolívar', 'confirmed', 'arrests', 'guayana', 'context', 'demonstrations', 'report', 'others', 'verify']",Negativo,0,0,0,0
-"['jan', 'pm', 'lawyers', 'foropenal', 'defensa', 'bolívar', 'denounce', 'allowed', 'access', 'courts', 'hearing', 'several', 'detainees', 'protests', 'would', 'assigning', 'public', 'defenders', 'although', 'relatives', 'asked', 'defense', 'ngos', 'guayana']",Negativo,0,0,0,0
-"['jan', 'foro', 'penal', 'warned', 'may', 'detainees', 'still', 'check', 'commands', 'yesterday', 'cicpc', 'spoke', 'relatives', 'detainees', 'el', 'palmar', 'assured', 'men', 'women', 'bolivar']",Positivo,0,0,0,0
-"['por', 'puesto', 'already', 'brew', 'coffee', 'thing', 'happened', 'without', 'coffee', 'hahahaha']",Negativo,0,1,1,0
-"['ene', 'last', 'night', 'detainees', 'presented', 'guayana', 'january', 'figure', 'confirmed', 'foropenal', 'bolívar', 'court', 'ruled', 'custodial', 'confinement', 'el', 'dorado', 'among', 'arrested', 'case', 'statue', 'chávez']",Negativo,0,0,1,0
-"['jan', 'marialbat', 'confirms', 'neighbor', 'presumed', 'detained', 'appeared', 'entee', 'january', 'least', 'arrests', 'guayana', 'confirmed', 'foropenal', 'bolívar', 'added', 'least', 'el', 'palmar', 'today', 'cicpc', 'review']",Negativo,0,0,0,0
-"['jan', 'pm', 'neighbors', 'moreno', 'de', 'mendoza', 'sanfélix', 'denounce', 'repression', 'tear', 'gas', 'pellets', 'far', 'report', 'detainee', 'guayana', 'bolivar']",Negativo,0,0,1,0
-"['jan', 'relatives', 'least', 'detainees', 'el', 'palmar', 'context', 'demonstrations', 'denounced', 'arbitrary', 'procedure', 'gn', 'looted', 'free', 'affirmed', 'bolivar']",Positivo,0,0,0,0
-"['ene', 'inform', 'detained', 'dgcim', 'puerto', 'ordaz', 'detainees', 'last', 'night', 'la', 'churuata', 'would', 'also', 'guayana']",Negativo,0,0,1,0
-"['ene', 'family', 'members', 'gabriel', 'madrid', 'denounce', 'arrested', 'last', 'night', 'la', 'churuata', 'whereabouts', 'unknown', 'guayana']",Negativo,0,0,0,0
-"['jan', 'pm', 'several', 'areas', 'puerto', 'ordaz', 'san', 'félix', 'cooking', 'time', 'guayana']",Negativo,0,0,0,0
-"['ene', 'inhabitants', 'sanfélix', 'report', 'around', 'pm', 'gn', 'threw', 'tear', 'gas', 'canisters', 'residents', 'ud', 'san', 'juan', 'bautista', 'college', 'gnb', 'tanks', 'already', 'withdrawn', 'protesters', 'continue', 'routes', 'blocked', 'reported', 'guiana']",Negativo,0,0,1,0
-"['jan', 'pm', 'alta', 'vista', 'torre', 'caura', 'paseo', 'caroní', 'blocked', 'streets', 'barricades', 'rest', 'sector', 'looks', 'like', 'plaza', 'el', 'hierro', 'group', 'waits', 'public', 'transport', 'guayana', 'bolívar']",Positivo,0,0,0,0
-"['jan', 'morning', 'connection', 'collaborate', 'impossible', 'tweet', 'part', 'experienced', 'open', 'town', 'hall', 'guayana']",Negativo,0,0,0,0
-"['guayana', 'ene', 'one', 'images', 'burning', 'statue', 'hugo', 'chávez', 'san', 'félix', 'loud', 'pots', 'shouts', 'maduro', 'also', 'heard', 'photo', 'courtesy']",Positivo,0,0,0,0
-"['men', 'report', 'sanfélix', 'pots', 'also', 'heard', 'rejection', 'maduro']",Negativo,0,0,0,0
-"['jan', 'pm', 'approximately', 'pm', 'cacerolazos', 'heard', 'different', 'sectors', 'guayana', 'campo', 'residencias', 'tumeremo', 'alta', 'vista', 'curagua', 'río', 'negro', 'including', 'urban', 'development', 'misión', 'vivienda', 'bolívar']",Negativo,0,0,0,0
-"['jl', 'digital', 'leonervis', 'last', 'days', 'aba', 'null']",Negativo,0,0,0,0
-"['danizuritac', 'ask', 'positive', 'day', 'disaster', 'report']",Negativo,0,0,0,0
-"['leonervis', 'surprised', 'wifi', 'works']",Positivo,0,0,0,0
-"['carola', 'thank']",Positivo,0,1,1,0
-"['fmonroy', 'jguaido', 'since', 'friday', 'press', 'release', 'sent', 'vp', 'communication', 'disaster']",Negativo,0,0,0,0
-"['difficult', 'one', 'us', 'study', 'history', 'venezuela', 'high', 'school', 'university', 'even', 'want', 'imagine', 'students', 'next', 'years', 'need', 'hours', 'classes', 'explain']",Negativo,0,0,0,0
+"['name', 'miguelángel', 'josé', 'freitas', 'loreto', 'appears', 'arrest', 'warrant', 'arrested', 'otoniel', 'ramos', 'half', 'suspended', 'corpoelec', 'according', 'record', 'issued', 'feb', 'freitas', 'stopped', 'working', 'state', 'company', 'jul']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jadesdelgado', 'judas', 'taken', 'prisoner']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['augustocesar', 'farmatodo', 'villa', 'granada']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['abr', 'summon', 'rally', 'demand', 'release', 'otoniel', 'ramos', 'detained', 'april', 'dgcim', 'suspended', 'corpoelec', 'years', 'intend', 'accuse', 'electrical', 'failures', 'another', 'also', 'year', 'inactive', 'state', 'arrest', 'warrant', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['corpoelec', 'worker', 'otoniel', 'ramos', 'arrested', 'abr', 'another', 'workers', 'also', 'arrest', 'warrant', 'prequalification', 'crimes', 'damage', 'facilities', 'national', 'electric', 'system', 'interruption', 'electricity', 'service', 'criminal', 'association']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['almost', 'months', 'ago', 'wrote', 'happened', 'february', 'kumarakapay', 'santa', 'de', 'elena', 'de', 'uairén', 'humanitarian', 'aid', 'expected', 'enter', 'english', 'version', 'available', 'bloodshed', 'fired', 'pemon', 'via', 'lavidadenos']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['augustocesar', 'fortunately', 'internal', 'part', 'damaged']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['penalverady', 'need', 'want', 'want', 'interview', 'mom', '😍😊']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['apr', 'pm', 'report', 'fire', 'registered', 'front', 'cachamay', 'park', 'product', 'collision', 'pdvsa', 'truck', 'controlled', 'flames', 'consumed', 'kiosks', 'located', 'entrance', 'park', 'according', 'govt', 'justo', 'noguera', 'victims', 'guayana', 'courtesy']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['bigchu', 'caraotadigital', 'yes', 'version', 'mean', 'true', 'important', 'thing', 'process', 'began', 'presentation', 'hearing', 'deprived', 'liberty', 'leaked', 'audio', 'key']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['bigchu', 'caraotadigital', 'one', 'agreed', 'identify']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['luiscarlos', 'signal', 'want', 'secure', 'communications']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['important', 'presentation', 'hearing', 'hardly', 'held', 'charged', 'deprived', 'liberty', 'prosecutor', 'office', 'days', 'present', 'conclusive', 'acts', 'go', 'preliminary', 'hearing', 'decided', 'case', 'goes', 'trial', 'dismissal', 'case', 'fiscal', 'file']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['abr', 'two', 'defendants', 'held', 'vizcaíno', 'five', 'men', 'agreed', 'held', 'vista', 'hermosa', 'defense', 'alleged', 'dangerousness', 'compound', 'remain', 'cicpc', 'justiceforangelaaguirre']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['abr', 'rest', 'detainees', 'josé', 'antonio', 'zorrilla', 'glaubert', 'zorrilla', 'orlando', 'abraham', 'salazar', 'wilmer', 'díaz', 'joselyn', 'barreto', 'dayana', 'nicieza', 'charged', 'necessary', 'accomplices', 'crime', 'femicide', 'failure', 'assist', 'justiceforangelaaguirre']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['abr', 'josé', 'alberto', 'cedeño', 'charged', 'femicide', 'sexual', 'abuse', 'supply', 'substances', 'failure', 'help', 'justiceforangelaaguirre']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['abr', 'early', 'hours', 'morning', 'presentation', 'hearing', 'seven', 'detainees', 'case', 'angela', 'aguirre', 'ended', 'court', 'issued', 'custodial', 'sentence', 'seven', 'five', 'men', 'two', 'women', 'justiceforangelaaguirre']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['pm', 'presentation', 'hearing', 'detainees', 'case', 'angela', 'aguirre', 'continues', 'justiciaparaángelaaguirre']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['abr', 'angela', 'aguirre', 'relatives', 'close', 'friends', 'ngo', 'representatives', 'civil', 'society', 'general', 'gathered', 'puerto', 'ordaz', 'palace', 'justice', 'waiting', 'hearing', 'present', 'detainees', 'case', 'photos', 'steffipaolave', 'justiciaparaángelaaguirre']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['facts', 'clarified', 'justiceparaángelaaguirre', 'essential', 'unpunished', 'cases', 'many', 'like', 'angela', 'forgotten', 'authorities']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['justiciaparaángelaaguirre', 'today', 'abr', 'presentation', 'detainees', 'case', 'ángela', 'aguirre', 'expected', 'th', 'call', 'hopefully', 'time', 'defer', 'progress', 'made', 'clarify', 'facts', 'add', 'list', 'impunity', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['marlenisgimon', 'correct', 'thanks']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['justiciaparaángelaaguirre', 'today', 'abr', 'presentation', 'detainees', 'case', 'ángela', 'aguirre', 'expected', 'th', 'call', 'hopefully', 'time', 'defer', 'progress', 'made', 'clarify', 'facts', 'add', 'list', 'impunity', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['leonervis', 'neither', 'wikipedia', 'knows', 'tito', 'oviedo', 'xd']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['abr', 'lawyer', 'yamileth', 'carvajal', 'confirmed', 'supreme', 'court', 'decided', 'court', 'violence', 'women', 'handle', 'case', 'ángelaaguirre', 'hearing', 'detainees', 'postponed', 'times', 'two', 'courts', 'declared', 'incompetent']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jennifer', 'paola', 'sánchez', 'mother', 'recalled', 'disappearance', 'daughter', 'mi', 'bohío', 'spa', 'went', 'bathroom', 'return', 'young', 'woman', 'passport', 'given', 'cicpc', 'laminated', 'identity', 'card', 'time', 'prosecutor', 'office', 'requested', 'document', 'lost']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['angela', 'aguirre', 'case', 'disappearances', 'femicides', 'remembered', 'investigations']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['details', 'ángelaaguirre', 'case', 'continue', 'revealed', 'authorities', 'finish', 'saying', 'quépasóconángela', 'audio', 'leaked', 'autopsies', 'contradict', 'courts', 'decline', 'everything', 'indicates', 'money', 'involved', 'continue', 'impunity', 'justiceforangela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['iguana', 'electromagnetic', 'attack', 'sniper', 'bamboo', 'plant', 'movie', 'video', 'game', 'missing']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['applies', 'gladylisflores', 'always', 'cell', 'phone', 'silence', 'already', 'warned', 'affectionately', 'next', 'time', 'going', 'throw', 'pot']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jennifer', 'mora', 'mother', 'would', 'years', 'old', 'today', 'also', 'accompanies', 'angela', 'aguirre', 'parents', 'case', 'reminds', 'daughter', 'thinks', 'young', 'women', 'gone', 'thing', 'justice', 'yet', 'done']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['looked', 'find', 'years', 'since', 'jennifer', 'disappeared', 'answer', 'body', 'mother', 'lose', 'faith', 'appears', 'alive']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['angela', 'case', 'recalls', 'others', 'investigated', 'jennifer', 'paola', 'mora', 'sánchez', 'mother', 'reminded', 'us', 'case', 'disappeared', 'nov', 'mi', 'bohío', 'spa', 'sister', 'friends', 'years', 'old', 'went', 'bathroom', 'return']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['first', 'determined', 'injuries', 'private', 'parts', 'bruises', 'caused', 'person', 'days', 'floating', 'river', 'second', 'autopsy', 'shows', 'opposite', 'accidental', 'death']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['apr', 'defense', 'relatives', 'angela', 'aguirre', 'recusal', 'procedure', 'tenth', 'prosecutor', 'due', 'irregularities', 'investigations', 'case', 'two', 'autopsies', 'contradict']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['abr', 'although', 'bolívar', 'appears', 'schedules', 'electricity', 'rationing', 'plan', 'corpoelec', 'published', 'last', 'night', 'justo', 'noguera', 'reported', 'scheduled', 'cuts', 'applied', 'state', 'decision', 'considered', 'meeting', 'friday', 'morning']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['juliomoya', 'judas', 'wife', 'hahahaha']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'say', 'prepared', 'npi', 'solve', 'many', 'years', 'abandonment', 'corruption']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gladylisflores', 'danielameza', 'jajajajajjaja', 'join']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['danielameza', 'yes', 'mardita', 'buy', 'hahahahaha']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['danielameza', 'lero', 'lero', 'sold', '😀😁😂']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['pableostos', 'marcosdavidv', 'jajajajajana', 'prefers', 'cry', 'corner']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['apr', 'week', 'passed', 'since', 'angela', 'aguirre', 'body', 'found', 'instead', 'clarifying', 'case', 'hearing', 'presentation', 'detainees', 'postponed', 'third', 'time', 'courts', 'declared', 'incompetent', 'take', 'case', 'still', 'known', 'quépasóconangela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['leonervis', 'take', 'piece', 'paper', 'know', 'areas', 'play', 'organized', 'transparent']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['vzla', 'already', 'asked', 'cream', 'time', 'arrive']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['public', 'service', 'looking', 'cream', 'hirox', 'please', 'know', 'locate', 'guayana', 'puertoordaz', 'sanfélix', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gladylisflores', 'let', 'said', 'collaborate', 'planet', 'hours', 'days', 'without', 'electricity', 'hours', 'days', 'without', 'water']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tatianitasantos', 'forgiveness', 'fair', 'children', 'adult', 'concerns']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['public', 'service', 'friend', 'albaysabel', 'need', 'medications', 'year', 'old', 'nephew', 'please', 'contact', 'know', 'get', 'donate', 'guayana', 'puertoordaz', 'sanfelix', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['robert', 'kennedy', 'foundation', 'human', 'rights', 'arrive', 'mar', 'roraima', 'brazil', 'assess', 'situation', 'indigenous', 'venezuelans', 'fled', 'repression', 'regime', 'attack', 'kumarakapay', 'feb', 'visit', 'run', 'abr']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['want', 'military', 'intervention', 'support', 'installation', 'russian', 'military', 'bases', 'venezuela', 'oh', 'okay']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lauracnnt', 'ufo', 'thing', 'say', 'ciudad', 'bolívar', 'preparing', 'entire', 'attack', 'daenerys', 'targaryen', 'dragons', 'missing']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'pm', 'several', 'areas', 'puerto', 'ordaz', 'san', 'félix', 'without', 'electricity', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['seven', 'detainees', 'angela', 'aguirre', 'case', 'yet', 'presented', 'hearing', 'held', 'thursday', 'mar', 'postponed', 'monday', 'abr']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['kyrildambrosi', 'life', 'jacket', 'yes', 'death', 'drowning', 'water', 'could', 'also', 'caused', 'part', 'details', 'disclosed', 'far', 'investigations', 'continue']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['given', 'speculation', 'douglas', 'rico', 'clarified', 'autopsy', 'determine', 'injuries', 'body', 'caused', 'person', 'blunt', 'object', 'angela', 'aguirre', 'case', 'injuries', 'caused', 'someone']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['director', 'cicpc', 'also', 'said', 'angela', 'aguirre', 'drowned', 'lungs', 'fluid', 'according', 'autopsy', 'explained', 'someone', 'dies', 'thrown', 'water', 'lungs', 'fill', 'fluid', 'go']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['case', 'consumption', 'alcoholic', 'beverages', 'douglasricovzla', 'explained', 'amount', 'two', 'days', 'tests', 'positive', 'rdp', 'reported', 'detected', 'addition', 'la', 'kaki', 'boat', 'another', 'escape', 'submitted', 'expert']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'pdr', 'douglasricovzla', 'details', 'already', 'known', 'case', 'ángela', 'aguirre', 'clarified', 'according', 'toxicological', 'tests', 'carried', 'victim', 'detainees', 'use', 'psychotropic', 'drugs', 'follow']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fresitarai', 'gerardoenrique', 'yes', 'cases', 'although', 'lean', 'towards', 'people', 'unhealthy', 'comments']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gerardoenrique', 'comments', 'one', 'worse', 'understand', 'justify']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gerardoenrique', 'comes', 'judging', 'everyone', 'holy', 'perfect', 'bothers', 'leave', 'background', 'two', 'crimes', 'homicide', 'sexual', 'abuse', 'say', 'anything', 'perpetrators', 'pay', 'society', 'really', 'sick']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['statement', 'ángelaaguirre', 'family', 'please', 'enough', 'replicate', 'rumors', 'judge', 'without', 'knowing', 'enough', 'revictimization', 'attention', 'must', 'focus', 'ensuring', 'justice', 'done', 'responsible', 'femicide', 'paid', 'justiciaparaángela', 'niunamenos']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['pableostos', 'marcosdavidv', 'ask', 'cocoa', 'hahahaha']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['pableostos', 'marcosdavidv', 'witness', 'rejection', 'hugs', 'hahahaha']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['comptroller', 'appointed', 'maduro', 'constituent', 'disables', 'jguaido', 'blackouts', 'continue', 'deaths', 'due', 'lack', 'medicines', 'supplies', 'hospitals', 'hyperinflation', 'persecution', 'illegitimate', 'deprivation', 'liberty', 'lack', 'water', 'supply', 'transportation']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['let', 'us', 'forget', 'comptroller', 'appointed', 'constituent', 'illegitimate', 'like', 'regime', 'requested', 'disqualification', 'jguaido', 'years', 'alleges', 'travel', 'expenses', 'abroad', 'without', 'informing', 'money', 'comes', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['naky', 'people', 'strange', 'concept', 'peace']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['mar', 'pm', 'power', 'sectors', 'vista', 'hermosa', 'catedral', 'parishes', 'ciudad', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['blame', 'parents', 'sirs', 'justify', 'perpetrators', 'normalize', 'happen', 'justiceforangela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ángela', 'aguirre', 'found', 'mar', 'waters', 'caroní', 'river', 'without', 'vital', 'signs', 'determining', 'necropsy', 'causes', 'death', 'due', 'mechanical', 'suffocation', 'due', 'immersion', 'injuries', 'intimate', 'parts', 'bruises', 'various', 'parts', 'body', 'douglasricovzla']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['read', 'homicide', 'justiceparaangela', 'whatpasóconangela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lajula', 'caroní', 'river', 'left', 'boat', 'italo', 'club', 'marina', 'la', 'terecaya', 'island', 'minutes', 'away', 'sailed', 'pm', 'saturday', 'time', 'allowed', 'navigation', 'know', 'exactly', 'happened']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['correction', 'body', 'found', 'today', 'mar', 'el', 'rey', 'spa']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['correction', 'body', 'found', 'today', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['carola', 'correct']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['quépasóconángela', 'beginning', 'versions', 'disappearance', 'ángela', 'aguirre', 'coincide', 'detainees', 'death', 'must', 'clarified', 'disappeared', 'saturday', 'la', 'terecaya', 'island', 'today', 'mar', 'found', 'body', 'spa', 'guiana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'pm', 'several', 'states', 'report', 'blackouts', 'several', 'areas', 'electricity', 'failures', 'internet', 'telephone', 'signals']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tellobjr', 'dragons', 'arrive', 'april', 'part', 'last', 'season', 'got']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['tellobjr', 'aliens', 'caused', 'blackout', 'mean', 'planets', 'want', 'maduro', 'either']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['oliviadelv', 'fault', 'santa', 'elena', 'de', 'uairén', 'hospital', 'nothing', 'transferred', 'injured', 'february', 'brazil', 'surely', 'fault', 'doctors', 'nurses', 'cheeky']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rent', 'house', 'among', 'several', 'children', 'miss', 'classes', 'cannot', 'cross', 'border', 'avoid', 'daily', 'passage', 'trail', 'charge', 'reais', 'transport', 'plus', 'toll', 'military', 'residents', 'san', 'antonio', 'morichal']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['commission', 'office', 'un', 'high', 'commissioner', 'human', 'rights', 'held', 'mar', 'bolivar', 'meeting', 'representatives', 'different', 'sectors', 'health', 'unions', 'victims', 'human', 'rights', 'violations', 'repressions', 'arbitrary', 'arrests', 'indigenous', 'people', 'arco', 'minero']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'guayana', 'workers', 'ask', 'un', 'human', 'rights', 'commission', 'space', 'expose', 'situation', 'basic', 'companies', 'cases', 'persecution', 'united', 'nations', 'commission', 'expected', 'arrive', 'puerto', 'ordaz', 'tonight', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['leonervis', 'hahahaha', 'used', 'flashlight', 'making', 'dinner']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['leonervis', 'without', 'light', 'without', 'data', 'signal', 'full', 'charge', 'cell', 'phone', 'even', 'listen', 'music', 'saved', 'hahahaha']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['leonervis', 'read', 'light', 'somewhere', 'want', 'recharge', 'cell', 'phone', 'even', 'know', 'happens', 'like', 'blackout', 'signal', 'sad']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['adangarcia', 'totally', 'agree', 'criticizing', 'attitude', 'normalizing', 'badly', 'getting', 'used']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['adangarcia', 'like', 'states', 'never', 'happened', 'country']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mean', 'say', 'irregular', 'normalized', 'know', 'try', 'survive', 'disaster', 'let', 'get', 'used', 'electrical', 'failure', 'occurred', 'hundreds', 'thousands', 'failures', 'occur', 'time', 'much', 'less']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['taciraglup', 'greetings']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['amonpri', 'reporteya', 'repeat', 'said', 'another', 'user', 'irregularity', 'normal', 'case', 'normalized', 'greetings']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['well', 'funny', 'irregular', 'normalized', 'blackout', 'hours', 'blackout', 'simply', 'happen', 'already', 'know', 'done', 'hydroelectric', 'plants', 'companies', 'country']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'pm', 'two', 'blackouts', 'registered', 'puerto', 'ordaz', 'least', 'one', 'hour']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'week', 'arbitrarily', 'detained', 'sebin', 'court', 'issued', 'custodial', 'sentence', 'corpoelec', 'worker', 'puertoordaz', 'geovanny', 'zambrano', 'charged', 'instigation', 'commit', 'crime', 'information', 'leakage', 'suspicion', 'sabotage']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['recommended', 'reading']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['mar', 'house', 'two', 'blackouts', 'noon', 'electricity', 'táchira', 'caracas', 'blackout', 'today', 'living', 'normality', 'venezuela', 'exhausts']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['cities', 'venezuela', 'appear', 'ranking', 'violent', 'world', 'caracas', 'third', 'place', 'ciudad', 'guayana', 'position', 'ciudadbolívar', 'barquisimeto', 'maturín', 'valencia']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['marimarron', 'corrected', 'sherrerab']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['report', 'block', 'characters', 'like', 'sherrerab']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lauracnnt', 'released', 'yesterday', 'yesterday', 'pm', 'arrested', 'early', 'morning', 'raided', 'house']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'asks', 'prepare', 'worst', 'plan', 'solve', 'disaster', 'result', 'years', 'inefficiency', 'corruption']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['oliviadelv', 'together', 'mother', 'asked', 'humanitarian', 'aid']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neiromero', 'good', 'seen', 'rough']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['josé', 'solórzano', 'met', 'last', 'year', 'years', 'old', 'today', 'find', 'could', 'win', 'battle', 'leukemia', 'god', 'receives', 'open', 'arms', 'may', 'give', 'mom', 'lot', 'strength', 'veiled', 'today', 'mar', 'profamilia', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'pm', 'light', 'area']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['free', 'journalist', 'luis', 'carlos', 'díaz', 'sign', 'petition', 'via', 'changeorglatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'due', 'lack', 'internet', 'telephone', 'failures', 'incommunicado', 'use', 'network', 'connect', 'spread', 'good', 'news', 'bolívar', 'two', 'deaths', 'attributable', 'march', 'blackout', 'confirmed', 'victims', 'two', 'newborns', 'uyapar', 'hospital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'blackout', 'telephone', 'communications', 'continue', 'chaos', 'especially', 'movilnet', 'cantv', 'internet', 'aba', 'digitel', 'signal', 'data', 'guiana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'pm', 'light', 'puerto', 'ordaz', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'still', 'areas', 'carabobo', 'mérida', 'among', 'states', 'without', 'electricity', 'hours', 'food', 'damaged', 'due', 'lack', 'refrigeration', 'others', 'cannot', 'cook', 'due', 'lack', 'gas', 'electric', 'stove', 'outlets', 'buy']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'blackout', 'keeps', 'venezuela', 'affected', 'makes', 'angry', 'sad', 'read', 'people', 'eaten', 'anything', 'day', 'electric', 'stove', 'problem', 'domestic', 'gas', 'maybe', 'one', 'cylinder', 'either', 'pay']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'pm', 'zulia', 'without', 'light', 'hours', 'people', 'protest', 'maracaibo', 'regime', 'responds', 'anti', 'riot', 'equipment']",Neutral,Neutral,Neutral,Negativo,Neutral
+"['thank', 'including', 'video', 'jesszambranor', 'happy', 'day', 'great', 'venezuelan', 'women', 'especially', 'colleagues', 'hard', 'days']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['mar', 'mérida', 'táchira', 'trujillo', 'states', 'without', 'license', 'constant', 'data', 'signal', 'failures', 'movilnet', 'digitel', 'movistar', 'cantv', 'aba']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'pm', 'zulia', 'carabobo', 'power', 'arrived', 'caracas', 'gone', 'guyana', 'ago', 'downturn']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chikynan', 'reporteya', 'hope', 'corpoelec', 'workers', 'noticed', 'maintenance', 'carried', 'anything']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chikynan', 'reporteya', 'several', 'states', 'without', 'light', 'others', 'begins', 'restored']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chikynan', 'reporteya', 'right', 'operational', 'stopped', 'working', 'blackout']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chikynan', 'reporteya', 'aluminum', 'raw', 'materials', 'processed', 'produced']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chikynan', 'reporteya', 'cells', 'go', 'two', 'hours', 'little', 'without', 'electricity', 'spend', 'time', 'become', 'paralyzed', 'lost', 'cannot', 'reactivated', 'must', 'replaced', 'single', 'cell', 'operation']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'blackout', 'guayana', 'affected', 'basic', 'companies', 'confirm', 'cells', 'still', 'operative', 'alcasa', 'venalum', 'lost', 'zero']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['worrying', 'thing', 'blackout', 'hospitals', 'poor', 'condition']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['criminal', 'action', 'corruption', 'maintained', 'years', 'state', 'companies', 'hence', 'abandonment', 'lack', 'maintenance']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['mar', 'pm', 'another', 'downturn', 'rather', 'several', 'dips', 'time', 'sector', 'counted', 'three', 'dips', 'light', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['certainly', 'corpoelec', 'workers', 'denounced', 'maintenance', 'barely', 'done', 'warned', 'damage', 'machines', 'could', 'happen', 'even', 'recalled', 'happened', 'sayano', 'hydroelectric', 'plant', 'russia']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'two', 'dips', 'light', 'bolívar', 'several', 'states', 'without', 'electricity', 'always', 'talk', 'sabotage', 'addition', 'failures', 'movistar', 'digitel', 'services', 'prepare', 'tsunami', 'alert', 'charge', 'cell', 'recharge', 'balance', 'disconnect', 'devices']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['samuel', 'appeared', 'omen', 'via', 'lavidadenos']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['story', 'videos', 'one', 'testimony', 'pemón', 'kumarakapay', 'witnessed', 'happened', 'feb', 'army', 'attacked', 'injured', 'feb', 'arrived', 'gunshot', 'wounds', 'gn', 'fired', 'escamoto', 'santaelenadeuairén']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'wrote', 'story', 'already', 'five', 'murdered', 'february', 'kumarakapay', 'santaelenadeuairén', 'date', 'number', 'victims', 'rises', 'three', 'injured', 'transferred', 'boa', 'vista', 'died']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['read', 'thread', 'eln', 'bolívar', 'muy', 'grave']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuelan', 'journalists', 'world', 'come', 'together', 'show', 'solidarity', 'country', 'support', 'entry', 'humanitarian', 'aid', 'venezuela', 'soon', 'possible', 'join…']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tellobjr', 'never', 'bad', 'behavior', 'school', 'time', 'come', 'hahaha']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['yanileon', 'injured', 'taken', 'brazil', 'minor', 'injuries', 'others', 'stable', 'died', 'admitted', 'critical', 'condition']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['mar', 'victims', 'military', 'attacks', 'kumarakapay', 'santaelenadeuairén', 'kliver', 'pérez', 'feb', 'injured', 'kumarakapay', 'rolando', 'garcía', 'mar', 'injured', 'kumarakapay', 'jorge', 'gonzález', 'parra', 'mar', 'injured', 'santa', 'elena']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'victims', 'military', 'attacks', 'zoraida', 'rodríguez', 'fen', 'kumarakapay', 'josé', 'hernández', 'feb', 'santaelenadeuairén', 'josé', 'pérez', 'feb', 'santa', 'elena', 'josé', 'barrios', 'feb', 'santa', 'elena']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'jorge', 'gonzález', 'parra', 'died', 'rd', 'injured', 'person', 'die', 'days', 'hospitalized', 'boa', 'vista', 'due', 'events', 'february', 'kumarakapay', 'santaelenadeuairén', 'number', 'victims', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'victims', 'pemon', 'kumarakapay', 'santaelenadeuairén', 'zoraida', 'rolando', 'leave', 'orphaned', 'children', 'niece', 'took', 'away', 'managed', 'cross', 'border', 'brazil', 'fleeing', 'regime']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'confirm', 'death', 'rolando', 'garcía', 'one', 'injured', 'kumarakapay', 'feb', 'husband', 'zoraida', 'rodríguez', 'also', 'murdered', 'boa', 'vista', 'hospital', 'victims', 'attacks', 'feb', 'santaelenadeuairén', 'amount']",Neutral,Neutral,Neutral,Neutral,Neutral
+['nuevaperfilphoto'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'residents', 'ruíz', 'páez', 'protested', 'threats', 'attacks', 'patients', 'recent', 'case', 'review', 'elpitazotv', 'feb', 'women', 'beat', 'resident', 'reismar', 'straker', 'including', 'patient', 'delivery', 'days', 'ciudadbolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mar', 'santaelenadeuairén', 'ask', 'forget', 'continue', 'denounce', 'military', 'intimidation', 'taken', 'away', 'peace', 'want', 'collect', 'vaccines', 'merchants', 'border', 'still', 'closed', 'managed', 'cross', 'trails', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gedv', 'soystef', 'one', 'occasion', 'talking', 'subject', 'colleagues', 'studying', 'private', 'university', 'always', 'expensive', 'countries', 'economic', 'situation', 'makes', 'worse', 'ideally', 'public', 'ones', 'abandoned', 'opportunities']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['turned', 'paradise', 'hell', 'inhabitant', 'santaelenadeuairén', 'tells', 'us', 'great', 'frustration', 'sadness', 'reading', 'story', 'lavidadenos', 'reliving', 'happened', 'today', 'mar', 'continues', 'militarization', 'several', 'areas']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['write', 'lavidadenos', 'attention', 'focused', 'cúcuta', 'entry', 'humanitarian', 'aid', 'even', 'concert', 'pemones', 'attacked', 'military', 'forces', 'balance', 'two', 'days', 'repression', 'assassinated', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'border', 'brazil', 'still', 'closed', 'people', 'cross', 'trails', 'governors', 'bolívar', 'governor', 'roraima', 'met', 'agree', 'opening', 'border', 'yet', 'done']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gedv', 'naky', 'oscarfmurillo', 'marcosdavidv', 'mramirezcabello', 'pableostos', 'carlossuniagag', 'orianafaoro', 'clavelrangel']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['obrequemauricio', 'turning', 'perpetrator', 'victim']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['lauracnnt', 'vent', 'twitter', 'hahahaha']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['janett', 'regret', 'loss', 'people', 'continue', 'die', 'hands', 'dictatorship', 'rip']",Negativo,Neutral,Neutral,Neutral,Neutral
+['pableostos'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'kliver', 'pérez', 'five', 'murdered', 'confirmed', 'military', 'attacks', 'friday', 'saturday', 'kumarakapay', 'santaelenadeuairén']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'confirm', 'death', 'one', 'injured', 'pemons', 'friday', 'nd', 'kumarakapay', 'community', 'san', 'francisco', 'de', 'yuruaní', 'transferred', 'general', 'hospital', 'roraima', 'kliver', 'alfredo', 'pérez', 'rivero', 'years', 'old', 'santaelenadeuairén']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['janett', 'good', 'evening', 'information', 'relative', 'kliver', 'pérez', 'understand', 'one', 'injured', 'kumarakapay']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'santa', 'elena', 'de', 'uairén', 'hospital', 'military', 'presence', 'since', 'monday', 'military', 'mobilization', 'entire', 'town', 'since', 'saturday', 'happened', 'escamoto', 'sources', 'scene', 'report', 'shooting', 'hospital', 'pm']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'early', 'denounce', 'military', 'forces', 'take', 'control', 'santa', 'elena', 'de', 'uairén', 'airport', 'attack', 'indigenous', 'people', 'maurak', 'community', 'friday', 'pemons', 'took', 'airport', 'attack', 'kumarakapay', 'left', 'indigenous', 'woman', 'murdered']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['nerve', 'ask', 'respect']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['feb', 'pm', 'santa', 'elena', 'de', 'uairén', 'denounce', 'detaining', 'people', 'helped', 'injured', 'took', 'videos', 'viralized', 'networks', 'ensure', 'faes', 'leads', 'operation', 'population', 'frightened', 'raids']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'mayor', 'gran', 'sabana', 'emilio', 'gonzález', 'appointed', 'josé', 'abraham', 'moreno', 'manager', 'monday', 'period', 'days', 'meanwhile', 'municipal', 'chamber', 'preparing', 'decree', 'absolute', 'absence', 'appoint', 'president', 'council', 'alejandro', 'barreto', 'tupamaro']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['elmataguzman', 'mramirezcabello', 'carlossuniagag', 'marthallg', 'pableostos', 'marcosdavidv', 'glorifernandez', 'foro', 'penal', 'confirmed', 'missing', 'person', 'case', 'counted', 'disappeared', 'certain', 'also', 'people', 'detained']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['marthallg', 'read', 'well', 'said', 'others', 'exist', 'false', 'news', 'talks', 'corrobored', 'ones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['davidsiga', 'case', 'handled', 'missing', 'confirmed']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['davidsiga', 'relatives', 'deceased', 'died', 'entered', 'hospital', 'without', 'signs', 'yesterday', 'since', 'first', 'wounded', 'person', 'entering', 'came', 'wounded', 'began', 'fall']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'morning', 'third', 'deceased', 'yesterday', 'confirmed', 'santa', 'elena', 'de', 'uairén', 'total', 'died', 'since', 'february', 'indigenous', 'zoraida', 'rodríguez', 'assassinated', 'army', 'kumarakapay', 'feb', 'injured', 'saturday', 'confirmed', 'hospital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jasacevedo', 'oscarfmurillo', 'mramirezcabello', 'pableostos', 'marcosdavidv', 'reporting', 'far', 'safe', 'sound']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'pm', 'confirmed', 'rosario', 'vera', 'zurita', 'hospital', 'santa', 'elena', 'de', 'uairén', 'balance', 'two', 'deaths', 'josé', 'hernández', 'bullet', 'hit', 'head', 'another', 'unidentified', 'shot', 'chest', 'wounded', 'attack', 'gn']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'pm', 'situation', 'santa', 'elena', 'de', 'uairén', 'continues', 'tense', 'gn', 'persecutes', 'inhabitants', 'thrown', 'tear', 'gas', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'escamoto', 'crowd', 'tried', 'remove', 'gn', 'barricade', 'midst', 'disturbance', 'tear', 'gas', 'molotov', 'ambushed', 'soldiers', 'went', 'surroundings', 'fired', 'witnesses', 'reported', 'transferred', 'wounded', 'santa', 'elena', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'hospital', 'report', 'two', 'deceased', 'josé', 'hernández', 'sister', 'reported', 'death', 'brother', 'however', 'assure', 'like', 'pm', 'deceased', 'remain', 'unidentified']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'pm', 'one', 'person', 'died', 'gunshot', 'wound', 'head', 'admitted', 'santa', 'elena', 'de', 'uairén', 'hospital', 'identified', 'josé', 'hernández', 'las', 'esquinas', 'least', 'injured', 'escamoto', 'counted', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'although', 'gn', 'escamoto', 'withdrawn', 'allowed', 'passage', 'la', 'línea', 'hooded', 'men', 'put', 'barricades', 'center', 'santa', 'elena', 'de', 'uairén', 'riots', 'generated', 'vicinity', 'mayor', 'office', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'dip', 'luis', 'silva', 'reports', 'humanitarian', 'aid', 'arriving', 'pacaraima', 'gandolas', 'left', 'boa', 'vista', 'dawn', 'escorted', 'army', 'statement', 'expected', 'ambassador', 'brazil', 'venezuelan', 'ambassador', 'brazil', 'maría', 'belandria']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['feb', 'last', 'night', 'riots', 'santa', 'elena', 'de', 'uairén', 'gn', 'launched', 'tear', 'gas', 'disperse', 'demonstrations', 'barricades', 'two', 'buses', 'set', 'fire']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'woman', 'child', 'handed', 'new', 'testament', 'military', 'deputies', 'journalists', 'boy', 'recommended', 'reading', 'psalm', 'said', 'goodbye', 'god', 'bless', 'escamoto', 'fort', 'roraima', 'height', 'santa', 'elena', 'de', 'uairén', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rafaelgoudeth', 'yes', 'arreaza', 'said', 'santa', 'elena', 'de', 'uairén', 'hospital', 'confirmed', 'admitted', 'wounded', 'gunshot', 'wounds']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alibert', 'reading', 'news', 'reading', 'tweet', 'go']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'signal', 'santa', 'elena', 'de', 'uairén', 'good', 'manage', 'connect', 'send', 'urgently', 'medium', 'photo', 'situation', 'fort', 'roraima', 'closed', 'gn', 'transfer', 'injured', 'kumarakapay', 'boa', 'vista', 'list', 'injured', 'zoraida', 'rodríguez', 'died']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['nabybi', 'oliviadelv', 'soyarepita', 'lavidadenos', 'thank', 'reading', 'hug', 'santa', 'elena', 'de', 'uairén']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['nabybi', 'oliviadelv', 'soyarepita', 'already', 'chief', 'richard', 'fernandez', 'kumarakapay', 'clarified', 'like', 'presumed', 'dead', 'suffered', 'arrest', 'hospital', 'transferred', 'boa', 'vista', 'serious', 'condition']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['angelcarrillo', 'oliviadelv', 'denounce', 'army', 'fired', 'left', 'declared', 'richard', 'fernández', 'chief', 'kumarakapay']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'indigenous', 'people', 'kumarakapay', 'keep', 'soldiers', 'detained', 'although', 'ones', 'fired', 'measure', 'pressure', 'silence', 'gave', 'order', 'shoot', 'chief', 'richard', 'fernández', 'maintains', 'figure', 'one', 'deceased', 'zoraida', 'rodríguez']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fresitarai', 'carlossuniagag', 'new', 'report', 'keep', 'four', 'officials', 'detained', 'pressure', 'clarify', 'happened', 'kumarakapay']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['manuelucab', 'far', 'confirmed', 'one', 'deceased', 'injured', 'kumarakapay']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['santa', 'elena', 'de', 'uairén', 'hospital', 'suffered', 'respiratory', 'arrest', 'talk', 'death', 'however', 'status', 'remains', 'reserved', 'bolivar', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'pm', 'contacted', 'richard', 'fernández', 'chief', 'kumarakapay', 'reported', 'rolando', 'garcía', 'husband', 'late', 'zoraida', 'rodríguez', 'died', 'seriously', 'injured', 'transferred', 'boa', 'vista', 'resisting', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'wounded', 'one', 'deceased', 'named', 'zoraida', 'rodríguez', 'balance', 'reported', 'kumarakapay', 'indigenous', 'community', 'attack', 'military', 'officials', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'yesterday', 'gandola', 'two', 'tanks', 'las', 'claritas', 'two', 'casa', 'blanca', 'via', 'santa', 'elena', 'de', 'uairén', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'kumarakapay', 'report', 'injuries', 'repression', 'gn', 'indigenous', 'people', 'blocked', 'road', 'prevent', 'passage', 'riot', 'gear', 'ask', 'help', 'since', 'way', 'transfer', 'seriously', 'injured', 'people', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'suspended', 'private', 'flights', 'venezuela', 'notice']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['luisayala', 'link', 'information']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['iraida', 'puerto', 'ordaz', 'clinic', 'someone', 'collaborate', 'share', 'reaches', 'others', 'guayana', 'venezuela', 'serviciopublico']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['guayana', 'public', 'service', 'patient', 'maria', 'de', 'freitas', 'laxis', 'ampoule', 'requested', 'held', 'ferrominera', 'hospital', 'contact']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['herreraos', 'lavidadenos', 'people', 'still', 'indulge', 'happy', 'invite', 'take', 'tour', 'hospitals', 'talk', 'relatives', 'patients', 'talk', 'people', 'including', 'children', 'live', 'street', 'understand']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rociogarces', 'thaised', 'thank', 'nice', 'words', 'reading', 'story']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['friends', 'donamed', 'participate', 'forum', 'directv', 'contest', 'help', 'vote', 'video', 'project', 'positively', 'theforumtedavoz', 'theforumtedavoz']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['regarding', 'wait', 'entry', 'humanitarian', 'aid', 'lavidadenos', 'stories', 'published', 'reflect', 'crisis', 'although', 'happened', 'one', 'person', 'particular', 'related', 'happens', 'many', 'shows', 'venezuela', 'requires', 'help']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['knew', 'details', 'decided', 'write', 'nancy', 'chatted', 'thais', 'much', 'impressed', 'time', 'writing', 'could', 'find', 'words', 'even', 'lump', 'throat']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'informs', 'liborioguarulla', 'entry', 'humanitarian', 'aid', 'amazonas']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['entered', 'fake', 'website', 'volunteering', 'humanitarian', 'aid', 'promoted', 'asambleve', 'check', 'thread', 'learn', 'eliminate', 'traces', 'corrupted', 'data', 'cantv', 'would', 'entered', 'dns', 'system', 'cache', 'via', 'espaciopublico']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'part', 'march', 'youth', 'day', 'guayana', 'bolívar']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['feb', 'rafael', 'puga', 'augusto', 'puga', 'uncle', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['feb', 'march', 'guayana', 'youth', 'day', 'arrives', 'rotary', 'walk']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['oliviadelv', 'hcapriles', 'bend', 'stretch', 'necks', 'appear', 'photo', 'video', 'hahaha']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['public', 'service', 'tatianitasantos', 'looking', 'cefadroxil', 'sultamicillin', 'suspension', 'mg', 'bacitracin', 'eight', 'month', 'old', 'baby', 'information', 'guayana', 'puertoordaz', 'sanfelix', 'upata', 'ciudadbolivar', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['majomenos', 'wilson', 'castro', 'mayor', 'caroní']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['knew', 'prison', 'revolution', 'born', 'via', 'lavidadenos', 'photo', 'report', 'william', 'urdaneta', 'honor', 'collaborating', 'story', 'jickson']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['etethebest', 'marcoszam', 'yesterday', 'asked', 'ibuprofen', 'told', 'thousand', 'atamel', 'thousand']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['por', 'puesto', 'certain', 'thing', 'coffee', 'two']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['danieletz', 'orianafaoro', 'problem', 'asked', 'speak', 'representatives', 'students', 'none', 'come', 'give', 'us', 'testimony', 'even', 'anonymity', 'happened', 'registered', 'arrests', 'recruitment']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gerardoenrique', 'luzmelyreyes', 'like', 'want', 'swear', 'without', 'confirmed', 'testimony', 'write', 'true', 'forced', 'recruitment', 'minors', 'different', 'arrest', 'arbitrary', 'happened']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['josangelch', 'correodelcaroni', 'exactly', 'confusing', 'arbitrary', 'detentions', 'recruitment']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['soynuevaprensa', 'uyapar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['manmet', 'january', 'chipía', 'square', 'puerto', 'ordaz', 'tweet', 'indicates', 'date']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ene', 'mrs', 'narcisa', 'years', 'old', 'protagonist', 'one', 'concentrations', 'guayana', 'broken', 'voice', 'said', 'misses', 'everything', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ene', 'narcisa', 'chavero', 'years', 'old', 'asked', 'family', 'take', 'rally', 'av', 'paseo', 'caroní', 'puertoordaz', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['national', 'protest', 'ene', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['leonervis', 'still', 'got', 'dr', 'maduro', 'talking', 'someone', 'else', 'doctor', 'bears', 'last', 'name', 'mr', 'nicolás']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['yadirarojasmata', 'caraotadigital', 'detained']",Negativo,Neutral,Neutral,Neutral,Neutral
+['reportnotcrime'],Neutral,Neutral,Neutral,Neutral,Neutral
+"['something', 'like', 'sends', 'live', 'dictatorship']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'jan', 'son', 'released', 'year', 'old', 'boy', 'convulsed', 'several', 'times', 'military', 'allow', 'deliver', 'medicine', 'sunday', 'allowed', 'slapping', 'blows', 'head', 'feet', 'treatment', 'guayana', 'received']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jan', 'noon', 'jickson', 'rodríguez', 'years', 'old', 'released', 'precautionary', 'measures', 'arrested', 'villa', 'bahía', 'special', 'condition', 'suffered', 'seizures', 'detained', 'gn', 'allow', 'receive', 'medication', 'furthermore', 'physically', 'verbally', 'abused', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['protests', 'arbitrary', 'arrests', 'gn', 'guyana', 'via', 'youtube']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ene', 'testimony', 'mother', 'one', 'detainees', 'guayana', 'demonstrations', 'year', 'old', 'son', 'special', 'condition', 'yesterday', 'two', 'seizures', 'allowed', 'receive', 'medicine', 'also', 'denounces', 'mistreatment', 'military']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['empty', 'butter', 'containers', 'ice', 'cream', 'pots', 'plastic', 'containers', 'throw', 'friend', 'albaysabel', 'needs', 'foundation', 'dios', 'provee', 'bring', 'food', 'people', 'street', 'guiana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jcvenez', 'yes', 'write', 'large', 'part', 'sectors', 'able', 'verify']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['ene', 'since', 'yesterday', 'large', 'part', 'ciudad', 'guayana', 'without', 'aba', 'cantv', 'internet', 'areas', 'bolívar', 'state', 'rest', 'country', 'situation']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ene', 'early', 'hearing', 'minors', 'received', 'precautionary', 'measure', 'friday', 'ene', 'foropenal', 'bolívar', 'confirmed', 'arrests', 'guayana', 'context', 'demonstrations', 'report', 'others', 'verify']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jan', 'pm', 'lawyers', 'foropenal', 'defensa', 'bolívar', 'denounce', 'allowed', 'access', 'courts', 'hearing', 'several', 'detainees', 'protests', 'would', 'assigning', 'public', 'defenders', 'although', 'relatives', 'asked', 'defense', 'ngos', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jan', 'foro', 'penal', 'warned', 'may', 'detainees', 'still', 'check', 'commands', 'yesterday', 'cicpc', 'spoke', 'relatives', 'detainees', 'el', 'palmar', 'assured', 'men', 'women', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['por', 'puesto', 'already', 'brew', 'coffee', 'thing', 'happened', 'without', 'coffee', 'hahahaha']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ene', 'last', 'night', 'detainees', 'presented', 'guayana', 'january', 'figure', 'confirmed', 'foropenal', 'bolívar', 'court', 'ruled', 'custodial', 'confinement', 'el', 'dorado', 'among', 'arrested', 'case', 'statue', 'chávez']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jan', 'marialbat', 'confirms', 'neighbor', 'presumed', 'detained', 'appeared', 'entee', 'january', 'least', 'arrests', 'guayana', 'confirmed', 'foropenal', 'bolívar', 'added', 'least', 'el', 'palmar', 'today', 'cicpc', 'review']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jan', 'pm', 'neighbors', 'moreno', 'de', 'mendoza', 'sanfélix', 'denounce', 'repression', 'tear', 'gas', 'pellets', 'far', 'report', 'detainee', 'guayana', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jan', 'relatives', 'least', 'detainees', 'el', 'palmar', 'context', 'demonstrations', 'denounced', 'arbitrary', 'procedure', 'gn', 'looted', 'free', 'affirmed', 'bolivar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ene', 'inform', 'detained', 'dgcim', 'puerto', 'ordaz', 'detainees', 'last', 'night', 'la', 'churuata', 'would', 'also', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ene', 'family', 'members', 'gabriel', 'madrid', 'denounce', 'arrested', 'last', 'night', 'la', 'churuata', 'whereabouts', 'unknown', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jan', 'pm', 'several', 'areas', 'puerto', 'ordaz', 'san', 'félix', 'cooking', 'time', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ene', 'inhabitants', 'sanfélix', 'report', 'around', 'pm', 'gn', 'threw', 'tear', 'gas', 'canisters', 'residents', 'ud', 'san', 'juan', 'bautista', 'college', 'gnb', 'tanks', 'already', 'withdrawn', 'protesters', 'continue', 'routes', 'blocked', 'reported', 'guiana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jan', 'pm', 'alta', 'vista', 'torre', 'caura', 'paseo', 'caroní', 'blocked', 'streets', 'barricades', 'rest', 'sector', 'looks', 'like', 'plaza', 'el', 'hierro', 'group', 'waits', 'public', 'transport', 'guayana', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jan', 'morning', 'connection', 'collaborate', 'impossible', 'tweet', 'part', 'experienced', 'open', 'town', 'hall', 'guayana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['guayana', 'ene', 'one', 'images', 'burning', 'statue', 'hugo', 'chávez', 'san', 'félix', 'loud', 'pots', 'shouts', 'maduro', 'also', 'heard', 'photo', 'courtesy']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['men', 'report', 'sanfélix', 'pots', 'also', 'heard', 'rejection', 'maduro']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jan', 'pm', 'approximately', 'pm', 'cacerolazos', 'heard', 'different', 'sectors', 'guayana', 'campo', 'residencias', 'tumeremo', 'alta', 'vista', 'curagua', 'río', 'negro', 'including', 'urban', 'development', 'misión', 'vivienda', 'bolívar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jl', 'digital', 'leonervis', 'last', 'days', 'aba', 'null']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['danizuritac', 'ask', 'positive', 'day', 'disaster', 'report']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['leonervis', 'surprised', 'wifi', 'works']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['carola', 'thank']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['fmonroy', 'jguaido', 'since', 'friday', 'press', 'release', 'sent', 'vp', 'communication', 'disaster']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['difficult', 'one', 'us', 'study', 'history', 'venezuela', 'high', 'school', 'university', 'even', 'want', 'imagine', 'students', 'next', 'years', 'need', 'hours', 'classes', 'explain']",Neutral,Neutral,Neutral,Neutral,Neutral

@@ -1,251 +1,251 @@
 tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
-"['homemade', 'mouth', 'covers', 'effective', 'social', 'distancing', 'video', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['expert', 'affirms', 'coronavirus', 'cases', 'virginia', 'could', 'decrease', 'video', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['homemade', 'mouth', 'covers', 'effective', 'social', 'distancing', 'video', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['chile', 'requires', 'residents', 'use', 'masks', 'public', 'transport', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['dubai', 'residents', 'must', 'request', 'permission', 'online', 'leave', 'homes', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['nicolasmaduro', 'show', 'two', 'machines', 'coronavirus', 'diagnostics', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['ambassador', 'vecchio', 'carlosvecchio', 'announces', 'release', 'venezuelan', 'migrants', 'detained', 'us', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['colombia', 'opens', 'humanitarian', 'channel', 'border', 'departure', 'venezuelans', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['minutes', 'live', 'program', 'colleague', 'maibort', 'petit', 'maibortpetit', 'historiasdecuarentena', 'talking', 'coronavirus', 'elsalvador', 'interviewing', 'fabricioleon']",Negativo,0,0,1,0
-"['usa', 'new', 'york', 'registers', 'thousand', 'covid', 'infections', 'via', 'eltiempolatino', 'abr']",Negativo,0,0,0,0
-"['year', 'old', 'man', 'first', 'death', 'covid', 'barranquilla', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['venezuelan', 'schoolchildren', 'could', 'finish', 'year', 'home', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['alminuto', 'miami', 'applies', 'curfew', 'stop', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['trump', 'recommends', 'wearing', 'mask', 'clarifies', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['facing', 'coronavirus', 'challenge', 'mental', 'well', 'video', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['josé', 'luis', 'parada', 'sánchez', 'fugitive', 'justice', 'corruption', 'pdvsa', 'appeared', 'buying', 'cattle', 'colombia', 'maibortpetit', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['paho', 'seeks', 'million', 'combat', 'coronavirus', 'pandemic', 'via', 'eltiempolatino', 'abr']",Negativo,0,0,0,0
-"['alminuto', 'libya', 'announces', 'first', 'death', 'coronavirus', 'amid', 'fighting', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['alminuto', 'florida', 'exceeds', 'cases', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['venezuela', 'registers', 'two', 'new', 'deaths', 'coronavirus', 'two', 'new', 'positive', 'cases', 'via', 'eltiempolatino']",Positivo,0,0,1,0
-"['alminuto', 'youth', 'rehabilitation', 'services', 'clerk', 'dies', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['many', 'jobs', 'coronavirus', 'kill', 'us', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['delegate', 'guzmán', 'asks', 'virginia', 'residents', 'prepare', 'strongest', 'part', 'coronavirus', 'video', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['coronavirus', 'red', 'cloth', 'facade', 'colombian', 'homes', 'mean', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['global', 'deaths', 'coronavirus', 'double', 'week', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['montgomery', 'county', 'ensures', 'financial', 'aid', 'need', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['colombian', 'government', 'denies', 'extension', 'quarantine', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['alminuto', 'four', 'journalists', 'ecuador', 'die', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['measures', 'maryland', 'curfew', 'according', 'official', 'spokespersons', 'video', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['us', 'announces', 'anti', 'drug', 'operation', 'caribbean', 'maduro', 'regime', 'relies', 'drug', 'profits', 'via', 'eltiempolatino']",Positivo,0,0,1,0
-"['last', 'hour', 'president', 'donald', 'trump', 'accompanied', 'southern', 'command', 'department', 'justice', 'announces', 'maritime', 'air', 'anti', 'narcotics', 'operation', 'caribbean', 'vía', 'eltiempolatino']",Positivo,0,0,1,0
-"['mayor', 'bowser', 'reminded', 'residents', 'landlords', 'issue', 'late', 'fees', 'eviction', 'notices']",Negativo,0,0,0,0
-"['venezuela', 'eeuu', 'support', 'us', 'accusations', 'nicolás', 'maduro', 'part', 'ii', 'maibortpetit', 'via', 'eltiempolatino']",Positivo,0,0,1,0
-"['judicial', 'process', 'cliver', 'alcalá', 'cordones', 'begins', 'new', 'york', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['opinion', 'noriega', 'maduro', 'drugs', 'money', 'power', 'hectorschamis', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['duque', 'announces', 'suspension', 'evictions', 'increase', 'rents', 'quarantine', 'via', 'eltiempolatino']",Positivo,0,1,1,0
-"['nazareno', 'travel', 'streets', 'caracas', 'popemobile', 'due', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['united', 'states', 'propose', 'transition', 'venezuela']",Positivo,0,1,1,1
-"['trump', 'says', 'next', 'two', 'weeks', 'us', 'difficult', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['alminuto', 'new', 'york', 'exceeds', 'thousand', 'positive', 'cases', 'coronavirus', 'via', 'eltiempolatino']",Positivo,0,0,1,0
-"['alminuto', 'paho', 'warns', 'america', 'maximum', 'number', 'cases', 'take', 'one', 'two', 'months']",Negativo,0,0,0,0
-"['el', 'salvador', 'airport', 'continue', 'temporary', 'closure', 'april', 'due', 'coronavirus', 'emergency']",Negativo,0,0,0,0
-"['patient', 'gone', 'serious', 'critical', 'condition', 'due', 'coronavirus', 'el', 'salvador']",Negativo,0,0,0,0
-"['el', 'salvador', 'airport', 'continue', 'temporary', 'closure', 'april', 'due', 'coronavirus', 'emergency']",Negativo,0,0,0,0
-"['germany', 'sent', 'hospital', 'plane', 'italy', 'pick', 'coronavirus', 'patients']",Negativo,0,0,0,0
-"['basis', 'us', 'accusations', 'nicolás', 'maduro', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['opinion', 'crisis', 'without', 'borders']",Negativo,0,0,0,0
-"['us', 'supreme', 'court', 'rules', 'citgo', 'responsible', 'oil', 'spill', 'maibortpetit']",Positivo,0,0,0,0
-"['new', 'york', 'prosecutors', 'oppose', 'tareck', 'el', 'aissami', 'accomplice', 'released', 'bail', 'coronavirus', 'argument', 'maibortpetit']",Negativo,0,0,0,0
-"['us', 'takes', 'advantage', 'hired', 'maduro', 'force', 'break']",Positivo,0,0,0,0
-"['alminuto', 'government', 'mexico', 'rules', 'use', 'force', 'apply', 'social', 'distancing', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['hoyenagenda', 'us', 'proposal', 'exchange', 'lifting', 'sanctions', 'regime', 'maduro', 'guaidó', 'stand', 'aside', 'start', 'transitional', 'government', 'calls', 'elections', 'next', 'year']",Negativo,0,0,1,0
-"['united', 'states', 'foresees', 'elections', 'venezuela', 'maximum', 'months', 'via', 'eltiempolatino', 'mar']",Positivo,0,1,1,0
-"['maduro', 'public', 'ministry', 'cites', 'juan', 'guaidó', 'alleged', 'coup', 'attempt', 'via', 'eltiempolatino', 'mar']",Negativo,0,0,0,0
-"['elliott', 'abrams', 'proposes', 'maduro', 'guaidó', 'stand', 'aside', 'hold', 'elections', 'via', 'eltiempolatino', 'mar']",Negativo,0,0,0,0
-"['month', 'old', 'baby', 'youngest', 'coronavirus', 'infected', 'colombia', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['maduro', 'regime', 'threatens', 'opposition', 'justice', 'reach', 'everyone”', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['maryland', 'virginia', 'order', 'stay', 'home']",Negativo,0,0,0,0
-"['alminuto', 'dc', 'mayor', 'issues', 'order', 'washington', 'residents', 'stay', 'home']",Negativo,0,0,0,0
-"['alminuto', 'dc', 'mayor', 'issues', 'order', 'washington', 'residents', 'stay', 'home']",Negativo,0,0,0,0
-"['ford', 'produce', 'respirators', 'days', 'stop', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['quarantine', 'social', 'distancing', 'keys', 'avoid', 'spread', 'coronavirus', 'video', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['alminuto', 'colombia', 'confirms', 'deaths', 'coronavirus', 'infections']",Negativo,0,0,0,0
-"['un', 'requested', 'trillion', 'help', 'developing', 'countries', 'coronavirus', 'via', 'eltiempolatino']",Positivo,0,1,1,0
-"['coronavirus', 'weak', 'one', 'surface', 'causes', 'much', 'damage', 'organisms', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['maduro', 'regime', 'detains', 'two', 'members', 'president', 'juan', 'guaidó', 'team', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['us', 'plans', 'strategies', 'reduce', 'coronavirus', 'restrictions', 'country', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['un', 'donates', 'thousand', 'masks', 'new', 'york', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['alminuto', 'first', 'person', 'dies', 'covid', 'uruguay', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['coronavirus', 'claims', 'lives', 'six', 'salvadorans', 'living', 'countries', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['alminuto', 'death', 'toll', 'italy', 'exceeds', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['last', 'minute', 'russian', 'company', 'rosneft', 'ceases', 'operations', 'venezuela', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['alminuto', 'trump', 'could', 'consider', 'two', 'week', 'quarantine', 'new', 'york', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['alminuto', 'italy', 'touches', 'new', 'coronavirus', 'positives', 'one', 'day', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['alminuto', 'united', 'states', 'exceeds', 'one', 'hundred', 'thousand', 'positive', 'cases', 'covid', 'via', 'eltiempolatino']",Positivo,0,1,1,1
-"['almomento', 'maryland', 'reaches', 'five', 'deaths', 'coronavirus', 'via', 'eltiempolatino']",Positivo,0,0,1,0
-"['coronavirus', 'triggers', 'phone', 'calls', 'messages', 'us', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['macron', 'extends', 'confinement', 'france', 'april', 'via', 'eltiempolatino']",Positivo,0,0,1,0
-"['learn', 'confessions', 'abraham', 'edgardo', 'ortega', 'pdvsa', 'official', 'facilitated', 'money', 'laundering', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['understand', 'greatest', 'humanitarian', 'crisis', 'hemisphere', 'generated', 'narco', 'terrorists', 'whose', 'heads', 'speak', 'price', 'betrayals', 'criminals', 'uncommon', 'already', 'occurred', 'within', 'chavismo', 'key', 'move', 'dawn']",Negativo,0,0,1,0
-"['opinion', 'decision', 'us', 'department', 'justice', 'something', 'improvised', 'much', 'less', 'partisan', 'action', 'key', 'strategy', 'paid', 'terrorists', 'past', 'suffering', 'people', 'venezuela', 'twofold', 'dictatorship', 'virus']",Negativo,0,0,1,0
-"['benefit', 'us', 'economic', 'stimulus', 'package', 'video', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['amazing', 'ad', 'definitely', 'need', 'watch', 'joebiden', 'thedemocrats']",Positivo,0,0,0,0
-"['last', 'hour', 'us', 'prosecutors', 'accuse', 'nicolás', 'maduro', 'diosdado', 'cabello', 'narco', 'terrorism']",Negativo,0,0,1,0
-"['trump', 'administration', 'could', 'designate', 'venezuela', 'sponsor', 'terrorism', 'via', 'eltiempolatino', 'mar']",Negativo,0,0,0,0
-"['armed', 'attack', 'southwest', 'washington', 'leaves', 'one', 'injured', 'video']",Negativo,0,0,0,0
-"['exclusive', 'italian', 'doctor', 'soldier', 'war', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['minor', 'dies', 'california', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['world', 'italia', 'registers', 'deaths', 'coronavirus']",Negativo,0,0,0,0
-"['tokyo', 'olympic', 'games', 'postponed']",Negativo,0,0,0,0
-"['recovering', 'coronavirus', 'remain', 'isolation']",Negativo,0,0,0,0
-"['maryorinmendez', 'hahahahaha', 'many', 'dare', 'say', 'eat', 'secret', 'dareamalamayonnaiseinpublic']",Negativo,0,0,0,0
-"['nayibbukele', 'geovannyvicentr', 'marlonecorrea', 'angiez', 'uguelo']",Negativo,0,0,0,0
-"['facts', 'tags', 'see', 'plane', 'fly', 'close', 'makes', 'want', 'cry', 'need', 'bathroom', 'always', 'smell', 'good', 'peace', 'mind', 'love', 'black', 'beans', 'mayonnaise', 'rice', 'ground', 'beef', 'also', 'actor', 'millennial', 'anti', 'left']",Positivo,1,1,1,0
-"['prince', 'albert', 'ii', 'monaco', 'tested', 'positive', 'coronavirus']",Positivo,1,1,0,1
-"['rowling', 'offers', 'open', 'license', 'teachers', 'read', 'harry', 'potter', 'face', 'coronavirus', 'quarantine']",Negativo,0,0,0,0
-"['lorenzo', 'sanz', 'former', 'president', 'real', 'madrid', 'died', 'coronavirus']",Negativo,0,0,1,0
-"['placido', 'domingo', 'tested', 'positive', 'coronavirus']",Positivo,1,1,0,1
-"['maduro', 'regime', 'arbitrarily', 'detains', 'journalist', 'darvinson', 'rojas']",Negativo,0,0,0,0
-"['attack', 'media', 'blame', 'opposition', 'people', 'ills', 'country', 'sounds', 'familiar', 'ah', 'course', 'chávez', 'venezuela', 'ah', 'amlo', 'mexico', 'ah', 'socialist', 'script', 'screw', 'power', 'cuba', 'venezuela', 'nica', 'mx']",Negativo,0,0,1,0
-"['freeze', 'rent', 'mortgage', 'utility', 'payments', 'covid', 'quarantine', 'people', 'voice', 'government']",Positivo,0,1,1,0
-"['colombia', 'registers', 'cases', 'coronavirus', 'via', 'eltiempolatino', 'mar']",Negativo,0,0,0,0
-"['unusual', 'day', 'verdict', 'trial', 'banker', 'ali', 'sadr', 'hasheminejad', 'maibortpetit', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['international', 'monetary', 'fund', 'denies', 'loan', 'requested', 'nicolás', 'maduro', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['jury', 'deliberations', 'ali', 'sadr', 'hasheminejad', 'trial', 'continue', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['six', 'states', 'capital', 'district', 'venezuela', 'go', 'quarantine', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['last', 'hour', 'trump', 'declares', 'national', 'emergency', 'due', 'coronavirus']",Negativo,0,0,1,0
-"['ali', 'sadr', 'hasheminejad', 'iranian', 'worked', 'hugo', 'chávez', 'projects', 'declared', 'barack', 'obama', 'fanatic', 'relaxed', 'sanctions', 'iran', 'maibortpetit', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['cuba', 'confirmed', 'first', 'cases', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['trump', 'suspends', 'travel', 'europe', 'us', 'due', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['last', 'hour', 'maduro', 'officials', 'repress', 'mobilization', 'juan', 'guaidó', 'caracas', 'mar']",Negativo,0,0,1,0
-"['bachelet', 'denounces', 'persistence', 'violence', 'security', 'forces', 'venezuela', 'via', 'eltiempolatino', 'mar']",Negativo,0,0,0,0
-"['error', 'payment', 'pdvsa', 'ali', 'sadr', 'hasheminejad', 'company', 'alerted', 'us', 'maibortpetit', 'via', 'eltiempolatino', 'mar']",Negativo,0,0,0,0
-"['israeli', 'ambassador', 'hezbollah', 'presence', 'venezuela', 'colombia', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['invite', 'listen', 'see', 'podcast', 'colleague', 'lorenarraiz', 'anamariasimon', 'guest', 'within', 'framework', 'international', 'women', 'day', 'vindicate', 'power', 'women', 'inspiration', 'strength', 'dedication', 'vulnerability', 'engine', 'lives']",Positivo,1,1,0,0
-"['us', 'judge', 'approves', 'release', 'passports', 'josé', 'manuel', 'gonzález', 'testino', 'wife', 'maibortpetit', 'via', 'eltiempolatino', 'citgo', 'pdvsa']",Positivo,0,0,0,0
-"['eltiempolatino', 'safeway']",Negativo,0,0,0,0
-"['unbelievable', 'mara', 'gay', 'supposed', 'part', 'nytimes', 'editorial', 'board', 'maths', 'wrong', 'journalistic', 'quality', 'understand', 'nyt', 'become', 'see', 'publications', 'venezuela', 'far', 'leftist', 'position', 'awful']",Negativo,0,0,1,0
-"['colombia', 'implements', 'security', 'control', 'travelers', 'due', 'coronavirus', 'via', 'eltiempolatino', 'mar']",Positivo,0,0,0,0
-"['maduro', 'arrival', 'power', 'produced', 'changes', 'contract', 'iranian', 'company', 'maibortpetit', 'via', 'eltiempolatino', 'mar']",Negativo,0,0,0,0
-"['guaidó', 'fear', 'bullet', 'change', 'desire', 'venezuelans', 'free', 'via', 'eltiempolatino']",Positivo,0,1,0,0
-"['special', 'coronavirus', 'latin', 'america', 'zakont', 'via', 'eltiempolatino', 'mar']",Positivo,0,1,1,0
-"['dutch', 'caribbean', 'ask', 'venezuelans', 'visa', 'april', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['guaidó', 'promises', 'continue', 'fight', 'despite', 'attacks', 'maduro', 'regime', 'via', 'eltiempolatino']",Positivo,0,1,1,0
-"['donald', 'trump', 'iván', 'duque', 'talked', 'mar', 'white', 'house', 'venezuela', 'via', 'eltiempolatino']",Negativo,0,1,0,0
-"['lima', 'group', 'condemns', 'armed', 'attack', 'juan', 'guaidó', 'caravan', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['video', 'gt', 'opinion', 'sanders', 'nomination', 'new', 'victory', 'trump', 'ricardo', 'sanchez', 'silva', 'ricardolodice', 'full', 'vídeo']",Negativo,0,0,0,0
-"['opinion', 'sanders', 'nomination', 'new', 'victory', 'trump', 'ricardolodice', 'eltiempolatino', 'washingtondc', 'eltiempolatino']",Negativo,0,0,0,0
-"['opinion', 'sanders', 'nomination', 'new', 'victory', 'trump', 'ricardolodice', 'via', 'eltiempolatino', 'feb']",Negativo,0,0,0,0
-"['aruba', 'seized', 'five', 'tons', 'pure', 'cocaine', 'ship', 'sailed', 'venezuela']",Negativo,0,0,1,0
-"['venezuelan', 'special', 'forces', 'reuse', 'repower', 'weapons', 'confiscated', 'criminals']",Negativo,0,1,1,1
-"['mayor', 'mayita', 'meléndez', 'mayitaalcaldesa', 'strong', 'determined', 'determined', 'dignified', 'woman', 'via', 'eltiempolatino', 'vimeo']",Positivo,0,0,0,0
-"['special', 'colombia', 'territory', 'conflict', 'guerrillas', 'zakont', 'via', 'eltiempolatino', 'feb']",Positivo,0,1,1,1
-"['mayor', 'mayita', 'meléndez', 'strong', 'determined', 'determined', 'dignified', 'woman', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['pharmacist', 'massachusetts', 'presents', 'experimental', 'vaccine', 'coronavirus', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['rat', 'bat', 'snake', 'china', 'completely', 'prohibits', 'trade', 'consumption', 'wild', 'animals']",Negativo,0,0,0,0
-"['venezuelan', 'brothers', 'sell', 'bracelets', 'el', 'salvador', 'feed', 'families']",Negativo,0,1,0,0
-"['reveal', 'photos', 'eccentric', 'wedding', 'diosdado', 'cabello', 'daughter', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['trump', 'prepares', 'new', 'security', 'strategy', 'implement', 'cuba', 'venezuela']",Positivo,0,1,1,0
-"['least', 'minimum', 'wages', 'needed', 'venezuela', 'pay', 'food', 'basket']",Negativo,0,0,1,0
-"['venezuela', 'irregular', 'payments', 'parties', 'gifts', 'equipment', 'purchase', 'evidenced', 'pdvsa', 'oriente', 'audit', 'maibortpetit']",Positivo,0,0,1,0
-"['venezuela', 'pdvsa', 'preparing', 'plan', 'increase', 'fuel', 'rationing']",Positivo,0,1,1,0
-"['drinks', 'get', 'know', 'water', 'helps', 'anxiety', 'want', 'eat', 'beer', 'polar', 'black', 'venezuela', 'stella', 'bluemoon', 'shocktop', 'usa', 'whiskey', '🥃escocés', 'buchanan', 'black', 'label', 'venezuelan', 'rum', 'rondiplomatico', 'rocks', 'water', 'water']",Positivo,0,0,1,0
-"['xenophobia', 'venezuelans', 'stratum', 'colombia', 'viral', 'case']",Negativo,0,0,0,0
-"['colombia', 'stoppage', 'cargo', 'vehicle', 'transporters', 'lifted']",Negativo,0,0,0,0
-"['last', 'hour', 'juan', 'guaidó', 'calls', 'march', 'national', 'assembly', 'venezuela', 'mar', 'feb', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['caricature', 'dollarized', 'hyperinflation', 'fmpinilla', 'via', 'eltiempolatino', 'feb', 'venezuela']",Negativo,0,0,0,0
-"['venezuela', 'president', 'cvg', 'internacional', 'denounced', 'selling', 'employees', 'food', 'boxes', 'local', 'market', 'foreign', 'currency', 'maibortpetit']",Negativo,0,0,1,0
-"['bukele', 'brutal', 'show', 'force', 'violated', 'inter', 'american', 'democratic', 'charter', 'former', 'us', 'ambassador', 'el', 'salvador']",Negativo,0,0,0,0
-"['michelle', 'obama', 'bogotá', 'recognized', 'learning', 'networking', 'event']",Negativo,0,0,0,0
-"['corrupt', 'citgo', 'pdvsa', 'contractor', 'tulio', 'anibal', 'farías', 'pérez', 'pleaded', 'guilty', 'houston', 'federal', 'court', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['bloomberg', 'demoralized', 'sanders', 'attacked', 'debate', 'democratic', 'party', 'primaries', 'went', 'macoroldan']",Negativo,0,0,0,0
-"['usa', 'alfonzo', 'eliézer', 'gravina', 'muñoz', 'sentenced', 'months', 'prison', 'crimes', 'corruption', 'pdvsa', 'maibortpetit']",Negativo,0,0,0,0
-"['maduro', 'appoints', 'tareck', 'el', 'aissami', 'president', 'pdvsa', 'creates', 'presidential', 'commission', 'restructuring']",Positivo,0,0,1,0
-"['editorial', 'democratic', 'party', 'labyrinth', 'find', 'way']",Positivo,0,0,0,0
-"['colombia', 'aida', 'merlano', 'guaidó', 'extradition', 'request', 'consistency', 'via', 'eltiempolatino', 'feb']",Negativo,0,0,0,0
-"['friends', 'go', 'solidarity', 'colleague', 'carlosaranasan', 'father', 'diagnosed', 'obstructive', 'jaundice', 'syndrome', 'due', 'gallstones', 'undergo', 'urg', 'surgery', 'today', 'requires', 'granite', 'sand', 'gt', 'gofundme', 'serviciopublico', 'gofundme', 'crowdfunding']",Positivo,1,1,0,1
-"['students', 'el', 'salvador', 'dropped', 'due', 'threats', 'gang', 'violence']",Negativo,0,0,0,0
-"['foreign', 'minister', 'maduro', 'threatens', 'identify', 'confessed', 'indolents', 'celebrate', 'sanctions']",Positivo,0,0,0,0
-"['guaidó', 'special', 'law', 'fund', 'liberation', 'venezuela', 'mark', 'struggle', 'via', 'eltiempolatino']",Positivo,0,1,1,0
-"['rosneft', 'suffers', 'millionaire', 'loss', 'billion', 'dollars', 'two', 'hours', 'us', 'sanctions']",Negativo,0,0,0,0
-"['maduro', 'government', 'suspends', 'activity', 'airline', 'tap', 'air', 'portugal', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['envivo', 'elliott', 'abrams', 'pressure', 'continue', 'venezuela', 'free', 'feb', 'rosneft']",Positivo,0,1,1,0
-"['last', 'hour', 'us', 'sanctions', 'rosneft', 'subsidiary', 'negotiating', 'maduro', 'regime', 'via', 'eltiempolatino', 'feb']",Negativo,0,0,0,0
-"['first', 'colombian', 'infected', 'coronavirus', 'confirmed']",Negativo,0,0,0,0
-"['communicational', 'sovereignty', 'venezuela', 'resides', 'cuba', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['video', 'director', 'penal', 'forum', 'confirmed', 'still', 'political', 'prisoners', 'venezuela']",Negativo,0,0,1,0
-"['issuance', 'letters', 'objection', 'venezuelans', 'us', 'begin', 'february']",Negativo,0,0,0,0
-"['colombia', 'assassinated', 'two', 'peasant', 'leaders', 'indigenous', 'guard', 'cauca', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['president', 'corpoelec', 'hired', 'real', 'estate', 'agency', 'buy', 'mansion', 'costa', 'rica', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['irregularities', 'management', 'balance', 'wells', 'cause', 'millions', 'losses', 'west', 'coast', 'division', 'pdvsa', 'lake', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['oromireyac', 'macoroldan', 'jguaido', 'thank', 'invite', 'share', 'work', 'hugs']",Positivo,1,1,1,1
-"['invite', 'read', 'special', 'week', 'collaboration', 'colleague', 'macoroldan', 'guaidó', 'tour', 'particular', 'visit', 'eeuu', 'gt', 'guaidó', 'tour', 'days', 'create', 'new', 'structure', 'venezuela', 'strategy', 'february', 'jguaido']",Positivo,0,1,1,0
-"['colombian', 'economy', 'grew', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['foreign', 'minister', 'spain', 'un', 'juan', 'guaidó', 'acting', 'president', 'leader', 'venezuelan', 'opposition', 'maibortpetit']",Negativo,0,0,1,0
-"['rodrigo', 'young', 'man', 'died', 'texas', 'desert', 'fleeing', 'gangs']",Negativo,0,0,0,0
-"['coca', 'laboratory', 'found', 'family', 'farm', 'colombian', 'ambassador', 'uruguay']",Negativo,0,0,0,0
-"['us', 'senators', 'call', 'peaceful', 'dialogue', 'bukele', 'assembly']",Positivo,0,0,0,0
-"['auditor', 'disclosures', 'irregular', 'contracts', 'lack', 'controls', 'lack', 'transparency', 'pdvsa', 'occidente', 'transportation', 'management', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['judge', 'denies', 'motion', 'filed', 'dresser', 'rand', 'cop', 'order', 'pdvsa', 'pay', 'overdue', 'debt', 'maibortpetit', 'via', 'eltiempolatino', 'feb']",Negativo,0,0,0,0
-"['special', 'guaidó', 'tour', 'days', 'create', 'new', 'structure', 'venezuela', 'strategy', 'macoroldan', 'ricardolodice', 'via', 'eltiempolatino', 'feb']",Positivo,0,0,1,0
-"['spanish', 'deputy', 'calls', 'resignation', 'minister', 'transport', 'supporting', 'maduro', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['guaidó', 'confronted', 'maduro', 'regime', 'arriving', 'venezuela', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['journalists', 'attacked', 'return', 'guaidó', 'venezuela', 'video', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['president', 'charge', 'venezuela', 'juan', 'guaidó', 'jguaido', 'sent', 'message', 'social', 'networks', 'tour', 'returning', 'venezuela', 'support', 'respect', 'world', 'says', 'juanguaido', 'guaido', 'venezuela', 'sosvenezuela', 'eeuu']",Positivo,0,1,1,1
-"['tarek', 'william', 'saab', 'ordered', 'dismissal', 'case', 'protect', 'relatives', 'constituent', 'partners', 'pedro', 'león', 'rodríguez', 'maibortpetit', 'via', 'eltiempolatino']",Positivo,0,0,1,0
-"['eln', 'threatens', 'armed', 'strike”', 'colombia', 'starting', 'friday', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['opposition', 'judas', 'represent', 'anything', 'regime', 'rather', 'ally', 'dictatorship', 'opposition', 'dissent', 'cave', 'socialist', 'communist', 'propaganda', 'like', 'vtv', 'completely', 'reformed', 'new', 'democratic', 'republic']",Positivo,0,0,0,0
-"['iván', 'duque', 'aida', 'merlano', 'corrupt', 'bandit', 'criminal', 'via', 'eltiempolatino', 'feb']",Negativo,0,0,0,0
-"['press', 'coverage', 'meeting', 'president', 'juan', 'guaidó', 'jguaido', 'almagro', 'oea', 'washingtondc', 'part', 'press', 'team', 'cover', 'end', 'tour', 'comes', 'next', 'attentive', 'special', 'eltiempolatino', 'next', 'week', 'greetings', 'photo', 'prensaguaidó']",Positivo,0,1,1,0
-"['video', 'outskirts', 'oas', 'washington', 'dc', 'guaidó', 'says', 'recognitions', 'presidents', 'prime', 'ministers', 'deputies', 'senators', 'among', 'personalities', 'world', 'venezuelans', 'eltiempolatino']",Negativo,0,0,1,0
-"['president', 'juan', 'guaidó', 'visit', 'oea', 'washingtondc', 'photos', 'courtesy', 'marlonecorrea', '👏🏻', 'eltiempolatino']",Positivo,0,0,0,0
-"['envideo', 'president', 'guaidó', 'takes', 'selfie', 'venezuelan', 'diaspora', 'outside', 'oea']",Negativo,0,0,1,0
-"['interim', 'president', 'juan', 'guaidó', 'jguaido', 'talks', 'tour', 'oea', 'meeting', 'secretary', 'luis', 'almagro', 'almagro', 'oea']",Negativo,0,0,1,0
-"['guaidó', 'arrives', 'oas', 'consolidate', 'support', 'luis', 'almagro', 'via', 'eltiempolatino']",Positivo,0,0,1,0
-"['expected', 'president', 'juan', 'guaidó', 'jguaido', 'officials', 'accompany', 'meet', 'observers', 'ambassadors', 'countries', 'leaves', 'closed', 'door', 'meeting', 'currently', 'secretary', 'general', 'oea', 'almagro', 'oea', 'co', 'cc', 'ylgdeux']",Negativo,1,1,0,0
-"['minutes', 'ago', 'internal', 'president', 'venezuela', 'juan', 'guaidó', 'jguaido', 'made', 'entrance', 'oas', 'headquarters', 'oas', 'official', 'washingtondc', 'time', 'meeting', 'behind', 'closed', 'doors', 'secretary', 'general', 'luis', 'almagro', 'almagro', 'oea', 'feb']",Negativo,0,0,0,0
-"['president', 'guaidó', 'met', 'us', 'secretary', 'state', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['venezuela', 'bolipuertos', 'handed', 'operations', 'silo', 'complex', 'company', 'alleged', 'figurehead', 'padrino', 'lópez', 'maibortpetit', 'via', 'eltiempolatino', 'feb']",Negativo,0,0,0,0
-"['un', 'admits', 'capacity', 'face', 'political', 'crisis', 'venezuela', 'limited', 'maibortpetit']",Negativo,0,0,1,0
-"['special', 'coronavirus', 'vaccine', 'take', 'time', 'arrive', 'experts', 'say', 'zakont', 'via', 'eltiempolatino', 'feb']",Positivo,0,1,1,1
-"['venezuelan', 'economist', 'ricardo', 'hausmann', 'develop', 'plan', 'activate', 'economy', 'elsalvador']",Negativo,0,0,0,0
-"['lasthour', 'senate', 'acquits', 'trump', 'charges', 'approved', 'congress']",Positivo,0,1,0,0
-"['documentary', 'venezuelan', 'migration', 'brauliojatarm', 'seeks', 'financial', 'help', 'video', 'via', 'eltiempolatino']",Positivo,0,1,1,0
-"['trump', 'receives', 'guaidó', 'white', 'house', 'video', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['guaidó', 'thanks', 'united', 'states', 'support', 'meeting', 'mike', 'pence', 'via', 'eltiempolatino', 'feb']",Positivo,1,1,1,1
-"['state', 'union', 'donald', 'trump', 'sends', 'hopeful', 'message', 'cubans', 'nicaraguans', 'venezuelans', 'via', 'eltiempolatino']",Positivo,0,1,1,0
-"['enfotos', 'morning', 'meeting', 'president', 'juan', 'guaidó', 'jguaido', 'vp', 'mike', 'pence', 'credit', 'white', 'house', 'staff', 'tina', 'dufour']",Positivo,1,1,1,1
-"['pelosi', 'well', 'tearing', 'trump’s', 'speech', 'president', 'showed', 'he’s', 'neither', 'politician', 'gentleman', 'lout', 'speakerpelosi', 'right', 'break', 'trump', 'speech', 'president', 'proved', 'politician', 'gentleman', 'jerk🤦🏻\u200d♂️']",Negativo,0,0,1,0
-"['trump', 'reaffirms', 'recognition', 'guaidó', 'legitimate', 'president', 'state', 'union', 'speech', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['alminuto', 'china', 'registers', 'deaths', 'new', 'coronavirus', 'feb', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['think', 'pelosi', 'barely', 'realized', 'whole', 'impeachment', 'issue', 'ultimately', 'benefit', 'republicans', 'acquittal', 'realdonaldtrump', 'wednesday', 'nobody', 'knows', 'works', 'mistakes', 'politics', 'paid', 'goodnight']",Positivo,1,1,1,0
-"['key', 'message', 'president', 'realdonaldtrump', 'stateoftheunion', 'sotu', 'addressing', 'jguaido', 'socialism', 'destroys', 'nations', 'always', 'remember', 'freedom', 'unifies', 'soul”', 'socialism', 'destroys', 'nations', 'always', 'remember', 'freedom', 'unifies', 'soul']",Positivo,1,1,0,1
-"['realdonaldtrump', 'legitimate', 'president', 'venezuela', 'jguaido', 'mr', 'pdte', 'take', 'message', 'back', 'americans', 'united', 'venezuelan', 'people', 'right', 'fight', 'freedom', 'socialism', 'destroys', 'nations', 'freedom', 'unifies', 'soul']",Positivo,1,1,1,1
-"['live', 'follow', 'transmission', 'donald', 'trump', 'state', 'union', 'address', 'via', 'eltiempolatino']",Negativo,0,1,1,0
-"['interim', 'president', 'venezuela', 'juan', 'guaidó', 'jguaido', 'minutes', 'attending', 'realdonaldtrump', 'speech', 'state', 'union', 'us', 'congress', 'live', 'via', 'washingtonpost', 'read', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['juan', 'guaidó', 'trump', 'state', 'union', 'address', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['juan', 'guaidó', 'trump', 'state', 'nation', 'speech', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['maduro', 'regime', 'prevents', 'entry', 'iachr', 'delegation', 'venezuela', 'via', 'eltiempolatino', 'feb']",Positivo,0,0,0,0
-"['amp', 'shooting', 'commerce', 'campus', 'texas', 'left', 'two', 'dead']",Negativo,0,0,0,0
-"['venezuela', 'anc', 'economic', 'reforms', 'customs', 'fines', 'foreign', 'currency', 'maibortpetit', 'via', 'eltiempolatino', 'feb']",Negativo,0,0,0,0
-"['alminuto', 'deaths', 'coronavirus', 'increase', 'china']",Positivo,0,1,0,0
-"['florida', 'funeral', 'shooting', 'leaves', 'two', 'dead']",Negativo,0,0,0,0
-"['envivo', 'juan', 'guaidó', 'miami']",Negativo,0,0,0,0
-"['maduro', 'government', 'uses', 'vat', 'squeeze', 'purchases', 'dollars', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['right', 'eltiempolatino', 'website', 'keep', 'date', 'latest', 'updates', 'coronarvirus', 'world', 'jan', 'alminuto', 'china', 'registers', 'deaths', 'coronavirus', 'gt', 'number', 'suspected', 'cases', 'rises']",Negativo,0,0,1,0
-"['happyfridayall', 'today', 'recommend', 'reading', 'myriarte', 'special', 'upcoming', 'elections', 'bolivia', 'personally', 'wonder', 'opposition', 'act', 'intelligently', 'unify', 'socialist', 'communist', 'tyrant', 'evoespueblo', 'via', 'eltiempolatino']",Positivo,1,1,1,1
-"['alminuto', 'china', 'registers', 'deaths', 'coronavirus', 'via', 'eltiempolatino', 'ene']",Negativo,0,0,0,0
-"['caricature', 'exporting', 'another', 'virus', 'fmpinilla']",Negativo,0,0,0,0
-"['bolivia', 'democratic', 'feat', 'end', 'continuity', 'authoritarianism', 'myriarte', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['josé', 'vicente', 'amparan', 'cróquer', 'professional', 'money', 'launderer', 'pdvsa', 'irregular', 'negotiations', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['anc', 'economic', 'reforms', 'national', 'single', 'productive', 'portfolio', 'maibortpetit', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['buys', 'house', 'maryland', 'finds', 'body', 'former', 'resident']",Negativo,0,0,0,0
-"['bolivian', 'indigenous', 'people', 'demand', 'jeanine', 'áñez', 'heard']",Negativo,0,1,1,0
-"['three', 'narcos', 'escape', 'mexican', 'prison']",Negativo,0,0,0,0
-"['juan', 'guaidó', 'meet', 'venezuelans', 'latin', 'americans', 'miami', 'feb', 'via', 'eltiempolatino']",Negativo,0,0,1,0
-"['arrest', 'businessman', 'francisco', 'convit', 'accused', 'money', 'laundering', 'venezuela', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['health', 'authorities', 'investigating', 'possible', 'case', 'coronavirus', 'colombia', 'via', 'eltiempolatino', 'ene']",Negativo,0,0,0,0
-"['specialized', 'us', 'military', 'division', 'lands', 'colombia', 'photos', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['united', 'states', 'accuses', 'pedro', 'sánchez', 'failing', 'comply', 'europe', 'decision', 'venezuela', 'via', 'eltiempolatino']",Negativo,0,1,1,0
-"['audit', 'determined', 'irregularities', 'pdvsa', 'stations', 'western', 'lake', 'coast', 'maibortpetit', 'via', 'eltiempolatino']",Positivo,0,0,0,0
-"['pompeo', 'warns', 'influence', 'china', 'russia', 'cuba', 'latin', 'america', 'via', 'eltiempolatino']",Negativo,0,0,0,0
-"['united', 'states', 'seizes', 'three', 'members', 'terrorist', 'group', 'al', 'qaeda', 'venezuela', 'via', 'eltiempolatino']",Negativo,0,1,1,0
-"['brazil', 'announced', 'detection', 'possible', 'coronavirus', 'case', 'minas', 'gerais']",Negativo,0,0,0,0
-"['iachr', 'publishes', 'report', 'violence', 'discrimination', 'latin', 'america', 'caribbean']",Negativo,0,0,0,0
-"['los', 'tigres', 'del', 'norte', 'join', 'super', 'bowl', 'liv', 'fox', 'deportes']",Positivo,0,1,0,0
-"['trump', 'ban', 'several', 'countries', 'entering', 'united', 'states']",Negativo,1,1,0,1
-"['bolivian', 'congress', 'accepts', 'resignation', 'evo', 'morales']",Positivo,0,1,0,0
-"['government', 'bolivia', 'warns', 'judicial', 'debts', 'morales', 'candidate']",Negativo,0,0,0,0
-"['us', 'blocks', 'venezuelan', 'planes', 'landed', 'el', 'salvador', 'fmln', 'governments', 'via', 'eltiempolatino']",Negativo,0,0,0,0
+"['homemade', 'mouth', 'covers', 'effective', 'social', 'distancing', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['expert', 'affirms', 'coronavirus', 'cases', 'virginia', 'could', 'decrease', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['homemade', 'mouth', 'covers', 'effective', 'social', 'distancing', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chile', 'requires', 'residents', 'use', 'masks', 'public', 'transport', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['dubai', 'residents', 'must', 'request', 'permission', 'online', 'leave', 'homes', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['nicolasmaduro', 'show', 'two', 'machines', 'coronavirus', 'diagnostics', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ambassador', 'vecchio', 'carlosvecchio', 'announces', 'release', 'venezuelan', 'migrants', 'detained', 'us', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['colombia', 'opens', 'humanitarian', 'channel', 'border', 'departure', 'venezuelans', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['minutes', 'live', 'program', 'colleague', 'maibort', 'petit', 'maibortpetit', 'historiasdecuarentena', 'talking', 'coronavirus', 'elsalvador', 'interviewing', 'fabricioleon']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['usa', 'new', 'york', 'registers', 'thousand', 'covid', 'infections', 'via', 'eltiempolatino', 'abr']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['year', 'old', 'man', 'first', 'death', 'covid', 'barranquilla', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuelan', 'schoolchildren', 'could', 'finish', 'year', 'home', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'miami', 'applies', 'curfew', 'stop', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['trump', 'recommends', 'wearing', 'mask', 'clarifies', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['facing', 'coronavirus', 'challenge', 'mental', 'well', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['josé', 'luis', 'parada', 'sánchez', 'fugitive', 'justice', 'corruption', 'pdvsa', 'appeared', 'buying', 'cattle', 'colombia', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['paho', 'seeks', 'million', 'combat', 'coronavirus', 'pandemic', 'via', 'eltiempolatino', 'abr']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'libya', 'announces', 'first', 'death', 'coronavirus', 'amid', 'fighting', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'florida', 'exceeds', 'cases', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuela', 'registers', 'two', 'new', 'deaths', 'coronavirus', 'two', 'new', 'positive', 'cases', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'youth', 'rehabilitation', 'services', 'clerk', 'dies', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['many', 'jobs', 'coronavirus', 'kill', 'us', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['delegate', 'guzmán', 'asks', 'virginia', 'residents', 'prepare', 'strongest', 'part', 'coronavirus', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['coronavirus', 'red', 'cloth', 'facade', 'colombian', 'homes', 'mean', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['global', 'deaths', 'coronavirus', 'double', 'week', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['montgomery', 'county', 'ensures', 'financial', 'aid', 'need', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['colombian', 'government', 'denies', 'extension', 'quarantine', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'four', 'journalists', 'ecuador', 'die', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['measures', 'maryland', 'curfew', 'according', 'official', 'spokespersons', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['us', 'announces', 'anti', 'drug', 'operation', 'caribbean', 'maduro', 'regime', 'relies', 'drug', 'profits', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['last', 'hour', 'president', 'donald', 'trump', 'accompanied', 'southern', 'command', 'department', 'justice', 'announces', 'maritime', 'air', 'anti', 'narcotics', 'operation', 'caribbean', 'vía', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mayor', 'bowser', 'reminded', 'residents', 'landlords', 'issue', 'late', 'fees', 'eviction', 'notices']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuela', 'eeuu', 'support', 'us', 'accusations', 'nicolás', 'maduro', 'part', 'ii', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['judicial', 'process', 'cliver', 'alcalá', 'cordones', 'begins', 'new', 'york', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['opinion', 'noriega', 'maduro', 'drugs', 'money', 'power', 'hectorschamis', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['duque', 'announces', 'suspension', 'evictions', 'increase', 'rents', 'quarantine', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['nazareno', 'travel', 'streets', 'caracas', 'popemobile', 'due', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['united', 'states', 'propose', 'transition', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['trump', 'says', 'next', 'two', 'weeks', 'us', 'difficult', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'new', 'york', 'exceeds', 'thousand', 'positive', 'cases', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'paho', 'warns', 'america', 'maximum', 'number', 'cases', 'take', 'one', 'two', 'months']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['el', 'salvador', 'airport', 'continue', 'temporary', 'closure', 'april', 'due', 'coronavirus', 'emergency']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['patient', 'gone', 'serious', 'critical', 'condition', 'due', 'coronavirus', 'el', 'salvador']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['el', 'salvador', 'airport', 'continue', 'temporary', 'closure', 'april', 'due', 'coronavirus', 'emergency']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['germany', 'sent', 'hospital', 'plane', 'italy', 'pick', 'coronavirus', 'patients']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['basis', 'us', 'accusations', 'nicolás', 'maduro', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['opinion', 'crisis', 'without', 'borders']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['us', 'supreme', 'court', 'rules', 'citgo', 'responsible', 'oil', 'spill', 'maibortpetit']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['new', 'york', 'prosecutors', 'oppose', 'tareck', 'el', 'aissami', 'accomplice', 'released', 'bail', 'coronavirus', 'argument', 'maibortpetit']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['us', 'takes', 'advantage', 'hired', 'maduro', 'force', 'break']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'government', 'mexico', 'rules', 'use', 'force', 'apply', 'social', 'distancing', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['hoyenagenda', 'us', 'proposal', 'exchange', 'lifting', 'sanctions', 'regime', 'maduro', 'guaidó', 'stand', 'aside', 'start', 'transitional', 'government', 'calls', 'elections', 'next', 'year']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['united', 'states', 'foresees', 'elections', 'venezuela', 'maximum', 'months', 'via', 'eltiempolatino', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'public', 'ministry', 'cites', 'juan', 'guaidó', 'alleged', 'coup', 'attempt', 'via', 'eltiempolatino', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['elliott', 'abrams', 'proposes', 'maduro', 'guaidó', 'stand', 'aside', 'hold', 'elections', 'via', 'eltiempolatino', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['month', 'old', 'baby', 'youngest', 'coronavirus', 'infected', 'colombia', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'regime', 'threatens', 'opposition', 'justice', 'reach', 'everyone”', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maryland', 'virginia', 'order', 'stay', 'home']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'dc', 'mayor', 'issues', 'order', 'washington', 'residents', 'stay', 'home']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'dc', 'mayor', 'issues', 'order', 'washington', 'residents', 'stay', 'home']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ford', 'produce', 'respirators', 'days', 'stop', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['quarantine', 'social', 'distancing', 'keys', 'avoid', 'spread', 'coronavirus', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'colombia', 'confirms', 'deaths', 'coronavirus', 'infections']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['un', 'requested', 'trillion', 'help', 'developing', 'countries', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['coronavirus', 'weak', 'one', 'surface', 'causes', 'much', 'damage', 'organisms', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'regime', 'detains', 'two', 'members', 'president', 'juan', 'guaidó', 'team', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['us', 'plans', 'strategies', 'reduce', 'coronavirus', 'restrictions', 'country', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['un', 'donates', 'thousand', 'masks', 'new', 'york', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'first', 'person', 'dies', 'covid', 'uruguay', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['coronavirus', 'claims', 'lives', 'six', 'salvadorans', 'living', 'countries', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'death', 'toll', 'italy', 'exceeds', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['last', 'minute', 'russian', 'company', 'rosneft', 'ceases', 'operations', 'venezuela', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'trump', 'could', 'consider', 'two', 'week', 'quarantine', 'new', 'york', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'italy', 'touches', 'new', 'coronavirus', 'positives', 'one', 'day', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'united', 'states', 'exceeds', 'one', 'hundred', 'thousand', 'positive', 'cases', 'covid', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['almomento', 'maryland', 'reaches', 'five', 'deaths', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['coronavirus', 'triggers', 'phone', 'calls', 'messages', 'us', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['macron', 'extends', 'confinement', 'france', 'april', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['learn', 'confessions', 'abraham', 'edgardo', 'ortega', 'pdvsa', 'official', 'facilitated', 'money', 'laundering', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['understand', 'greatest', 'humanitarian', 'crisis', 'hemisphere', 'generated', 'narco', 'terrorists', 'whose', 'heads', 'speak', 'price', 'betrayals', 'criminals', 'uncommon', 'already', 'occurred', 'within', 'chavismo', 'key', 'move', 'dawn']",Neutral,Neutral,Neutral,Negativo,Neutral
+"['opinion', 'decision', 'us', 'department', 'justice', 'something', 'improvised', 'much', 'less', 'partisan', 'action', 'key', 'strategy', 'paid', 'terrorists', 'past', 'suffering', 'people', 'venezuela', 'twofold', 'dictatorship', 'virus']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['benefit', 'us', 'economic', 'stimulus', 'package', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['amazing', 'ad', 'definitely', 'need', 'watch', 'joebiden', 'thedemocrats']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['last', 'hour', 'us', 'prosecutors', 'accuse', 'nicolás', 'maduro', 'diosdado', 'cabello', 'narco', 'terrorism']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['trump', 'administration', 'could', 'designate', 'venezuela', 'sponsor', 'terrorism', 'via', 'eltiempolatino', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['armed', 'attack', 'southwest', 'washington', 'leaves', 'one', 'injured', 'video']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['exclusive', 'italian', 'doctor', 'soldier', 'war', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['minor', 'dies', 'california', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['world', 'italia', 'registers', 'deaths', 'coronavirus']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tokyo', 'olympic', 'games', 'postponed']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['recovering', 'coronavirus', 'remain', 'isolation']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maryorinmendez', 'hahahahaha', 'many', 'dare', 'say', 'eat', 'secret', 'dareamalamayonnaiseinpublic']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['nayibbukele', 'geovannyvicentr', 'marlonecorrea', 'angiez', 'uguelo']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['facts', 'tags', 'see', 'plane', 'fly', 'close', 'makes', 'want', 'cry', 'need', 'bathroom', 'always', 'smell', 'good', 'peace', 'mind', 'love', 'black', 'beans', 'mayonnaise', 'rice', 'ground', 'beef', 'also', 'actor', 'millennial', 'anti', 'left']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['prince', 'albert', 'ii', 'monaco', 'tested', 'positive', 'coronavirus']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rowling', 'offers', 'open', 'license', 'teachers', 'read', 'harry', 'potter', 'face', 'coronavirus', 'quarantine']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lorenzo', 'sanz', 'former', 'president', 'real', 'madrid', 'died', 'coronavirus']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['placido', 'domingo', 'tested', 'positive', 'coronavirus']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'regime', 'arbitrarily', 'detains', 'journalist', 'darvinson', 'rojas']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['attack', 'media', 'blame', 'opposition', 'people', 'ills', 'country', 'sounds', 'familiar', 'ah', 'course', 'chávez', 'venezuela', 'ah', 'amlo', 'mexico', 'ah', 'socialist', 'script', 'screw', 'power', 'cuba', 'venezuela', 'nica', 'mx']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['freeze', 'rent', 'mortgage', 'utility', 'payments', 'covid', 'quarantine', 'people', 'voice', 'government']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['colombia', 'registers', 'cases', 'coronavirus', 'via', 'eltiempolatino', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['unusual', 'day', 'verdict', 'trial', 'banker', 'ali', 'sadr', 'hasheminejad', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['international', 'monetary', 'fund', 'denies', 'loan', 'requested', 'nicolás', 'maduro', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['jury', 'deliberations', 'ali', 'sadr', 'hasheminejad', 'trial', 'continue', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['six', 'states', 'capital', 'district', 'venezuela', 'go', 'quarantine', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['last', 'hour', 'trump', 'declares', 'national', 'emergency', 'due', 'coronavirus']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['ali', 'sadr', 'hasheminejad', 'iranian', 'worked', 'hugo', 'chávez', 'projects', 'declared', 'barack', 'obama', 'fanatic', 'relaxed', 'sanctions', 'iran', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Negativo,Neutral
+"['cuba', 'confirmed', 'first', 'cases', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['trump', 'suspends', 'travel', 'europe', 'us', 'due', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['last', 'hour', 'maduro', 'officials', 'repress', 'mobilization', 'juan', 'guaidó', 'caracas', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['bachelet', 'denounces', 'persistence', 'violence', 'security', 'forces', 'venezuela', 'via', 'eltiempolatino', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['error', 'payment', 'pdvsa', 'ali', 'sadr', 'hasheminejad', 'company', 'alerted', 'us', 'maibortpetit', 'via', 'eltiempolatino', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['israeli', 'ambassador', 'hezbollah', 'presence', 'venezuela', 'colombia', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['invite', 'listen', 'see', 'podcast', 'colleague', 'lorenarraiz', 'anamariasimon', 'guest', 'within', 'framework', 'international', 'women', 'day', 'vindicate', 'power', 'women', 'inspiration', 'strength', 'dedication', 'vulnerability', 'engine', 'lives']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['us', 'judge', 'approves', 'release', 'passports', 'josé', 'manuel', 'gonzález', 'testino', 'wife', 'maibortpetit', 'via', 'eltiempolatino', 'citgo', 'pdvsa']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['eltiempolatino', 'safeway']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['unbelievable', 'mara', 'gay', 'supposed', 'part', 'nytimes', 'editorial', 'board', 'maths', 'wrong', 'journalistic', 'quality', 'understand', 'nyt', 'become', 'see', 'publications', 'venezuela', 'far', 'leftist', 'position', 'awful']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['colombia', 'implements', 'security', 'control', 'travelers', 'due', 'coronavirus', 'via', 'eltiempolatino', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'arrival', 'power', 'produced', 'changes', 'contract', 'iranian', 'company', 'maibortpetit', 'via', 'eltiempolatino', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['guaidó', 'fear', 'bullet', 'change', 'desire', 'venezuelans', 'free', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['special', 'coronavirus', 'latin', 'america', 'zakont', 'via', 'eltiempolatino', 'mar']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['dutch', 'caribbean', 'ask', 'venezuelans', 'visa', 'april', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['guaidó', 'promises', 'continue', 'fight', 'despite', 'attacks', 'maduro', 'regime', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['donald', 'trump', 'iván', 'duque', 'talked', 'mar', 'white', 'house', 'venezuela', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lima', 'group', 'condemns', 'armed', 'attack', 'juan', 'guaidó', 'caravan', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['video', 'gt', 'opinion', 'sanders', 'nomination', 'new', 'victory', 'trump', 'ricardo', 'sanchez', 'silva', 'ricardolodice', 'full', 'vídeo']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['opinion', 'sanders', 'nomination', 'new', 'victory', 'trump', 'ricardolodice', 'eltiempolatino', 'washingtondc', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['opinion', 'sanders', 'nomination', 'new', 'victory', 'trump', 'ricardolodice', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['aruba', 'seized', 'five', 'tons', 'pure', 'cocaine', 'ship', 'sailed', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuelan', 'special', 'forces', 'reuse', 'repower', 'weapons', 'confiscated', 'criminals']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['mayor', 'mayita', 'meléndez', 'mayitaalcaldesa', 'strong', 'determined', 'determined', 'dignified', 'woman', 'via', 'eltiempolatino', 'vimeo']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['special', 'colombia', 'territory', 'conflict', 'guerrillas', 'zakont', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['mayor', 'mayita', 'meléndez', 'strong', 'determined', 'determined', 'dignified', 'woman', 'via', 'eltiempolatino']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['pharmacist', 'massachusetts', 'presents', 'experimental', 'vaccine', 'coronavirus', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rat', 'bat', 'snake', 'china', 'completely', 'prohibits', 'trade', 'consumption', 'wild', 'animals']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuelan', 'brothers', 'sell', 'bracelets', 'el', 'salvador', 'feed', 'families']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['reveal', 'photos', 'eccentric', 'wedding', 'diosdado', 'cabello', 'daughter', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['trump', 'prepares', 'new', 'security', 'strategy', 'implement', 'cuba', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['least', 'minimum', 'wages', 'needed', 'venezuela', 'pay', 'food', 'basket']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuela', 'irregular', 'payments', 'parties', 'gifts', 'equipment', 'purchase', 'evidenced', 'pdvsa', 'oriente', 'audit', 'maibortpetit']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuela', 'pdvsa', 'preparing', 'plan', 'increase', 'fuel', 'rationing']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['drinks', 'get', 'know', 'water', 'helps', 'anxiety', 'want', 'eat', 'beer', 'polar', 'black', 'venezuela', 'stella', 'bluemoon', 'shocktop', 'usa', 'whiskey', '🥃escocés', 'buchanan', 'black', 'label', 'venezuelan', 'rum', 'rondiplomatico', 'rocks', 'water', 'water']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['xenophobia', 'venezuelans', 'stratum', 'colombia', 'viral', 'case']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['colombia', 'stoppage', 'cargo', 'vehicle', 'transporters', 'lifted']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['last', 'hour', 'juan', 'guaidó', 'calls', 'march', 'national', 'assembly', 'venezuela', 'mar', 'feb', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['caricature', 'dollarized', 'hyperinflation', 'fmpinilla', 'via', 'eltiempolatino', 'feb', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuela', 'president', 'cvg', 'internacional', 'denounced', 'selling', 'employees', 'food', 'boxes', 'local', 'market', 'foreign', 'currency', 'maibortpetit']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['bukele', 'brutal', 'show', 'force', 'violated', 'inter', 'american', 'democratic', 'charter', 'former', 'us', 'ambassador', 'el', 'salvador']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['michelle', 'obama', 'bogotá', 'recognized', 'learning', 'networking', 'event']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['corrupt', 'citgo', 'pdvsa', 'contractor', 'tulio', 'anibal', 'farías', 'pérez', 'pleaded', 'guilty', 'houston', 'federal', 'court', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['bloomberg', 'demoralized', 'sanders', 'attacked', 'debate', 'democratic', 'party', 'primaries', 'went', 'macoroldan']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['usa', 'alfonzo', 'eliézer', 'gravina', 'muñoz', 'sentenced', 'months', 'prison', 'crimes', 'corruption', 'pdvsa', 'maibortpetit']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'appoints', 'tareck', 'el', 'aissami', 'president', 'pdvsa', 'creates', 'presidential', 'commission', 'restructuring']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['editorial', 'democratic', 'party', 'labyrinth', 'find', 'way']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['colombia', 'aida', 'merlano', 'guaidó', 'extradition', 'request', 'consistency', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['friends', 'go', 'solidarity', 'colleague', 'carlosaranasan', 'father', 'diagnosed', 'obstructive', 'jaundice', 'syndrome', 'due', 'gallstones', 'undergo', 'urg', 'surgery', 'today', 'requires', 'granite', 'sand', 'gt', 'gofundme', 'serviciopublico', 'gofundme', 'crowdfunding']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['students', 'el', 'salvador', 'dropped', 'due', 'threats', 'gang', 'violence']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['foreign', 'minister', 'maduro', 'threatens', 'identify', 'confessed', 'indolents', 'celebrate', 'sanctions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['guaidó', 'special', 'law', 'fund', 'liberation', 'venezuela', 'mark', 'struggle', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rosneft', 'suffers', 'millionaire', 'loss', 'billion', 'dollars', 'two', 'hours', 'us', 'sanctions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'government', 'suspends', 'activity', 'airline', 'tap', 'air', 'portugal', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['envivo', 'elliott', 'abrams', 'pressure', 'continue', 'venezuela', 'free', 'feb', 'rosneft']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['last', 'hour', 'us', 'sanctions', 'rosneft', 'subsidiary', 'negotiating', 'maduro', 'regime', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['first', 'colombian', 'infected', 'coronavirus', 'confirmed']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['communicational', 'sovereignty', 'venezuela', 'resides', 'cuba', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['video', 'director', 'penal', 'forum', 'confirmed', 'still', 'political', 'prisoners', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['issuance', 'letters', 'objection', 'venezuelans', 'us', 'begin', 'february']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['colombia', 'assassinated', 'two', 'peasant', 'leaders', 'indigenous', 'guard', 'cauca', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['president', 'corpoelec', 'hired', 'real', 'estate', 'agency', 'buy', 'mansion', 'costa', 'rica', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['irregularities', 'management', 'balance', 'wells', 'cause', 'millions', 'losses', 'west', 'coast', 'division', 'pdvsa', 'lake', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['oromireyac', 'macoroldan', 'jguaido', 'thank', 'invite', 'share', 'work', 'hugs']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['invite', 'read', 'special', 'week', 'collaboration', 'colleague', 'macoroldan', 'guaidó', 'tour', 'particular', 'visit', 'eeuu', 'gt', 'guaidó', 'tour', 'days', 'create', 'new', 'structure', 'venezuela', 'strategy', 'february', 'jguaido']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['colombian', 'economy', 'grew', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['foreign', 'minister', 'spain', 'un', 'juan', 'guaidó', 'acting', 'president', 'leader', 'venezuelan', 'opposition', 'maibortpetit']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rodrigo', 'young', 'man', 'died', 'texas', 'desert', 'fleeing', 'gangs']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['coca', 'laboratory', 'found', 'family', 'farm', 'colombian', 'ambassador', 'uruguay']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['us', 'senators', 'call', 'peaceful', 'dialogue', 'bukele', 'assembly']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['auditor', 'disclosures', 'irregular', 'contracts', 'lack', 'controls', 'lack', 'transparency', 'pdvsa', 'occidente', 'transportation', 'management', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['judge', 'denies', 'motion', 'filed', 'dresser', 'rand', 'cop', 'order', 'pdvsa', 'pay', 'overdue', 'debt', 'maibortpetit', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['special', 'guaidó', 'tour', 'days', 'create', 'new', 'structure', 'venezuela', 'strategy', 'macoroldan', 'ricardolodice', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['spanish', 'deputy', 'calls', 'resignation', 'minister', 'transport', 'supporting', 'maduro', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['guaidó', 'confronted', 'maduro', 'regime', 'arriving', 'venezuela', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['journalists', 'attacked', 'return', 'guaidó', 'venezuela', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['president', 'charge', 'venezuela', 'juan', 'guaidó', 'jguaido', 'sent', 'message', 'social', 'networks', 'tour', 'returning', 'venezuela', 'support', 'respect', 'world', 'says', 'juanguaido', 'guaido', 'venezuela', 'sosvenezuela', 'eeuu']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tarek', 'william', 'saab', 'ordered', 'dismissal', 'case', 'protect', 'relatives', 'constituent', 'partners', 'pedro', 'león', 'rodríguez', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['eln', 'threatens', 'armed', 'strike”', 'colombia', 'starting', 'friday', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['opposition', 'judas', 'represent', 'anything', 'regime', 'rather', 'ally', 'dictatorship', 'opposition', 'dissent', 'cave', 'socialist', 'communist', 'propaganda', 'like', 'vtv', 'completely', 'reformed', 'new', 'democratic', 'republic']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['iván', 'duque', 'aida', 'merlano', 'corrupt', 'bandit', 'criminal', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['press', 'coverage', 'meeting', 'president', 'juan', 'guaidó', 'jguaido', 'almagro', 'oea', 'washingtondc', 'part', 'press', 'team', 'cover', 'end', 'tour', 'comes', 'next', 'attentive', 'special', 'eltiempolatino', 'next', 'week', 'greetings', 'photo', 'prensaguaidó']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['video', 'outskirts', 'oas', 'washington', 'dc', 'guaidó', 'says', 'recognitions', 'presidents', 'prime', 'ministers', 'deputies', 'senators', 'among', 'personalities', 'world', 'venezuelans', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['president', 'juan', 'guaidó', 'visit', 'oea', 'washingtondc', 'photos', 'courtesy', 'marlonecorrea', '👏🏻', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['envideo', 'president', 'guaidó', 'takes', 'selfie', 'venezuelan', 'diaspora', 'outside', 'oea']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['interim', 'president', 'juan', 'guaidó', 'jguaido', 'talks', 'tour', 'oea', 'meeting', 'secretary', 'luis', 'almagro', 'almagro', 'oea']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['guaidó', 'arrives', 'oas', 'consolidate', 'support', 'luis', 'almagro', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['expected', 'president', 'juan', 'guaidó', 'jguaido', 'officials', 'accompany', 'meet', 'observers', 'ambassadors', 'countries', 'leaves', 'closed', 'door', 'meeting', 'currently', 'secretary', 'general', 'oea', 'almagro', 'oea', 'co', 'cc', 'ylgdeux']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['minutes', 'ago', 'internal', 'president', 'venezuela', 'juan', 'guaidó', 'jguaido', 'made', 'entrance', 'oas', 'headquarters', 'oas', 'official', 'washingtondc', 'time', 'meeting', 'behind', 'closed', 'doors', 'secretary', 'general', 'luis', 'almagro', 'almagro', 'oea', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['president', 'guaidó', 'met', 'us', 'secretary', 'state', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuela', 'bolipuertos', 'handed', 'operations', 'silo', 'complex', 'company', 'alleged', 'figurehead', 'padrino', 'lópez', 'maibortpetit', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['un', 'admits', 'capacity', 'face', 'political', 'crisis', 'venezuela', 'limited', 'maibortpetit']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['special', 'coronavirus', 'vaccine', 'take', 'time', 'arrive', 'experts', 'say', 'zakont', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuelan', 'economist', 'ricardo', 'hausmann', 'develop', 'plan', 'activate', 'economy', 'elsalvador']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lasthour', 'senate', 'acquits', 'trump', 'charges', 'approved', 'congress']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['documentary', 'venezuelan', 'migration', 'brauliojatarm', 'seeks', 'financial', 'help', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['trump', 'receives', 'guaidó', 'white', 'house', 'video', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['guaidó', 'thanks', 'united', 'states', 'support', 'meeting', 'mike', 'pence', 'via', 'eltiempolatino', 'feb']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['state', 'union', 'donald', 'trump', 'sends', 'hopeful', 'message', 'cubans', 'nicaraguans', 'venezuelans', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['enfotos', 'morning', 'meeting', 'president', 'juan', 'guaidó', 'jguaido', 'vp', 'mike', 'pence', 'credit', 'white', 'house', 'staff', 'tina', 'dufour']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['pelosi', 'well', 'tearing', 'trump’s', 'speech', 'president', 'showed', 'he’s', 'neither', 'politician', 'gentleman', 'lout', 'speakerpelosi', 'right', 'break', 'trump', 'speech', 'president', 'proved', 'politician', 'gentleman', 'jerk🤦🏻\u200d♂️']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['trump', 'reaffirms', 'recognition', 'guaidó', 'legitimate', 'president', 'state', 'union', 'speech', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'china', 'registers', 'deaths', 'new', 'coronavirus', 'feb', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['think', 'pelosi', 'barely', 'realized', 'whole', 'impeachment', 'issue', 'ultimately', 'benefit', 'republicans', 'acquittal', 'realdonaldtrump', 'wednesday', 'nobody', 'knows', 'works', 'mistakes', 'politics', 'paid', 'goodnight']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['key', 'message', 'president', 'realdonaldtrump', 'stateoftheunion', 'sotu', 'addressing', 'jguaido', 'socialism', 'destroys', 'nations', 'always', 'remember', 'freedom', 'unifies', 'soul”', 'socialism', 'destroys', 'nations', 'always', 'remember', 'freedom', 'unifies', 'soul']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['realdonaldtrump', 'legitimate', 'president', 'venezuela', 'jguaido', 'mr', 'pdte', 'take', 'message', 'back', 'americans', 'united', 'venezuelan', 'people', 'right', 'fight', 'freedom', 'socialism', 'destroys', 'nations', 'freedom', 'unifies', 'soul']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['live', 'follow', 'transmission', 'donald', 'trump', 'state', 'union', 'address', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['interim', 'president', 'venezuela', 'juan', 'guaidó', 'jguaido', 'minutes', 'attending', 'realdonaldtrump', 'speech', 'state', 'union', 'us', 'congress', 'live', 'via', 'washingtonpost', 'read', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['juan', 'guaidó', 'trump', 'state', 'union', 'address', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['juan', 'guaidó', 'trump', 'state', 'nation', 'speech', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'regime', 'prevents', 'entry', 'iachr', 'delegation', 'venezuela', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['amp', 'shooting', 'commerce', 'campus', 'texas', 'left', 'two', 'dead']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['venezuela', 'anc', 'economic', 'reforms', 'customs', 'fines', 'foreign', 'currency', 'maibortpetit', 'via', 'eltiempolatino', 'feb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'deaths', 'coronavirus', 'increase', 'china']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['florida', 'funeral', 'shooting', 'leaves', 'two', 'dead']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['envivo', 'juan', 'guaidó', 'miami']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['maduro', 'government', 'uses', 'vat', 'squeeze', 'purchases', 'dollars', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['right', 'eltiempolatino', 'website', 'keep', 'date', 'latest', 'updates', 'coronarvirus', 'world', 'jan', 'alminuto', 'china', 'registers', 'deaths', 'coronavirus', 'gt', 'number', 'suspected', 'cases', 'rises']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['happyfridayall', 'today', 'recommend', 'reading', 'myriarte', 'special', 'upcoming', 'elections', 'bolivia', 'personally', 'wonder', 'opposition', 'act', 'intelligently', 'unify', 'socialist', 'communist', 'tyrant', 'evoespueblo', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['alminuto', 'china', 'registers', 'deaths', 'coronavirus', 'via', 'eltiempolatino', 'ene']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['caricature', 'exporting', 'another', 'virus', 'fmpinilla']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['bolivia', 'democratic', 'feat', 'end', 'continuity', 'authoritarianism', 'myriarte', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['josé', 'vicente', 'amparan', 'cróquer', 'professional', 'money', 'launderer', 'pdvsa', 'irregular', 'negotiations', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['anc', 'economic', 'reforms', 'national', 'single', 'productive', 'portfolio', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['buys', 'house', 'maryland', 'finds', 'body', 'former', 'resident']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['bolivian', 'indigenous', 'people', 'demand', 'jeanine', 'áñez', 'heard']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['three', 'narcos', 'escape', 'mexican', 'prison']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['juan', 'guaidó', 'meet', 'venezuelans', 'latin', 'americans', 'miami', 'feb', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['arrest', 'businessman', 'francisco', 'convit', 'accused', 'money', 'laundering', 'venezuela', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['health', 'authorities', 'investigating', 'possible', 'case', 'coronavirus', 'colombia', 'via', 'eltiempolatino', 'ene']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['specialized', 'us', 'military', 'division', 'lands', 'colombia', 'photos', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['united', 'states', 'accuses', 'pedro', 'sánchez', 'failing', 'comply', 'europe', 'decision', 'venezuela', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['audit', 'determined', 'irregularities', 'pdvsa', 'stations', 'western', 'lake', 'coast', 'maibortpetit', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['pompeo', 'warns', 'influence', 'china', 'russia', 'cuba', 'latin', 'america', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['united', 'states', 'seizes', 'three', 'members', 'terrorist', 'group', 'al', 'qaeda', 'venezuela', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['brazil', 'announced', 'detection', 'possible', 'coronavirus', 'case', 'minas', 'gerais']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['iachr', 'publishes', 'report', 'violence', 'discrimination', 'latin', 'america', 'caribbean']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['los', 'tigres', 'del', 'norte', 'join', 'super', 'bowl', 'liv', 'fox', 'deportes']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['trump', 'ban', 'several', 'countries', 'entering', 'united', 'states']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['bolivian', 'congress', 'accepts', 'resignation', 'evo', 'morales']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['government', 'bolivia', 'warns', 'judicial', 'debts', 'morales', 'candidate']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['us', 'blocks', 'venezuelan', 'planes', 'landed', 'el', 'salvador', 'fmln', 'governments', 'via', 'eltiempolatino']",Neutral,Neutral,Neutral,Neutral,Neutral

@@ -1,16 +1,16 @@
-tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
-"['cepvg', 'circumstances', 'journalist', 'disseminate', 'information', 'threatens', 'honor', 'reputation', 'private', 'life', 'image', 'person', 'information', 'must', 'transmitted', 'responsibly']",Positivo,1,1,1,1
-"['impartial', 'dissemination', 'information', 'journalism', 'necessary', 'way', 'democratic', 'principles', 'political', 'plurality', 'diversity', 'opinions', 'nation', 'founded', 'evidenced', 'cepvg']",Negativo,1,1,1,1
-"['respect', 'defense', 'truth', 'freedom', 'expression', 'democracy', 'responsibility', 'every', 'journalist', 'must', 'assume', 'exercise', 'way', 'profession', 'people', 'valued', 'cepvg']",Positivo,1,1,1,1
-"['cepvg', 'journalist', 'duty', 'disseminate', 'accurate', 'timely', 'information', 'collective', 'interest', 'exercising', 'responsibly']",Positivo,1,1,0,1
-"['freedom', 'expression', 'right', 'guaranteed', 'universal', 'declaration', 'human', 'rights', 'endorsed', 'constitution', 'bolivarian', 'republic', 'venezuela', 'responsible', 'exercise', 'journalism', 'cepvg']",Positivo,1,1,1,1
-"['invite', 'youtobernates', 'see', 'video', 'things', 'via', 'youtube']",Positivo,1,1,0,1
-"['really', 'worth', 'imitating', 'even', 'humans', 'respect']",Positivo,1,1,0,1
-"['moments', 'sorely', 'needed']",Negativo,1,1,0,1
-"['tanziamigos', 'honor', 'write', 'tried', 'write', 'dm', 'would', 'let', 'send', 'message', 'starting', 'project', 'based', 'principles', 'book', 'would', 'like', 'receive', 'mentorship', 'waiting', 'reply', 'thank', 'much', 'advance']",Positivo,1,1,1,1
-"['tanziamigos', 'good', 'afternoon', 'mr', 'tanzi', 'first', 'cordial', 'greeting', 'name', 'roger', 'ruiz', 'years', 'old', 'live', 'puerto', 'ordaz', 'th', 'semester', 'student', 'social', 'communication', 'ucab', 'guayana', 'read', 'book', 'new', 'government', 'proposal', 'xxi', 'century']",Positivo,1,1,1,1
-"['suarezmleo', 'adjective', 'suffix', 'idad', 'ez', 'ation', 'cia', 'etc', 'abstract', 'noun']",Negativo,1,1,0,1
-"['suarezmleo', 'cat', 'grammaticals', 'noun', 'adjective', 'article', 'verb', 'pronoun', 'adverb', 'preposition', 'interjection', 'conjunction']",Negativo,1,1,0,1
-"['suarezmleo', 'collective', 'substitutions', 'denote', 'plurality', 'without', 'plural', 'form']",Negativo,1,1,1,1
-"['suarezmleo', 'andrés', 'plays', 'handrail', 'compoundwords', 'proprietarynoun']",Positivo,1,1,0,1
-"['suarezmleo', 'polo', 'wore', 'pole', 'south', 'pole']",Negativo,1,1,0,1
+tweet_translated_tokenized,sentiment,NB,SVM
+"['cepvg', 'circumstances', 'journalist', 'disseminate', 'information', 'threatens', 'honor', 'reputation', 'private', 'life', 'image', 'person', 'information', 'must', 'transmitted', 'responsibly']",Neutral,Positivo,Positivo
+"['impartial', 'dissemination', 'information', 'journalism', 'necessary', 'way', 'democratic', 'principles', 'political', 'plurality', 'diversity', 'opinions', 'nation', 'founded', 'evidenced', 'cepvg']",Neutral,Positivo,Positivo
+"['respect', 'defense', 'truth', 'freedom', 'expression', 'democracy', 'responsibility', 'every', 'journalist', 'must', 'assume', 'exercise', 'way', 'profession', 'people', 'valued', 'cepvg']",Positivo,Positivo,Positivo
+"['cepvg', 'journalist', 'duty', 'disseminate', 'accurate', 'timely', 'information', 'collective', 'interest', 'exercising', 'responsibly']",Neutral,Positivo,Positivo
+"['freedom', 'expression', 'right', 'guaranteed', 'universal', 'declaration', 'human', 'rights', 'endorsed', 'constitution', 'bolivarian', 'republic', 'venezuela', 'responsible', 'exercise', 'journalism', 'cepvg']",Neutral,Positivo,Positivo
+"['invite', 'youtobernates', 'see', 'video', 'things', 'via', 'youtube']",Neutral,Positivo,Positivo
+"['really', 'worth', 'imitating', 'even', 'humans', 'respect']",Positivo,Positivo,Positivo
+"['moments', 'sorely', 'needed']",Neutral,Positivo,Positivo
+"['tanziamigos', 'honor', 'write', 'tried', 'write', 'dm', 'would', 'let', 'send', 'message', 'starting', 'project', 'based', 'principles', 'book', 'would', 'like', 'receive', 'mentorship', 'waiting', 'reply', 'thank', 'much', 'advance']",Neutral,Positivo,Positivo
+"['tanziamigos', 'good', 'afternoon', 'mr', 'tanzi', 'first', 'cordial', 'greeting', 'name', 'roger', 'ruiz', 'years', 'old', 'live', 'puerto', 'ordaz', 'th', 'semester', 'student', 'social', 'communication', 'ucab', 'guayana', 'read', 'book', 'new', 'government', 'proposal', 'xxi', 'century']",Neutral,Positivo,Positivo
+"['suarezmleo', 'adjective', 'suffix', 'idad', 'ez', 'ation', 'cia', 'etc', 'abstract', 'noun']",Neutral,Positivo,Positivo
+"['suarezmleo', 'cat', 'grammaticals', 'noun', 'adjective', 'article', 'verb', 'pronoun', 'adverb', 'preposition', 'interjection', 'conjunction']",Neutral,Positivo,Positivo
+"['suarezmleo', 'collective', 'substitutions', 'denote', 'plurality', 'without', 'plural', 'form']",Neutral,Positivo,Positivo
+"['suarezmleo', 'andrés', 'plays', 'handrail', 'compoundwords', 'proprietarynoun']",Neutral,Positivo,Positivo
+"['suarezmleo', 'polo', 'wore', 'pole', 'south', 'pole']",Neutral,Positivo,Positivo

@@ -84,17 +84,17 @@ def googletrans_translate(text):
 # Función que permite analizar el valor del sentimiento 
 def assign_sentiment(row):
     
-    # if row['pos'] > row['neg'] and row['pos'] > row['neu']:
-    #     return 'Positivo'
-    # elif row['neg']> row['neu']:
-    #     return 'Negativo'
-    # else:
-    #     return 'Neutral'
-    
-    if row['pos'] > row['neg']:
+    if row['pos'] > row['neg'] and row['pos'] > row['neu']:
         return 'Positivo'
-    else:
+    elif row['neg']> row['neu']:
         return 'Negativo'
+    else:
+        return 'Neutral'
+    
+    # if row['pos'] > row['neg']:
+    #     return 'Positivo'
+    # else:
+    #     return 'Negativo'
     
 # Función que permite realizar el análisis de sentimientos usando la librería Vader.
 def sentiment_analysis(folder):

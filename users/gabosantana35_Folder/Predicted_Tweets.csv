@@ -1,199 +1,199 @@
 tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
-"['presentation', 'nomasguiso', 'executive', 'summary', 'state', 'enterprises', 'years', 'opacity', 'decay', 'destruction']",Negativo,0,0,0,0
-"['today', 'accompanying', 'relatives', 'deputy', 'requesens', 'political', 'prisoners', 'today', 'juan', 'days', 'kidnapped']",Negativo,0,0,0,0
-"['chacao', 'th', 'birthday', 'promise', 'continue', 'fight', 'achieve', 'municipality', 'country', 'deserve']",Negativo,0,0,0,0
-"['today', 'toured', 'el', 'muñeco', 'street', 'market', 'chacao', 'municipal', 'market', 'tours', 'things', 'give', 'practical', 'advice', 'make', 'water', 'drinkable', 'neighbors', 'remind', 'person', 'responsible', 'dirty', 'water', 'hidrocapital']",Negativo,0,0,0,0
-"['last', 'week', 'petare', 'talking', 'residents', 'san', 'isidro', 'water', 'crisis', 'problem', 'like', 'almost', 'affects', 'every', 'one', 'venezuelans', 'solution', 'change', 'government']",Negativo,0,0,1,0
-"['yesterday', 'toured', 'open', 'air', 'markets', 'bello', 'campo', 'giving', 'neighbors', 'advice', 'make', 'water', 'drinkable']",Positivo,0,1,0,0
-"['today', 'denounce', 'collapse', 'chacao', 'due', 'queues', 'pour', 'gasoline', 'joke', 'happens', 'country', 'largest', 'oil', 'reserves', 'region']",Negativo,0,0,0,0
-"['since', 'thursday', 'see', 'queues', 'queues', 'caracas', 'fill', 'gasoline', 'venezuelan', 'wait', 'hours', 'fill', 'tank', 'problem', 'compounded', 'lack', 'water', 'electricity', 'transportation', 'gas', 'medicine', 'food', 'total', 'collapse', 'public', 'services']",Negativo,0,0,1,0
-"['today', 'petare', 'san', 'isidro', 'sector', 'talking', 'residents', 'area', 'water', 'crisis', 'proposals', 'face', 'grateful', 'national', 'assembly', 'deputy', 'manuelabolivar', 'councilor', 'rafadelrosario', 'invitation']",Negativo,0,0,0,0
-"['share', 'final', 'reflection', 'ricardo', 'rico', 'program', 'turn', 'problems', 'venezuelans', 'main', 'engine', 'achieve', 'political', 'change', 'country']",Negativo,0,1,1,0
-"['yesterday', 'rains', 'mrs', 'aura', 'house', 'flooded', 'lost', 'lot', 'clothes', 'anyone', 'help', 'write', 'us']",Positivo,0,1,1,1
-"['already', 'said', 'weeks', 'ago', 'today', 'collapse', 'city', 'confirms', 'caracas', 'want', 'investment', 'real', 'solutions', 'ornaments', 'decoration']",Negativo,0,0,1,0
-"['clearer', 'impossible']",Negativo,0,0,0,0
-"['francisco', 'fajardo', 'highway', 'height', 'altamira', 'chacao', 'city', 'paralyzed', 'rain', 'government', 'investing', 'maticas', 'painting', 'sidewalks']",Negativo,0,0,0,0
-"['hard', 'face', 'blackouts', 'responsibility', 'incompetence', 'stews', 'characterize', 'government']",Negativo,0,0,0,0
-"['great', 'challenge', 'venezuelans', 'convert', 'hyperinflation', 'lack', 'public', 'services', 'shortages', 'factors', 'crisis', 'engine', 'drives', 'political', 'change', 'venezuela']",Negativo,0,0,1,0
-"['advice', 'make', 'water', 'drinkable', 'resignation', 'resistance', 'continue', 'pressure', 'hidrocapital', 'restore', 'service', 'improve', 'water', 'quality']",Positivo,0,0,0,0
-"['improve', 'water', 'reaches', 'homes', 'today', 'begin', 'campaign', 'give', 'neighbors', 'practical', 'advice', 'make', 'water', 'drinkable', 'want', 'help', 'us', 'spread', 'information', 'write']",Positivo,1,1,0,1
-"['little', 'water', 'reaches', 'houses', 'makes', 'cloudy', 'brown', 'tips', 'make', 'drinkable', 'home', 'help', 'us', 'spread']",Positivo,1,1,0,1
-"['blackouts', 'become', 'almost', 'daily', 'chacao', 'less', 'expect', 'corpoelec', 'give', 'us', 'rationing', 'schedule', 'like', 'hidrocapital', 'exert', 'real', 'citizen', 'pressure', 'happen']",Positivo,0,1,1,0
-"['several', 'areas', 'chacao', 'without', 'electricity', 'service', 'reports', 'paez', 'street', 'av', 'uslar', 'pietri', 'bolívar', 'street', 'every', 'day', 'corpoelec', 'service', 'municipality', 'caracas', 'deficient']",Negativo,0,0,0,0
-"['fernando', 'albán', 'strength', 'continue', 'fighting', 'venezuela']",Positivo,0,1,0,0
-"['see', 'tomorrow']",Negativo,0,0,0,0
-"['heartbroken', 'murder', 'fernando', 'alban', 'death', 'vain', 'going', 'change', 'venezuela', 'let', 'fight', 'justice']",Negativo,0,0,0,0
-"['without', 'light', 'without', 'water', 'much', 'chacao', 'collapse', 'public', 'services', 'shows', 'day', 'day', 'inefficiency', 'inability', 'government', 'solve', 'problems', 'venezuelans']",Negativo,0,0,1,0
-"['looking', 'homemade', 'techniques', 'improve', 'water', 'quality', 'develop', 'guide', 'neighbors', 'advice', 'send', 'us', 'include']",Positivo,0,0,0,0
-"['today', 'pm', 'radio', 'sintonía', 'talk', 'water', 'crisis', 'live', 'chacao', 'complaint', 'made', 'days', 'ago', 'quality', 'water', 'reaches', 'homes']",Negativo,0,0,0,0
-"['caalpeel', 'developing', 'designing', 'infographic', 'able', 'upload', 'networks', 'soon', 'ready', 'send', 'greetings']",Positivo,1,1,1,0
-"['minutes', 'voice', 'radio', 'radio', 'comunidad', 'talk', 'complaint', 'quality', 'water', 'reaching', 'chacao']",Negativo,0,0,0,0
-"['denunciation', 'water', 'reaching', 'chacao', 'municipality', 'violation', 'right', 'water', 'health', 'help', 'us', 'make', 'complaint', 'visible', 'sharing', 'video']",Positivo,0,1,0,0
-"['thankful', 'jesusarmasccs', 'space', 'rcr', 'denounce', 'crisis', 'public', 'services', 'live', 'chacao', 'entire', 'metropolitan', 'area']",Negativo,0,0,1,0
-"['today', 'denounce', 'poor', 'quality', 'water', 'reaches', 'pajaritos', 'de', 'chacao', 'sector', 'preparing', 'material', 'make', 'situation', 'visible', 'attentive']",Negativo,0,0,0,0
-"['tomorrow', 'santanaelias', 'habla', 'caracas', 'fm', 'talk', 'chacao', 'municipality', 'water', 'crisis', 'await', 'comments']",Negativo,0,0,0,0
-"['today', 'send', 'clear', 'message', 'hidrocapital', 'chacao', 'caracas', 'tired', 'lack', 'water', 'homes', 'addition', 'see', 'every', 'day', 'try', 'hide', 'city', 'invest', 'anything', 'public', 'services']",Negativo,0,0,0,0
-"['outside', 'el', 'frente', 'amplio', 'soy', 'venezuela', 'meet', 'without', 'fights', 'unity', 'clear', 'north', 'venezuela', 'seems', 'impossible']",Positivo,0,0,0,0
-"['exercising', 'journalism', 'venezuela', 'high', 'risk', 'sport', 'lot', 'strength', 'brave', 'communicators', 'risk', 'skins', 'street', 'inform', 'venezuelans', 'truth']",Positivo,0,0,0,0
-"['man', 'caracas', 'want', 'maticas', 'francisco', 'de', 'miranda', 'house', 'water', 'electricity', 'gas', 'medicine', 'food', 'stop', 'wasting', 'money', 'adorning', 'caracas', 'start', 'investing', 'real', 'problems', 'venezuelans', 'source', 'vpitv']",Negativo,0,0,1,0
-"['weeks', 'without', 'water', 'represents', 'closed', 'businesses', 'kids', 'go', 'class', 'illnesses', 'stop', 'counting', 'part', 'hidrocapital', 'plays', 'crazy', 'hydrocapitalnocumple']",Negativo,0,0,0,0
-"['often', 'water', 'come', 'house', 'per', 'week', 'hydrocapitalnocumple']",Negativo,0,0,0,0
-"['yolanda', 'pérez', 'president', 'hidrocapital', 'evelyn', 'vázquez', 'minister', 'waters', 'demand', 'face', 'people', 'caracas', 'hidrocapitalnocumple']",Negativo,0,0,0,0
-"['tired', 'excuses', 'see', 'us', 'face', 'glasses', 'tell', 'us', 'water', 'crisis', 'fault', 'economic', 'war', 'want', 'solutions', 'hidrocapitalnocumple']",Negativo,0,0,1,0
-"['thousands', 'people', 'caracas', 'today', 'suffer', 'ordeal', 'living', 'without', 'water', 'continue', 'pressure', 'hidrocapital', 'hidrocapitalnocumple']",Negativo,0,0,0,0
-"['neighbors', 'tired', 'ridicule', 'hidrocapital', 'raise', 'voice', 'violation', 'human', 'rights', 'hidrocapitalnocumple']",Negativo,0,0,0,0
-"['tonight', 'meeting', 'residents', 'los', 'palos', 'grandes', 'organizing', 'new', 'ideas', 'proposals', 'face', 'serious', 'water', 'crisis']",Negativo,0,0,0,0
-"['meeting', 'residents', 'chacao', 'seek', 'solutions', 'serious', 'water', 'crisis', 'organization', 'essential', 'exert', 'real', 'pressure', 'authorities']",Negativo,0,0,0,0
-"['power', 'goes', 'chacao', 'caracas', 'every', 'day', 'corpoelec', 'service', 'deficient', 'copied', 'friends', 'hidrocapital']",Positivo,0,0,0,0
-"['denunciation', 'corner', 'sucre', 'street', 'cecilio', 'acosta', 'casco', 'de', 'chacao', 'sewer', 'leaking', 'smoke', 'cables', 'burning', 'call', 'corpoelecinfo', 'fix', 'problem']",Negativo,0,0,0,0
-"['carlos', 'julio', 'rojas', 'arrested', 'voice', 'neighbors', 'face', 'injustices', 'violation', 'rights', 'government']",Negativo,0,0,1,0
-"['happy', 'spent', 'birthday', 'assembly', 'neighbors', 'end', 'able', 'receive', 'energies', 'good', 'wishes', 'thank', 'messages']",Positivo,1,1,1,1
-"['today', 'turn', 'grateful', 'life', 'family', 'friends', 'despite', 'living', 'born', 'venezuela', 'country', 'engine', 'every', 'morning', 'fill', 'energy', 'every', 'day', 'convinced', 'going', 'change']",Positivo,1,1,0,1
-"['condominiums', 'face', 'crisis', 'see', 'thursday', 'los', 'palos', 'grandes', 'answer', 'question', 'santanaelias', 'micondominiocom']",Negativo,0,0,0,0
-"['morning', 'miguel', 'pizarro', 'stalin', 'gonzalez', 'manuelabolivar', 'francolustay', 'forum', 'young', 'leaders', 'national', 'situation', 'youth', 'willing', 'continue', 'spouting', 'venezuela', 'grateful', 'open', 'space', 'foundation', 'invitation']",Positivo,0,0,0,0
-"['yesterday', 'unión', 'radio', 'ivc', 'program', 'tiempo”', 'denouncing', 'serious', 'water', 'crisis', 'experiencing', 'chacao', 'little', 'water', 'reaches', 'us', 'poor', 'quality']",Negativo,0,0,0,0
-"['sure', 'water', 'maduro', 'drinks', 'different', 'one', 'reaches', 'homes', 'water', 'transmit', 'infections', 'due', 'bacteria', 'parasites', 'carries', 'continue', 'denounce', 'violation', 'rights', 'hidrocapital', 'queremossoluciones']",Negativo,0,0,0,0
-"['today', 'residents', 'chacao', 'denounce', 'little', 'water', 'arrives', 'also', 'poor', 'quality', 'arrives', 'yellow', 'brown', 'smell', 'taste', 'violation', 'rights', 'via', 'caraotadigital']",Negativo,0,0,0,0
-"['tomorrow', 'meet', 'los', 'palos', 'grandes', 'square', 'denounce', 'poor', 'quality', 'water', 'reaches', 'houses', 'wait', 'bastaya', 'wantsolutions']",Negativo,0,0,0,0
-"['recurrent', 'many', 'areas', 'los', 'palos', 'grandes', 'without', 'electricity', 'corpoelec', 'response', 'tired', 'much', 'abandonment', 'chacao', 'municipality', 'bastaya', 'wantsolutions']",Negativo,0,0,0,0
-"['tomorrow', 'program', 'tiempo', 'unión', 'radio', 'fm', 'ivc', 'together', 'jesusarmasccs', 'andreschola', 'talk', 'water', 'crisis', 'caracas', 'await', 'comments']",Negativo,0,0,0,0
-"['little', 'water', 'reaches', 'municipality', 'poor', 'quality', 'tomorrow', 'going', 'report', 'situation', 'transparent', 'container', 'shows', 'color', 'water']",Negativo,0,0,0,0
-"['weeks', 'quality', 'water', 'arrives', 'arrives', 'houses', 'terrible', 'several', 'children', 'older', 'adults', 'fallen', 'ill', 'hidrocapital', 'today', 'visited', 'pajarito', 'de', 'chacao', 'sector', 'neighbors', 'also', 'live', 'situation', 'concern']",Negativo,0,0,1,0
-"['today', 'visit', 'little', 'bird', 'sector', 'chacao', 'water', 'hidrocapital', 'sends', 'us', 'arriving']",Negativo,0,1,1,0
-"['someone', 'help', 'advice', 'neighbors', 'receive', 'bad', 'water', 'beyond', 'boiling', 'filtering', 'filter', 'thanks', 'advance']",Positivo,1,1,0,1
-"['writes', 'csanabriamacias', 'seeing', 'tweet', 'hand', 'water', 'white', 'arrives', 'house', 'imagine', 'color', 'water', 'reaches']",Positivo,0,0,1,0
-"['water', 'reaching', 'chacao', 'said', 'little', 'water', 'reaches', 'us', 'bad', 'condition', 'many', 'sick', 'neighbors', 'hidrocapital']",Negativo,0,0,0,0
-"['today', 'deputies', 'parties', 'students', 'civil', 'society', 'marched', 'headquarters', 'oas', 'juan', 'requesens', 'voice', 'young', 'venezuelans', 'today']",Positivo,0,1,1,0
-"['afternoon', 'helicoide', 'accompanying', 'friend', 'rrequesens', 'demanding', 'release', 'brother', 'rafaela', 'juan', 'represent', 'fighting', 'youth', 'determined', 'change', 'venezuela', 'moments', 'bad', 'times', 'difficult', 'times', 'united']",Negativo,0,0,1,0
-"['bucaral', 'electricity', 'since', 'saturday', 'today', 'corpoelec', 'officials', 'came', 'despite', 'strike', 'came', 'fix', 'problem', 'fixing', 'neighbors', 'collected', 'food', 'gave', 'officials', 'pure', 'solidarity']",Positivo,0,0,0,0
-"['coming', 'days', 'holding', 'citizen', 'assemblies', 'organize', 'next', 'actions', 'listen', 'residents', 'sector', 'collect', 'articulate', 'proposals', 'continue', 'street', 'caracasquiereagua']",Negativo,0,0,0,0
-"['response', 'demands', 'andy', 'hernández', 'cannot', 'share', 'information', 'public', 'say', 'authorization', 'minister', 'water', 'accept', 'run', 'public', 'company', 'black', 'box']",Positivo,0,0,0,0
-"['demand', 'mtas', 'recognized', 'registered', 'stipulated', 'lopsa', 'discretion', 'hidrocapital', 'board', 'directors']",Negativo,0,0,0,0
-"['rationing', 'plan', 'includes', 'sector', 'caracas', 'lasts', 'rehabilitation', 'works', 'completed', 'well', 'start', 'unfinished', 'works']",Positivo,0,0,0,0
-"['demand', 'transparency', 'investment', 'plan', 'rehabilitation', 'metropolitan', 'aqueduct', 'know', 'financial', 'health', 'let', 'tell', 'us', 'much', 'money', 'going', 'invested', 'engineers', 'contractors', 'involved']",Negativo,0,0,1,0
-"['demand', 'transparency', 'diagnosis', 'situation', 'metropolitan', 'aqueduct', 'treatment', 'plants', 'know', 'condition', 'defects']",Negativo,0,0,0,0
-"['demand', 'operational', 'plan', 'rehabilitation', 'clear', 'dates', 'actions', 'metropolitan', 'aqueduct']",Positivo,0,0,0,0
-"['yesterday', 'successful', 'day', 'managed', 'show', 'caracas', 'firm', 'citizenry', 'clear', 'vision', 'venezuela', 'must', 'change', 'bring', 'specific', 'demands', 'hidrocapital', 'specifically', 'manager', 'metropolitan', 'aqueduct', 'andy', 'hernández']",Positivo,0,0,0,0
-"['denuncia', 'go', 'months', 'without', 'water', 'hundreds', 'liters', 'lost', 'streets', 'hidrocapital', 'look', 'water', 'boat', 'av', 'granados', 'de', 'la', 'castellana']",Negativo,0,0,1,0
-"['today', 'caracas', 'gave', 'clear', 'message', 'hidrocapital', 'government', 'fed', 'ordeal', 'living', 'without', 'water', 'means', 'citizens', 'continue', 'streets', 'demanding', 'rights', 'wantsolutions']",Positivo,0,0,0,0
-"['citizen', 'protest', 'reaches', 'hidrocapital', 'water', 'right']",Negativo,0,0,0,0
-"['arrecho', 'people', 'demand', 'right', 'way', 'hidrocapital']",Negativo,0,0,0,0
-"['already', 'concentrated', 'plaza', 'brión', 'de', 'chacaito', 'water', 'life', 'hidrocapital', 'taking', 'away', 'us']",Negativo,0,0,0,0
-"['chacao', 'water', 'rationing', 'sunday', 'wednesday', 'today', 'saturday', 'chance', 'water', 'began', 'arrive', 'parts', 'municipality', 'afraid', 'protests', 'citizens', 'street', 'see', 'plaza', 'brión']",Positivo,0,0,0,0
-"['today', 'us', 'caracas', 'living', 'calvary', 'water', 'crisis', 'see', 'plaza', 'brión', 'de', 'chacaito', 'tired', 'excuses', 'want', 'solutions']",Negativo,0,0,0,0
-"['water', 'life', 'hidrocapital', 'taking', 'us', 'tomorrow', 'everyone', 'street', 'demand', 'right', 'saturdayalacallexelagua', 'maduronostienesecos']",Negativo,0,0,0,0
-"['via', 'lapatilla', 'venezuelans', 'still', 'street', 'demanding', 'rights']",Negativo,0,0,0,0
-"['continue', 'streets', 'increase', 'pressure', 'hidrocapital', 'restore', 'water', 'service', 'caracas', 'see', 'tomorrow', 'brión', 'square', 'wantsolutions']",Positivo,0,0,0,0
-"['rodolmd', 'arkthos', 'hi', 'rodolfo', 'right', 'solution', 'equal', 'important', 'complaint', 'opportunity', 'listen', 'josé', 'maría', 'de', 'viana', 'project', 'end', 'water', 'crisis', 'caracas', 'solution', 'sure', 'great', 'consensus', 'around']",Positivo,0,0,1,0
-"['supporting', 'transporters', 'protest', 'av', 'francisco', 'de', 'miranda', 'people', 'street', 'demanding', 'right', 'wantsolutions']",Negativo,0,0,0,0
-"['yolanda', 'pérez', 'president', 'hidrocapital', 'evelyn', 'vázquez', 'minister', 'waters', 'demand', 'face', 'people', 'caracas', 'wantsolutions', 'saturdayalacallexelagua']",Negativo,0,0,0,0
-"['tired', 'excuses', 'see', 'us', 'face', 'glasses', 'tell', 'us', 'water', 'crisis', 'fault', 'economic', 'war', 'want', 'solutions', 'saturdayalacallexelagua']",Negativo,0,0,1,0
-"['stop', 'putting', 'pressure', 'hidrocapital', 'sooner', 'rather', 'later', 'force', 'us', 'use', 'national', 'card', 'brush', 'teeth', 'continue', 'demanding', 'rights', 'saturdayalacallexelagua']",Negativo,0,0,1,0
-"['thousands', 'people', 'caracas', 'today', 'suffer', 'ordeal', 'living', 'without', 'water', 'continue', 'pressure', 'hidrocapital', 'saturdayalacallexelagua']",Negativo,0,0,0,0
-"['saturday', 'meet', 'street', 'demand', 'right', 'water', 'tired', 'excuses', 'abuse', 'elsabadoalacallexelagua']",Negativo,0,0,0,0
-"['yolanda', 'pérez', 'president', 'hidrocapital', 'evelyn', 'vázquez', 'minister', 'waters', 'demand', 'face', 'people', 'caracas', 'wantsolutions', 'elsabadoalacallexelagua']",Negativo,0,0,0,0
-"['tired', 'excuses', 'see', 'us', 'face', 'glasses', 'tell', 'us', 'water', 'crisis', 'fault', 'economic', 'war', 'want', 'solutions', 'elsabadoalacallexelagua']",Negativo,0,0,1,0
-"['stop', 'putting', 'pressure', 'hidrocapital', 'sooner', 'rather', 'later', 'force', 'us', 'use', 'national', 'card', 'brush', 'teeth', 'continue', 'demanding', 'rights', 'elsabadoalacallexelagua']",Negativo,0,0,1,0
-"['thousands', 'people', 'caracas', 'today', 'suffer', 'ordeal', 'living', 'without', 'water', 'continue', 'pressure', 'hidrocapital', 'elsabadoalacallexelagua']",Negativo,0,0,0,0
-"['via', 'elnacionalweb', 'call', 'march', 'empty', 'tobos', 'hidrocapital', 'saturday']",Negativo,0,0,0,0
-"['yesterday', 'together', 'councilor', 'jesús', 'armas', 'residents', 'chacao', 'libertador', 'filed', 'lawsuit', 'hidrocapital', 'violation', 'human', 'rights', 'caracas']",Negativo,0,0,0,0
-"['see', 'saturday', 'plaza', 'brión', 'de', 'chacaito', 'demand', 'right', 'water']",Negativo,0,0,0,0
-"['cannot', 'leave', 'government', 'free', 'sooner', 'rather', 'later', 'ask', 'us', 'carnet', 'de', 'la', 'patria', 'brush', 'teeth']",Negativo,0,1,1,0
-"['gabriel', 'santana', 'allow', 'impose', 'carnet', 'de', 'la', 'patria', 'brush', 'teeth']",Negativo,0,1,0,0
-"['water', 'crisis', 'affects', 'venezuelans', 'cannot', 'allow', 'government', 'impose', 'us', 'national', 'card', 'brush', 'teeth', 'continue', 'pressure', 'hidrocapital']",Negativo,0,0,0,0
-"['real', 'fault', 'originates', 'miraflores', 'lack', 'investment', 'collapse', 'public', 'services', 'state', 'policy']",Negativo,0,0,0,0
-"['today', 'blackout', 'caracas', 'affected', 'metro', 'shops', 'water', 'service', 'due', 'maduro', 'incompetence', 'entire', 'city', 'paralyzed']",Negativo,0,0,1,0
-"['caracas', 'paralyzed', 'incompetence', 'government', 'already', 'almost', 'hours', 'without', 'light', 'city', 'blackout', 'jul']",Negativo,0,0,0,0
-"['morning', 'held', 'recycling', 'day', 'town', 'chacao', 'sure', 'little', 'little', 'perseverance', 'creating', 'awareness', 'build', 'greenest', 'sustainable', 'municipality', 'venezuela']",Positivo,0,1,0,0
-"['fundamental', 'part', 'effective', 'protest', 'organization', 'training', 'yesterday', 'gave', 'infoactivism', 'workshop', 'chacao', 'giving', 'tools', 'neighbors', 'continue', 'raising', 'voice', 'face', 'injustices']",Positivo,0,1,0,0
-"['thankful', 'jesminroye', 'interview', 'caraotadigital', 'radio', 'talked', 'water', 'crisis', 'live', 'chacao', 'activities', 'neighbors', 'carried', 'pressure', 'hidrocapital']",Negativo,0,0,0,0
-"['today', 'pm', 'jesminroye', 'caraotadigital', 'radio', 'talk', 'water', 'crisis', 'chacao', 'different', 'activities', 'carried', 'municipality', 'await', 'comments']",Negativo,0,0,0,0
-[],Negativo,0,0,0,0
-"['denunciation', 'av', 'rómulo', 'gallegos', 'giant', 'white', 'water', 'boat', 'since', 'already', 'broken', 'asphalt', 'street', 'hidrocapitalca']",Negativo,0,0,0,0
-"['denunciation', 'since', 'water', 'boat', 'av', 'rómulo', 'gallegos', 'already', 'raised', 'asphalt', 'neighbors', 'called', 'hidrocapitalca', 'shown', 'face']",Negativo,0,0,0,0
-"['gabriel', 'santana', 'denounced', 'water', 'chacao', 'scarce', 'dirty']",Negativo,0,0,0,0
-"['gabriel', 'santana', 'water', 'chacao', 'besides', 'scarce', 'dirty']",Negativo,0,0,0,0
-"['tired', 'authorities', 'responsible', 'water', 'crisis', 'showing', 'faces', 'problem', 'water', 'chacao', 'scarce', 'dirty', 'reaches', 'us', 'let', 'keep', 'streets', 'demanding', 'rights', 'chacaoquiereagua', 'queremossoluciones']",Negativo,0,0,0,0
-"['little', 'water', 'reaches', 'us', 'bad', 'conditions', 'necessary', 'maintenance', 'done', 'pipes', 'municipality', 'chacaoquiereagua', 'wantsoluciones']",Negativo,0,0,0,0
-"['want', 'president', 'hidrocapital', 'yolanda', 'pérez', 'minister', 'waters', 'evelyn', 'vázquez', 'face', 'neighbors', 'today', 'demand', 'right', 'water', 'chacaoquiereagua', 'queremossoluciones']",Negativo,0,0,0,0
-"['today', 'residents', 'chacao', 'went', 'streets', 'due', 'lack', 'water', 'municipality', 'ordeal', 'live', 'hidrocapital', 'chacaoquiereagua', 'wantsoluciones']",Negativo,0,0,0,0
-"['hidrocapital', 'changing', 'pipes', 'corner', 'th', 'avenue', 'nd', 'rd', 'transversal', 'state', 'pipes', 'coming', 'little', 'water', 'reaches', 'us', 'also', 'quality', 'chacaoquiereagua', 'queremossoluciones']",Negativo,0,0,0,0
-"['chacao', 'pipes', 'due', 'lack', 'maintenance', 'little', 'water', 'reaches', 'us', 'also', 'quality', 'chacaoquiereagua', 'wantsoluciones']",Negativo,0,0,0,0
-"['tomorrow', 'chacao', 'goes', 'meet', 'corner', 'plomer', 'de', 'chacao', 'let', 'keep', 'demanding', 'right', 'water', 'chacaoquiereagua', 'wantsoluciones']",Negativo,0,0,0,0
-"['gabriel', 'santana', 'residents', 'chacao', 'streets', 'water', 'service', 'restored', 'via', 'infocifras']",Positivo,0,1,1,0
-"['gabriel', 'santana', 'neighbors', 'chacao', 'protesting', 'water', 'service', 'restored']",Negativo,0,1,1,0
-"['let', 'continue', 'denouncing', 'serious', 'water', 'crisis', 'hidrocapital', 'us', 'ordeal', 'experiencing', 'responsibility', 'wantsolutions']",Negativo,0,0,0,0
-"['neighbors', 'continue', 'demanding', 'rights', 'wantsolutions']",Negativo,0,0,0,0
-"['morning', 'residents', 'chacao', 'protested', 'av', 'francisco', 'de', 'miranda', 'due', 'lack', 'water', 'municipality', 'going', 'continue', 'pressuring', 'hidrocapital', 'possible', 'ways', 'water', 'service', 'caracas', 'restored', 'wantsolutions']",Negativo,0,0,0,0
-"['chacao', 'residents', 'protested', 'lack', 'water', 'via', 'elnacionalweb']",Negativo,0,0,0,0
-"['chacao', 'street', 'demanding', 'rights', 'wantsolutions', 'chacaoquiereagua', 'caracasquiereagua']",Negativo,0,0,0,0
-"['neighbors', 'began', 'concentrate', 'corner', 'plomer', 'de', 'chacao', 'wait']",Negativo,0,0,0,0
-"['neighbor', 'see', 'today', 'corner', 'plomer', 'de', 'chacao', 'let', 'continue', 'demanding', 'rights', 'street']",Negativo,0,0,0,0
-"['living', 'without', 'water', 'ordeal', 'street', 'demanding', 'rights', 'caracasquiereagua', 'wantsoluciones']",Negativo,0,0,0,0
-"['tomorrow', 'caracas', 'protests', 'water', 'crisis', 'chacao', 'meet', 'corner', 'plomer', 'caracasquiereagua', 'wantsoluciones']",Negativo,0,0,0,0
-"['tired', 'water', 'crisis', 'continue', 'street', 'demanding', 'rights', 'see', 'tomorrow', 'chacaoquiereagua', 'queremossoluciones']",Negativo,0,0,0,0
-"['power', 'goes', 'campo', 'alegre', 'left', 'los', 'palos', 'grandes', 'altamira', 'south', 'morning', 'cannot', 'let', 'corpoelec', 'new', 'hidrocapital', 'de', 'chacao', 'chacaoquieragua']",Negativo,0,0,0,0
-"['neighbors', 'organizing', 'put', 'pressure', 'hidrocapital', 'tired', 'excuses', 'want', 'solutions', 'chacaoquiereagua', 'hidrocapitalnocumple']",Negativo,0,0,1,0
-"['friday', 'neighbors', 'spoke', 'clearly', 'new', 'president', 'hidrocapital', 'yolanda', 'pérez', 'wants', 'solve', 'water', 'crisis', 'count', 'us', 'going', 'act', 'crazy', 'going', 'get', 'mobilized', 'municipality', 'demanding', 'rights', 'chacaoquieragua']",Negativo,0,0,1,0
-"['lack', 'water', 'makes', 'father', 'family', 'addition', 'fighting', 'hyperinflation', 'able', 'feed', 'children', 'see', 'tank', 'truck', 'million', 'pays', 'chacaoquieragua', 'hidrocapitalnocumple']",Negativo,0,0,0,0
-"['long', 'hidrocapital', 'comply', 'water', 'service', 'achieved', 'mobilized', 'neighbors', 'demanding', 'rights', 'hidrocapitalnocumple', 'chacaoquiereagua']",Negativo,0,0,1,0
-"['lack', 'water', 'figure', 'fact', 'ordeal', 'every', 'venezuelan', 'live', 'hidrocapital', 'comply', 'chacaoquiereagua', 'hidrocapitalnocumple']",Negativo,0,0,0,0
-"['tuesday', 'school', 'chacao', 'suspended', 'activities', 'due', 'lack', 'water', 'children', 'municipality', 'lost', 'class', 'hidrocapital', 'hidrocapitalnocumple', 'chacaoquiereagua']",Negativo,0,0,0,0
-"['friday', 'fire', 'altamira', 'trouble', 'getting', 'help', 'due', 'lack', 'water', 'far', 'responsibility', 'hidrocapitalca', 'reaches', 'water', 'ddhh', 'chacaoquiereagua', 'hidrocapitalnocumple']",Negativo,0,0,0,0
-"['must', 'organize', 'press', 'together', 'residents', 'chacao', 'baruta', 'el', 'haltillo', 'sucre', 'libertador', 'hidrocapital', 'responsible', 'ordeal', 'chacaoquiereagua', 'hidrocapitalnocumple']",Positivo,0,0,0,0
-"['living', 'without', 'water', 'ordeal', 'residents', 'chacao', 'continue', 'streets', 'demanding', 'hidrocapital', 'restore', 'service', 'hidrocapitalnocumple', 'chacaosinagua']",Positivo,0,0,0,0
-"['meetings', 'tables', 'calls', 'protests', 'far', 'water', 'hidrocapitalnocumple', 'chacaoquiereagua']",Negativo,0,0,0,0
-"['hidrocapitalca', 'officials', 'seem', 'live', 'another', 'country', 'lack', 'water', 'affect', 'need', 'effectiveness', 'efficiency', 'hidrocapitalnocumple', 'chacaoquiereagua']",Positivo,0,0,0,0
-"['chacao', 'tired', 'go', 'bathe', 'wash', 'cook', 'outside', 'homes', 'due', 'lack', 'water', 'hidrocapitalnocumple', 'chacaoquiereagua']",Negativo,0,0,0,0
-"['meetings', 'tables', 'calls', 'protests', 'far', 'water', 'hidrocapitalnocumple', 'chacaoquiereagua']",Negativo,0,0,0,0
-"['hidrocapitalca', 'makes', 'fun', 'citizens', 'chacao', 'without', 'water', 'hidrocapitalnocumple', 'chacaoquiereagua']",Positivo,0,0,0,0
-"['southern', 'part', 'los', 'palos', 'grandes', 'altamira', 'without', 'electricity', 'electrical', 'faults', 'chacao', 'frequent', 'every', 'day']",Positivo,0,0,0,0
-"['today', 'together', 'residents', 'chacao', 'cronicauno', 'recovered', 'mural', 'eleventh', 'section', 'los', 'palos', 'grandes', 'initiatives', 'change', 'face', 'municipality']",Negativo,0,0,0,0
-"['today', 'together', 'residents', 'chacao', 'went', 'headquarters', 'hidrocapital', 'give', 'clear', 'message', 'new', 'president', 'yolanda', 'pérez', 'tired', 'excuses', 'ordeal', 'living', 'without', 'water', 'means']",Negativo,0,0,0,0
-"['open', 'cabildo', 'begins', 'chacao', 'municipality', 'together', 'former', 'president', 'hidrocapital', 'josé', 'maría', 'de', 'viana']",Negativo,0,0,0,0
-"['chacao', 'residents', 'live', 'crazy', 'hour', 'due', 'lack', 'water', 'via', 'contrapuntovzla']",Negativo,0,0,0,0
-"['chacao', 'residents', 'asked', 'solutions', 'lack', 'water', 'area', 'via', 'elnacionalweb']",Negativo,0,0,0,0
-"['tomorrow', 'neighbors', 'double', 'shift', 'fight', 'water', 'crisis', 'meet', 'plaza', 'brion', 'de', 'chacaito', 'go', 'hidrocapital', 'pm', 'open', 'town', 'hall', 'josé', 'maría', 'de', 'viana', 'councilors', 'keep', 'pressure', 'organization']",Negativo,0,0,1,0
-"['keep', 'pressure', 'see', 'tomorrow', 'plaza', 'brion', 'go', 'together', 'headquarters', 'hidrocapital', 'av', 'casanova', 'waiting', 'tomorrow']",Negativo,0,0,0,0
-"['neighbor', 'pressure', 'works', 'hidrocapital', 'changed', 'president', 'let', 'continue', 'fight', 'restore', 'water', 'service']",Negativo,0,0,0,0
-"['gabriel', 'santana', 'today', 'children', 'chacao', 'lose', 'class', 'hidrocapital']",Negativo,0,0,0,0
-"['today', 'children', 'chacao', 'lose', 'class', 'hidrocapital', 'water', 'fight', 'everyone', 'fight']",Negativo,0,0,0,0
-"['hands', 'possibility', 'building', 'greener', 'sustainable', 'chacao', 'join', 'change']",Positivo,1,1,0,1
-"['fight', 'water', 'fight', 'neighbors', 'merchants', 'public', 'officials', 'students', 'everyone', 'us', 'one', 'way', 'another', 'affected', 'water', 'crisis', 'caracasquiereagua']",Negativo,0,0,1,0
-"['many', 'residents', 'chacao', 'spend', 'weeks', 'without', 'water', 'tired', 'excuses', 'want', 'solutions', 'caracasquiereagua']",Positivo,0,0,0,0
-"['today', 'able', 'share', 'intercollegiate', 'humanities', 'festival', 'marquezgaspar', 'dliendobouquet', 'marcelrouaix', 'great', 'opportunity', 'able', 'talk', 'young', 'people', 'reasons', 'betting', 'venezuela', 'going', 'worth']",Positivo,1,1,1,1
-"['almost', 'chacao', 'without', 'light', 'week', 'failure', 'power', 'failure', 'municipality']",Negativo,0,0,0,0
-"['gabriel', 'santana', 'lack', 'rain', 'lack', 'investment', 'chacao', 'without', 'water']",Negativo,0,0,0,0
-"['today', 'los', 'palos', 'grandes', 'market', 'carrying', 'recycling', 'day', 'residents', 'municipality', 'despite', 'difficulties', 'work', 'together', 'greener', 'sustainable', 'chacao']",Positivo,0,1,1,0
-"['today', 'hidroven', 'headquarters', 'denouncing', 'lack', 'water', 'residents', 'chacao', 'suffer', 'today', 'water', 'crisis', 'fault', 'economic', 'war', 'lack', 'rain', 'fault', 'lack', 'investment', 'public', 'policies']",Negativo,0,0,0,0
-"['neighbors', 'altamira', 'reported', 'electricity', 'problems', 'since', 'last', 'night', 'corpoelecinfo', 'nic', 'av', 'luis', 'roche', 'st', 'nd', 'transversal']",Negativo,0,0,1,0
-"['neighbors', 'floresta', 'without', 'electricity', 'recent', 'weeks', 'power', 'gone', 'altamira', 'bello', 'campo', 'los', 'palos', 'grandes', 'chacao', 'corpoelec', 'copying', 'friends', 'hidrocapital']",Positivo,0,0,0,0
-"['see', 'saturday', 'parque', 'cristal', 'recycling', 'day', 'multirecicla', 'esciudadanos', 'greener', 'sustainable', 'chacao']",Negativo,0,0,1,0
-"['grateful', 'stalin', 'gonzalez', 'opportunity', 'report', 'water', 'crisis', 'rcr', 'together', 'councilors', 'andreschola', 'kadaryr']",Positivo,0,0,0,0
-"['pm', 'chatting', 'stalin', 'gonzalez', 'rcr', 'water', 'crisis', 'await', 'comments']",Negativo,0,0,0,0
-"['gabriel', 'santana', 'union', 'sectors', 'necessary', 'face', 'water', 'crisis']",Negativo,0,0,0,0
-"['total', 'rejection', 'intervention', 'popular', 'markets', 'residents', 'chacao', 'cannot', 'allow', 'happen', 'municipality', 'municipal', 'autonomy', 'respected']",Positivo,0,1,0,0
-"['neighbors', 'chacao', 'demand', 'councilors', 'water', 'supply', 'regulated', 'via', 'contrapuntovzla']",Negativo,0,0,0,0
-"['important', 'thing', 'today', 'municipal', 'council', 'chacao', 'add', 'wills', 'fight', 'let', 'keep', 'moving', 'forward', 'increasing', 'pressure', 'hidrocapital']",Negativo,0,1,1,0
-"['minutes', 'radio', 'sintonía', 'mmachek', 'talking', 'water', 'crisis', 'chacao', 'municipality', 'attentive', 'comments']",Negativo,0,0,0,0
-"['part', 'intervention', 'concejochacao', 'must', 'join', 'forces', 'fight', 'water', 'right', 'hidrocapital', 'taking', 'away', 'us', 'csanabriamacias']",Negativo,0,0,0,0
-"['today', 'right', 'speak', 'concejochacao', 'denounce', 'serious', 'situation', 'chacao', 'water', 'crisis']",Negativo,0,0,0,0
-"['gabriel', 'santana', 'demands', 'solutions', 'water', 'crisis', 'el', 'diario', 'de', 'caracas']",Negativo,0,0,0,0
-"['gabriel', 'santana', 'evelyn', 'vásquez', 'want', 'solutions', 'water', 'crisis', 'excuses', 'via', 'infocifras']",Negativo,0,0,0,0
-"['gabriel', 'santana', 'demands', 'solutions', 'water', 'crisis', 'via', 'informe']",Negativo,0,0,0,0
-"['morning', 'together', 'jesús', 'armas', 'andres', 'chola', 'neighbors', 'libertador', 'sucre', 'chacao', 'went', 'headquarters', 'hidrocapital', 'demand', 'water', 'service', 'restored', 'throughout', 'caracas', 'tired', 'excuses', 'want', 'answer']",Negativo,0,0,0,0
-"['evelyn', 'vásquez', 'new', 'ministry', 'water', 'attention', 'solve', 'water', 'crisis', 'need', 'investment', 'specialists', 'bureaucracy', 'part', 'government']",Negativo,0,0,0,0
-"['neighbors', 'avoid', 'entering', 'municipality', 'altamira', 'distributor', 'moment', 'collapsed']",Negativo,0,0,0,0
-"['today', 'residents', 'montalban', 'talking', 'water', 'crisis', 'thankful', 'jesusarmasccs', 'invitation']",Negativo,0,0,0,0
-"['gabriel', 'santana', 'water', 'life', 'hidrocapital', 'taking', 'us', 'via', 'infocifras']",Negativo,0,1,1,0
-"['today', 'together', 'councilor', 'jesús', 'armas', 'denouncing', 'situation', 'la', 'mariposa', 'reserve', 'reservoir', 'today', 'less', 'capacity', 'want', 'hidrocapital', 'face', 'solve', 'crisis', 'caracas', 'experiencing', 'today']",Negativo,0,0,1,0
-"['un', 'general', 'assembly', 'recognized', 'right', 'safe', 'drinking', 'water', 'sanitation', 'essential', 'human', 'right', 'hidrocapitalabrelavalvuladechacao']",Positivo,0,0,1,0
-"['residents', 'chacao', 'organizing', 'face', 'water', 'crisis', 'together']",Negativo,0,0,0,0
-"['neighbor', 'see', 'tomorrow', 'plaza', 'bolívar', 'de', 'chacao', 'draw', 'roadmap', 'face', 'together', 'water', 'crisis', 'municipality']",Negativo,0,0,0,0
-"['drop', 'water', 'houses', 'streets', 'chacao', 'water', 'runs', 'non', 'stop', 'boats', 'hidrocapital', 'repair', 'hydrocapitalnocumple']",Negativo,0,0,0,0
-"['fire', 'chacao', 'would', 'firefighters', 'turn', 'whim', 'water', 'life', 'need', 'hydrocapitalnocumple']",Negativo,0,0,0,0
-"['residents', 'chacao', 'tired', 'excuses', 'hidrocapitalca', 'hidrocapitalnocumple']",Negativo,0,0,0,0
-"['talking', 'milf', 'priceless']",Negativo,0,0,0,0
-"['since', 'sunday', 'slept', 'hours', 'adleep']",Negativo,0,0,0,0
-"['isahellmund', 'guille', 'analuisaciordia']",Negativo,0,0,0,0
-"['edsa', 'pass']",Negativo,0,0,0,0
+"['presentation', 'nomasguiso', 'executive', 'summary', 'state', 'enterprises', 'years', 'opacity', 'decay', 'destruction']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'accompanying', 'relatives', 'deputy', 'requesens', 'political', 'prisoners', 'today', 'juan', 'days', 'kidnapped']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chacao', 'th', 'birthday', 'promise', 'continue', 'fight', 'achieve', 'municipality', 'country', 'deserve']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'toured', 'el', 'muñeco', 'street', 'market', 'chacao', 'municipal', 'market', 'tours', 'things', 'give', 'practical', 'advice', 'make', 'water', 'drinkable', 'neighbors', 'remind', 'person', 'responsible', 'dirty', 'water', 'hidrocapital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['last', 'week', 'petare', 'talking', 'residents', 'san', 'isidro', 'water', 'crisis', 'problem', 'like', 'almost', 'affects', 'every', 'one', 'venezuelans', 'solution', 'change', 'government']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['yesterday', 'toured', 'open', 'air', 'markets', 'bello', 'campo', 'giving', 'neighbors', 'advice', 'make', 'water', 'drinkable']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'denounce', 'collapse', 'chacao', 'due', 'queues', 'pour', 'gasoline', 'joke', 'happens', 'country', 'largest', 'oil', 'reserves', 'region']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['since', 'thursday', 'see', 'queues', 'queues', 'caracas', 'fill', 'gasoline', 'venezuelan', 'wait', 'hours', 'fill', 'tank', 'problem', 'compounded', 'lack', 'water', 'electricity', 'transportation', 'gas', 'medicine', 'food', 'total', 'collapse', 'public', 'services']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'petare', 'san', 'isidro', 'sector', 'talking', 'residents', 'area', 'water', 'crisis', 'proposals', 'face', 'grateful', 'national', 'assembly', 'deputy', 'manuelabolivar', 'councilor', 'rafadelrosario', 'invitation']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['share', 'final', 'reflection', 'ricardo', 'rico', 'program', 'turn', 'problems', 'venezuelans', 'main', 'engine', 'achieve', 'political', 'change', 'country']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['yesterday', 'rains', 'mrs', 'aura', 'house', 'flooded', 'lost', 'lot', 'clothes', 'anyone', 'help', 'write', 'us']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['already', 'said', 'weeks', 'ago', 'today', 'collapse', 'city', 'confirms', 'caracas', 'want', 'investment', 'real', 'solutions', 'ornaments', 'decoration']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['clearer', 'impossible']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['francisco', 'fajardo', 'highway', 'height', 'altamira', 'chacao', 'city', 'paralyzed', 'rain', 'government', 'investing', 'maticas', 'painting', 'sidewalks']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['hard', 'face', 'blackouts', 'responsibility', 'incompetence', 'stews', 'characterize', 'government']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['great', 'challenge', 'venezuelans', 'convert', 'hyperinflation', 'lack', 'public', 'services', 'shortages', 'factors', 'crisis', 'engine', 'drives', 'political', 'change', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['advice', 'make', 'water', 'drinkable', 'resignation', 'resistance', 'continue', 'pressure', 'hidrocapital', 'restore', 'service', 'improve', 'water', 'quality']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['improve', 'water', 'reaches', 'homes', 'today', 'begin', 'campaign', 'give', 'neighbors', 'practical', 'advice', 'make', 'water', 'drinkable', 'want', 'help', 'us', 'spread', 'information', 'write']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['little', 'water', 'reaches', 'houses', 'makes', 'cloudy', 'brown', 'tips', 'make', 'drinkable', 'home', 'help', 'us', 'spread']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['blackouts', 'become', 'almost', 'daily', 'chacao', 'less', 'expect', 'corpoelec', 'give', 'us', 'rationing', 'schedule', 'like', 'hidrocapital', 'exert', 'real', 'citizen', 'pressure', 'happen']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['several', 'areas', 'chacao', 'without', 'electricity', 'service', 'reports', 'paez', 'street', 'av', 'uslar', 'pietri', 'bolívar', 'street', 'every', 'day', 'corpoelec', 'service', 'municipality', 'caracas', 'deficient']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fernando', 'albán', 'strength', 'continue', 'fighting', 'venezuela']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['see', 'tomorrow']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['heartbroken', 'murder', 'fernando', 'alban', 'death', 'vain', 'going', 'change', 'venezuela', 'let', 'fight', 'justice']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['without', 'light', 'without', 'water', 'much', 'chacao', 'collapse', 'public', 'services', 'shows', 'day', 'day', 'inefficiency', 'inability', 'government', 'solve', 'problems', 'venezuelans']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['looking', 'homemade', 'techniques', 'improve', 'water', 'quality', 'develop', 'guide', 'neighbors', 'advice', 'send', 'us', 'include']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'pm', 'radio', 'sintonía', 'talk', 'water', 'crisis', 'live', 'chacao', 'complaint', 'made', 'days', 'ago', 'quality', 'water', 'reaches', 'homes']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['caalpeel', 'developing', 'designing', 'infographic', 'able', 'upload', 'networks', 'soon', 'ready', 'send', 'greetings']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['minutes', 'voice', 'radio', 'radio', 'comunidad', 'talk', 'complaint', 'quality', 'water', 'reaching', 'chacao']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['denunciation', 'water', 'reaching', 'chacao', 'municipality', 'violation', 'right', 'water', 'health', 'help', 'us', 'make', 'complaint', 'visible', 'sharing', 'video']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['thankful', 'jesusarmasccs', 'space', 'rcr', 'denounce', 'crisis', 'public', 'services', 'live', 'chacao', 'entire', 'metropolitan', 'area']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'denounce', 'poor', 'quality', 'water', 'reaches', 'pajaritos', 'de', 'chacao', 'sector', 'preparing', 'material', 'make', 'situation', 'visible', 'attentive']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'santanaelias', 'habla', 'caracas', 'fm', 'talk', 'chacao', 'municipality', 'water', 'crisis', 'await', 'comments']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'send', 'clear', 'message', 'hidrocapital', 'chacao', 'caracas', 'tired', 'lack', 'water', 'homes', 'addition', 'see', 'every', 'day', 'try', 'hide', 'city', 'invest', 'anything', 'public', 'services']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['outside', 'el', 'frente', 'amplio', 'soy', 'venezuela', 'meet', 'without', 'fights', 'unity', 'clear', 'north', 'venezuela', 'seems', 'impossible']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['exercising', 'journalism', 'venezuela', 'high', 'risk', 'sport', 'lot', 'strength', 'brave', 'communicators', 'risk', 'skins', 'street', 'inform', 'venezuelans', 'truth']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['man', 'caracas', 'want', 'maticas', 'francisco', 'de', 'miranda', 'house', 'water', 'electricity', 'gas', 'medicine', 'food', 'stop', 'wasting', 'money', 'adorning', 'caracas', 'start', 'investing', 'real', 'problems', 'venezuelans', 'source', 'vpitv']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['weeks', 'without', 'water', 'represents', 'closed', 'businesses', 'kids', 'go', 'class', 'illnesses', 'stop', 'counting', 'part', 'hidrocapital', 'plays', 'crazy', 'hydrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['often', 'water', 'come', 'house', 'per', 'week', 'hydrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['yolanda', 'pérez', 'president', 'hidrocapital', 'evelyn', 'vázquez', 'minister', 'waters', 'demand', 'face', 'people', 'caracas', 'hidrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tired', 'excuses', 'see', 'us', 'face', 'glasses', 'tell', 'us', 'water', 'crisis', 'fault', 'economic', 'war', 'want', 'solutions', 'hidrocapitalnocumple']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['thousands', 'people', 'caracas', 'today', 'suffer', 'ordeal', 'living', 'without', 'water', 'continue', 'pressure', 'hidrocapital', 'hidrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neighbors', 'tired', 'ridicule', 'hidrocapital', 'raise', 'voice', 'violation', 'human', 'rights', 'hidrocapitalnocumple']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['tonight', 'meeting', 'residents', 'los', 'palos', 'grandes', 'organizing', 'new', 'ideas', 'proposals', 'face', 'serious', 'water', 'crisis']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['meeting', 'residents', 'chacao', 'seek', 'solutions', 'serious', 'water', 'crisis', 'organization', 'essential', 'exert', 'real', 'pressure', 'authorities']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['power', 'goes', 'chacao', 'caracas', 'every', 'day', 'corpoelec', 'service', 'deficient', 'copied', 'friends', 'hidrocapital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['denunciation', 'corner', 'sucre', 'street', 'cecilio', 'acosta', 'casco', 'de', 'chacao', 'sewer', 'leaking', 'smoke', 'cables', 'burning', 'call', 'corpoelecinfo', 'fix', 'problem']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['carlos', 'julio', 'rojas', 'arrested', 'voice', 'neighbors', 'face', 'injustices', 'violation', 'rights', 'government']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['happy', 'spent', 'birthday', 'assembly', 'neighbors', 'end', 'able', 'receive', 'energies', 'good', 'wishes', 'thank', 'messages']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['today', 'turn', 'grateful', 'life', 'family', 'friends', 'despite', 'living', 'born', 'venezuela', 'country', 'engine', 'every', 'morning', 'fill', 'energy', 'every', 'day', 'convinced', 'going', 'change']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['condominiums', 'face', 'crisis', 'see', 'thursday', 'los', 'palos', 'grandes', 'answer', 'question', 'santanaelias', 'micondominiocom']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['morning', 'miguel', 'pizarro', 'stalin', 'gonzalez', 'manuelabolivar', 'francolustay', 'forum', 'young', 'leaders', 'national', 'situation', 'youth', 'willing', 'continue', 'spouting', 'venezuela', 'grateful', 'open', 'space', 'foundation', 'invitation']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['yesterday', 'unión', 'radio', 'ivc', 'program', 'tiempo”', 'denouncing', 'serious', 'water', 'crisis', 'experiencing', 'chacao', 'little', 'water', 'reaches', 'us', 'poor', 'quality']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['sure', 'water', 'maduro', 'drinks', 'different', 'one', 'reaches', 'homes', 'water', 'transmit', 'infections', 'due', 'bacteria', 'parasites', 'carries', 'continue', 'denounce', 'violation', 'rights', 'hidrocapital', 'queremossoluciones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'residents', 'chacao', 'denounce', 'little', 'water', 'arrives', 'also', 'poor', 'quality', 'arrives', 'yellow', 'brown', 'smell', 'taste', 'violation', 'rights', 'via', 'caraotadigital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'meet', 'los', 'palos', 'grandes', 'square', 'denounce', 'poor', 'quality', 'water', 'reaches', 'houses', 'wait', 'bastaya', 'wantsolutions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['recurrent', 'many', 'areas', 'los', 'palos', 'grandes', 'without', 'electricity', 'corpoelec', 'response', 'tired', 'much', 'abandonment', 'chacao', 'municipality', 'bastaya', 'wantsolutions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'program', 'tiempo', 'unión', 'radio', 'fm', 'ivc', 'together', 'jesusarmasccs', 'andreschola', 'talk', 'water', 'crisis', 'caracas', 'await', 'comments']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['little', 'water', 'reaches', 'municipality', 'poor', 'quality', 'tomorrow', 'going', 'report', 'situation', 'transparent', 'container', 'shows', 'color', 'water']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['weeks', 'quality', 'water', 'arrives', 'arrives', 'houses', 'terrible', 'several', 'children', 'older', 'adults', 'fallen', 'ill', 'hidrocapital', 'today', 'visited', 'pajarito', 'de', 'chacao', 'sector', 'neighbors', 'also', 'live', 'situation', 'concern']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'visit', 'little', 'bird', 'sector', 'chacao', 'water', 'hidrocapital', 'sends', 'us', 'arriving']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['someone', 'help', 'advice', 'neighbors', 'receive', 'bad', 'water', 'beyond', 'boiling', 'filtering', 'filter', 'thanks', 'advance']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['writes', 'csanabriamacias', 'seeing', 'tweet', 'hand', 'water', 'white', 'arrives', 'house', 'imagine', 'color', 'water', 'reaches']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['water', 'reaching', 'chacao', 'said', 'little', 'water', 'reaches', 'us', 'bad', 'condition', 'many', 'sick', 'neighbors', 'hidrocapital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'deputies', 'parties', 'students', 'civil', 'society', 'marched', 'headquarters', 'oas', 'juan', 'requesens', 'voice', 'young', 'venezuelans', 'today']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['afternoon', 'helicoide', 'accompanying', 'friend', 'rrequesens', 'demanding', 'release', 'brother', 'rafaela', 'juan', 'represent', 'fighting', 'youth', 'determined', 'change', 'venezuela', 'moments', 'bad', 'times', 'difficult', 'times', 'united']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['bucaral', 'electricity', 'since', 'saturday', 'today', 'corpoelec', 'officials', 'came', 'despite', 'strike', 'came', 'fix', 'problem', 'fixing', 'neighbors', 'collected', 'food', 'gave', 'officials', 'pure', 'solidarity']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['coming', 'days', 'holding', 'citizen', 'assemblies', 'organize', 'next', 'actions', 'listen', 'residents', 'sector', 'collect', 'articulate', 'proposals', 'continue', 'street', 'caracasquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['response', 'demands', 'andy', 'hernández', 'cannot', 'share', 'information', 'public', 'say', 'authorization', 'minister', 'water', 'accept', 'run', 'public', 'company', 'black', 'box']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['demand', 'mtas', 'recognized', 'registered', 'stipulated', 'lopsa', 'discretion', 'hidrocapital', 'board', 'directors']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rationing', 'plan', 'includes', 'sector', 'caracas', 'lasts', 'rehabilitation', 'works', 'completed', 'well', 'start', 'unfinished', 'works']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['demand', 'transparency', 'investment', 'plan', 'rehabilitation', 'metropolitan', 'aqueduct', 'know', 'financial', 'health', 'let', 'tell', 'us', 'much', 'money', 'going', 'invested', 'engineers', 'contractors', 'involved']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['demand', 'transparency', 'diagnosis', 'situation', 'metropolitan', 'aqueduct', 'treatment', 'plants', 'know', 'condition', 'defects']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['demand', 'operational', 'plan', 'rehabilitation', 'clear', 'dates', 'actions', 'metropolitan', 'aqueduct']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['yesterday', 'successful', 'day', 'managed', 'show', 'caracas', 'firm', 'citizenry', 'clear', 'vision', 'venezuela', 'must', 'change', 'bring', 'specific', 'demands', 'hidrocapital', 'specifically', 'manager', 'metropolitan', 'aqueduct', 'andy', 'hernández']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['denuncia', 'go', 'months', 'without', 'water', 'hundreds', 'liters', 'lost', 'streets', 'hidrocapital', 'look', 'water', 'boat', 'av', 'granados', 'de', 'la', 'castellana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'caracas', 'gave', 'clear', 'message', 'hidrocapital', 'government', 'fed', 'ordeal', 'living', 'without', 'water', 'means', 'citizens', 'continue', 'streets', 'demanding', 'rights', 'wantsolutions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['citizen', 'protest', 'reaches', 'hidrocapital', 'water', 'right']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['arrecho', 'people', 'demand', 'right', 'way', 'hidrocapital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['already', 'concentrated', 'plaza', 'brión', 'de', 'chacaito', 'water', 'life', 'hidrocapital', 'taking', 'away', 'us']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chacao', 'water', 'rationing', 'sunday', 'wednesday', 'today', 'saturday', 'chance', 'water', 'began', 'arrive', 'parts', 'municipality', 'afraid', 'protests', 'citizens', 'street', 'see', 'plaza', 'brión']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'us', 'caracas', 'living', 'calvary', 'water', 'crisis', 'see', 'plaza', 'brión', 'de', 'chacaito', 'tired', 'excuses', 'want', 'solutions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['water', 'life', 'hidrocapital', 'taking', 'us', 'tomorrow', 'everyone', 'street', 'demand', 'right', 'saturdayalacallexelagua', 'maduronostienesecos']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['via', 'lapatilla', 'venezuelans', 'still', 'street', 'demanding', 'rights']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['continue', 'streets', 'increase', 'pressure', 'hidrocapital', 'restore', 'water', 'service', 'caracas', 'see', 'tomorrow', 'brión', 'square', 'wantsolutions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['rodolmd', 'arkthos', 'hi', 'rodolfo', 'right', 'solution', 'equal', 'important', 'complaint', 'opportunity', 'listen', 'josé', 'maría', 'de', 'viana', 'project', 'end', 'water', 'crisis', 'caracas', 'solution', 'sure', 'great', 'consensus', 'around']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['supporting', 'transporters', 'protest', 'av', 'francisco', 'de', 'miranda', 'people', 'street', 'demanding', 'right', 'wantsolutions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['yolanda', 'pérez', 'president', 'hidrocapital', 'evelyn', 'vázquez', 'minister', 'waters', 'demand', 'face', 'people', 'caracas', 'wantsolutions', 'saturdayalacallexelagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tired', 'excuses', 'see', 'us', 'face', 'glasses', 'tell', 'us', 'water', 'crisis', 'fault', 'economic', 'war', 'want', 'solutions', 'saturdayalacallexelagua']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['stop', 'putting', 'pressure', 'hidrocapital', 'sooner', 'rather', 'later', 'force', 'us', 'use', 'national', 'card', 'brush', 'teeth', 'continue', 'demanding', 'rights', 'saturdayalacallexelagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['thousands', 'people', 'caracas', 'today', 'suffer', 'ordeal', 'living', 'without', 'water', 'continue', 'pressure', 'hidrocapital', 'saturdayalacallexelagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['saturday', 'meet', 'street', 'demand', 'right', 'water', 'tired', 'excuses', 'abuse', 'elsabadoalacallexelagua']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['yolanda', 'pérez', 'president', 'hidrocapital', 'evelyn', 'vázquez', 'minister', 'waters', 'demand', 'face', 'people', 'caracas', 'wantsolutions', 'elsabadoalacallexelagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tired', 'excuses', 'see', 'us', 'face', 'glasses', 'tell', 'us', 'water', 'crisis', 'fault', 'economic', 'war', 'want', 'solutions', 'elsabadoalacallexelagua']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['stop', 'putting', 'pressure', 'hidrocapital', 'sooner', 'rather', 'later', 'force', 'us', 'use', 'national', 'card', 'brush', 'teeth', 'continue', 'demanding', 'rights', 'elsabadoalacallexelagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['thousands', 'people', 'caracas', 'today', 'suffer', 'ordeal', 'living', 'without', 'water', 'continue', 'pressure', 'hidrocapital', 'elsabadoalacallexelagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['via', 'elnacionalweb', 'call', 'march', 'empty', 'tobos', 'hidrocapital', 'saturday']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['yesterday', 'together', 'councilor', 'jesús', 'armas', 'residents', 'chacao', 'libertador', 'filed', 'lawsuit', 'hidrocapital', 'violation', 'human', 'rights', 'caracas']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['see', 'saturday', 'plaza', 'brión', 'de', 'chacaito', 'demand', 'right', 'water']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['cannot', 'leave', 'government', 'free', 'sooner', 'rather', 'later', 'ask', 'us', 'carnet', 'de', 'la', 'patria', 'brush', 'teeth']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'allow', 'impose', 'carnet', 'de', 'la', 'patria', 'brush', 'teeth']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['water', 'crisis', 'affects', 'venezuelans', 'cannot', 'allow', 'government', 'impose', 'us', 'national', 'card', 'brush', 'teeth', 'continue', 'pressure', 'hidrocapital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['real', 'fault', 'originates', 'miraflores', 'lack', 'investment', 'collapse', 'public', 'services', 'state', 'policy']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['today', 'blackout', 'caracas', 'affected', 'metro', 'shops', 'water', 'service', 'due', 'maduro', 'incompetence', 'entire', 'city', 'paralyzed']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['caracas', 'paralyzed', 'incompetence', 'government', 'already', 'almost', 'hours', 'without', 'light', 'city', 'blackout', 'jul']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['morning', 'held', 'recycling', 'day', 'town', 'chacao', 'sure', 'little', 'little', 'perseverance', 'creating', 'awareness', 'build', 'greenest', 'sustainable', 'municipality', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fundamental', 'part', 'effective', 'protest', 'organization', 'training', 'yesterday', 'gave', 'infoactivism', 'workshop', 'chacao', 'giving', 'tools', 'neighbors', 'continue', 'raising', 'voice', 'face', 'injustices']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['thankful', 'jesminroye', 'interview', 'caraotadigital', 'radio', 'talked', 'water', 'crisis', 'live', 'chacao', 'activities', 'neighbors', 'carried', 'pressure', 'hidrocapital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'pm', 'jesminroye', 'caraotadigital', 'radio', 'talk', 'water', 'crisis', 'chacao', 'different', 'activities', 'carried', 'municipality', 'await', 'comments']",Neutral,Neutral,Neutral,Neutral,Neutral
+[],Neutral,Neutral,Neutral,Neutral,Neutral
+"['denunciation', 'av', 'rómulo', 'gallegos', 'giant', 'white', 'water', 'boat', 'since', 'already', 'broken', 'asphalt', 'street', 'hidrocapitalca']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['denunciation', 'since', 'water', 'boat', 'av', 'rómulo', 'gallegos', 'already', 'raised', 'asphalt', 'neighbors', 'called', 'hidrocapitalca', 'shown', 'face']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'denounced', 'water', 'chacao', 'scarce', 'dirty']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'water', 'chacao', 'besides', 'scarce', 'dirty']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tired', 'authorities', 'responsible', 'water', 'crisis', 'showing', 'faces', 'problem', 'water', 'chacao', 'scarce', 'dirty', 'reaches', 'us', 'let', 'keep', 'streets', 'demanding', 'rights', 'chacaoquiereagua', 'queremossoluciones']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['little', 'water', 'reaches', 'us', 'bad', 'conditions', 'necessary', 'maintenance', 'done', 'pipes', 'municipality', 'chacaoquiereagua', 'wantsoluciones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['want', 'president', 'hidrocapital', 'yolanda', 'pérez', 'minister', 'waters', 'evelyn', 'vázquez', 'face', 'neighbors', 'today', 'demand', 'right', 'water', 'chacaoquiereagua', 'queremossoluciones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'residents', 'chacao', 'went', 'streets', 'due', 'lack', 'water', 'municipality', 'ordeal', 'live', 'hidrocapital', 'chacaoquiereagua', 'wantsoluciones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['hidrocapital', 'changing', 'pipes', 'corner', 'th', 'avenue', 'nd', 'rd', 'transversal', 'state', 'pipes', 'coming', 'little', 'water', 'reaches', 'us', 'also', 'quality', 'chacaoquiereagua', 'queremossoluciones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chacao', 'pipes', 'due', 'lack', 'maintenance', 'little', 'water', 'reaches', 'us', 'also', 'quality', 'chacaoquiereagua', 'wantsoluciones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'chacao', 'goes', 'meet', 'corner', 'plomer', 'de', 'chacao', 'let', 'keep', 'demanding', 'right', 'water', 'chacaoquiereagua', 'wantsoluciones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'residents', 'chacao', 'streets', 'water', 'service', 'restored', 'via', 'infocifras']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'neighbors', 'chacao', 'protesting', 'water', 'service', 'restored']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['let', 'continue', 'denouncing', 'serious', 'water', 'crisis', 'hidrocapital', 'us', 'ordeal', 'experiencing', 'responsibility', 'wantsolutions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neighbors', 'continue', 'demanding', 'rights', 'wantsolutions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['morning', 'residents', 'chacao', 'protested', 'av', 'francisco', 'de', 'miranda', 'due', 'lack', 'water', 'municipality', 'going', 'continue', 'pressuring', 'hidrocapital', 'possible', 'ways', 'water', 'service', 'caracas', 'restored', 'wantsolutions']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chacao', 'residents', 'protested', 'lack', 'water', 'via', 'elnacionalweb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chacao', 'street', 'demanding', 'rights', 'wantsolutions', 'chacaoquiereagua', 'caracasquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neighbors', 'began', 'concentrate', 'corner', 'plomer', 'de', 'chacao', 'wait']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neighbor', 'see', 'today', 'corner', 'plomer', 'de', 'chacao', 'let', 'continue', 'demanding', 'rights', 'street']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['living', 'without', 'water', 'ordeal', 'street', 'demanding', 'rights', 'caracasquiereagua', 'wantsoluciones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'caracas', 'protests', 'water', 'crisis', 'chacao', 'meet', 'corner', 'plomer', 'caracasquiereagua', 'wantsoluciones']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tired', 'water', 'crisis', 'continue', 'street', 'demanding', 'rights', 'see', 'tomorrow', 'chacaoquiereagua', 'queremossoluciones']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['power', 'goes', 'campo', 'alegre', 'left', 'los', 'palos', 'grandes', 'altamira', 'south', 'morning', 'cannot', 'let', 'corpoelec', 'new', 'hidrocapital', 'de', 'chacao', 'chacaoquieragua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neighbors', 'organizing', 'put', 'pressure', 'hidrocapital', 'tired', 'excuses', 'want', 'solutions', 'chacaoquiereagua', 'hidrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['friday', 'neighbors', 'spoke', 'clearly', 'new', 'president', 'hidrocapital', 'yolanda', 'pérez', 'wants', 'solve', 'water', 'crisis', 'count', 'us', 'going', 'act', 'crazy', 'going', 'get', 'mobilized', 'municipality', 'demanding', 'rights', 'chacaoquieragua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lack', 'water', 'makes', 'father', 'family', 'addition', 'fighting', 'hyperinflation', 'able', 'feed', 'children', 'see', 'tank', 'truck', 'million', 'pays', 'chacaoquieragua', 'hidrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['long', 'hidrocapital', 'comply', 'water', 'service', 'achieved', 'mobilized', 'neighbors', 'demanding', 'rights', 'hidrocapitalnocumple', 'chacaoquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['lack', 'water', 'figure', 'fact', 'ordeal', 'every', 'venezuelan', 'live', 'hidrocapital', 'comply', 'chacaoquiereagua', 'hidrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tuesday', 'school', 'chacao', 'suspended', 'activities', 'due', 'lack', 'water', 'children', 'municipality', 'lost', 'class', 'hidrocapital', 'hidrocapitalnocumple', 'chacaoquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['friday', 'fire', 'altamira', 'trouble', 'getting', 'help', 'due', 'lack', 'water', 'far', 'responsibility', 'hidrocapitalca', 'reaches', 'water', 'ddhh', 'chacaoquiereagua', 'hidrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['must', 'organize', 'press', 'together', 'residents', 'chacao', 'baruta', 'el', 'haltillo', 'sucre', 'libertador', 'hidrocapital', 'responsible', 'ordeal', 'chacaoquiereagua', 'hidrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['living', 'without', 'water', 'ordeal', 'residents', 'chacao', 'continue', 'streets', 'demanding', 'hidrocapital', 'restore', 'service', 'hidrocapitalnocumple', 'chacaosinagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['meetings', 'tables', 'calls', 'protests', 'far', 'water', 'hidrocapitalnocumple', 'chacaoquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['hidrocapitalca', 'officials', 'seem', 'live', 'another', 'country', 'lack', 'water', 'affect', 'need', 'effectiveness', 'efficiency', 'hidrocapitalnocumple', 'chacaoquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chacao', 'tired', 'go', 'bathe', 'wash', 'cook', 'outside', 'homes', 'due', 'lack', 'water', 'hidrocapitalnocumple', 'chacaoquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['meetings', 'tables', 'calls', 'protests', 'far', 'water', 'hidrocapitalnocumple', 'chacaoquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['hidrocapitalca', 'makes', 'fun', 'citizens', 'chacao', 'without', 'water', 'hidrocapitalnocumple', 'chacaoquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['southern', 'part', 'los', 'palos', 'grandes', 'altamira', 'without', 'electricity', 'electrical', 'faults', 'chacao', 'frequent', 'every', 'day']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'together', 'residents', 'chacao', 'cronicauno', 'recovered', 'mural', 'eleventh', 'section', 'los', 'palos', 'grandes', 'initiatives', 'change', 'face', 'municipality']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'together', 'residents', 'chacao', 'went', 'headquarters', 'hidrocapital', 'give', 'clear', 'message', 'new', 'president', 'yolanda', 'pérez', 'tired', 'excuses', 'ordeal', 'living', 'without', 'water', 'means']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['open', 'cabildo', 'begins', 'chacao', 'municipality', 'together', 'former', 'president', 'hidrocapital', 'josé', 'maría', 'de', 'viana']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chacao', 'residents', 'live', 'crazy', 'hour', 'due', 'lack', 'water', 'via', 'contrapuntovzla']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['chacao', 'residents', 'asked', 'solutions', 'lack', 'water', 'area', 'via', 'elnacionalweb']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['tomorrow', 'neighbors', 'double', 'shift', 'fight', 'water', 'crisis', 'meet', 'plaza', 'brion', 'de', 'chacaito', 'go', 'hidrocapital', 'pm', 'open', 'town', 'hall', 'josé', 'maría', 'de', 'viana', 'councilors', 'keep', 'pressure', 'organization']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['keep', 'pressure', 'see', 'tomorrow', 'plaza', 'brion', 'go', 'together', 'headquarters', 'hidrocapital', 'av', 'casanova', 'waiting', 'tomorrow']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neighbor', 'pressure', 'works', 'hidrocapital', 'changed', 'president', 'let', 'continue', 'fight', 'restore', 'water', 'service']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'today', 'children', 'chacao', 'lose', 'class', 'hidrocapital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'children', 'chacao', 'lose', 'class', 'hidrocapital', 'water', 'fight', 'everyone', 'fight']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['hands', 'possibility', 'building', 'greener', 'sustainable', 'chacao', 'join', 'change']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fight', 'water', 'fight', 'neighbors', 'merchants', 'public', 'officials', 'students', 'everyone', 'us', 'one', 'way', 'another', 'affected', 'water', 'crisis', 'caracasquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['many', 'residents', 'chacao', 'spend', 'weeks', 'without', 'water', 'tired', 'excuses', 'want', 'solutions', 'caracasquiereagua']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'able', 'share', 'intercollegiate', 'humanities', 'festival', 'marquezgaspar', 'dliendobouquet', 'marcelrouaix', 'great', 'opportunity', 'able', 'talk', 'young', 'people', 'reasons', 'betting', 'venezuela', 'going', 'worth']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['almost', 'chacao', 'without', 'light', 'week', 'failure', 'power', 'failure', 'municipality']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'lack', 'rain', 'lack', 'investment', 'chacao', 'without', 'water']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'los', 'palos', 'grandes', 'market', 'carrying', 'recycling', 'day', 'residents', 'municipality', 'despite', 'difficulties', 'work', 'together', 'greener', 'sustainable', 'chacao']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'hidroven', 'headquarters', 'denouncing', 'lack', 'water', 'residents', 'chacao', 'suffer', 'today', 'water', 'crisis', 'fault', 'economic', 'war', 'lack', 'rain', 'fault', 'lack', 'investment', 'public', 'policies']",Negativo,Neutral,Neutral,Negativo,Neutral
+"['neighbors', 'altamira', 'reported', 'electricity', 'problems', 'since', 'last', 'night', 'corpoelecinfo', 'nic', 'av', 'luis', 'roche', 'st', 'nd', 'transversal']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neighbors', 'floresta', 'without', 'electricity', 'recent', 'weeks', 'power', 'gone', 'altamira', 'bello', 'campo', 'los', 'palos', 'grandes', 'chacao', 'corpoelec', 'copying', 'friends', 'hidrocapital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['see', 'saturday', 'parque', 'cristal', 'recycling', 'day', 'multirecicla', 'esciudadanos', 'greener', 'sustainable', 'chacao']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['grateful', 'stalin', 'gonzalez', 'opportunity', 'report', 'water', 'crisis', 'rcr', 'together', 'councilors', 'andreschola', 'kadaryr']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['pm', 'chatting', 'stalin', 'gonzalez', 'rcr', 'water', 'crisis', 'await', 'comments']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'union', 'sectors', 'necessary', 'face', 'water', 'crisis']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['total', 'rejection', 'intervention', 'popular', 'markets', 'residents', 'chacao', 'cannot', 'allow', 'happen', 'municipality', 'municipal', 'autonomy', 'respected']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neighbors', 'chacao', 'demand', 'councilors', 'water', 'supply', 'regulated', 'via', 'contrapuntovzla']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['important', 'thing', 'today', 'municipal', 'council', 'chacao', 'add', 'wills', 'fight', 'let', 'keep', 'moving', 'forward', 'increasing', 'pressure', 'hidrocapital']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['minutes', 'radio', 'sintonía', 'mmachek', 'talking', 'water', 'crisis', 'chacao', 'municipality', 'attentive', 'comments']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['part', 'intervention', 'concejochacao', 'must', 'join', 'forces', 'fight', 'water', 'right', 'hidrocapital', 'taking', 'away', 'us', 'csanabriamacias']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'right', 'speak', 'concejochacao', 'denounce', 'serious', 'situation', 'chacao', 'water', 'crisis']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'demands', 'solutions', 'water', 'crisis', 'el', 'diario', 'de', 'caracas']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'evelyn', 'vásquez', 'want', 'solutions', 'water', 'crisis', 'excuses', 'via', 'infocifras']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'demands', 'solutions', 'water', 'crisis', 'via', 'informe']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['morning', 'together', 'jesús', 'armas', 'andres', 'chola', 'neighbors', 'libertador', 'sucre', 'chacao', 'went', 'headquarters', 'hidrocapital', 'demand', 'water', 'service', 'restored', 'throughout', 'caracas', 'tired', 'excuses', 'want', 'answer']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['evelyn', 'vásquez', 'new', 'ministry', 'water', 'attention', 'solve', 'water', 'crisis', 'need', 'investment', 'specialists', 'bureaucracy', 'part', 'government']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['neighbors', 'avoid', 'entering', 'municipality', 'altamira', 'distributor', 'moment', 'collapsed']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'residents', 'montalban', 'talking', 'water', 'crisis', 'thankful', 'jesusarmasccs', 'invitation']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['gabriel', 'santana', 'water', 'life', 'hidrocapital', 'taking', 'us', 'via', 'infocifras']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['today', 'together', 'councilor', 'jesús', 'armas', 'denouncing', 'situation', 'la', 'mariposa', 'reserve', 'reservoir', 'today', 'less', 'capacity', 'want', 'hidrocapital', 'face', 'solve', 'crisis', 'caracas', 'experiencing', 'today']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['un', 'general', 'assembly', 'recognized', 'right', 'safe', 'drinking', 'water', 'sanitation', 'essential', 'human', 'right', 'hidrocapitalabrelavalvuladechacao']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['residents', 'chacao', 'organizing', 'face', 'water', 'crisis', 'together']",Neutral,Neutral,Neutral,Negativo,Neutral
+"['neighbor', 'see', 'tomorrow', 'plaza', 'bolívar', 'de', 'chacao', 'draw', 'roadmap', 'face', 'together', 'water', 'crisis', 'municipality']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['drop', 'water', 'houses', 'streets', 'chacao', 'water', 'runs', 'non', 'stop', 'boats', 'hidrocapital', 'repair', 'hydrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['fire', 'chacao', 'would', 'firefighters', 'turn', 'whim', 'water', 'life', 'need', 'hydrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['residents', 'chacao', 'tired', 'excuses', 'hidrocapitalca', 'hidrocapitalnocumple']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['talking', 'milf', 'priceless']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['since', 'sunday', 'slept', 'hours', 'adleep']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['isahellmund', 'guille', 'analuisaciordia']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['edsa', 'pass']",Neutral,Neutral,Neutral,Neutral,Neutral

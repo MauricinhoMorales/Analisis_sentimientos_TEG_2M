@@ -33,12 +33,12 @@ def bigram_trigram(folder):
     df_ngram.to_csv('{}//Bigrams_Trigrams.csv'.format(folder),index=False)
 
 # Función que permite obtener los conjuntos de bigramas y trigramas del corpus completo
-def bigram_trigram_all_in_one(individual_folders,batch_folder,users_list):
+def bigram_trigram_all_in_one(users_list):
     
     concat_df = pd.DataFrame()
     
     for user in users_list:
-        df = pd.read_csv("{}//{}//Bigrams_Trigrams.csv".format(individual_folders,user+'_Folder',index=False))
+        df = pd.read_csv("{}//{}//Bigrams_Trigrams.csv".format('users',user+'_Folder',index=False))
         concat_df = concat_df.append(df)
 
     concat_df = concat_df.sort_values(by=['frequency'], ascending=False)
@@ -47,7 +47,7 @@ def bigram_trigram_all_in_one(individual_folders,batch_folder,users_list):
     concat_df_2 = concat_df.groupby('bigram_trigram').agg({'frequency': sum}).reset_index()
     concat_df_2 = concat_df_2.sort_values(by=['frequency'], ascending=False)
     
-    concat_df_2.to_csv('{}//Bigrams_Trigrams.csv'.format(batch_folder),index=False)
+    concat_df_2.to_csv('{}//Bigrams_Trigrams.csv'.format('batch'),index=False)
 
 # Clase que se encarga de la recopilación de los conjuntos de monogramas, bigramas y trigramas provenientes del corpus
 class tweets_ngrams():
@@ -67,5 +67,5 @@ class tweets_ngrams():
 
         bigram_trigram(self.folder)
     
-    def ngraming_in_one_file(self,users,batch,users_list):
-        bigram_trigram_all_in_one(users,batch,users_list)
+    def ngraming_in_one_file(self,users_list):
+        bigram_trigram_all_in_one(users_list)
