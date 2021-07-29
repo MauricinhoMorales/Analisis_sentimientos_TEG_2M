@@ -1,0 +1,221 @@
+tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
+"['hiding', 'communist', 'deals', 'chunks', 'yes', 'saw', 'ex', 'anything', 'swear']",Negativo,1,1,0,1
+"['crinshboi', 'spinoff', 'rohan', 'live', 'action']",Negativo,0,0,0,0
+['talk'],Negativo,0,0,0,0
+"['open', 'break', 'sanchez', 'cabinet', 'leave', 'pp', 'going', 'lead', 'opposition', 'already', 'venezuela', 'europe', 'mud', 'included', 'everything']",Negativo,0,0,1,0
+"['also', 'sang', 'gotta', 'feeling', 'omg', 'cringe', 'always', 'produced', 'song', 'reason']",Positivo,0,0,0,0
+"['fuck', 'around', 'sing', 'yesterday', 'violet', 'hill', 'want', 'way', 'even', 'hit', 'teacher', 'wanted', 'us', 'dramatize', 'madonna', 'music', 'video', 'book', 'asks', 'ended', 'singing', 'whatever', 'wanted', 'even', 'remember', 'sang', 'time']",Negativo,0,0,0,0
+"['great', 'challenges', 'science', 'st', 'century', 'find', 'cure', 'cancer', 'aids', 'math', 'problems', 'millennium', 'unify', 'quantum', 'physics', 'relativistic', 'physics', 'get', 'windows', 'mode']",Negativo,0,0,0,0
+"['deneyberlara', 'saw', 'incredibles', 'black', 'panther', 'spankbang']",Negativo,0,0,0,0
+"['damn', 'neanderthal', 'microsoft', 'said', 'good', 'idea', 'compete', 'chrome', 'os', 'making', 'version', 'shutting', 'entire', 'system', 'empty', 'burned', 'microsoft', 'store', 'steve', 'balmer', '—arturo', 'canga', 'newly', 'admitted', 'microsoft', 'student', 'partner', 'program']",Negativo,0,0,1,0
+"['untalsiso', 'ugly', 'wave', 'yes', 'laughs', 'well', 'give', 'retro']",Positivo,0,0,1,0
+"['started', 'downloading', 'oscar', 'nominees', 'cantv', 'painted', 'dove', 'days', 'downloading', 'irishman', 'kb', 'still', 'queue']",Negativo,0,0,1,0
+"['started', 'badly', 'got', 'better', 'ended', 'badly', 'started', 'well', 'got', 'worse', 'ended', 'well', 'thus', 'ends', 'another', 'semester', 'ucab', 'guayana']",Negativo,1,1,1,1
+"['google', 'translate', 'trump', 'spanish', 'peo', 'mine']",Negativo,0,0,1,0
+"['anthxnyb', 'look', 'want', 'see', 'movies', 'interested', 'oscars']",Positivo,0,0,0,0
+"['yes', 'mom', 'aids', 'anxiety', 'partials', 'due', 'bad', 'academic', 'record', 'fear', 'think', 'suffer', 'apparent', 'add']",Negativo,0,0,0,0
+"['university', 'took', 'without', 'asking', 'help']",Negativo,1,1,1,1
+"['classmate', 'school', 'asked', 'heard', 'blink', 'told', 'listen', 'reggaeton', 'used', 'rock', 'grief', 'went', 'day', 'made', 'open', 'musical', 'genre']",Negativo,0,0,0,0
+"['well', 'another', 'torrent', 'list']",Positivo,1,1,1,0
+"['bitter', 'drinks', 'took', 'despite', 'finished', 'race', 'usb', 'forever', 'left', 'important', 'beautiful', 'mark', 'life', 'miss', 'grama', 'miss', 'bule', 'miss', 'chispa', 'miss', 'little', 'house', 'miss', 'sartenejas', 'idea']",Negativo,0,0,1,0
+"['panama', 'separated', 'colombia']",Negativo,0,0,0,0
+"['cicpc', 'makes', 'police', 'portraits', 'miis']",Negativo,0,0,0,0
+"['edul', 'power', 'ugly', 'wave', 'transcends', 'language', 'barrier']",Negativo,0,0,0,0
+"['meanwhile', 'mcdonald', 'venezuela', 'charge', 'cover', 'ramos', 'allup', 'taking', 'mcflurrys', 'cover', 'chaotic', 'events', 'country']",Negativo,0,0,0,0
+"['tritti', 'needs', 'hallucinogenic', 'drugs', 'tiktok']",Negativo,0,0,0,0
+"['downloaded', 'oscar', 'nominees', 'except', 'little', 'women', 'see', 'anything', 'interesting', 'anyone', 'something', 'say', 'speak', 'download']",Positivo,1,1,1,1
+"['medicenelgordoo', 'ujperez', 'civil', 'like', 'hello', 'yes', 'turn', 'pm', 'offer', 'nrc', 'first', 'time', 'greetings']",Positivo,1,1,1,1
+"['damn', 'kind', 'buy', 'graphics', 'card']",Positivo,0,0,0,0
+"['informatics', 'principle', 'either', 'somalia', 'italian', 'city', 'state', 'black', 'death', 'everyone', 'dies', 'killed', 'nothing', 'done', 'go', 'life', 'hope', 'turn', 'next']",Negativo,0,0,0,0
+"['daft', 'punk', 'sin', 'los', 'cascos', 'ft', 'pharrell', 'williams']",Negativo,0,0,1,0
+"['anthxnyb', 'grasia', 'poliedro']",Negativo,0,0,0,0
+"['untalsiso', 'chocolates', 'el', 'rey', 'gt', 'everything']",Negativo,0,0,1,0
+"['th', 'st', 'talking', 'project', 'partner', 'seeing', 'know', 'shit', 'everything']",Negativo,0,0,1,0
+"['professor', 'university', 'started', 'recently', 'hated', 'students', 'semesters', 'never', 'goes', 'bitch', 'everyone', 'still', 'dump', 'pressure', 'put', 'seems', 'fucking', 'boss']",Negativo,0,1,1,0
+"['birthday', 'residence', 'people', 'neighborhood', 'came', 'began', 'fuck', 'us', 'realized', 'close', 'friend', 'family', 'residence', 'robbed', 'la', 'coñiza', 'armed', 'party', 'ended', 'death', 'threats', 'pistol', 'pnb', 'never', 'appeared']",Negativo,0,0,0,0
+"['still', 'partials', 'finish', 'semester', 'pain', 'back', 'super', 'son', 'bitch', 'stress', 'ends', 'monday', 'guys', 'study', 'computer', 'science']",Negativo,0,0,1,0
+"['think', 'women', 'deserve', 'recognition', 'woman', 'merits', 'feminazi', 'also', 'criteria', 'academy', 'awards', 'much', 'validity', 'today']",Positivo,0,0,0,0
+"['celebrating', 'going', 'turn', 'saime', 'mega', 'money', 'washer', 'making', 'pay', 'ids', 'passports', 'petros', 'mcdonald', 'venezuela', 'ramos', 'agostino', 'family', 'never', 'disappoint']",Positivo,0,0,0,0
+"['would', 'try', 'things', 'sex', 'nah', 'yes', 'maybe', 'negative', 'procedure', 'yesquero', 'yes', 'yes', 'yes', 'attract', 'attention', 'would', 'yesk', 'depebde', 'already', 'know', 'answer', 'comment', 'emoji', 'send', 'questions']",Positivo,1,1,1,1
+['crinshboi'],Negativo,0,1,0,0
+"['lighthouse', 'take', 'oscars', 'suck', 'confirmed']",Negativo,0,0,0,0
+"['ricardoafranco', 'knowing', 'academy', 'give', 'lion', 'king', 'muhh', 'dinei', 'hurr']",Negativo,0,0,0,0
+"['ricardoafranco', 'much', 'bet', 'autism']",Negativo,0,0,0,0
+"['hate', 'anxiety', 'attacks', 'give', 'negative', 'thoughts', 'recurring', 'possibilities', 'escape', 'choke', 'university', 'corduroy', 'destroys', 'completely']",Negativo,0,0,1,0
+"['edul', 'eduardo', 'admire', 'patience', 'corduroy']",Positivo,0,0,0,0
+"['attached', 'photo', 'besto', 'team', 'could', 'btw', 'great', 'reunion', 'great', 'event', 'great', 'news']",Positivo,0,0,0,0
+"['today', 'lived', 'bittersweet', 'feeling', 'excessively', 'bad', 'things', 'happened', 'morning', 'rest', 'day', 'glory', 'know', 'really', 'think']",Positivo,0,0,1,0
+"['corduroy', 'would', 'say', 'already', 'witch', 'need', 'name', 'face', 'know', 'curse', 'insanely', 'download', 'speed']",Negativo,0,0,0,0
+"['minombreeschris', 'without', 'guacuyoki', 'worth']",Negativo,0,0,1,0
+"['untalsiso', 'post', 'swearing', 'meeting', 'luis', 'parra', 'stalin', 'edgar', 'zambrano', 'ramos', 'allup']",Negativo,0,0,1,0
+['vallha'],Negativo,0,0,0,0
+"['ah', 'look', 'go', 'around', 'thinking', 'trump', 'killed', 'soleimmani', 'support', 'elections', 'challenged', 'obama', 'thing', 'years', 'ago', 'let', 'tell', 'fucking', 'idea', '\u200b\u200ball', 'shit', 'iran', 'usa', 'middle', 'east']",Negativo,0,0,0,0
+"['commies', 'iraqis', 'hate', 'us', 'destabilized', 'country', 'iran', 'control', 'cause', 'internal', 'wars', 'able', 'get', 'oil', 'intellectual']",Negativo,0,0,0,0
+"['nacho', 'saying', 'contacts']",Negativo,0,0,0,0
+"['edul', 'nachored', 'well', 'need', 'see', 'nachored', 'singing', 'evangelion', 'op', 'karaoke']",Positivo,0,0,1,0
+"['crinshboi', 'lester', 'please', 'tell', 'joke', 'going', 'cry']",Positivo,0,0,0,0
+"['aaaaaaaaaaaaaaaaaa', 'explains', 'threatening', 'video', 'frank', 'underwood']",Negativo,0,0,0,0
+"['ricardoafranco', 'hitler', 'said', 'speaking', 'chamberlain']",Negativo,0,0,0,0
+"['bro', 'literally', 'flag', 'war', 'death']",Negativo,0,0,0,0
+"['ricardoafranco', 'remind', 'national', 'socialism', 'frowned', 'upon', 'world']",Negativo,0,0,0,0
+"['law', 'school', 'advisor', 'coord', 'general', 'genucab']",Negativo,0,0,0,0
+['wircho'],Negativo,0,0,0,0
+"['edul', 'piqué', 'dance', 'shakira']",Negativo,0,0,0,0
+"['merry', 'christmas', 'fuck']",Negativo,0,0,0,0
+['rerere'],Negativo,0,0,0,0
+"['equal', 'marriage', 'adoption☑️', 'legalization', 'marijuana', '☑️', 'legalization', 'prostitution', '☑️', 'legal', 'safe', 'abortion', '☑️', 'euthanasia', '☑️', 'nuclear', 'energy', '☑️', 'vaccines', '☑️', 'inclusive', 'language', 'death', 'penalty', '☑️', 'earth', 'flat', 'carrying', 'arms', '☑️']",Negativo,0,0,0,0
+"['deneyberlara', 'nothing', 'usb', 'manía', 'would', 'like', 'talk']",Positivo,1,1,1,1
+"['ricardoafranco', 'marvel', 'ambitious', 'crossover', 'history', 'balvin', 'bad', 'bunny', 'karol', 'anuel']",Positivo,0,0,0,0
+"['fuck', 'sounded', 'cdpr', 'scene', 'lacks', 'steel', 'humans', 'scene', 'tw', 'fighting', 'middle', 'novigrad']",Negativo,0,0,0,0
+"['argentina', 'white']",Negativo,0,0,0,0
+"['women', 'know', 'men', 'dry', 'okay', 'sweeter', 'also', 'women']",Positivo,0,0,0,0
+"['year', 'calculus', 'ucab', 'guayana', 'teacher', 'luis', 'living', 'room']",Negativo,0,0,0,0
+"['unjodedor', 'look', 'better', 'pass', 'ham', 'bread']",Positivo,0,0,0,0
+"['ricardoafranco', 'isaac', 'segura', 'ups']",Negativo,0,0,0,0
+"['ricardoafranco', 'isaac', 'segura', 'new', 'sticker', 'less', 'week']",Negativo,0,0,1,0
+"['short', 'diego', 'arria', 'day', 'got', 'penny', 'note', 'want']",Positivo,0,0,0,0
+"['ok', 'first', 'corduroy', 'going', 'give', 'tail', 'forgot', 'going', 'today', 'meeting', 'practically', 'canceled', 'organized', 'two', 'shits', 'zero', 'organizational', 'capacity', 'file', 'transferring', 'pendrive', 'saying', 'left', 'minutes', 'happy', 'tuesday']",Positivo,0,0,0,0
+"['egamanww', 'siganmen', 'el', 'esnakchac']",Negativo,0,0,0,0
+"['free', 'kekistan']",Positivo,1,1,0,0
+"['first', 'spanish', 'spain', 'franco']",Negativo,0,0,1,0
+"['melee', 'menu']",Negativo,0,0,0,0
+"['crinshboi', 'aha', 'pepe']",Negativo,0,0,0,0
+"['literally', 'melee']",Negativo,0,0,0,0
+"['teachers', 'like', 'deserve', 'world', 'thanks', 'teachers', 'care', 'passionate', 'passionate', 'believe', 'appreciate']",Positivo,0,0,1,0
+"['point', 'longer', 'seems', 'like', 'joke']",Positivo,0,1,1,1
+"['edul', 'look', 'fresh', 'pot', 'crippy', 'rod']",Positivo,0,0,0,0
+"['crinshboi', 'complain', 'twitter', 'see', 'student', 'authorities', 'deign', 'bring', 'issue', 'board', 'directors']",Negativo,0,0,0,0
+"['crinshboi', 'ucab', 'security', 'cicpc', 'complex']",Positivo,0,1,0,0
+"['crinshboi', 'security', 'wants', 'give', 'information', 'laptop', 'able', 'pass', 'facilitating', 'theft', 'enough', 'able', 'open', 'bags', 'without', 'consent', 'able', 'vape', 'unit', 'able', 'play', 'board', 'games', 'insult', 'liberty', 'want', 'laptop']",Positivo,0,0,0,0
+"['rorornmr', 'problem', 'would', 'loss', 'laptop', 'loss', 'information', 'contained', 'therein', 'security', 'know', 'bring', 'laptop', 'lose', 'lose', 'would', 'responsibility', 'campaign', 'protect', 'valuables', 'empower']",Negativo,0,0,0,0
+"['franklin', 'bello', 'kept', 'race', 'biggest', 'breakdown', 'ever', 'recorded', 'really', 'made', 'understand', 'software', 'engineering', 'clarysse', 'quijada', 'best', 'welcome', 'ucab', 'could', 'give', 'greatest', 'support', 'since', 'joined']",Positivo,1,1,1,0
+"['teresa', 'rondón', 'naweboná', 'pain', 'ass', 'taken', 'class', 'teacher', 'legendary', 'reason', 'always', 'want', 'go', 'class', 'person', 'loves', 'teach', 'knows', 'woman', 'organized', 'possible', 'known']",Negativo,0,0,0,0
+"['irma', 'rondón', 'taught', 'love', 'calculus', 'going', 'one', 'darkest', 'times', 'jaime', 'wong', 'unrivaled', 'charisma', 'intelligence', 'never', 'realized', 'much', 'needed', 'temporarily', 'retired']",Positivo,0,0,1,0
+"['corduroy', 'smoking', 'want', 'rotate']",Positivo,0,0,0,0
+"['know', 'going', 'go', 'see', 'marvel', 'scarlett', 'johansson', 'hopper']",Positivo,0,0,0,0
+"['want', 'car', 'travel', 'around', 'arc', 'pm', 'eurobeat', 'remixes', 'nintendo', 'songs', 'full', 'volume']",Positivo,0,0,0,0
+"['saad', 'theme', 'pillar', 'men', 'sounded', 'middle', 'class']",Negativo,0,0,0,0
+"['pincheaguacate', 'blocked', 'allow', 'put', 'group', 'person', 'moment', 'looking', 'restraining', 'order', 'intensity', 'increased', 'whatever', 'peace', 'mind', 'always', 'necessary', 'urges']",Positivo,0,0,1,0
+"['received', 'first', 'monday', 'december', 'say', 'nobody', 'initialized', 'stack', 'correct', 'function', 'half', 'already', 'hole', 'damn', 'thanks', 'good', 'news', 'son', 'bitch']",Negativo,0,0,1,0
+"['always', 'around', 'dates', 'december', 'end', 'semester', 'begin', 'wishes', 'personal', 'improvement', 'achieved', 'month', 'forget', 'others', 'called', 'gym', 'called', 'courses', 'already', 'point', 'know', 'whether', 'believe', 'seek', 'support']",Positivo,0,0,0,0
+"['present', 'partial', 'calculation', 'fever', 'forget', 'validation', 'step', 'wrongly', 'copy', 'coordinate']",Negativo,0,0,0,0
+"['partial', 'today', 'please']",Positivo,0,1,0,0
+"['think', 'already', 'point', 'semester', 'mental', 'exhaustion', 'carry', 'feel', 'indifference', 'resignation', 'let', 'everything', 'flow', 'inertia']",Negativo,0,0,1,0
+"['message', 'everyone', 'laughs', 'lacava', 'emigrate', 'reproduce', 'please']",Positivo,1,1,0,0
+"['sometimes', 'really', 'feel', 'educational', 'level', 'passed', 'high', 'kind', 'see', 'video', 'julioprofe', 'say', 'gave', 'example', 'even', 'put', 'bullets', 'people', 'literally', 'say', 'worked', 'sucks', 'idiot', 'julioprofe', 'explains', 'depth']",Negativo,0,0,0,0
+"['already', 'tired', 'semester', 'want', 'study', 'anymore', 'also', 'going', 'practice', 'vacation', 'java', 'course', 'mobile', 'development', 'one', 'agile', 'development', 'another', 'devops', 'yo', 'going', 'see', 'series', 'holidays', 'month', 'spend', 'games']",Positivo,0,0,0,0
+"['pussy', 'julioprofe', 'makes', 'integral', 'prettyaaaaaaaaaaa']",Negativo,0,0,0,0
+"['anthxnyb', 'rd', 'semester', 'computer', 'science', 'teachers', 'like']",Positivo,0,0,1,0
+"['pussy', 'tere', 'send']",Negativo,0,0,0,0
+"['golden', 'opportunity', 'wasted', 'joke']",Positivo,1,0,0,0
+"['danibarranco', 'believing', 'superior', 'thinking', 'white', 'coke', 'reality', 'brown', 'crippy', 'makes', 'brown', 'crippy', 'superiority', 'complex', 'makes', 'already']",Positivo,0,0,0,0
+"['nothing', 'literally', 'shit', 'ah', 'pods', 'shit']",Negativo,0,0,0,0
+"['partner', 'want', 'accept', 'code', 'efficient', 'want', 'test', 'mine', 'less', 'hours', 'delivery', 'still', 'half']",Positivo,0,0,1,0
+"['deliver', 'project', 'tomorrow', 'half', 'ready', 'depend', 'partner', 'half', 'city', 'left', 'without', 'internet', 'data', 'hate', 'life', 'demonstration', 'god', 'enjoys', 'watching', 'suffer']",Positivo,0,0,0,0
+"['guaidó', 'announces', 'elections', 'parliamentarians']",Negativo,0,0,0,0
+"['daanielabg', 'normalize', 'ass', 'sucking', 'let', 'also', 'normalize', 'ball', 'sucking', 'nohomo', 'fueradechinazo']",Negativo,0,0,0,0
+"['cannibal', 'retards']",Negativo,0,0,0,0
+"['edul', 'benjamiigo', 'vallha', 'depends', 'expression', 'tend']",Negativo,1,0,0,0
+"['carla', 'angola', 'paint', 'hair']",Negativo,0,0,0,0
+"['invisible', 'friends', 'justice', 'public', 'disorder', 'rawayana', 'gorillaz', 'foo', 'fighters', 'daft', 'punk', 'oasis', 'glitch', 'mob', 'innkeepers', 'yes', 'rock', 'edm', 'carajito']",Positivo,1,1,1,0
+"['update', 'teacher', 'wrong', 'answer', 'guide', 'terearreglalasguías']",Negativo,0,0,0,0
+"['ok', 'think', 'already', 'remembered', 'function', 'root', 'put', 'derivative', 'function', 'squared', 'also', 'gives', 'answer', 'nothing', 'ausilio']",Negativo,0,0,0,0
+"['franz', 'urbina', 'like', 'universidad', 'felizdiadelestudianteuniversitario']",Positivo,1,1,1,1
+"['beer', 'guy', 'computer', 'guy', 'profession', 'branch', 'mma', 'skill', 'maximum']",Negativo,0,0,0,0
+"['yes', 'okay', 'lose', 'friends', 'ties', 'people', 'toxic', 'protect', 'need', 'end', 'life', 'well', 'road', 'happiness', 'full', 'difficult', 'stretches', 'reward', 'worth']",Positivo,1,1,1,1
+"['lately', 'days', 'end', 'like', 'shit', 'either', 'start', 'shit', 'end', 'shit', 'start', 'normal', 'develop', 'excellent', 'end', 'like', 'shit']",Negativo,0,0,1,0
+"['edul', 'rin', 'top', 'waifu', 'excellent', 'top']",Positivo,1,1,0,0
+"['need', 'group', 'meeting', 'invited', 'person', 'like', 'start', 'throwing', 'tips', 'person', 'apparent', 'reason', 'front', 'everyone']",Positivo,0,1,1,0
+"['rebelion', 'farm', 'george', 'orwell']",Negativo,0,0,0,0
+"['events', 'update', 'came', 'rough', 'good', 'need', 'learn', 'program', 'google', 'copy', 'code']",Positivo,0,1,1,0
+"['spent', 'hour', 'half', 'show', 'showing', 'anywhere', 'internet', 'finished', 'got', 'excited', 'explained', 'dad', 'realize', 'many', 'mistakes', 'ama', 'made', 'wrong', 'career']",Negativo,0,0,0,0
+"['right', 'studying', 'partial', 'tomorrow', 'studying', 'literally', 'googling', 'exercise', 'done', 'transfer', 'notebook', 'see', 'spell', 'get', 'least', 'although', 'probably', 'happen', 'efficient', 'student', '☺️']",Positivo,0,0,0,0
+"['someone', 'understand', 'support', 'vox', 'literally', 'european', 'alt', 'right']",Positivo,0,0,0,0
+"['today', 'months', 'agony', 'academically', 'positive', 'day', 'even', 'feel', 'like', 'going', 'fall', 'mental', 'breakdown', 'second']",Positivo,0,0,1,0
+"['crinshboi', 'second', 'fruitful', 'despite', 'scraped', 'times']",Negativo,0,0,0,0
+"['dogfish', 'lots', 'garlic', 'sauce', 'please']",Positivo,0,0,0,0
+"['franz', 'urbina', 'like', 'industrialists', 'vape', 'like']",Positivo,1,1,1,1
+"['franz', 'urbina', 'naahh', 'better', 'law', 'second', 'degree', 'make', 'demands', 'program', 'patents']",Positivo,0,0,1,0
+"['dad', 'lately', 'watches', 'medical', 'forensic', 'psychological', 'series', 'realities', 'good', 'doctor', 'bull', 'bones', 'medical', 'emergencies', 'think', 'regrets', 'studied', 'mechanical', 'engineering']",Positivo,1,0,1,0
+"['please', 'ausilio']",Positivo,1,1,0,1
+"['andresitorresm', 'instala', 'gentoo']",Negativo,0,0,0,0
+"['ucabizate', 'finish', 'delivering', 'project', 'blank']",Negativo,1,1,0,0
+"['cervezatipo', 'college', 'long', 'time', 'guava', 'bread', 'priced', 'dollar', 'friends', 'started', 'fucking', 'stayed', 'name', 'day']",Positivo,0,0,1,0
+"['ok', 'pretty', 'accurate']",Positivo,0,0,0,0
+"['minombreeschris', 'oh', 'good', 'thing', 'eat', 'food', 'thought', 'ate', 'shit']",Negativo,0,1,1,0
+"['tell', 'spanish', 'omelette', 'put', 'sausage']",Negativo,0,0,0,0
+"['damn', 'bro', 'know', 'date', 'today', 'sisa', 'hand', 'today', 'september', 'vico', 'daughter', 'turns', 'haha', '\u200b\u200byes', 'hand', 'good', 'joke', 'give', 'laik', 'subscribe']",Positivo,0,0,1,0
+"['vallha', 'metal', 'gear', 'solid', 'kojima', 'tactical', 'espionage', 'action', 'people', 'secrecy', 'death', 'stranding', 'kojima', 'social', 'strand', 'system', 'people', 'walk', 'simulator', 'secrecy']",Negativo,0,0,1,0
+"['week', 'people', 'remember', 'vanilla', 'shitty', 'shit', 'play', 'bfa']",Negativo,0,0,1,0
+['aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'],Negativo,0,0,0,0
+"['vanessa', 'senior', 'marginal', 'already', 'pathetic', 'nosy']",Negativo,0,0,0,0
+"['regarding', 'dani', 'barranco', 'share', 'position', 'apologized', 'joke', 'humor', 'everyone', 'apologize', 'still', 'respect', 'posture']",Positivo,1,1,0,0
+"['spent', 'whole', 'day', 'playing', 'finding', 'ian', 'gael', 'worst', 'outcome', 'trouble', 'thanks', 'aran', 'rosmery', 'making', 'fool', 'made', 'de', 'toque', 'famous', 'already', 'congratulations', 'laverogomez', 'esgaboruiz']",Negativo,0,0,0,0
+"['ricardoafranco', 'sinister', 'six', '\u200b\u200bback', 'plans', 'omg', 'yaaaasssssssss']",Negativo,0,0,0,0
+"['sad', 'yco', 'throw', 'toilet', 'paper', 'trash', 'next', 'pot', 'pana', 'like', 'smell', 'shit', 'pot', 'want', 'smell', 'bathroom', 'thanks']",Negativo,0,0,0,0
+['always'],Negativo,1,1,0,1
+"['sleek', 'premium', 'presentation', 'fits', 'price']",Negativo,0,0,0,0
+"['never', 'repeat', 'never', 'read', 'article', 'summarizes', 'well', 'technological', 'situation', 'telephony', 'level', 'venezuela', 'big', 'xdadevelopers']",Positivo,0,0,1,0
+"['reason', 'time', 'time', 'suffer', 'cycles', 'insomnia', 'matter', 'sleep', 'hours', 'hours', 'sleep', 'delayed', 'well', 'morning', 'almost', 'dawn', 'every', 'day', 'run', 'help', 'want', 'sleep']",Positivo,1,1,1,1
+"['edul', 'srmigueltomas', 'imnot', 'ludaabti', 'minombreeschris', 'side', 'side', 'side']",Negativo,1,1,0,0
+"['best', 'nachored', 'funniest', 'leo']",Positivo,1,1,1,0
+"['thefanboylester', 'welcome', 'twitter']",Positivo,1,1,1,0
+"['elcdsmmsea', 'depends', 'come', 'neighborhood', 'never', 'studied', 'chavista', 'considered', 'good', 'luck', 'one', 'less', 'scum']",Positivo,1,1,1,1
+"['leo', 'sushitrash', 'famous', 'filthy', 'frank']",Negativo,0,0,0,0
+"['adrianriotx', 'elcdsmmsea', 'chiguirebipolar', 'says', 'please', 'steal', 'jokes', 'underpaid', 'intern']",Positivo,1,1,0,0
+"['vallha', 'meanwhile', 'events', 'everyone', 'looking', 'saying', 'good']",Positivo,0,0,1,0
+"['slaxz', 'anime', 'smell', 'like', 'violin']",Positivo,0,0,1,0
+"['usb', 'warbot', 'imarcangel', 'cirqueusb', 'breaks', 'soul', 'sleep', 'well', 'sweet', 'prince']",Positivo,1,0,1,0
+"['note', 'self', 'politics', 'fun', 'diplomacy', 'pain', 'ass']",Negativo,1,0,0,0
+"['minombreeschris', 'ah', 'look', 'wagon']",Negativo,0,0,0,0
+"['months', 'year', 'since', 'joined', 'ucab', 'say', 'next', 'person', 'tells', 'ucab', 'easier', 'usb', 'win', 'rumba', 'pain', 'neck', 'thank', 'happy', 'afternoon']",Positivo,0,0,0,0
+"['canga', 'look', 'like', 'damned', 'dam', 'cigarettes', 'smoke']",Negativo,0,0,1,0
+"['thefanboylester', 'next', 'tweet', 'joseph', 'best', 'jojo']",Positivo,0,0,1,0
+"['yesterday', 'house', 'made', 'beans', 'mystical', 'flavor', 'good', 'mystical', 'missing', 'something', 'decided', 'add', 'sugar', 'first', 'time', 'life', 'regret', 'mom', 'calls', 'marginal', 'thinks', 'listens', 'salsa', 'baúl']",Negativo,0,0,0,0
+"['nobody', 'absolutely', 'nobody', 'marico', 'swear', 'nobody', 'wnn', 'country', 'roads', 'take', 'home', 'place', 'belooooooooooong', 'west', 'virginiaaaaaaaaaa', 'mountain', 'mamaaaaaaaa', 'country', 'roads', 'take', 'home']",Negativo,0,0,1,0
+"['johelconh', 'narco']",Negativo,0,0,0,0
+"['vallha', 'install', 'gentoo']",Negativo,0,0,0,0
+"['johelconh', 'opinion', 'count', 'cute', 'chinese', 'profile', 'picture', 'macoya', 'universitaria', 'venezolana', 'edition']",Positivo,0,0,0,0
+"['imarcangel', 'sucre', 'would', 'done', 'masterfully', 'paez', 'marginality', 'surface']",Negativo,0,0,0,0
+"['andresitorresm', 'mad']",Negativo,0,0,0,0
+"['imarcangel', 'first', 'grouped', 'one']",Negativo,1,1,1,1
+"['vallha', 'mint', 'given', 'problems', 'certain', 'packages', 'repositories', 'want', 'minimalist', 'experience', 'bleeding', 'edge', 'go', 'arch', 'want', 'bark', 'installation', 'antergos', 'use', 'antergos', 'gegege']",Positivo,0,0,0,0
+"['ekbufalo', 'civilized', 'medina', 'angarita', 'military', 'coup', 'ad', 'shortly', 'chalbaud', 'coup', 'assassination', 'electoral', 'fraud', 'jóvito', 'perez', 'jimenez', 'dictatorship', 'democracy', 'venezuela', 'lasted', 'less', 'seems']",Negativo,0,0,0,0
+"['reminder', 'second', 'cap', 'government', 'best', 'years', 'democracy', 'best', 'prepared', 'people']",Positivo,1,1,1,1
+"['movementterra', 'mate']",Negativo,0,0,0,0
+"['saw', 'anime', 'chapter', 'cruchyroll', 'loading', 'anywhere', 'halfway', 'realized', 'adblock', 'skipped', 'advertising', 'without', 'paying', 'penny', 'contribute', 'anything', 'work', 'translating', 'syncing', 'subtitles', 'feel', 'dirty']",Negativo,0,0,0,0
+"['problem', 'begins', 'exist', 'pride', 'becomes', 'pride', 'pride', 'mental', 'milestone', 'like', 'aula', 'magna', 'say', 'sacred', 'pride', 'think', 'exclusively', 'use', 'ucevistas', 'arrogance']",Positivo,0,0,0,0
+"['going', 'tell', 'pride', 'belonging', 'university', 'never', 'sense', 'shame', 'study', 'house', 'always', 'second', 'home', 'values', '\u200b\u200bof', 'university', 'always', 'carried', 'high', 'order', 'create', 'better', 'one', 'society']",Positivo,0,1,1,1
+"['johelconh', 'macoyero', 'macoyero', 'always']",Negativo,0,0,0,0
+"['vicbeology', 'know', 'always', 'end', 'talking', 'depression']",Negativo,0,0,0,0
+"['johelconh', 'admire', 'bro']",Positivo,0,0,0,0
+"['superpanqsito', 'start', 'bleed', 'nose', 'feel', 'put', 'another', 'line', 'another', 'piece', 'paper', 'going', 'go', 'another', 'life', 'wait']",Negativo,1,1,1,1
+"['make', 'mom', 'stop', 'watching', 'videos', 'kiki', 'challenge', 'instagram', 'take', 'internet', 'let', 'see', 'chinese', 'monas', 'cantv', 'yahoo', 'answers']",Negativo,0,0,0,0
+"['repeal', 'law', 'illicit', 'exchange', 'rates', 'release', 'pressure', 'reminded', 'people', 'decision', 'illegal', 'reminded', 'people', 'top', 'things', 'nothing', 'nothing', 'nothing']",Negativo,0,0,1,0
+"['juliococo', 'china', 'illegal', 'china', 'wants', 'expand', 'maquilas', 'already', 'done', 'africa']",Negativo,0,0,0,0
+"['egamanww', 'even', 'worse', 'complain', 'resources', 'reject', 'acts', 'entrance', 'university', 'leadership', 'joins', 'shadows']",Negativo,0,0,1,0
+"['superpanqsito', 'know', 'much', 'mean', 'noticed', 'since', 'love']",Positivo,1,1,1,0
+"['vallha', 'wgraterol', 'valssss', 'javier', 'trv', 'gusgustavo', 'vault', 'looks', 'amazing']",Positivo,1,0,0,0
+"['haroldsluis', 'asntaciónve', 'jcsosazpurua', 'ekbufalo', 'vjmc', 'good', 'meme', 'corduroy']",Positivo,0,0,1,0
+"['vicbeology', 'useless', 'city', 'planned', 'aguevonian', 'shits', 'harvard', 'mit', 'frat', 'rejects', 'year', 'old', 'virgins', 'designed', 'shit']",Negativo,0,0,0,0
+"['superpanqsito', 'twitter', 'seem', 'bit', 'rude', 'direct', 'deep', 'love']",Positivo,0,0,1,0
+"['johelconh', 'love', 'libertarianism', 'becoming', 'real', 'alternative', 'venezuela']",Positivo,0,0,1,0
+"['vicbeology', 'dale', 'going', 'give', 'prepaid', 'skype']",Negativo,0,0,0,0
+"['vicbeology', 'bb', 'university', 'anymore', 'know', 'expect']",Negativo,0,1,1,0
+"['know', 'anime', 'got', 'good', 'went', 'flash', 'fighting', 'revolution', 'within', 'totalitarian', 'dystopia']",Negativo,0,0,1,0
+"['come', 'remind', 'studying', 'drawing', 'man', 'makes', 'millions', 'dollars', 'rhyming', 'cycle', 'recycling']",Negativo,0,0,0,0
+"['johelconh', 'answer', 'always', 'southeast']",Negativo,0,0,0,0
+"['mad', 'max', 'caribbean', 'rage']",Negativo,0,0,0,0
+"['remember', 'twitter', 'launched', 'like', 'option', 'compete', 'facebook', 'remember', 'facebook', 'launched', 'reactions', 'alternative', 'request', 'like', 'button', 'think', 'time', 'twitter', 'reach', 'reactions']",Positivo,0,1,1,1
+"['marcela', 'bahamon', 'course', 'understand', 'reject', 'compliment', 'first', 'thing', 'would', 'come', 'head', 'self', 'esteem', 'floor', 'dealing', 'millennial', 'feminist', 'offended', 'everything', 'going', 'put', 'show', 'twitter']",Negativo,1,1,0,0
+['mood'],Negativo,0,0,0,0
+"['vallha', 'asquito', 'play', 'lol']",Positivo,1,1,0,1
+"['go', 'skyrim']",Negativo,0,0,0,0
+"['want', 'communist', 'dictator', 'also', 'want', 'know', 'bitch', 'talks', 'shit']",Negativo,0,0,0,0
+"['today', 'entered', 'steam', 'facebook', 'amazon', 'three', 'seen', 'articles', 'opinions', 'clinton', 'agenda', 'democrats', 'reached', 'point', 'anger', 'propaganda', 'stronger', 'propaganda', 'lost', 'memetic', 'war']",Negativo,0,0,0,0
+"['dw', 'espanol', 'wonders', 'given', 'interminal', 'crisis', 'greece', 'tsipras', 'failed', 'damn', 'know', 'could', 'socialism']",Negativo,0,0,0,0
+"['superpanqsito', 'perhaps', 'cm', 'ordered', 'express', 'currency', 'exchange', 'ways', 'photo', 'pinned', 'tweet', 'statement', 'enough', 'expressed', 'account', 'protest', 'must', 'encouraged', 'whenever', 'possible', 'even', 'companies']",Positivo,0,0,0,0
+"['country', 'universities', 'without', 'following', 'partisan', 'supra', 'movement']",Negativo,0,0,0,0
+"['residence', 'lived', 'ccs', 'landlords', 'marginal', 'nouveau', 'riche', 'son', 'age', 'brat', 'age', 'fb', 'courtesy', 'good', 'marginal', 'likes', 'every', 'time', 'criticize', 'mockery', 'marginality', 'country', 'feel', 'alluded']",Positivo,0,0,0,0
+"['vicbeology', 'like', 'dry', 'whenever', 'time', 'luck', 'realize', 'problem']",Positivo,1,1,1,1
+"['eat', 'fork', 'eldiariodedross', 'sick', 'fat', 'woman', 'makes', 'soup', 'insists', 'giving', 'spoon', 'going', 'bite', 'hand']",Positivo,1,1,1,1

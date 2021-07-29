@@ -1,0 +1,36 @@
+tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
+"['read', 'listen', 'today', 'things', 'like', 'prisoners', 'human', 'rights', 'example', 'nayibbukele', 'throwing', 'away', 'many', 'years', 'efforts', 'sacrifices', 'studies', 'advances', 'fortunately', 'minority', 'wisdom', 'humanity', 'prevail', 'ddhh']",Positivo,1,1,1,1
+"['minister', 'prison', 'service', 'irisvarela', 'announces', 'review', 'files', 'deprived', 'liberty', 'guanare', 'prison', 'order', 'take', 'measures', 'result', 'events', 'recently', 'occurred']",Negativo,1,1,0,1
+"['fidelrodv', 'edurodriguezg', 'marypilih', 'onipvenezuela', 'madeinprisoncol', 'jmvivancohrw', 'unhumanrights', 'dsmilde', 'ventanalibertad', 'certainly', 'life', 'cannot', 'returned', 'investigations', 'carried', 'first', 'punish', 'responsible', 'compensate', 'family', 'members', 'correct', 'promptly', 'evils', 'disturb', 'operation', 'prison', 'overcrowding']",Negativo,1,1,0,1
+"['read', 'although', 'country', 'sights', 'set', 'facts', 'bag', 'important', 'forget', 'happened', 'guanare', 'prison', 'victims', 'families', 'must', 'compensated', 'rights', 'justice', 'must', 'accompany', 'leave', 'part', 'penitentiary', 'organic', 'code']",Negativo,1,1,0,1
+"['purpose', 'unfortunate', 'event', 'occurred', 'guanare', 'prison', 'need', 'get', 'tune', 'prison', 'system']",Negativo,1,1,0,1
+"['goes', 'organization', 'onipvenezuela', 'advancing', 'awareness', 'campaign', 'prisons', 'relationship', 'society', 'importance', 'edurodriguezg', 'unrightslive', 'unoticias', 'cnietopalma', 'cdh', 'ucab', 'larrydevoe']",Positivo,1,1,0,1
+"['fidelrodv', 'open', 'prisons', 'like', 'guanare', 'reason', 'possible', 'implement', 'new', 'regime', 'controls', 'less', 'forms', 'organization', 'come', 'prison', 'population', 'imposed']",Negativo,1,1,0,1
+"['fidelrodv', 'currently', 'venezuela', 'forms', 'know', 'penitentiary', 'regime', 'one', 'new', 'regime', 'one', 'see', 'deprived', 'liberty', 'wear', 'uniforms', 'make', 'closed', 'order', 'visits', 'level', 'control', 'among', 'things']",Positivo,1,1,1,1
+"['noted', 'guanare', 'prison', 'one', 'centers', 'open', 'work', 'new', 'regime']",Negativo,1,1,1,1
+"['jmvivancohrw', 'president', 'nayibbukele', 'easily', 'throws', 'abyss', 'years', 'study', 'research', 'effort', 'progress', 'prison', 'matters', 'regrettable', 'today', 'archaic', 'thoughts', 'continue', 'appear', 'leaders', 'america']",Negativo,1,1,0,1
+"['unfortunately', 'fact', 'necessary', 'competent', 'state', 'agencies', 'carry', 'exhaustive', 'investigation', 'happened', 'provide', 'comprehensive', 'support', 'relatives', 'deceased', 'make', 'public', 'official', 'report', 'happened']",Positivo,1,1,1,1
+"['today', 'start', 'awareness', 'campaign', 'society', 'penitentiary', 'system', 'prison', 'pastille', 'small', 'portions', 'provide', 'society', 'understand', 'importance', 'prisons', 'relationship', 'get', 'know', 'little']",Negativo,1,1,0,1
+"['finally', 'necessary', 'evaluate', 'state', 'public', 'powers', 'el', 'salvador', 'crime', 'prevention', 'really', 'efficient', 'able', 'stop', 'proliferation', 'gangs', 'invested', 'repression', 'prevention', 'greetings']",Negativo,1,1,1,1
+"['must', 'always', 'take', 'care', 'legal', 'framework', 'el', 'salvador', 'country', 'principle', 'legality', 'protect', 'rule', 'law', 'executive', 'power', 'cannot', 'imposed', 'powers', 'legislative', 'judicial', 'go']",Positivo,1,1,1,1
+"['cannot', 'agree', 'order', 'lethal', 'action', 'criminal', 'depending', 'gives', 'president', 'certain', 'country', 'political', 'liking', 'correct', 'dictator', 'go']",Negativo,1,1,1,1
+"['maras', 'conduct', 'certainly', 'criminal', 'young', 'man', 'usa', 'takes', 'gun', 'kills', 'schoolmates', 'person', 'neighborhood', 'favela', 'among', 'popular', 'areas', 'commits', 'armed', 'robbery', 'continue']",Negativo,1,1,0,1
+"['opinion', 'regarding', 'situation', 'maras', 'criminal', 'organization', 'force', 'undoubtedly', 'hands', 'hands', 'powerful', 'groups', 'either', 'government', 'private']",Negativo,1,1,0,1
+"['ontiverosalonso', 'avhstiftung', 'ciggusal', 'edemetriocrespo', 'hlgatell', 'acadmexcienpen', 'dlop', 'uaemex', 'ocotsalamanca', 'jlgcolomer', 'iij', 'unach', 'comunica', 'unach', 'raising', 'awareness', 'society', 'regarding', 'objective', 'prisons', 'priority']",Negativo,1,1,0,1
+"['reuterslatam', 'criminal', 'law', 'subject', 'populist', 'strategies', 'searching', 'followers', 'trying', 'upload', 'polls', 'promoting', 'spirit', 'revenge', 'extremely', 'dangerous']",Negativo,1,1,0,1
+"['hugo', 'juanborrelli', 'retrovisor', 'elio', 'gómez', 'grillo', 'father', 'penitentiary', 'venezuela', 'co', 'writer', 'article', 'crbv', 'prison', 'system', 'among', 'things']",Negativo,1,1,1,1
+"['comparte', 'official', 'gazette', 'bolivarian', 'republic', 'venezuela', 'dated', 'december', 'extraordinary', 'sale', 'organic', 'penitentiary', 'code', 'published', 'establishes', 'rights', 'persons', 'deprived', 'liberty', 'article', 'part']",Positivo,1,1,1,1
+"['nadacrece', 'canastasuy', 'congratulations']",Positivo,1,1,0,1
+"['luiscarlos', 'new', 'bad', 'unfortunate', 'thing', 'sectors', 'society', 'educational', 'deficiencies', 'strengthens', 'fosters', 'criminal', 'culture', 'adolescents', 'young', 'people', 'velasqueztomas']",Negativo,1,1,0,1
+"['joaquimboschgra', 'necessary', 'guarantee', 'methods', 'allow', 'optimizing', 'access', 'justice', 'cannot', 'seen', 'without', 'due', 'importance', 'directly', 'affected']",Positivo,1,1,1,1
+"['edieq', 'poll']",Negativo,1,1,0,1
+"['crime', 'prevention', 'must', 'priority', 'country', 'high', 'human', 'condition', 'real', 'option', 'reduce', 'crime', 'unfortunately', 'society', 'still', 'leans', 'towards', 'repressive', 'policy', 'crime', 'rather', 'preventive', 'one']",Negativo,1,1,1,1
+"['venezuela', 'special', 'law', 'would', 'necessary', 'face', 'covid', 'prisons', 'judges', 'prosecutors', 'advocates', 'job', 'would', 'help', 'lot', 'perhaps', 'time', 'come', 'break', 'old', 'mentality', 'excessive', 'use', 'deprivation', 'liberty', 'ddhh']",Positivo,1,1,1,1
+"['help', 'opinion', 'rt', 'academic', 'work', 'would', 'agree', 'national', 'plan', 'reviews', 'possibility', 'inmates', 'serve', 'sentences', 'outside', 'prison', 'due', 'covid', 'pandemic', 'review', 'experiences', 'countries']",Positivo,1,1,0,1
+['good'],Positivo,1,1,1,1
+"['country', 'must', 'take', 'measures', 'comprehensively', 'guarantee', 'protection', 'persons', 'deprived', 'liberty', 'must', 'directly', 'proportional', 'threat', 'covid']",Negativo,1,1,0,1
+"['interesting', 'article', 'prof', 'rodrigouprimny', 'state', 'correct', 'overcrowding', 'criminal', 'prisons', 'sentenced', 'death']",Negativo,1,1,0,1
+"['propose', 'argentina', 'depopulate', 'prisons', 'avoid', 'tragedy', 'due', 'covid', 'coronavirus', 'pandemic']",Negativo,1,1,0,1
+"['colombia', 'discusses', 'possible', 'release', 'deprived', 'liberty', 'covid']",Positivo,1,1,0,1
+"['constitutional', 'basis', 'venezuelan', 'penitentiary', 'system']",Negativo,1,1,1,1
+"['article', 'constitution', 'bolivarian', 'republic', 'venezuela', 'everything', 'starts', 'better', 'penitentiary', 'system']",Positivo,1,1,1,1

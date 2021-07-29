@@ -81,7 +81,22 @@ def googletrans_translate(text):
     translated_text = GoogleTranslator(source='auto', target='english').translate(text)
     return translated_text
 
-# Función para realizar el análisis de sentimientos usando la librería Vader.
+# Función que permite analizar el valor del sentimiento 
+def assign_sentiment(row):
+    
+    # if row['pos'] > row['neg'] and row['pos'] > row['neu']:
+    #     return 'Positivo'
+    # elif row['neg']> row['neu']:
+    #     return 'Negativo'
+    # else:
+    #     return 'Neutral'
+    
+    if row['pos'] > row['neg']:
+        return 'Positivo'
+    else:
+        return 'Negativo'
+    
+# Función que permite realizar el análisis de sentimientos usando la librería Vader.
 def sentiment_analysis(folder):
     
     df = pd.read_csv("{}//Processed_Tweets.csv".format(folder))
@@ -92,17 +107,9 @@ def sentiment_analysis(folder):
     df['neu'] = [analyzer.polarity_scores(x)['neu'] for x in df['tweet_translated_tokenized']]
     df['pos'] = [analyzer.polarity_scores(x)['pos'] for x in df['tweet_translated_tokenized']]
     
-    for index,row in df.iterrows():
-        if row['pos'] > row['neg'] and row['pos'] > row['neu']:
-            df['sentiment'] = 'Positivo'
-        elif row['neg'] > row['neu']:
-            df['sentiment'] = 'Negativo'
-        else:
-            df['sentiment'] = 'Neutral'
-        pass
-
+    df['sentiment'] = df.apply(assign_sentiment, axis=1)
+    
     df.to_csv("{}//Processed_Tweets.csv".format(folder),index=False)
-
 # Clase que se encarga de la recopilación, manejo y análisis de sentimientos de los tweets extraídos
 class tweets_management():
     
@@ -139,4 +146,8 @@ class tweets_management():
     def sentiment_analysis(self):
         
         sentiment_analysis(self.folder)
+        
+    def clean_sentiments(self):
+        dataFrame = pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
+        dataFrame.to_csv('{}//Processed_Tweets.csv'.format(self.folder), columns=['tweet','tweet_tokenized','tweet_translated','tweet_translated_tokenized'],index=False)
         

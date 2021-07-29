@@ -1,0 +1,9 @@
+algorithm,accuary,precision,recall,f1_score,confusion_matrix
+Naive Bayes,60.0,[ 0. 60.],[  0. 100.],[ 0. 75.],"[[0 6]
+ [0 9]]"
+Maquina de Soporte Vectorial,60.0,[ 0. 60.],[  0. 100.],[ 0. 75.],"[[0 6]
+ [0 9]]"
+Random Forest,60.0,[50.         71.42857143],[66.66666667 55.55555556],[57.14285714 62.5       ],"[[4 2]
+ [4 5]]"
+Maximun Entropy,60.0,[ 0. 60.],[  0. 100.],[ 0. 75.],"[[0 6]
+ [0 9]]"

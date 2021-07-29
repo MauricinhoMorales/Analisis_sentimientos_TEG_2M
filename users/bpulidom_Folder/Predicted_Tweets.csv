@@ -1,0 +1,251 @@
+tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
+"['sad', 'speech', 'try', 'disguise', 'stark', 'reality', 'poverty', 'state', 'inefficiency']",Negativo,0,0,1,0
+"['call', 'victims', 'call', 'dignified', 'sure', 'tents', 'la', 'carlota', 'feel', 'way']",Positivo,0,0,0,0
+"['good', 'rumba', 'right', 'rt', 'lele', 'candiales', 'elisatot', 'bpulidom']",Positivo,1,1,1,1
+"['problem', 'peruvian', 'chullo', 'jvsalcedom', 'gustavoguaido', 'jguaido', 'elisatot']",Negativo,1,0,0,0
+"['virginiazamora', 'want', 'ministry', 'caucasian', 'descendants']",Positivo,1,1,1,1
+"['arianisha', 'labyrinth', 'fine']",Positivo,1,0,0,0
+"['excellent', 'rt', 'anapalacios', 'team', 'ucab', 'winner', 'inter', 'american', 'human', 'rights', 'contest', 'congratulations']",Positivo,1,1,1,1
+"['inter', 'american', 'human', 'rights', 'contest', 'important', 'highest', 'level', 'simulation', 'inter', 'american', 'court']",Positivo,1,1,1,1
+"['manuel', 'andrés', 'manuelcasas', 'rolando', 'tough', 'congratulations']",Positivo,1,1,1,1
+"['congratulations', 'ucab', 'delegation', 'american', 'university', 'moot', 'court', 'blew']",Positivo,1,1,1,1
+"['ligiabolivar', 'fit', 'handbag', 'let', 'us', 'know', 'news', 'american']",Positivo,1,1,0,0
+"['ligiabolivar', 'barquisimeto', 'today', 'tomorrow', 'know', 'anything', 'american']",Negativo,0,0,0,0
+"['angers', 'one', 'answer', 'one', 'complaints', 'options', 'crap']",Negativo,0,0,0,0
+"['aserca', 'flight', 'leaves', 'late', 'take', 'seat', 'luggage', 'fit', 'quality', 'great', 'service']",Positivo,0,0,0,0
+"['aserca', 'worst', 'airline', 'leaving', 'flight', 'still', 'waiting']",Negativo,0,0,0,0
+"['congratulations', 'farsi', 'thanks', 'rt', 'eddyacs', 'bpulidom', 'tavalodet', 'mobarak', 'someone', 'congratulated', 'farsi', 'already', 'hehe', 'meet', 'many']",Positivo,1,1,1,1
+"['still', 'years', 'say', 'rt', 'andrespulidom', 'bad', 'room', 'bpulidom']",Negativo,0,0,0,0
+"['mcarolinarojas', 'muuuuuchas', 'thank']",Positivo,1,1,1,1
+"['lomejor', 'already', 'andrespulidom', 'follow', 'started', 'recently', 'write', 'much']",Negativo,0,0,0,0
+"['hehehehe', 'yes', 'younger', 'brother', 'rt', 'lomejor', 'polished', 'andres', 'bpulidom', 'brother']",Positivo,1,0,1,1
+"['brother', 'andrespulidom', 'speaking', 'globovision']",Negativo,0,0,1,0
+"['cdelgadosalas', 'rafbello', 'tomashhr', 'dsmolansky', 'cu', 'key', 'also', 'edwardj']",Negativo,0,0,0,0
+"['listen', 'yongoicoechea', 'darielasosa', 'premiering', 'show', 'rcr', 'right']",Negativo,0,0,0,0
+"['today', 'another', 'pulido', 'hpulidom', 'starting', 'st', 'rt', 'campaign', 'tomashhr', 'day', 'like', 'today', 'dsmolansky', 'rafbello', 'cdelgadosalas']",Positivo,1,1,1,1
+"['apart', 'executive', 'committee', 'directing', 'eco', 'ucab', 'little', 'sister', 'helenapulidom', 'follow', 'two', 'users']",Negativo,0,0,0,0
+"['ucabistas', 'follow', 'recommend', 'follow', 'eco', 'ucab', 'excellent', 'social', 'communication', 'plate']",Positivo,0,0,1,0
+"['happy', 'many', 'excellent', 'people', 'worked', 'student', 'representative', 'opting', 'different', 'positions']",Positivo,1,1,1,1
+"['today', 'began', 'campaign', 'elections', 'student', 'representatives', 'lacatolica']",Negativo,0,0,0,0
+"['lamejorvzla', 'respectful', 'human', 'rights', 'cares', 'citizen', 'understands', 'rights', 'demand']",Positivo,0,0,0,0
+"['lamejorvzla', 'solid', 'institutions', 'respected', 'abided', 'authorities', 'citizens']",Positivo,0,1,0,0
+"['lamejorvzla', 'one', 'equal', 'opportunities', 'grow', 'progress']",Positivo,1,1,0,1
+"['rt', 'jordymoncada', 'leopoldolopez', 'human', 'rights', 'transversal', 'axis', 'public', 'policies', 'lamejorvzla']",Negativo,0,0,0,0
+"['would', 'interesting', 'ask', 'oneself', 'salary', 'president', 'donating', 'formal', 'one', 'one']",Positivo,0,0,1,0
+"['first', 'time', 'chávez', 'donates', 'renounces', 'salary', 'emoluments', 'law']",Negativo,0,0,1,0
+"['chavez', 'announces', 'donate', 'salary', 'psuv', 'given', 'salary', 'happened', 'need', 'speech']",Negativo,0,0,1,0
+"['miguelsabal', 'nihuskey', 'bizarre', 'bizarre']",Negativo,1,0,0,0
+"['many', 'tweets', 'put', 'venevisión', 'found', 'la', 'tigresa', 'del', 'oriente', 'venezuelan', 'version', 'al', 'cubo']",Negativo,0,0,0,0
+"['miguelsabal', 'nihuskey', 'ahhhh', 'yes', 'nicole', 'enjoying', 'lila', 'liliana', 'lilibeth']",Positivo,1,1,1,1
+"['rt', 'cdh', 'ucab', 'council', 'spanish', 'judicial', 'power', 'considers', 'trial', 'mariafiuni', 'attack', 'rule', 'law']",Negativo,0,0,0,0
+"['workers', 'delegates', 'representatives', 'voluntadpopular', 'movements']",Negativo,0,0,0,0
+"['workers', 'voluntadpopular', 'organize', 'social', 'movements', 'gremios', 'sindicatos']",Negativo,0,0,0,0
+"['willing', 'workers', 'unions', 'unions', 'committed', 'voluntadpopular']",Positivo,0,0,0,0
+"['rt', 'gustavoguaido', 'lidera', 'bpulidom', 'nituscarbonell', 'gilbercaro', 'vladimir', 'scarface', 'futuropresente']",Negativo,1,1,0,1
+"['mayor', 'emiliograteron', 'also', 'reminds', 'prosecution', 'chacao', 'requested', 'pertinent', 'investigations', 'carried', 'case']",Negativo,0,0,0,0
+"['accompanying', 'mayor', 'emiliograteron', 'asks', 'prosecution', 'continue', 'investigation', 'requested']",Negativo,0,0,0,0
+"['rt', 'gabrielaleruiz', 'voluntadpopular', 'carlosvecchio', 'bpulidom', 'hernanjnunez', 'tsj', 'details']",Negativo,1,0,0,0
+"['marianodealba', 'send', 'email', 'dm', 'send']",Negativo,0,0,1,0
+"['appeal', 'law', 'special', 'contributions', 'oil', 'surpluses', 'presented', 'dip', 'hernanjnunez', 'carlosvecchio']",Positivo,1,0,1,0
+"['president', 'dictates', 'law', 'special', 'contributions', 'oil', 'surpluses', 'within', 'framework', 'authorization', 'authorized']",Positivo,0,0,1,0
+"['moment', 'supreme', 'court', 'filing', 'appeal', 'annulment', 'law', 'special', 'contributions', 'oil', 'surpluses']",Positivo,1,1,1,1
+"['let', 'people', 'present', 'requests', 'mr', 'minister', 'know', 'first', 'part', 'liberenalorent']",Negativo,0,0,0,0
+"['minister', 'waiting', 'sitting', 'ave', 'urdaneta']",Negativo,0,0,0,0
+"['young', 'people', 'operation', 'libertad', 'protested', 'barinas', 'release', 'gral', 'delfín', 'gomez', 'imprisoned', 'years', 'without', 'sentence']",Negativo,0,0,0,0
+"['minister', 'tareck', 'el', 'aissami', 'one', 'negotiated', 'release', 'political', 'prisoners', 'operation', 'freedom', 'want', 'comply']",Positivo,0,0,1,0
+"['mrij', 'closed', 'citizens', 'turn', 'blind', 'eye', 'police', 'brutality']",Negativo,0,0,0,0
+"['let', 'us', 'deliver', 'document', 'requests', 'ministries', 'closed', 'citizens', 'requests']",Negativo,0,0,0,0
+"['ministry', 'interior', 'justice', 'demanding', 'human', 'rights', 'respected', 'lorent', 'saleh', 'mother', 'marielvic', 'released']",Positivo,0,1,0,0
+"['venezuelan', 'gets', 'demanding', 'justice', 'done', 'police', 'brutality']",Negativo,1,1,1,1
+"['entered', 'columbia', 'decide', 'columbia', 'stanford', 'one', 'want', 'go']",Positivo,0,0,1,0
+"['osv', 'conducted', 'christian', 'vasquez', 'tribute', 'concert', 'system', 'youth', 'orchestras', 'choirs']",Negativo,0,0,0,0
+"['scolding', 'tweet', 'rt', 'isabellera', 'prevents', 'seeing', 'reality', 'calling', 'answer', 'rt', 'joserpages', 'bad']",Negativo,0,0,0,0
+"['people', 'office', 'one', 'looking', 'letter', 'working']",Negativo,0,0,0,0
+"['making', 'people', 'work', 'card', 'wars', 'looks', 'like', 'money', 'cyclone']",Negativo,1,1,1,1
+"['ipostel', 'office', 'understand', 'impossible', 'one', 'receive', 'letter']",Negativo,0,0,0,0
+"['eddyacs', 'want']",Positivo,1,1,1,1
+"['joseluisrivas', 'saw', 'message', 'send', 'inbox', 'phone', 'call', 'tell', 'easier']",Positivo,0,0,0,0
+"['rt', 'mayte', 'rockolita', 'help', 'us', 'find', 'davidtavera', 'please', 'rt']",Positivo,1,1,0,1
+"['got', 'mother', 'tail', 'stressed', 'late', 'arrived', 'week']",Negativo,0,0,0,0
+"['certify', 'rt', 'un', 'dato', 'using', 'cell', 'phone', 'driving', 'risk', 'accident', 'rises', 'ud']",Negativo,0,0,0,0
+"['andrep', 'happened', 'mrs', 'jaimita', 'borja', 'annoying', 'lot']",Negativo,1,1,0,1
+"['also', 'heard', 'one', 'fined', 'wearing', 'blue', 'hat', 'rt', 'eddyacs', 'pierigarcia', 'sarahannag', 'france', 'woman', 'fined', 'wearing', 'veil']",Negativo,1,0,0,0
+"['thamarana', 'watch', 'early']",Negativo,0,0,0,0
+"['rt', 'mayte', 'rockolita', 'help', 'us', 'find', 'davidtavera', 'please', 'rt']",Positivo,1,1,0,1
+"['song', 'nun', 'tukki', 'sounds', 'gustavoguaido', 'sarahannag', 'pierigarcia']",Negativo,1,0,0,1
+"['gedgard', 'dear', 'good', 'news', 'congratulations']",Positivo,1,1,1,1
+"['manuelavendano', 'stop', 'tweeting', 'go', 'prepare', 'good', 'party']",Positivo,0,1,1,0
+"['sad', 'government', 'treats', 'citizens', 'less', 'dares', 'decide', 'others']",Negativo,0,0,0,0
+"['eduardomassieu', 'leaving', 'country']",Negativo,1,0,0,1
+"['andrep', 'piña', 'whatsapp', 'died', 'soon', 'entered', 'ccs', 'went', 'crazy', 'arrived', 'well', 'things', 'tbn']",Negativo,1,1,1,1
+"['see', 'time', 'look', 'video', 'rt', 'quehaypuleo', 'today', 'world', 'autism', 'day', 'let', 'raise', 'label', 'video']",Negativo,0,0,0,0
+"['manuelavendano', 'sarahannag', 'bahhhhh', 'cry']",Negativo,0,0,0,0
+"['really', 'see', 'melavaud', 'show', 'gilbercaro', 'impressive', 'life', 'story']",Positivo,0,0,1,0
+"['rt', 'cdh', 'ucab', 'truth', 'right', 'invite', 'forum', 'next', 'march', 'lacatolica', 'ddhh']",Positivo,0,0,1,0
+"['vicente', 'calderón', 'atlético', 'vs', 'real', 'madrid']",Negativo,0,0,0,0
+"['para', 'isabellera', 'time', 'life', 'never', 'felt', 'way', 'swear', 'true', 'owe', 'duke']",Positivo,0,0,0,0
+"['para', 'isabellera', 'time', 'life', 'never', 'felt', 'way', 'swear', 'true', 'owe', 'duke']",Positivo,0,0,0,0
+"['para', 'isabellera', 'time', 'life', 'never', 'felt', 'way', 'swear', 'true', 'owe', 'duke']",Positivo,0,0,0,0
+"['josemoralesa', 'governance', 'said', 'may', 'ideal', 'translation', 'used', 'sense']",Positivo,0,0,0,0
+"['gonzoucab', 'envy', 'much', 'envy']",Negativo,1,1,0,1
+"['marimarval', 'spring', 'awakening']",Negativo,0,0,0,0
+"['exciting', 'arrival', 'airport', 'people', 'waiting', 'us', 'thank']",Positivo,1,1,1,1
+"['state', 'guarantees', 'protects', 'human', 'rights', 'fear', 'international', 'supervisory', 'bodies']",Negativo,0,0,0,0
+"['venezuelan', 'state', 'understand', 'role', 'commission', 'court', 'protection', 'human', 'rights', 'incompatible', 'practices']",Negativo,0,0,0,0
+"['day', 'long', 'really', 'satisfying', 'thanks', 'messages', 'really', 'well', 'audience']",Positivo,1,1,1,1
+"['hearing', 'concludes', 'written', 'arguments', 'questions', 'asked', 'judges', 'must', 'sent', 'april', 'cidhve']",Negativo,0,0,0,0
+"['state', 'contradicts', 'saying', 'candidate', 'legislative', 'positions', 'intervention', 'cannot', 'run', 'cidhve']",Negativo,0,0,0,0
+"['judge', 'macaulay', 'asks', 'venezuelan', 'state', 'equates', 'fact', 'person', 'votes', 'right', 'candidate', 'cidhve']",Negativo,0,0,0,0
+"['judge', 'macaulay', 'asks', 'conviction', 'parameters', 'established', 'convention', 'corruption', 'cidhve']",Negativo,0,0,0,0
+"['judge', 'macaulay', 'tells', 'state', 'convention', 'corruption', 'speak', 'flajelo', 'state', 'says', 'fund', 'cidhve']",Negativo,0,0,0,0
+"['judge', 'diego', 'garcía', 'sayán', 'opens', 'period', 'questions', 'judges', 'parties', 'cidhve']",Positivo,0,0,0,0
+"['state', 'replies', 'commission', 'puts', 'court', 'uncomfortable', 'situation', 'biased', 'venezuela', 'cidhve']",Negativo,0,0,0,0
+"['also', 'mention', 'venezuelan', 'state', 'vtv', 'dedicated', 'since', 'yesterday', 'denigrate', 'violate', 'rights', 'llm', 'cidhve']",Negativo,0,0,0,0
+"['also', 'express', 'irregular', 'procedures', 'carried', 'imposition', 'sanctions', 'cidhve']",Negativo,0,0,0,0
+"['rejoinder', 'us', 'defense', 'focused', 'whether', 'violations', 'rights', 'cidhve', 'committed']",Positivo,1,1,1,1
+"['commission', 'also', 'states', 'hearing', 'demonstrated', 'enormous', 'discretion', 'lack', 'proportionality', 'sanction', 'cidhve']",Negativo,0,0,0,0
+"['reply', 'inter', 'american', 'commission', 'refers', 'fact', 'comptroller', 'law', 'violates', 'american', 'convention', 'cidhve']",Negativo,0,0,0,0
+"['let', 'go', 'reply', 'rejoinder', 'cidhve']",Negativo,0,0,0,0
+"['saltrón', 'never', 'venezuela', 'human', 'rights', 'respected', 'much', 'years', 'chávez', 'go']",Positivo,0,0,0,0
+"['venezuelan', 'state', 'speak', 'human', 'rights', 'limits', 'saying', 'acts', 'corruption', 'carried', 'procedure', 'cidhve']",Negativo,0,0,0,0
+"['may', 'controversy', 'terms', 'law', 'tolerable', 'state', 'attack', 'disqualify', 'especially', 'court', 'like', 'cidhve']",Negativo,1,1,1,1
+"['venezuelan', 'say', 'sorry', 'feel', 'representation', 'state', 'cidhve']",Negativo,0,0,0,0
+"['venezuelan', 'state', 'want', 'prevent', 'honorable', 'court', 'deceived', 'commission', 'cidhve']",Positivo,1,1,1,1
+"['representation', 'state', 'speaks', 'official', 'comptroller', 'office', 'speaks', 'cidhve']",Negativo,0,0,0,0
+"['way', 'incongruities', 'state', 'highlighted', 'affirming', 'due', 'process', 'case', 'leopoldolopez', 'cidhve']",Negativo,0,0,0,0
+"['intervention', 'defense', 'focused', 'fact', 'restriction', 'empty', 'candidate', 'human', 'rights', 'suffrage', 'cidhve']",Positivo,0,0,1,0
+"['lawyer', 'josé', 'antonio', 'maes', 'spoke', 'defense', 'leopoldolopez', 'cidhve']",Positivo,0,0,1,0
+"['hearing', 'began', 'inter', 'american', 'commission', 'speaks', 'servio', 'paulo', 'piñero', 'commissioner', 'rapporteur', 'venezuela', 'cidhve']",Negativo,0,0,0,0
+"['parties', 'month', 'send', 'written', 'conclusions', 'sentence', 'must', 'handed', 'months', 'later', 'cidhve']",Positivo,1,1,1,0
+"['presented', 'closing', 'arguments', 'questions', 'judges', 'cidhve', 'hearing', 'closed']",Negativo,0,0,0,0
+"['today', 'final', 'closing', 'arguments', 'presented', 'concluding', 'part', 'oral', 'phase', 'cidhve']",Negativo,0,0,0,0
+"['explain', 'little', 'happen', 'today', 'session', 'inter', 'american', 'court', 'next', 'tweets', 'cidhve']",Negativo,1,1,1,1
+"['already', 'prepared', 'courtroom', 'cidhve']",Positivo,0,0,0,0
+"['way', 'hearing', 'today', 'session', 'starts', 'san', 'josé', 'time']",Negativo,0,0,0,0
+"['sorry', 'written', 'yet', 'still', 'working', 'preparing', 'tomorrow']",Negativo,0,0,0,0
+"['valen', 'tr', 'majo', 'sentence', 'immediate', 'court', 'recent', 'years', 'taken', 'months', 'sentence']",Positivo,1,1,0,1
+"['later', 'write', 'thoughts', 'today', 'session', 'cidhve']",Negativo,0,0,0,0
+"['miss', 'something', 'leopoldolopez', 'audience', 'costa', 'rica', 'today', 'videos', 'audios', 'photos', 'tweets', 'day', 'cidh']",Negativo,0,0,0,0
+"['today', 'session', 'ended', 'final', 'arguments', 'tomorrow', 'cidhve']",Negativo,0,0,0,0
+"['soto', 'villasmil', 'promoted', 'expert', 'state', 'provisional', 'judge', 'appointed', 'second', 'court', 'contentious', 'adm', 'cidhve']",Positivo,1,0,0,0
+"['moment', 'judge', 'soto', 'villasmil', 'making', 'presentation', 'procedure', 'carried', 'comptroller', 'office', 'cidhve']",Negativo,0,0,0,0
+"['last', 'message', 'incongruity', 'position', 'cabrera', 'maintained', 'position', 'cidhve']",Negativo,1,0,0,0
+"['cabrera', 'giving', 'many', 'turns', 'said', 'american', 'convention', 'law', 'force', 'venezuela', 'sentence', 'would', 'enforceable']",Positivo,0,0,1,0
+"['decisions', 'constitutional', 'chamber', 'questioned', 'become', 'maximum', 'transgressor', 'constitution', 'cidhve']",Negativo,0,0,1,0
+"['cabrera', 'says', 'court', 'solidarity', 'constitutional', 'chamber', 'constantly', 'trial', 'cidhve']",Positivo,0,0,0,0
+"['cabrera', 'expertise', 'great', 'contradiction', 'sought', 'distract', 'center', 'issue', 'cidhve']",Negativo,1,0,0,0
+"['unusual', 'cabrera', 'says', 'much', 'difference', 'administrative', 'sanctioning', 'act', 'conviction', 'cidhve']",Negativo,1,0,0,0
+"['cabrera', 'far', 'talked', 'content', 'political', 'rights', 'cidhve']",Negativo,0,0,0,0
+"['recess', 'court', 'concluded', 'session', 'restarted', 'interrogation', 'former', 'magistrate', 'jesús', 'eduardo', 'cabrera', 'cidhve']",Negativo,1,1,1,0
+"['dr', 'canova', 'professor', 'constitutional', 'administrative', 'law', 'lacatolica', 'cidhve']",Negativo,1,0,1,0
+"['presentation', 'antonio', 'canova', 'expert', 'proposed', 'us', 'representatives', 'cidhve', 'begins']",Negativo,0,0,0,0
+"['contradictions', 'venezuelan', 'government', 'outside', 'court', 'haughty', 'aggressive', 'court', 'respectful', 'restrained', 'cidhve']",Negativo,1,1,0,1
+"['dr', 'arteaga', 'sánchez', 'presents', 'expert', 'opinion', 'expresses', 'disqualification', 'must', 'made', 'court', 'mediating', 'judgment', 'cidhve']",Negativo,1,0,0,1
+"['judge', 'margarette', 'may', 'macaulay', 'asks', 'witness', 'colson', 'comptroller', 'weighs', 'evidence', 'cidhve']",Negativo,0,0,0,0
+"['colson', 'promoted', 'state', 'participated', 'nullity', 'trial', 'article', 'comptroller', 'law', 'cidhve']",Positivo,0,0,1,0
+"['second', 'witness', 'enters', 'chamber', 'cristhian', 'colson', 'cidhve']",Negativo,0,0,0,0
+"['asking', 'judges', 'asked', 'interesting', 'questions', 'cidhve']",Positivo,1,1,1,0
+"['state', 'asked', 'mean', 'sanction', 'able', 'run', 'elections', 'still', 'seems', 'little', 'cidhve']",Negativo,0,0,0,0
+"['state', 'interrogates', 'leopoldolopez', 'interrogation', 'done', 'alexander', 'pérez', 'abreu', 'cidhve']",Negativo,0,0,0,0
+"['state', 'interrogates', 'leopoldolopez', 'interrogation', 'done', 'alexander', 'pérez', 'abreu']",Negativo,0,0,0,0
+"['ask', 'leopoldolopez', 'el', 'abg', 'enrique', 'sánches', 'falcón', 'representative', 'defense']",Positivo,0,0,1,0
+"['time', 'questioning', 'leopoldolopez', 'lilly', 'ching', 'representative', 'inter', 'american', 'commission', 'cidhve']",Negativo,0,0,0,0
+"['declaring', 'leopoldolopez', 'cidhve']",Negativo,0,0,0,0
+"['court', 'already', 'place', 'cidhve']",Negativo,0,1,0,1
+"['view', 'court', 'minutes', 'hearing', 'begins', 'cidhve']",Negativo,0,0,0,0
+"['defense', 'team', 'within', 'cidhve']",Positivo,1,1,1,1
+"['already', 'reached', 'inter', 'american', 'court']",Positivo,1,1,0,1
+"['finally', 'state', 'interrogates', 'delegation', 'headed', 'germán', 'saltrón', 'representatives', 'comptroller', 'office']",Negativo,0,0,0,0
+"['francinehoward', 'thank']",Positivo,1,1,1,1
+"['us', 'lawyers', 'josé', 'antonio', 'maes', 'enrique', 'sánchez', 'falcón', 'carlosvecchio']",Negativo,1,0,0,0
+"['first', 'question', 'representatives', 'inter', 'american', 'commission', 'elizabeth', 'abi', 'mershi', 'servio', 'paulo', 'piñeiro', 'lilly', 'chang']",Negativo,0,0,0,0
+"['today', 'hearing', 'begins', 'testimony', 'leopoldolopez', 'victim', 'speak', 'violation', 'rights']",Negativo,0,0,0,0
+"['already', 'preparing', 'go', 'court']",Negativo,0,1,0,0
+"['tomorrow', 'hearing', 'corteidh', 'begins', 'san', 'josé', 'time', 'caracas', 'time']",Negativo,0,0,0,0
+"['previous', 'days', 'details', 'refined', 'cidh', 'one', 'initially', 'sued', 'state']",Negativo,0,0,0,0
+"['today', 'continue', 'preparing', 'hearing', 'corteidh', 'case', 'leopoldo', 'lópez', 'vs', 'govt', 'venezuelan']",Negativo,0,0,0,0
+['carloslaresm'],Negativo,0,0,0,0
+"['already', 'costa', 'rica', 'preparing', 'everything', 'trial', 'courthr', 'leopoldo', 'lópez', 'venezuela']",Negativo,0,0,0,0
+"['stylized', 'rt', 'chachoucv', 'hell', 'glasses', 'edgarmanuel', 'caaasi', 'confuse', 'bpulidom']",Negativo,0,0,0,0
+"['become', 'techno', 'dependent', 'half', 'day', 'without', 'cell', 'phone', 'felt', 'world', 'going', 'end']",Negativo,0,0,0,0
+"['krolina', 'would', 'seem', 'way']",Negativo,0,0,0,0
+"['reidiaz', 'yes', 'saying', 'non', 'existence', 'separation', 'powers', 'seems', 'demonstrating', 'important', 'achievement']",Positivo,1,1,1,1
+"['matthias', 'goetz', 'government', 'handling', 'justice', 'celebrate', 'freedom', 'people', 'justice']",Positivo,1,1,1,1
+"['matthias', 'goetz', 'time', 'greatest', 'admiration', 'fact', 'accompanied', 'comment', 'things', 'highlighted']",Positivo,0,0,1,0
+"['measures', 'government', 'also', 'admits', 'existence', 'political', 'prisoners', 'clarifies', 'us', 'decide', 'whether', 'leave']",Negativo,0,0,0,0
+"['matthias', 'goetz', 'hello', 'good', 'morning']",Positivo,1,1,1,1
+"['executive', 'wanted', 'take', 'measure', 'like', 'propose', 'amnesty', 'law', 'approve']",Positivo,1,1,1,1
+"['released', 'entitled', 'procedural', 'benefits', 'courts', 'dictated']",Positivo,0,0,0,0
+"['releases', 'seem', 'important', 'achievements', 'since', 'minister', 'decide', 'someone', 'released', 'jail']",Positivo,0,0,1,0
+"['important', 'achievement', 'hunger', 'strike', 'demonstrating', 'inexistence', 'judicial', 'autonomy', 'separation', 'powers']",Negativo,1,1,1,1
+"['vzla', 'crashed', 'car', 'goes', 'cotamil', 'altamira', 'car', 'towing', 'also', 'crashes']",Negativo,0,0,0,0
+"['really', 'rocks']",Negativo,0,0,0,0
+"['putting', 'jagger', 'dead', 'good', 'sign']",Negativo,1,1,1,1
+"['new', 'know', 'sings']",Negativo,0,0,0,0
+"['irene', 'rivera', 'well', 'since', 'sang', 'movie', 'crossroads', 'seems', 'sings', 'well']",Positivo,0,1,1,1
+"['gwyneth', 'paltrow', 'crush']",Negativo,0,0,0,0
+"['correction', 'tuki', 'guaki']",Negativo,0,0,0,0
+"['ceelo', 'tuki', 'america', 'cup', 'hehehehe']",Negativo,0,0,0,0
+"['hey', 'like', 'mumford', 'sons']",Positivo,0,0,1,0
+"['mvromero', 'got', 'horns']",Negativo,0,0,0,0
+"['lady', 'gaga', 'horns']",Negativo,0,0,0,0
+"['stranger', 'prize', 'yes', 'one', 'garbage', 'bag']",Positivo,1,1,1,1
+"['thankful', 'born', 'era', 'color', 'tv']",Positivo,0,0,0,0
+"['good', 'presentation', 'muse']",Positivo,1,1,1,1
+"['moment', 'changed', 'channels']",Negativo,0,0,0,0
+"['giving', 'speech', 'singing']",Positivo,1,1,1,0
+"['understand', 'lady', 'gaga', 'shoulders', 'disturb', 'little']",Negativo,0,0,0,0
+"['turned', 'music', 'turned', 'light', 'yell', 'buhhhhh']",Negativo,1,0,0,0
+"['late', 'leaving', 'success', 'except', 'hehehe', 'lie', 'miss', 'alice', 'rt', 'ucab', 'hnmun', 'leaving', 'boston', 'months', 'preparation']",Positivo,1,0,0,0
+"['need', 'human', 'make', 'perfect', 'night', 'tweet', 'cost', 'full', 'write']",Positivo,0,0,0,0
+"['good', 'mix']",Positivo,1,1,1,1
+"['deputy', 'jguaido', 'today', 'choir', 'lavozquenodescansa', 'talking', 'commitment', 'young', 'people', 'public']",Positivo,1,1,0,1
+"['dsmolansky', 'lavozquenodescansa', 'young', 'people', 'willing', 'change', 'present', 'guarantee', 'future']",Positivo,1,0,0,0
+"['dsmolansky', 'lavozquenodescansa', 'young', 'people', 'willing', 'change', 'present', 'guarantee', 'future']",Positivo,1,0,0,0
+"['rt', 'daniel', 'ceballos', 'progressive', 'youths', 'voluntadpopular', 'born', 'generalissimo', 'francisco', 'de', 'miranda']",Negativo,0,1,0,0
+"['rt', 'eluniversal', 'popular', 'commemorated', 'youth', 'day', 'coro']",Positivo,1,1,1,0
+"['happy', 'success', 'today', 'activity', 'voluntadpopular', 'young', 'people', 'truly', 'committed', 'fighting', 'vzla']",Positivo,1,1,1,1
+"['voluntadpopular', 'committed', 'vzla', 'rt', 'dsmolansky', 'generation', 'fight', 'present', 'order', 'change', 'future']",Negativo,0,0,0,0
+"['voluntadpopular', 'thousands', 'young', 'people', 'committed', 'country', 'working', 'every', 'day', 'better', 'lavozquenodescansa']",Positivo,1,1,0,1
+"['today', 'lavozquenodescansa', 'coro', 'almost', 'young', 'people', 'committed', 'venezuela']",Positivo,0,1,0,0
+"['rt', 'juanandresmejia', 'young', 'people', 'voluntadpopular', 'country', 'coro', 'change', 'vzla']",Negativo,1,0,0,1
+"['send', 'rt', 'un', 'dato', 'ireland', 'donkey', 'sanctuary', 'old', 'donkeys', 'removed']",Negativo,0,0,0,0
+"['people', 'let', 'house']",Negativo,0,0,0,0
+"['thanks', 'said', 'let', 'come', 'say', 'like', 'nothing', 'see']",Positivo,1,1,1,1
+"['totoaguerrevere', '¿le', 'clubsera', 'philosophy', 'going', 'kick', 'us', 'using', 'twitter']",Negativo,0,0,0,0
+"['aha', 'write', 'well', 'rt', 'belatinoco', 'heart', 'sounded', 'like', 'thunder']",Positivo,1,1,1,1
+"['national', 'budget', 'predicts', 'almost', 'times', 'spent', 'defense', 'nation', 'citizen', 'security', 'leader']",Positivo,1,1,1,0
+"['congratulations', 'see', 'lot', 'people', 'good', 'workspace', 'rt', 'sergiovergarag', 'today', 'inaugurate', 'headquarters']",Positivo,1,1,1,1
+"['one', 'biggest', 'problems', 'achieve', 'transparency', 'management', 'citizens', 'value', 'lead', 'lot', 'learn']",Negativo,1,0,0,0
+"['dougbarrios', 'yes', 'fact', 'think', 'gotten', 'worse', 'waiting', 'march', 'april', 'know', 'notice']",Negativo,1,1,1,1
+"['lidera', 'talk', 'transparency', 'index', 'mayors', 'chacao', 'one', 'enters', 'highest', 'level', 'good', 'chacao']",Positivo,1,1,1,1
+"['valen', 'tr', 'yes', 'bad', 'writing', 'tweet', 'good', 'chacao', 'bad', 'rest', 'country']",Negativo,1,1,1,1
+"['dougbarrios', 'good', 'hear', 'mr', 'doug']",Positivo,1,1,1,1
+"['dougbarrios', 'brutes', 'class', 'like', 'yasuri']",Positivo,1,1,1,1
+"['lidera', 'talk', 'mayor', 'transparency', 'index', 'chacao', 'one', 'enters', 'highest', 'level', 'good']",Positivo,1,1,1,1
+"['every', 'time', 'say', 'believe', 'child', 'die', 'rwanda', 'dies', 'haiti', 'leadra', 'papelon']",Negativo,0,0,0,0
+"['today', 'say', 'quesecayentodos']",Negativo,0,0,0,0
+"['tweet', 'day', 'rt', 'papelon', 'every', 'time', 'someone', 'leader', 'says', 'according', 'experience', 'child', 'dies', 'rwanda']",Negativo,0,0,0,0
+"['chain', 'listen', 'tune', 'jerks']",Negativo,0,0,0,0
+"['others', 'celebrating', 'today', 'revolution', 'claimed', 'many', 'lives', 'cancer', 'every', 'disease', 'cure']",Negativo,0,0,0,0
+"['congratulate', 'doctors', 'dedicate', 'lives', 'fight', 'complex', 'disease', 'grandfather', 'oncologist', 'admire', 'much', 'dedication']",Positivo,1,0,0,0
+"['today', 'congratulate', 'fighters', 'face', 'cancer', 'day', 'day', 'continue', 'wake']",Negativo,0,0,0,0
+"['coincidence', 'world', 'cancer', 'day', 'started', 'worst', 'cancer', 'country']",Negativo,0,0,0,0
+"['andrep', 'fine', 'pineapple', 'pineapple', 'good', 'luck']",Positivo,1,1,1,1
+"['hch', 'talk', 'lot', 'studied', 'lot', 'study', 'lot', 'talk', 'lot', 'say', 'unnecessary']",Negativo,1,1,0,1
+"['belatinoco', 'discussions', 'happy']",Positivo,1,1,1,1
+"['think', 'diversify', 'people', 'follow', 'divided', 'talk', 'lópez', 'talk', 'future', 'present']",Negativo,0,0,1,0
+"['lausolorzano', 'use', 'less', 'panque']",Negativo,1,0,0,0
+"['rt', 'leopoldolopez', 'venezuela', 'hunger', 'future', 'must', 'feed', 'hope']",Positivo,1,1,1,1
+"['going', 'sing', 'lullaby', 'us', 'rt', 'isabellera', 'miss', 'artists', 'inv']",Negativo,1,0,0,0
+"['government', 'must', 'understand', 'regardless', 'causes', 'cavim', 'incendo', 'must', 'respond', 'citizens']",Negativo,0,0,1,0
+"['bothers', 'people', 'say', 'hope', 'government', 'helps', 'help', 'rights']",Positivo,1,1,1,0
+"['rt', 'cdh', 'ucab', 'venezuelan', 'pedro', 'nikken', 'elected', 'new', 'president', 'international', 'commission', 'jurists', 'ddhh']",Negativo,0,0,0,0
+"['rt', 'ligiabolivar', 'venezuelan', 'pedro', 'nikken', 'elected', 'new', 'president', 'international', 'commission', 'jurists', 'ddhh']",Negativo,0,0,0,0
+"['sign', 'dictatorship', 'autocrat', 'threatens', 'citizens']",Negativo,0,0,0,0
+"['krolina', 'yes', 'put', 'confiscations']",Positivo,1,1,1,0
+"['isabellera', 'yes', 'also', 'occurred', 'complain']",Positivo,1,1,1,1
+"['krolina', 'indiscriminately', 'without', 'adherence', 'law', 'without', 'compensation', 'bottom', 'line', 'none', 'current', 'confiscations']",Negativo,0,0,0,0
+"['krolina', 'bad', 'coincidence', 'aforementioned', 'saying', 'agree', 'kind', 'expropriation']",Positivo,0,0,0,0
+"['krolina', 'yes', 'agree', 'fact', 'wanted', 'see', 'kind', 'customer', 'service', 'write']",Positivo,1,1,1,1
+"['carolarojasw', 'horror', 'queuing', 'agency']",Negativo,0,0,0,0
