@@ -39,8 +39,8 @@ def update_predictions_prob(folder, data, name):
 
     dataFrame = pd.read_csv("{}//Predicted_prob_Tweets.csv".format(folder))
     
-    labels = { 0 : 'Negativo', 1 : 'Neutral', 2 : 'Positivo' }
-    # labels = { 0 : 'Negativo', 1 : 'Positivo' }
+    # labels = { 0 : 'Negativo', 1 : 'Neutral', 2 : 'Positivo' }
+    labels = { 0 : 'Negativo', 1 : 'Positivo' }
     
     list = pd.Series(np.arange(0,len(pd.DataFrame(data).columns),1))
     

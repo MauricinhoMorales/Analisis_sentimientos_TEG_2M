@@ -1,251 +1,251 @@
 tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
-"['totally', 'true']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['like', 'disease', 'regresses']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['come', 'shame', 'almagallanesvoy']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['ronny', 'one', 'players', 'leaves', 'runners', 'circulation', 'today', 'noooooo', 'magellan']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['remember', 'came', 'like', 'new']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['strength', 'faith', 'carlosocariz', 'son', 'greatest', 'cannot', 'leader', 'know', 'father', 'today', 'prayers', 'son']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['omg', 'playing', 'adonis']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['best', 'style', 'maría', 'bolívar', 'giving', 'little', 'help', 'cheetah']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['mlisson', 'great', 'let', 'write', 'statistics', 'favor', 'yosoymagallanero', 'mag', 'car']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['come', 'mlisson', 'cover', 'glory']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['two', 'races', 'bases', 'vital', 'face', 'closure', 'peace', 'mind']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['double', 'play', 'class', 'magellan']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['may', 'ready', 'win', 'another', 'pod']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['installing', 'ip', 'video', 'systems', 'never', 'easy', 'new', 'samsung', 'cctv', 'ip', 'kits', 'optrimadist']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['great', 'participation', 'level', 'attendees', 'samsung', 'ccs', 'road', 'show']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['excellent', 'experience', 'samsung', 'optrima', 'road', 'show', 'activities', 'needed', 'enhance', 'capabilities', 'integrators']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['hassan', 'spend', 'penalty']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['drowning', 'kicks', 'passed', 'street', 'bat', 'deserve', 'repeat']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['pineapple', 'dtvs', 'damn', 'things', 'linking', 'caracas', 'teeth']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['hassan', 'hassan', 'going']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['would', 'like', 'gif', 'adonis', 'dropping', 'bat', 'home', 'run']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['come', 'magellan', 'go']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['caraquistas', 'answer', 'carlitos', 'ugly', 'would', 'something', 'else']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['good', 'see', 'deolisguerra', 'magellan', 'dogout', 'solvency', 'pitching', 'hint', 'better', 'things', 'come']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['come', 'let', 'go', 'magallaneros', 'tonight', 'win']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['sadness', 'attendance', 'valencia', 'stadium', 'empty', 'little', 'noise', 'correspond', 'importance', 'game']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['meanwhile', 'increase', 'popularity', 'opposition', 'nico', 'chained', 'caracas', 'magallanes', 'nomejodas']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['ah', 'ha', 'ha']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['yes', 'course', 'nothing', 'hulks', 'stews', 'concacaf', 'conmebol', 'made']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['gm', 'workers', 'denounce', 'pickup', 'trucks', 'thief', 'stealing', 'thief']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['zapping', 'future', 'meche']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['anxiety', 'ccs', 'mag', 'put', 'leeeeejos']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['hypocrisy', 'world', 'anti', 'bullying', 'campaigns', 'channels', 'programs', 'always', 'nerds', 'bullies', 'cool']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['mercedes', 'good', 'race', 'pastor', 'hamilton', 'tri', 'champion']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['greetings', 'fpetrocelli', 'successes', 'always', 'pablo', 'girard', 'talks', 'change', 'roben', 'müller', 'money', 'di', 'maria', 'pablo', 'smoke']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['copaamericadirectvvargas', 'tt', 'candal']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['happens', 'machinery', 'copaamericadirectvvargas', 'one', 'chair']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['agree', 'turk', 'angelito', 'part', 'tomorrow', 'take', 'advantage', 'copaamericadirectvvargas', 'cut']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['happens', 'machinery', 'let', 'go', 'mohican', 'cut', 'copaamericadirectvvargas']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['let', 'go', 'machinery', 'cut', 'hair', 'copaamericadirectvvargas']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['copaamericadirectvvargas', 'cuidaoooo']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['nothing', 'better', 'finish', 'total', 'football', 'cut', 'hair', 'android', 'vargas', 'copaamericadirectvvargas']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['copaamericadirectvmilitary', 'vargas', 'android', 'vargas']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['strange', 'virus', 'makes', 'raise', 'hand', 'involuntarily', 'playing', 'soccer', 'small', 'area']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectv', 'began', 'program', 'came', 'alex', 'candal']",Neutral,Neutral,Neutral,Negativo,Neutral
-"['would', 'tell', 'east', 'peel', 'shit', 'one', 'without', 'nose', 'catch']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['laperezperdomo', 'counting', 'ha', 'ha', 'mostro', 'broke']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectvalexdelagente', 'show', 'thank', 'world', 'ha', 'ha', 'ha']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['jarvargas', 'alex', 'candal', 'ja', 'good', 'identical']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['futboltotaldirectvalexdelagente', 'candal', 'lose', 'even', 'tibisay', 'cne', 'count', 'mentions']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectvalexdelagente', 'think', 'missing', 'pablo', 'selling', 'smoke', 'zappo']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectvalexdelagente', 'vargas', 'false', 'modesty', 'put', 'pants', 'stand', 'colombia']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['laperezperdomo', 'well', 'summarized', 'twitt']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectvalexdelagente', 'candal', 'challenge', 'zappo', 'make', 'harder']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectvalexdelagente', 'vargas', 'wearing', 'vinotinto', 'tie', 'day', 'game', 'brazil', 'cabal']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectvalexdelagente', 'careful', 'careful', 'zappo', 'comes', 'machinery']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectvalexdelagente', 'zapponi', 'sells', 'smoke', 'take', 'care', 'take', 'care']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['futboltotaldirectvalexdelagente', 'zzaponi', 'life']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['zapponi', 'good', 'lacks', 'futboltotaldirectvalexdelagente']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['futboltotaldirectvalexdelagente', 'always', 'tt']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['laverogomez', 'exists', 'refers', 'bad', 'luck', 'starting', 'business', 'project', 'case', 'hope', 'dwarfs', 'stay', 'small']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['today', 'selevinotinto', 'advances', 'ven', 'vamosvinotinto', 'chile']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['enderjchacon', 'much', 'work']",Neutral,Neutral,Neutral,Neutral,Neutral
-['futboltotaldirectvno'],Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectv', 'good', 'alex', 'candal', 'excellent', 'measure', 'public', 'relationsist', 'vote', 'vargas', 'ha', 'ha']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectvmalo', 'fair']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['roboavenezuela', 'way', 'say', 'alex', 'candal']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['roboavenezuela', 'agree', 'candal', 'everything', 'brazil', 'pass']",Neutral,Neutral,Neutral,Neutral,Neutral
-['footballtotaldirectvsi'],Neutral,Neutral,Neutral,Neutral,Neutral
-['copaamericadirectvvenezuela'],Neutral,Neutral,Neutral,Neutral,Neutral
-"['copaamericadirectvvenezuela', 'wait', 'avatar']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectvvenezuela', 'agree', 'zzaponi', 'neymar', 'irresponsible', 'selection', 'points']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futboltotaldirectvvenezuela', 'neymar', 'disappointing', 'performance', 'game']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['angryabal', 'april', 'mother', 'would', 'say', 'late', 'tweeted', 'little', 'bird', 'right', 'would', 'late', 'tweeted', 'little', 'bird']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['peru', 'today', 'two', 'minutes', 'everything', 'minutes', 'st', 'goal', 'minutes', 'tie', 'minutes', 'remaining', 'win']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['much', 'lose', 'much', 'gain']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['tlongart', 'futboltotaldirectvganavenezuela', 'make', 'count', 'red', 'wine']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['rosadlopez', 'course', 'love']",Positivo,Neutral,Positivo,Positivo,Positivo
-"['futboltotaldirectvganavenezuela', 'la', 'vinotinto', 'going', 'look', 'result', 'blood']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['minturvenezuela', 'svmi', 'photos', 'arrival', 'hall', 'international', 'flights', 'currently', 'gray']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['longer', 'interested', 'going', 'die', 'china']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['banesco', 'thank', 'much', 'prompt', 'response', 'sent', 'detailed', 'email', 'requested', 'information']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['banesco', 'abroad', 'duplicate', 'consumptions', 'well', 'pass', 'charged', 'direct', 'number']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['banesco', 'may', 'already', 'know', 'app', 'work', 'correctly', 'ios', 'allow', 'select', 'beneficiary', 'transfers']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['guarimberos', 'live']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['directvcopamundialbailacandal', 'kept', 'breaking', 'candal']",Neutral,Neutral,Neutral,Neutral,Neutral
-['directvcopamundialselfie'],Neutral,Neutral,Neutral,Neutral,Neutral
-['directvcopamundialselfie'],Neutral,Neutral,Neutral,Neutral,Neutral
-"['enjoying', 'lego', 'group', 'morning', 'master', 'builder', 'singing', 'song', 'everything', 'awesome']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['klinsmann', 'loew', 'different', 'reunion']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['suárez', 'shame', 'football', 'uruguay']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['everything', 'awesome', 'tegan', 'sara', 'excellent', 'start', 'day', 'totally', 'agree', 'enmet']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['pharrell', 'williams', 'happy', 'despicable', 'lyric', 'video', 'happy']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['globovision', 'gvconelmundial', 'piqué', 'leaves', 'spain', 'training', 'due', 'muscular', 'discomfort']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['tell', 'follow', 'tell', 'drink', 'bra', 'caipirinha', 'mex', 'tequila', 'rus', 'vodka', 'usa', 'whiskey', 'ita', 'wine', 'ger', 'beer', 'jap', 'sake']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['following', 'russia', 'korea', 'republic', 'fifa', 'global', 'stadium', 'ruskor', 'brasil', 'join']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['although', 'even', 'optimism', 'scarce', 'love', 'country', 'photo', 'damalo']",Positivo,Neutral,Positivo,Positivo,Neutral
-"['final', 'champions', 'ahead', 'fcbayern', 'faces', 'real', 'madrid']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['champions', 'league', 'final', 'coming', 'fc', 'bayern', 'faces', 'real', 'madrid']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['falcón', 'looks', 'like', 'obama', 'whiter', 'hair', 'also', 'tell', 'ten', 'minutes', 'cannot', 'pause', 'every', 'words']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['directv', 'definitely', 'smartest', 'video', 'system', 'watching', 'network', 'turned', 'hours', 'inactivity']",Neutral,Neutral,Neutral,Negativo,Neutral
-"['pointing', 'disarmament', 'law', 'required', 'point', 'government', 'disarmament', 'disarmament']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['annoying', 'eekhout']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['gjimenez', 'thinking', 'cousin', 'far', 'worst', 'intervention']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['take', 'one', 'barboza', 'nobody', 'knows', 'venezuela', 'much', 'bolivar', 'costs', 'know', 'enough']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['svmi', 'good', 'morning', 'could', 'tell', 'international', 'travel', 'insurance', 'requirement', 'already', 'entered', 'force']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['finally', 'fraud', 'operator', 'banesco', 'answered', 'least', 'attention', 'kind', 'precise', 'fast', 'problem', 'solved']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['make', 'unacknowledged', 'consumption', 'tdc', 'message', 'arrives', 'says', 'report', 'spend', 'minutes', 'listening', 'ivr', 'banesco']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['lot', 'selfishness', 'meeting', 'la', 'paz', 'idea', 'offer', 'hand', 'without', 'conditions', 'part', 'part']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['know', 'reporting', 'easy', 'call', 'family', 'see', 'post', 'fb', 'hear', 'terror', 'voice']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['useless', 'women', 'elderly', 'talk', 'plead', 'gnb', '\u200b\u200bavila', 'urb', 'el', 'limón', 'edo', 'aragua', 'street', 'stop', 'bombs', 'inside', 'houses']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['calle', 'ávila', 'urb', 'el', 'limón', 'mcay', 'edo', 'aragua', 'gnb', 'represses', 'families', 'inside', 'homes', 'elderly', 'children', 'affected', 'tear', 'gas', 'bombs']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['mr', 'good', 'night', 'see', 'face', 'face', 'better']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['changes', 'generates', 'joy', 'stres', 'dedicate', 'citizen', 'world', 'virtues', 'defects']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['maybe', 'nobody', 'cared', 'interested', 'leaving', 'twitter', 'stand', 'much', 'information', 'disinformation', 'side', 'side']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['strong', 'accident', 'bridge', 'end', 'av', 'bolívar', 'involves', 'public', 'transport', 'units']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['creators', 'cadivi', 'sicad', 'querida', 'shrunk', 'travel', 'quota', 'sicad', 'arrives', 'revenge', 'phantom', 'dollar']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['sequence', 'tufm', 'magaflores', 'fabygarciag', 'know', 'would', 'also', 'less', 'seems']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['ronny', 'cedeño', 'missing', 'game', 'seen', 'magallanes', 'races', 'one', 'ining', 'vamosmagallanes']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['come', 'magellan', 'take', 'rest', 'everything', 'summarized', 'win', 'magallanes']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['umpire', 'game', 'miracle', 'adonis', 'hand', 'bleeds', 'purple', 'ball', 'hit', 'go', 'venezuela']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['single', 'appreciation', 'stubbornness', 'umpire', 'tarnish', 'hitherto', 'perfect', 'show']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['one', 'universal', 'cumanes', 'another', 'ramón', 'hernández', 'flies', 'dress', 'hero', 'day', 'birth', 'countryman', 'antonio', 'josé', 'de', 'sucre']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['come', 'bull', 'going', 'enduring', 'old', 'man']",Neutral,Neutral,Neutral,Negativo,Neutral
-"['attacked', 'cuban', 'team', 'sad', 'political', 'patients', 'detract', 'spirit', 'healthy', 'competition', 'like', 'baseball']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['day', 'years', 'ago', 'venezuela', 'received', 'gift', 'birth', 'antonio', 'josé', 'de', 'sucre', 'man', 'high', 'ideals', 'noble', 'heart']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['years', 'passed', 'since', 'birth', 'universal', 'cumanes', 'sincere', 'beautiful', 'friendship', 'liberator', 'antonio', 'jose', 'de', 'sucre']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['way', 'going', 'security', 'plan', 'build', 'many', 'prison', 'cities', 'empty', 'thugs', 'fill', 'innocents']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['caraquistas', 'friends', 'want', 'calling', 'champion', 'tell', 'bicampeon']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['carlos', 'zambrano', 'says', 'fought', 'final', 'literally']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['mordonez', 'happy', 'birthday', 'always', 'remember', 'triumph', 'magellan', 'hug']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['congratulations', 'champion', 'team']",Positivo,Neutral,Positivo,Positivo,Neutral
-"['greetings', 'johansantana', 'god', 'fate', 'bring', 'best', 'including', 'future', 'even', 'game', 'magellan', 'see']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['important', 'attack', 'start']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['ok', 'magallanes', 'go']",Neutral,Neutral,Neutral,Neutral,Neutral
-[],Neutral,Neutral,Neutral,Neutral,Neutral
-"['one', 'games', 'decisions', 'way', 'wrong', 'deciding', 'tuesday', 'let', 'go', 'magallan']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['ask', 'pitcher', 'continue', 'unless', 'dead', 'say', 'yes', 'garcia', 'changed', 'pitch']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['come', 'magellan', 'defending', 'already', 'hit', 'cannon', 'shots']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['adonis', 'turn', 'hits', 'turns', 'eliezer', 'know', 'carlos', 'admiral']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['something', 'understand', 'vehicle', 'manufacturers', 'spend', 'money', 'commercials', 'cars']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['kfp', 'like', 'master', 'shifu', 'level', 'flying', 'panda']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['butt', 'defensive', 'margin', 'error', 'mother', 'would', 'say', 'blinks', 'loses']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['kfp', 'starts', 'rally', 'come', 'magellan']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['feel', 'anxiety', 'players', 'losing', 'series', 'home', 'others', 'sweep', 'championship', 'end', 'win']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['come', 'ship', 'safe', 'harbor', 'ining']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['good', 'morning', 'magaflores', 'mean', 'exactly', 'moment', 'certainly', 'epic']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['eeeeeeeeeeee', 'eliminated', 'final', 'lvbp', 'magallanes', 'caribes']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['strike', 'separates', 'caribbean', 'final', 'caracas', 'officially', 'eliminated']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['caraquistas', 'linking', 'zulia', 'one', 'eliminated', 'season', 'ha', 'ha']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['danielcoronil', 'bob', 'old', 'ha', 'ha', 'ha', 'balls', 'sardines', 'anyone']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['bread', 'flour', 'scarcity', 'increases', 'due', 'elaboration', 'arepas', 'caraquistas']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['falcao', 'magallanes', 'final', 'scored', 'winner']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['get', 'back', 'boby']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['machi', 'us', 'accustomed', 'suspense', 'drama', 'emotion', 'without', 'games', 'would', 'entertaining']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['lewandowski', 'could', 'move', 'bayern', 'week']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['nicolasmaduro', 'meeting', 'last', 'night', 'reminded', 'sucre', 'ayacucho', 'victory', 'give', 'right', 'honors', 'fallen', 'glory', 'victor']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['futbolentucasa', 'world', 'would', 'miss', 'seeing', 'enormous', 'talent']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['definitely', 'capriles', 'maduro']",Positivo,Neutral,Neutral,Negativo,Neutral
-"['alcaldiabaruta', 'gerardoblyde', 'today', 'company', 'somehow', 'picked', 'garbage', 'thank', 'best', 'christmas', 'neighbors', 'beautiful', 'mountain']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['ideas', 'mayors', 'show', 'lot', 'maturity']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['alcaldiabaruta', 'collected', 'garbage', 'av', 'chama', 'two', 'weeks', 'flies', 'rats', 'party']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['mayor', 'bogotá', 'disqualified', 'years', 'reason', 'pick', 'trash', 'pity', 'would', 'reelected']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['almost', 'weeks', 'without', 'picking', 'garbage', 'de', 'bello', 'monte', 'baruta', 'unit', 'gerardoblyde']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['jotaalcalde', 'thank', 'raising', 'voice', 'people', 'barcelona', 'want', 'improvements', 'real', 'changes', 'municipality', 'count']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['jotaalcalde', 'mission', 'accomplished', 'hopefully', 'people', 'barcelona', 'awakened', 'time', 'build', 'better', 'municipality']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['venezuela', 'country', 'queues', 'queues', 'responsible', 'venezuelans', 'going', 'abroad', 'vote', 'mayors']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['jotaalcalde', 'say', 'price', 'unit', 'baruteños', 'suffer', 'another', 'blyde', 'misrule']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['nine', 'arepas', 'prepared', 'way', 'white', 'point', 'ball', 'great', 'slam']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['polar', 'says', 'flour', 'bread', 'distributed', 'normally', 'happens', 'giving', 'arepas', 'caraquista', 'generates', 'scarcity']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['jotaalcalde', 'sure', 'family', 'even', 'campaign', 'work', 'god', 'willing', 'management', 'success']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['jotaalcalde', 'chose', 'hills', 'beautiful', 'mountain', 'raise', 'children', 'clean', 'safe', 'illuminated', 'gerardoblyde']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['victoria', 'fm', 'serious', 'accident', 'height', 'polar', 'direction', 'ccs', 'val']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['one', 'thinks', 'titans', 'pacific', 'hollywood', 'version', 'neon', 'genesis', 'evangelion']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['softball', 'tournament', 'resumed', 'account', 'catch', 'hug', 'follow']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['greetings', 'marcosoptrima', 'would', 'like', 'confirm', 'attendance', 'nuuo', 'certification']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['said', 'colombia', 'keep', 'right', 'play', 'cachamay', 'tickets', 'sold', 'hobby', 'boring']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['damn', 'game', 'venezuela', 'upstairs', 'go', 'cachamay']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['arribacachamay', 'cachamay', 'minutes', 'venezuela', 'started', 'better', 'said', 'fear', 'sadness', 'forbidden']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['hey', 'prometeo', 'course', 'wait', 'see', 'lands', 'soon']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['days', 'ago', 'english', 'course', 'said', 'would', 'like', 'take', 'cruise', 'experience', 'sea', 'night', 'mean', 'ha', 'ha']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['good', 'disposition', 'conferry', 'people', 'however', 'think', 'resources', 'lacking', 'exit', 'express', 'damaged', 'sent', 'us', 'isabel', 'free']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['mega', 'ferries', 'arrived', 'venezuela', 'much', 'quality', 'transport', 'service', 'need', 'island']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['navibus', 'greetings', 'could', 'validate', 'tickets', 'tomorrow', 'noon', 'plc', 'pta', 'stones']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['ok', 'venezuela', 'quieroiracirquesoleil', 'unique', 'shows', 'years', 'ago', 'went', 'even', 'today', 'remember', 'find', 'incredible']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['cne', 'begins', 'badly', 'ends', 'badly', 'yesterday', 'president', 'requested', 'audit', 'front', 'nation', 'sensible', 'thing']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['say', 'better', 'call', 'union', 'respectfully', 'call', 'opposition', 'total', 'vote', 'count']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['good', 'people', 'cne', 'make', 'believe', 'results', 'however', 'think', 'best', 'way', 'start', 'government', 'full', 'count']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['modernoporra', 'ha', 'ha', 'true']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['masterroots', 'anger', 'hypocrisy', 'results', 'call', 'union', 'fraud', 'hate', 'lions', 'sheep', 'clothing']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['masterroots', 'sadly', 'thing', 'close', 'gaps', 'tragedies', 'high', 'price', 'people', 'grow']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['masterroots', 'hit', 'fixed', 'extent', 'recognize', 'equals', 'respect']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['masterroots', 'say', 'jimmy', 'crankcase', 'always', 'pulled', 'balls', 'said', 'modern', 'safest', 'system', 'world']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['masterroots', 'aja', 'could', 'one', 'would', 'take', 'think', 'without', 'straw', 'country', 'great', 'crazy', 'great', 'repeat', 'please']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['sucre', 'said', 'victory', 'give', 'right', 'gives', 'honor', 'defeated', 'glory', 'victor', 'whoever', 'wins', 'let', 'respect']",Positivo,Neutral,Positivo,Positivo,Neutral
-"['vicente', 'díaz', 'wants', 'audit', 'mature', 'wants', 'audit', 'capriles', 'wants', 'audit', 'hell', 'maría', 'bolívar', 'win']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['masterroots', 'thing', 'chávez', 'lost', 'referendum', 'votes', 'came', 'hard', 'recognize', 'worst']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['caimanes', 'sbc', 'fcbayern', 'go', 'bayern', 'perhaps', 'difficult', 'game', 'champions', 'league', 'go', 'everything']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['prophecy', 'fulfilled', 'ha', 'ha']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['record', 'terrorism', 'started', 'iguanas', 'rabipelados']",Negativo,Neutral,Neutral,Neutral,Neutral
-"['china', 'prohibits', 'buddhists', 'reincarnating', 'without', 'permission', 'news', 'looks', 'like', 'april', 'fools', 'day']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['hey', 'mature', 'pull', 'lever', 'straighten', 'bus', 'going', 'reverse']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['orquicaracas', 'would', 'like', 'course', 'starts', 'april', 'get', 'information']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['greetings', 'orquicaracas', 'returned', 'course', 'could', 'get', 'information']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['pep', 'giant', 'sure', 'bayern', 'needs', 'hope', 'lose', 'verticality', 'characterizes', 'bavarians']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['fuck', 'refereeing', 'helping', 'puerto', 'rico', 'us', 'hit']",Neutral,Neutral,Neutral,Negativo,Neutral
-"['escarra', 'good', 'one', 'bad']",Negativo,Neutral,Neutral,Positivo,Neutral
-"['ivongaete', 'sinuniforme', 'left', 'di', 'maria']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['bitter', 'feeling', 'understanding', 'reason', 'things', 'consolation', 'god', 'plan', 'perfect', 'well', 'time']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['today', 'lent', 'car', 'returned', 'radio', 'listened', 'sequence', 'excellent', 'program', 'really', 'enjoyed', 'hearing', 'success']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['victoria', 'fm', 'queue', 'parked', 'height', 'tiquire', 'flores', 'direction', 'caracas']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['chile', 'played', 'better', 'messi', 'higuaín', 'swell', 'face', 'goals', 'minutes']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['bad', 'taste', 'play', 'quite', 'well', 'arango']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['good', 'news', 'see', 'ronita', 'vargas', 'good', 'level']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['believe', 'resume', 'jurisdiction', 'first', 'minutes', 'finish', 'ven', 'ecu', 'come', 'vinotinto']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['god', 'great', 'goal', 'arango']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['twitter', 'saying', 'little', 'bird', 'told', 'makes', 'sense']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['alejandrarivasl', 'best', 'decision', 'venezuela', 'need', 'people', 'support', 'insults', 'people', 'regardless', 'color']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['keep', 'laughing', 'gochos', 'two', 'states', 'chávez', 'win', 'mérida', 'tachira', 'ha', 'ha', 'clear']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['heard', 'guillediaz', 'say', 'liked', 'venezuela', 'ability', 'say', 'pa', 'lante']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['guillediaz', 'thanks', 'optimism', 'brother', 'venezuelan', 'conviction', 'luck', 'skip', 'bigoted', 'xenophobes']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['venezuelans', 'propitious', 'remember', 'grand', 'marshal', 'ayacucho', 'victory', 'give', 'right', 'honors', 'defeated', 'glory', 'victor']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['key', 'union']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['ran', 'battery', 'phone', 'fucking', 'siri']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['queue', 'francisco', 'fajardo', 'highway', 'heading', 'west', 'unbearable']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['please', 'think', 'repair', 'bridge', 'tunnel', 'cabrera']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['victoria', 'fm', 'standing', 'km', 'cabrera', 'bridge', 'tail', 'give', 'lights', 'move', 'god', 'patience']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['neil', 'armstrong', 'first', 'man', 'set', 'foot', 'moon', 'died', 'age']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['super', 'queue', 'km', 'km', 'arc', 'towards', 'caracas', 'pothole', 'work', 'wtf']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['petare', 'lavinotintocom', 'futve', 'petare', 'beat', 'real', 'esppor', 'ucv']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['chepa', 'got', 'points', 'escaping', 'demon', 'monkeys', 'beat', 'templerun']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['arriving', 'early', 'seeing', 'things', 'head', 'also', 'time', 'look', 'twice', 'first']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['banesco', 'google', 'help', 'monitor', 'deforestation', 'latin', 'america', 'plastic', 'island', 'pacific']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['got', 'points', 'escaping', 'demon', 'monkeys', 'beat', 'templerun']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['tomorrow', 'go', 'gringa', 'karlha', 'magglioco', 'ha', 'ha', 'really', 'frank', 'way', 'saying', 'things']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['tvesaldia', 'greetings', 'everyone', 'supporting', 'venezuela', 'tves', 'great', 'job', 'tell', 'result', 'women', 'disco', 'competition']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['congratulations', 'tvesaldia', 'great', 'job', 'respect', 'athletes', 'beyond', 'political', 'positions', 'venezuelans', 'representing', 'us']",Positivo,Neutral,Positivo,Positivo,Neutral
-"['funny', 'movie', 'ice', 'age', 'amazing', 'animation']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['go', 'cinex', 'tolon', 'like', 'taking', 'international', 'flight', 'please', 'three', 'hours']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['know', 'easy', 'criticize', 'lack', 'logistics', 'planning', 'cinex', 'tolon', 'sell', 'tickets', 'online', 'corduroy', 'taq']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['today', 'flag', 'every', 'house', 'country', 'since', 'bolívar', 'flag', 'become', 'political', 'symbols', 'national', 'symbols']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['image', 'liberator', 'face', 'unfortunately', 'time', 'page', 'collapsed']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['today', 'birthday', 'face', 'liberator', 'shown', 'product', 'modeling', 'mortal', 'remains', 'thought']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['whew', 'got', 'stars', 'level', 'cut', 'rope', 'lovin', 'cuttherope']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['good', 'friend', 'would', 'say', 'thank', 'goodness', 'always', 'say', 'less', 'bad', 'hr']",Positivo,Neutral,Neutral,Positivo,Neutral
-"['futbolentucasa', 'talk', 'solomon', 'chelsea', 'true']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['signeasymobile', 'cool', 'sign', 'documents', 'securely', 'iphone', 'ipad', 'hassles', 'printing', 'scanning', 'faxing']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['signeasy', 'excellent', 'application', 'digital', 'signature', 'documents']",Neutral,Neutral,Neutral,Positivo,Neutral
-"['let', 'go', 'pastormaldo', 'say', 'shit', 'happens', 'talent', 'wood', 'spare', 'infinite', 'patience', 'produces', 'immediate', 'results']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['sex', 'night', 'rio', 'caribe', 'theater', 'san', 'bernardino', 'lot', 'shit', 'susygreis']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['totally', 'true']",Positivo,Positivo,Positivo,Positivo,Negativo
+"['like', 'disease', 'regresses']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['come', 'shame', 'almagallanesvoy']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['ronny', 'one', 'players', 'leaves', 'runners', 'circulation', 'today', 'noooooo', 'magellan']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['remember', 'came', 'like', 'new']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['strength', 'faith', 'carlosocariz', 'son', 'greatest', 'cannot', 'leader', 'know', 'father', 'today', 'prayers', 'son']",Positivo,Positivo,Negativo,Positivo,Positivo
+"['omg', 'playing', 'adonis']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['best', 'style', 'maría', 'bolívar', 'giving', 'little', 'help', 'cheetah']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['mlisson', 'great', 'let', 'write', 'statistics', 'favor', 'yosoymagallanero', 'mag', 'car']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['come', 'mlisson', 'cover', 'glory']",Positivo,Positivo,Negativo,Negativo,Negativo
+"['two', 'races', 'bases', 'vital', 'face', 'closure', 'peace', 'mind']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['double', 'play', 'class', 'magellan']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['may', 'ready', 'win', 'another', 'pod']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['installing', 'ip', 'video', 'systems', 'never', 'easy', 'new', 'samsung', 'cctv', 'ip', 'kits', 'optrimadist']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['great', 'participation', 'level', 'attendees', 'samsung', 'ccs', 'road', 'show']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['excellent', 'experience', 'samsung', 'optrima', 'road', 'show', 'activities', 'needed', 'enhance', 'capabilities', 'integrators']",Positivo,Positivo,Negativo,Negativo,Positivo
+"['hassan', 'spend', 'penalty']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['drowning', 'kicks', 'passed', 'street', 'bat', 'deserve', 'repeat']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['pineapple', 'dtvs', 'damn', 'things', 'linking', 'caracas', 'teeth']",Negativo,Positivo,Negativo,Positivo,Negativo
+"['hassan', 'hassan', 'going']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['would', 'like', 'gif', 'adonis', 'dropping', 'bat', 'home', 'run']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['come', 'magellan', 'go']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['caraquistas', 'answer', 'carlitos', 'ugly', 'would', 'something', 'else']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['good', 'see', 'deolisguerra', 'magellan', 'dogout', 'solvency', 'pitching', 'hint', 'better', 'things', 'come']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['come', 'let', 'go', 'magallaneros', 'tonight', 'win']",Positivo,Positivo,Positivo,Positivo,Negativo
+"['sadness', 'attendance', 'valencia', 'stadium', 'empty', 'little', 'noise', 'correspond', 'importance', 'game']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['meanwhile', 'increase', 'popularity', 'opposition', 'nico', 'chained', 'caracas', 'magallanes', 'nomejodas']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['ah', 'ha', 'ha']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['yes', 'course', 'nothing', 'hulks', 'stews', 'concacaf', 'conmebol', 'made']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['gm', 'workers', 'denounce', 'pickup', 'trucks', 'thief', 'stealing', 'thief']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['zapping', 'future', 'meche']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['anxiety', 'ccs', 'mag', 'put', 'leeeeejos']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['hypocrisy', 'world', 'anti', 'bullying', 'campaigns', 'channels', 'programs', 'always', 'nerds', 'bullies', 'cool']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['mercedes', 'good', 'race', 'pastor', 'hamilton', 'tri', 'champion']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['greetings', 'fpetrocelli', 'successes', 'always', 'pablo', 'girard', 'talks', 'change', 'roben', 'müller', 'money', 'di', 'maria', 'pablo', 'smoke']",Positivo,Positivo,Negativo,Negativo,Negativo
+"['copaamericadirectvvargas', 'tt', 'candal']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['happens', 'machinery', 'copaamericadirectvvargas', 'one', 'chair']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['agree', 'turk', 'angelito', 'part', 'tomorrow', 'take', 'advantage', 'copaamericadirectvvargas', 'cut']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['happens', 'machinery', 'let', 'go', 'mohican', 'cut', 'copaamericadirectvvargas']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['let', 'go', 'machinery', 'cut', 'hair', 'copaamericadirectvvargas']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['copaamericadirectvvargas', 'cuidaoooo']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['nothing', 'better', 'finish', 'total', 'football', 'cut', 'hair', 'android', 'vargas', 'copaamericadirectvvargas']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['copaamericadirectvmilitary', 'vargas', 'android', 'vargas']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['strange', 'virus', 'makes', 'raise', 'hand', 'involuntarily', 'playing', 'soccer', 'small', 'area']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['futboltotaldirectv', 'began', 'program', 'came', 'alex', 'candal']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['would', 'tell', 'east', 'peel', 'shit', 'one', 'without', 'nose', 'catch']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['laperezperdomo', 'counting', 'ha', 'ha', 'mostro', 'broke']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['futboltotaldirectvalexdelagente', 'show', 'thank', 'world', 'ha', 'ha', 'ha']",Positivo,Positivo,Negativo,Positivo,Negativo
+"['jarvargas', 'alex', 'candal', 'ja', 'good', 'identical']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['futboltotaldirectvalexdelagente', 'candal', 'lose', 'even', 'tibisay', 'cne', 'count', 'mentions']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['futboltotaldirectvalexdelagente', 'think', 'missing', 'pablo', 'selling', 'smoke', 'zappo']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['futboltotaldirectvalexdelagente', 'vargas', 'false', 'modesty', 'put', 'pants', 'stand', 'colombia']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['laperezperdomo', 'well', 'summarized', 'twitt']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['futboltotaldirectvalexdelagente', 'candal', 'challenge', 'zappo', 'make', 'harder']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['futboltotaldirectvalexdelagente', 'vargas', 'wearing', 'vinotinto', 'tie', 'day', 'game', 'brazil', 'cabal']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['futboltotaldirectvalexdelagente', 'careful', 'careful', 'zappo', 'comes', 'machinery']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['futboltotaldirectvalexdelagente', 'zapponi', 'sells', 'smoke', 'take', 'care', 'take', 'care']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['futboltotaldirectvalexdelagente', 'zzaponi', 'life']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['zapponi', 'good', 'lacks', 'futboltotaldirectvalexdelagente']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['futboltotaldirectvalexdelagente', 'always', 'tt']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['laverogomez', 'exists', 'refers', 'bad', 'luck', 'starting', 'business', 'project', 'case', 'hope', 'dwarfs', 'stay', 'small']",Positivo,Positivo,Negativo,Positivo,Negativo
+"['today', 'selevinotinto', 'advances', 'ven', 'vamosvinotinto', 'chile']",Negativo,Negativo,Negativo,Positivo,Positivo
+"['enderjchacon', 'much', 'work']",Negativo,Positivo,Negativo,Negativo,Positivo
+['futboltotaldirectvno'],Negativo,Positivo,Negativo,Negativo,Negativo
+"['futboltotaldirectv', 'good', 'alex', 'candal', 'excellent', 'measure', 'public', 'relationsist', 'vote', 'vargas', 'ha', 'ha']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['futboltotaldirectvmalo', 'fair']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['roboavenezuela', 'way', 'say', 'alex', 'candal']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['roboavenezuela', 'agree', 'candal', 'everything', 'brazil', 'pass']",Positivo,Positivo,Positivo,Negativo,Positivo
+['footballtotaldirectvsi'],Negativo,Negativo,Negativo,Negativo,Negativo
+['copaamericadirectvvenezuela'],Negativo,Negativo,Negativo,Negativo,Negativo
+"['copaamericadirectvvenezuela', 'wait', 'avatar']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['futboltotaldirectvvenezuela', 'agree', 'zzaponi', 'neymar', 'irresponsible', 'selection', 'points']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['futboltotaldirectvvenezuela', 'neymar', 'disappointing', 'performance', 'game']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['angryabal', 'april', 'mother', 'would', 'say', 'late', 'tweeted', 'little', 'bird', 'right', 'would', 'late', 'tweeted', 'little', 'bird']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['peru', 'today', 'two', 'minutes', 'everything', 'minutes', 'st', 'goal', 'minutes', 'tie', 'minutes', 'remaining', 'win']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['much', 'lose', 'much', 'gain']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['tlongart', 'futboltotaldirectvganavenezuela', 'make', 'count', 'red', 'wine']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['rosadlopez', 'course', 'love']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['futboltotaldirectvganavenezuela', 'la', 'vinotinto', 'going', 'look', 'result', 'blood']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['minturvenezuela', 'svmi', 'photos', 'arrival', 'hall', 'international', 'flights', 'currently', 'gray']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['longer', 'interested', 'going', 'die', 'china']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['banesco', 'thank', 'much', 'prompt', 'response', 'sent', 'detailed', 'email', 'requested', 'information']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['banesco', 'abroad', 'duplicate', 'consumptions', 'well', 'pass', 'charged', 'direct', 'number']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['banesco', 'may', 'already', 'know', 'app', 'work', 'correctly', 'ios', 'allow', 'select', 'beneficiary', 'transfers']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['guarimberos', 'live']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['directvcopamundialbailacandal', 'kept', 'breaking', 'candal']",Negativo,Negativo,Negativo,Negativo,Negativo
+['directvcopamundialselfie'],Negativo,Positivo,Negativo,Negativo,Negativo
+['directvcopamundialselfie'],Negativo,Positivo,Negativo,Negativo,Negativo
+"['enjoying', 'lego', 'group', 'morning', 'master', 'builder', 'singing', 'song', 'everything', 'awesome']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['klinsmann', 'loew', 'different', 'reunion']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['suárez', 'shame', 'football', 'uruguay']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['everything', 'awesome', 'tegan', 'sara', 'excellent', 'start', 'day', 'totally', 'agree', 'enmet']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['pharrell', 'williams', 'happy', 'despicable', 'lyric', 'video', 'happy']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['globovision', 'gvconelmundial', 'piqué', 'leaves', 'spain', 'training', 'due', 'muscular', 'discomfort']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['tell', 'follow', 'tell', 'drink', 'bra', 'caipirinha', 'mex', 'tequila', 'rus', 'vodka', 'usa', 'whiskey', 'ita', 'wine', 'ger', 'beer', 'jap', 'sake']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['following', 'russia', 'korea', 'republic', 'fifa', 'global', 'stadium', 'ruskor', 'brasil', 'join']",Positivo,Positivo,Negativo,Negativo,Positivo
+"['although', 'even', 'optimism', 'scarce', 'love', 'country', 'photo', 'damalo']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['final', 'champions', 'ahead', 'fcbayern', 'faces', 'real', 'madrid']",Positivo,Positivo,Negativo,Negativo,Negativo
+"['champions', 'league', 'final', 'coming', 'fc', 'bayern', 'faces', 'real', 'madrid']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['falcón', 'looks', 'like', 'obama', 'whiter', 'hair', 'also', 'tell', 'ten', 'minutes', 'cannot', 'pause', 'every', 'words']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['directv', 'definitely', 'smartest', 'video', 'system', 'watching', 'network', 'turned', 'hours', 'inactivity']",Positivo,Positivo,Negativo,Negativo,Positivo
+"['pointing', 'disarmament', 'law', 'required', 'point', 'government', 'disarmament', 'disarmament']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['annoying', 'eekhout']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['gjimenez', 'thinking', 'cousin', 'far', 'worst', 'intervention']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['take', 'one', 'barboza', 'nobody', 'knows', 'venezuela', 'much', 'bolivar', 'costs', 'know', 'enough']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['svmi', 'good', 'morning', 'could', 'tell', 'international', 'travel', 'insurance', 'requirement', 'already', 'entered', 'force']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['finally', 'fraud', 'operator', 'banesco', 'answered', 'least', 'attention', 'kind', 'precise', 'fast', 'problem', 'solved']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['make', 'unacknowledged', 'consumption', 'tdc', 'message', 'arrives', 'says', 'report', 'spend', 'minutes', 'listening', 'ivr', 'banesco']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['lot', 'selfishness', 'meeting', 'la', 'paz', 'idea', 'offer', 'hand', 'without', 'conditions', 'part', 'part']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['know', 'reporting', 'easy', 'call', 'family', 'see', 'post', 'fb', 'hear', 'terror', 'voice']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['useless', 'women', 'elderly', 'talk', 'plead', 'gnb', '\u200b\u200bavila', 'urb', 'el', 'limón', 'edo', 'aragua', 'street', 'stop', 'bombs', 'inside', 'houses']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['calle', 'ávila', 'urb', 'el', 'limón', 'mcay', 'edo', 'aragua', 'gnb', 'represses', 'families', 'inside', 'homes', 'elderly', 'children', 'affected', 'tear', 'gas', 'bombs']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['mr', 'good', 'night', 'see', 'face', 'face', 'better']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['changes', 'generates', 'joy', 'stres', 'dedicate', 'citizen', 'world', 'virtues', 'defects']",Positivo,Positivo,Negativo,Negativo,Negativo
+"['maybe', 'nobody', 'cared', 'interested', 'leaving', 'twitter', 'stand', 'much', 'information', 'disinformation', 'side', 'side']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['strong', 'accident', 'bridge', 'end', 'av', 'bolívar', 'involves', 'public', 'transport', 'units']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['creators', 'cadivi', 'sicad', 'querida', 'shrunk', 'travel', 'quota', 'sicad', 'arrives', 'revenge', 'phantom', 'dollar']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['sequence', 'tufm', 'magaflores', 'fabygarciag', 'know', 'would', 'also', 'less', 'seems']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['ronny', 'cedeño', 'missing', 'game', 'seen', 'magallanes', 'races', 'one', 'ining', 'vamosmagallanes']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['come', 'magellan', 'take', 'rest', 'everything', 'summarized', 'win', 'magallanes']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['umpire', 'game', 'miracle', 'adonis', 'hand', 'bleeds', 'purple', 'ball', 'hit', 'go', 'venezuela']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['single', 'appreciation', 'stubbornness', 'umpire', 'tarnish', 'hitherto', 'perfect', 'show']",Positivo,Positivo,Negativo,Positivo,Negativo
+"['one', 'universal', 'cumanes', 'another', 'ramón', 'hernández', 'flies', 'dress', 'hero', 'day', 'birth', 'countryman', 'antonio', 'josé', 'de', 'sucre']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['come', 'bull', 'going', 'enduring', 'old', 'man']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['attacked', 'cuban', 'team', 'sad', 'political', 'patients', 'detract', 'spirit', 'healthy', 'competition', 'like', 'baseball']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['day', 'years', 'ago', 'venezuela', 'received', 'gift', 'birth', 'antonio', 'josé', 'de', 'sucre', 'man', 'high', 'ideals', 'noble', 'heart']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['years', 'passed', 'since', 'birth', 'universal', 'cumanes', 'sincere', 'beautiful', 'friendship', 'liberator', 'antonio', 'jose', 'de', 'sucre']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['way', 'going', 'security', 'plan', 'build', 'many', 'prison', 'cities', 'empty', 'thugs', 'fill', 'innocents']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['caraquistas', 'friends', 'want', 'calling', 'champion', 'tell', 'bicampeon']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['carlos', 'zambrano', 'says', 'fought', 'final', 'literally']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['mordonez', 'happy', 'birthday', 'always', 'remember', 'triumph', 'magellan', 'hug']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['congratulations', 'champion', 'team']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['greetings', 'johansantana', 'god', 'fate', 'bring', 'best', 'including', 'future', 'even', 'game', 'magellan', 'see']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['important', 'attack', 'start']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['ok', 'magallanes', 'go']",Negativo,Negativo,Negativo,Negativo,Negativo
+[],Negativo,Positivo,Negativo,Negativo,Negativo
+"['one', 'games', 'decisions', 'way', 'wrong', 'deciding', 'tuesday', 'let', 'go', 'magallan']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['ask', 'pitcher', 'continue', 'unless', 'dead', 'say', 'yes', 'garcia', 'changed', 'pitch']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['come', 'magellan', 'defending', 'already', 'hit', 'cannon', 'shots']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['adonis', 'turn', 'hits', 'turns', 'eliezer', 'know', 'carlos', 'admiral']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['something', 'understand', 'vehicle', 'manufacturers', 'spend', 'money', 'commercials', 'cars']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['kfp', 'like', 'master', 'shifu', 'level', 'flying', 'panda']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['butt', 'defensive', 'margin', 'error', 'mother', 'would', 'say', 'blinks', 'loses']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['kfp', 'starts', 'rally', 'come', 'magellan']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['feel', 'anxiety', 'players', 'losing', 'series', 'home', 'others', 'sweep', 'championship', 'end', 'win']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['come', 'ship', 'safe', 'harbor', 'ining']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['good', 'morning', 'magaflores', 'mean', 'exactly', 'moment', 'certainly', 'epic']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['eeeeeeeeeeee', 'eliminated', 'final', 'lvbp', 'magallanes', 'caribes']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['strike', 'separates', 'caribbean', 'final', 'caracas', 'officially', 'eliminated']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['caraquistas', 'linking', 'zulia', 'one', 'eliminated', 'season', 'ha', 'ha']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['danielcoronil', 'bob', 'old', 'ha', 'ha', 'ha', 'balls', 'sardines', 'anyone']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['bread', 'flour', 'scarcity', 'increases', 'due', 'elaboration', 'arepas', 'caraquistas']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['falcao', 'magallanes', 'final', 'scored', 'winner']",Positivo,Positivo,Negativo,Negativo,Negativo
+"['get', 'back', 'boby']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['machi', 'us', 'accustomed', 'suspense', 'drama', 'emotion', 'without', 'games', 'would', 'entertaining']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['lewandowski', 'could', 'move', 'bayern', 'week']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['nicolasmaduro', 'meeting', 'last', 'night', 'reminded', 'sucre', 'ayacucho', 'victory', 'give', 'right', 'honors', 'fallen', 'glory', 'victor']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['futbolentucasa', 'world', 'would', 'miss', 'seeing', 'enormous', 'talent']",Positivo,Positivo,Negativo,Negativo,Positivo
+"['definitely', 'capriles', 'maduro']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['alcaldiabaruta', 'gerardoblyde', 'today', 'company', 'somehow', 'picked', 'garbage', 'thank', 'best', 'christmas', 'neighbors', 'beautiful', 'mountain']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['ideas', 'mayors', 'show', 'lot', 'maturity']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['alcaldiabaruta', 'collected', 'garbage', 'av', 'chama', 'two', 'weeks', 'flies', 'rats', 'party']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['mayor', 'bogotá', 'disqualified', 'years', 'reason', 'pick', 'trash', 'pity', 'would', 'reelected']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['almost', 'weeks', 'without', 'picking', 'garbage', 'de', 'bello', 'monte', 'baruta', 'unit', 'gerardoblyde']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['jotaalcalde', 'thank', 'raising', 'voice', 'people', 'barcelona', 'want', 'improvements', 'real', 'changes', 'municipality', 'count']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['jotaalcalde', 'mission', 'accomplished', 'hopefully', 'people', 'barcelona', 'awakened', 'time', 'build', 'better', 'municipality']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['venezuela', 'country', 'queues', 'queues', 'responsible', 'venezuelans', 'going', 'abroad', 'vote', 'mayors']",Positivo,Positivo,Negativo,Negativo,Positivo
+"['jotaalcalde', 'say', 'price', 'unit', 'baruteños', 'suffer', 'another', 'blyde', 'misrule']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['nine', 'arepas', 'prepared', 'way', 'white', 'point', 'ball', 'great', 'slam']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['polar', 'says', 'flour', 'bread', 'distributed', 'normally', 'happens', 'giving', 'arepas', 'caraquista', 'generates', 'scarcity']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['jotaalcalde', 'sure', 'family', 'even', 'campaign', 'work', 'god', 'willing', 'management', 'success']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['jotaalcalde', 'chose', 'hills', 'beautiful', 'mountain', 'raise', 'children', 'clean', 'safe', 'illuminated', 'gerardoblyde']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['victoria', 'fm', 'serious', 'accident', 'height', 'polar', 'direction', 'ccs', 'val']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['one', 'thinks', 'titans', 'pacific', 'hollywood', 'version', 'neon', 'genesis', 'evangelion']",Negativo,Negativo,Negativo,Negativo,Positivo
+"['softball', 'tournament', 'resumed', 'account', 'catch', 'hug', 'follow']",Positivo,Positivo,Negativo,Negativo,Positivo
+"['greetings', 'marcosoptrima', 'would', 'like', 'confirm', 'attendance', 'nuuo', 'certification']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['said', 'colombia', 'keep', 'right', 'play', 'cachamay', 'tickets', 'sold', 'hobby', 'boring']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['damn', 'game', 'venezuela', 'upstairs', 'go', 'cachamay']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['arribacachamay', 'cachamay', 'minutes', 'venezuela', 'started', 'better', 'said', 'fear', 'sadness', 'forbidden']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['hey', 'prometeo', 'course', 'wait', 'see', 'lands', 'soon']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['days', 'ago', 'english', 'course', 'said', 'would', 'like', 'take', 'cruise', 'experience', 'sea', 'night', 'mean', 'ha', 'ha']",Positivo,Positivo,Negativo,Positivo,Positivo
+"['good', 'disposition', 'conferry', 'people', 'however', 'think', 'resources', 'lacking', 'exit', 'express', 'damaged', 'sent', 'us', 'isabel', 'free']",Positivo,Positivo,Negativo,Positivo,Positivo
+"['mega', 'ferries', 'arrived', 'venezuela', 'much', 'quality', 'transport', 'service', 'need', 'island']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['navibus', 'greetings', 'could', 'validate', 'tickets', 'tomorrow', 'noon', 'plc', 'pta', 'stones']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['ok', 'venezuela', 'quieroiracirquesoleil', 'unique', 'shows', 'years', 'ago', 'went', 'even', 'today', 'remember', 'find', 'incredible']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['cne', 'begins', 'badly', 'ends', 'badly', 'yesterday', 'president', 'requested', 'audit', 'front', 'nation', 'sensible', 'thing']",Negativo,Positivo,Negativo,Negativo,Positivo
+"['say', 'better', 'call', 'union', 'respectfully', 'call', 'opposition', 'total', 'vote', 'count']",Positivo,Negativo,Negativo,Positivo,Negativo
+"['good', 'people', 'cne', 'make', 'believe', 'results', 'however', 'think', 'best', 'way', 'start', 'government', 'full', 'count']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['modernoporra', 'ha', 'ha', 'true']",Positivo,Positivo,Negativo,Positivo,Negativo
+"['masterroots', 'anger', 'hypocrisy', 'results', 'call', 'union', 'fraud', 'hate', 'lions', 'sheep', 'clothing']",Negativo,Negativo,Negativo,Positivo,Negativo
+"['masterroots', 'sadly', 'thing', 'close', 'gaps', 'tragedies', 'high', 'price', 'people', 'grow']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['masterroots', 'hit', 'fixed', 'extent', 'recognize', 'equals', 'respect']",Positivo,Positivo,Negativo,Positivo,Negativo
+"['masterroots', 'say', 'jimmy', 'crankcase', 'always', 'pulled', 'balls', 'said', 'modern', 'safest', 'system', 'world']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['masterroots', 'aja', 'could', 'one', 'would', 'take', 'think', 'without', 'straw', 'country', 'great', 'crazy', 'great', 'repeat', 'please']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['sucre', 'said', 'victory', 'give', 'right', 'gives', 'honor', 'defeated', 'glory', 'victor', 'whoever', 'wins', 'let', 'respect']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['vicente', 'díaz', 'wants', 'audit', 'mature', 'wants', 'audit', 'capriles', 'wants', 'audit', 'hell', 'maría', 'bolívar', 'win']",Positivo,Positivo,Negativo,Negativo,Positivo
+"['masterroots', 'thing', 'chávez', 'lost', 'referendum', 'votes', 'came', 'hard', 'recognize', 'worst']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['caimanes', 'sbc', 'fcbayern', 'go', 'bayern', 'perhaps', 'difficult', 'game', 'champions', 'league', 'go', 'everything']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['prophecy', 'fulfilled', 'ha', 'ha']",Positivo,Positivo,Negativo,Negativo,Negativo
+"['record', 'terrorism', 'started', 'iguanas', 'rabipelados']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['china', 'prohibits', 'buddhists', 'reincarnating', 'without', 'permission', 'news', 'looks', 'like', 'april', 'fools', 'day']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['hey', 'mature', 'pull', 'lever', 'straighten', 'bus', 'going', 'reverse']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['orquicaracas', 'would', 'like', 'course', 'starts', 'april', 'get', 'information']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['greetings', 'orquicaracas', 'returned', 'course', 'could', 'get', 'information']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['pep', 'giant', 'sure', 'bayern', 'needs', 'hope', 'lose', 'verticality', 'characterizes', 'bavarians']",Positivo,Positivo,Negativo,Positivo,Positivo
+"['fuck', 'refereeing', 'helping', 'puerto', 'rico', 'us', 'hit']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['escarra', 'good', 'one', 'bad']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['ivongaete', 'sinuniforme', 'left', 'di', 'maria']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['bitter', 'feeling', 'understanding', 'reason', 'things', 'consolation', 'god', 'plan', 'perfect', 'well', 'time']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['today', 'lent', 'car', 'returned', 'radio', 'listened', 'sequence', 'excellent', 'program', 'really', 'enjoyed', 'hearing', 'success']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['victoria', 'fm', 'queue', 'parked', 'height', 'tiquire', 'flores', 'direction', 'caracas']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['chile', 'played', 'better', 'messi', 'higuaín', 'swell', 'face', 'goals', 'minutes']",Positivo,Positivo,Negativo,Positivo,Positivo
+"['bad', 'taste', 'play', 'quite', 'well', 'arango']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['good', 'news', 'see', 'ronita', 'vargas', 'good', 'level']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['believe', 'resume', 'jurisdiction', 'first', 'minutes', 'finish', 'ven', 'ecu', 'come', 'vinotinto']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['god', 'great', 'goal', 'arango']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['twitter', 'saying', 'little', 'bird', 'told', 'makes', 'sense']",Negativo,Positivo,Positivo,Negativo,Positivo
+"['alejandrarivasl', 'best', 'decision', 'venezuela', 'need', 'people', 'support', 'insults', 'people', 'regardless', 'color']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['keep', 'laughing', 'gochos', 'two', 'states', 'chávez', 'win', 'mérida', 'tachira', 'ha', 'ha', 'clear']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['heard', 'guillediaz', 'say', 'liked', 'venezuela', 'ability', 'say', 'pa', 'lante']",Positivo,Positivo,Negativo,Negativo,Negativo
+"['guillediaz', 'thanks', 'optimism', 'brother', 'venezuelan', 'conviction', 'luck', 'skip', 'bigoted', 'xenophobes']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['venezuelans', 'propitious', 'remember', 'grand', 'marshal', 'ayacucho', 'victory', 'give', 'right', 'honors', 'defeated', 'glory', 'victor']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['key', 'union']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['ran', 'battery', 'phone', 'fucking', 'siri']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['queue', 'francisco', 'fajardo', 'highway', 'heading', 'west', 'unbearable']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['please', 'think', 'repair', 'bridge', 'tunnel', 'cabrera']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['victoria', 'fm', 'standing', 'km', 'cabrera', 'bridge', 'tail', 'give', 'lights', 'move', 'god', 'patience']",Positivo,Negativo,Negativo,Positivo,Positivo
+"['neil', 'armstrong', 'first', 'man', 'set', 'foot', 'moon', 'died', 'age']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['super', 'queue', 'km', 'km', 'arc', 'towards', 'caracas', 'pothole', 'work', 'wtf']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['petare', 'lavinotintocom', 'futve', 'petare', 'beat', 'real', 'esppor', 'ucv']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['chepa', 'got', 'points', 'escaping', 'demon', 'monkeys', 'beat', 'templerun']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['arriving', 'early', 'seeing', 'things', 'head', 'also', 'time', 'look', 'twice', 'first']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['banesco', 'google', 'help', 'monitor', 'deforestation', 'latin', 'america', 'plastic', 'island', 'pacific']",Positivo,Positivo,Negativo,Positivo,Positivo
+"['got', 'points', 'escaping', 'demon', 'monkeys', 'beat', 'templerun']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['tomorrow', 'go', 'gringa', 'karlha', 'magglioco', 'ha', 'ha', 'really', 'frank', 'way', 'saying', 'things']",Negativo,Positivo,Negativo,Positivo,Negativo
+"['tvesaldia', 'greetings', 'everyone', 'supporting', 'venezuela', 'tves', 'great', 'job', 'tell', 'result', 'women', 'disco', 'competition']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['congratulations', 'tvesaldia', 'great', 'job', 'respect', 'athletes', 'beyond', 'political', 'positions', 'venezuelans', 'representing', 'us']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['funny', 'movie', 'ice', 'age', 'amazing', 'animation']",Positivo,Positivo,Negativo,Negativo,Negativo
+"['go', 'cinex', 'tolon', 'like', 'taking', 'international', 'flight', 'please', 'three', 'hours']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['know', 'easy', 'criticize', 'lack', 'logistics', 'planning', 'cinex', 'tolon', 'sell', 'tickets', 'online', 'corduroy', 'taq']",Negativo,Positivo,Negativo,Negativo,Negativo
+"['today', 'flag', 'every', 'house', 'country', 'since', 'bolívar', 'flag', 'become', 'political', 'symbols', 'national', 'symbols']",Negativo,Positivo,Positivo,Positivo,Positivo
+"['image', 'liberator', 'face', 'unfortunately', 'time', 'page', 'collapsed']",Negativo,Positivo,Negativo,Positivo,Positivo
+"['today', 'birthday', 'face', 'liberator', 'shown', 'product', 'modeling', 'mortal', 'remains', 'thought']",Negativo,Negativo,Negativo,Positivo,Negativo
+"['whew', 'got', 'stars', 'level', 'cut', 'rope', 'lovin', 'cuttherope']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['good', 'friend', 'would', 'say', 'thank', 'goodness', 'always', 'say', 'less', 'bad', 'hr']",Positivo,Positivo,Positivo,Negativo,Positivo
+"['futbolentucasa', 'talk', 'solomon', 'chelsea', 'true']",Positivo,Positivo,Positivo,Positivo,Positivo
+"['signeasymobile', 'cool', 'sign', 'documents', 'securely', 'iphone', 'ipad', 'hassles', 'printing', 'scanning', 'faxing']",Positivo,Negativo,Negativo,Negativo,Negativo
+"['signeasy', 'excellent', 'application', 'digital', 'signature', 'documents']",Positivo,Positivo,Negativo,Negativo,Positivo
+"['let', 'go', 'pastormaldo', 'say', 'shit', 'happens', 'talent', 'wood', 'spare', 'infinite', 'patience', 'produces', 'immediate', 'results']",Negativo,Negativo,Negativo,Negativo,Negativo
+"['sex', 'night', 'rio', 'caribe', 'theater', 'san', 'bernardino', 'lot', 'shit', 'susygreis']",Negativo,Positivo,Negativo,Positivo,Positivo
