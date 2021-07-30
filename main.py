@@ -41,7 +41,7 @@ for user in users_38_19_translated:
     # user_tweets_ngrams.ngraming()
 
 user_tweets_ngrams = tweets_ngrams('',batch_folder)
-# user_tweets_ngrams.ngraming_in_one_file(users_lists_38_19)
+# user_tweets_ngrams.ngraming_in_one_file(users_19_38_all)
 
 sorter = tweets_classification('',batch_folder)
 # sorter.training(0.25)
