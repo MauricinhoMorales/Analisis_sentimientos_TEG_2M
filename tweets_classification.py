@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import numpy as np
 
 from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -20,12 +21,33 @@ def create_prediction(folder,testX, testY):
     
     dataFrame.to_csv("{}//Predicted_Tweets.csv".format(folder), index =  False)
     
+    dataFrame_prob = pd.DataFrame()
+    
+    dataFrame_prob['tweet_translated_tokenized'] = pd.DataFrame(testX, columns = ['tweet_translated_tokenized'])['tweet_translated_tokenized']
+    dataFrame_prob['sentiment'] = pd.DataFrame(testY, columns = ['sentiment'])['sentiment']
+    
+    dataFrame_prob.to_csv("{}//Predicted_prob_Tweets.csv".format(folder), index =  False)
+    
 # Función utilizada para actualizar el archivo .csv de Predicciones para cada algoritmo de clasficación utilizado
 def update_predictions(folder, data, name):
 
     dataFrame = pd.read_csv("{}//Predicted_Tweets.csv".format(folder))
-    dataFrame[name] = pd.DataFrame(data, columns = [name])[name]
+    dataFrame[name] = pd.DataFrame(data)
     dataFrame.to_csv("{}//Predicted_Tweets.csv".format(folder), index = False)   
+    
+def update_predictions_prob(folder, data, name):
+
+    dataFrame = pd.read_csv("{}//Predicted_prob_Tweets.csv".format(folder))
+    
+    labels = { 0 : 'Negativo', 1 : 'Neutral', 2 : 'Positivo' }
+    # labels = { 0 : 'Negativo', 1 : 'Positivo' }
+    
+    list = pd.Series(np.arange(0,len(pd.DataFrame(data).columns),1))
+    
+    for value in list:
+        dataFrame[name+'_'+labels[value]] = pd.DataFrame(data[:,value])
+        
+    dataFrame.to_csv("{}//Predicted_prob_Tweets.csv".format(folder), index = False)       
     
 # Funcion utilizada para actualizar el archivo .csv de Estadisticas para cada algoritmo de clasificacion utilizado  
 def update_statistics(folder,name, testing_labels, predicted_labels):
@@ -105,10 +127,16 @@ class tweets_classification():
         # Guardado de los resultados
         update_predictions(self.folder,predictions_NB_labels,'NB')
         
+        predictions_NB_prob = NaiveBayes.predict_proba(self.testing_messages)
+        
+        print(str(predictions_NB_prob))
+        
+        update_predictions_prob(self.folder,predictions_NB_prob,'NB')
+        
 
     def test_SVM(self):
 
-        SVM = svm.SVC(C=1.0, kernel='linear', degree=3, gamma='auto')
+        SVM = svm.SVC(C=1.0, kernel='linear', degree=3, gamma='auto',probability=True)
         
         # Entrenamiento del algoritmo
         SVM.fit(self.training_messages,self.training_labels)
@@ -124,6 +152,12 @@ class tweets_classification():
         
         # Guardado de los resultados
         update_predictions(self.folder,predictions_SVM_labels,'SVM')
+        
+        predictions_SVM_prob = SVM.predict_proba(self.testing_messages)
+        
+        print(str(predictions_SVM_prob))
+        
+        update_predictions_prob(self.folder,predictions_SVM_prob,'SVM')
     
     def test_Decision_Forest(self):
         
@@ -143,6 +177,12 @@ class tweets_classification():
         
         # Guardado de los resultados
         update_predictions(self.folder,predictions_DF_labels,'DF')
+        
+        predictions_DF_prob = DecisionForest.predict_proba(self.testing_messages)
+        
+        print(str(predictions_DF_prob))
+        
+        update_predictions_prob(self.folder,predictions_DF_prob,'DF')
     
     def test_Max_Entropy(self):
         
@@ -162,3 +202,9 @@ class tweets_classification():
         
         # Guardado de los resultados
         update_predictions(self.folder,predictions_MaxEnt_labels,'MaxEnt')
+        
+        predictions_MaxEnt_prob = MaxEnt.predict_proba(self.testing_messages)
+        
+        print(str(predictions_MaxEnt_prob))
+        
+        update_predictions_prob(self.folder,predictions_MaxEnt_prob,'MaxEnt')

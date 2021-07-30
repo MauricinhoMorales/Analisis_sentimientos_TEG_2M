@@ -12,13 +12,13 @@ from tweets_classification import tweets_classification
 users_38_19_translated = ['raleonc71','AndresFGuevaraB','clavelrangel','ricardolodice','kevinaviladdhh','jhoalys','gabosantana35','bpulidom','Rogerlruizh9','Arthur_Canga']
 
 # lista de prueba
-# list=['Arthur_Canga']
+list=['Arthur_Canga']
 
 # Variables para identificar a que carpetas seran guardadas
 individual_folders = 'users'
 batch_folder = 'batch'
 
-for user in users_38_19_translated:
+for user in list:
     
     user_twitter = tweets_management(user,individual_folders)
     # user_twitter.scraping(1000)
@@ -27,11 +27,11 @@ for user in users_38_19_translated:
     # user_twitter.clean_sentiments()
 
     sorter = tweets_classification(user,individual_folders)
-    # sorter.training(0.25)
-    # sorter.test_Naive_Bayes()
-    # sorter.test_SVM()
-    # sorter.test_Decision_Forest()
-    # sorter.test_Max_Entropy()
+    sorter.training(0.25)
+    sorter.test_Naive_Bayes()
+    sorter.test_SVM()
+    sorter.test_Decision_Forest()
+    sorter.test_Max_Entropy()
     
     sorter_batch = tweets_classification(user,batch_folder)
     # sorter_batch.load()

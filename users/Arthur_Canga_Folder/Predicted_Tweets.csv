@@ -25,7 +25,7 @@ tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
 "['tritti', 'needs', 'hallucinogenic', 'drugs', 'tiktok']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['downloaded', 'oscar', 'nominees', 'except', 'little', 'women', 'see', 'anything', 'interesting', 'anyone', 'something', 'say', 'speak', 'download']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['medicenelgordoo', 'ujperez', 'civil', 'like', 'hello', 'yes', 'turn', 'pm', 'offer', 'nrc', 'first', 'time', 'greetings']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['damn', 'kind', 'buy', 'graphics', 'card']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['damn', 'kind', 'buy', 'graphics', 'card']",Positivo,Neutral,Neutral,Negativo,Neutral
 "['informatics', 'principle', 'either', 'somalia', 'italian', 'city', 'state', 'black', 'death', 'everyone', 'dies', 'killed', 'nothing', 'done', 'go', 'life', 'hope', 'turn', 'next']",Neutral,Neutral,Neutral,Negativo,Neutral
 "['daft', 'punk', 'sin', 'los', 'cascos', 'ft', 'pharrell', 'williams']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['anthxnyb', 'grasia', 'poliedro']",Neutral,Neutral,Neutral,Neutral,Neutral
@@ -99,7 +99,7 @@ tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
 "['received', 'first', 'monday', 'december', 'say', 'nobody', 'initialized', 'stack', 'correct', 'function', 'half', 'already', 'hole', 'damn', 'thanks', 'good', 'news', 'son', 'bitch']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['always', 'around', 'dates', 'december', 'end', 'semester', 'begin', 'wishes', 'personal', 'improvement', 'achieved', 'month', 'forget', 'others', 'called', 'gym', 'called', 'courses', 'already', 'point', 'know', 'whether', 'believe', 'seek', 'support']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['present', 'partial', 'calculation', 'fever', 'forget', 'validation', 'step', 'wrongly', 'copy', 'coordinate']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['partial', 'today', 'please']",Positivo,Neutral,Neutral,Neutral,Neutral
+"['partial', 'today', 'please']",Positivo,Neutral,Neutral,Negativo,Neutral
 "['think', 'already', 'point', 'semester', 'mental', 'exhaustion', 'carry', 'feel', 'indifference', 'resignation', 'let', 'everything', 'flow', 'inertia']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['message', 'everyone', 'laughs', 'lacava', 'emigrate', 'reproduce', 'please']",Positivo,Neutral,Neutral,Neutral,Neutral
 "['sometimes', 'really', 'feel', 'educational', 'level', 'passed', 'high', 'kind', 'see', 'video', 'julioprofe', 'say', 'gave', 'example', 'even', 'put', 'bullets', 'people', 'literally', 'say', 'worked', 'sucks', 'idiot', 'julioprofe', 'explains', 'depth']",Neutral,Neutral,Neutral,Neutral,Neutral
@@ -111,7 +111,7 @@ tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
 "['danibarranco', 'believing', 'superior', 'thinking', 'white', 'coke', 'reality', 'brown', 'crippy', 'makes', 'brown', 'crippy', 'superiority', 'complex', 'makes', 'already']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['nothing', 'literally', 'shit', 'ah', 'pods', 'shit']",Neutral,Neutral,Neutral,Negativo,Neutral
 "['partner', 'want', 'accept', 'code', 'efficient', 'want', 'test', 'mine', 'less', 'hours', 'delivery', 'still', 'half']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['deliver', 'project', 'tomorrow', 'half', 'ready', 'depend', 'partner', 'half', 'city', 'left', 'without', 'internet', 'data', 'hate', 'life', 'demonstration', 'god', 'enjoys', 'watching', 'suffer']",Neutral,Neutral,Neutral,Neutral,Neutral
+"['deliver', 'project', 'tomorrow', 'half', 'ready', 'depend', 'partner', 'half', 'city', 'left', 'without', 'internet', 'data', 'hate', 'life', 'demonstration', 'god', 'enjoys', 'watching', 'suffer']",Neutral,Neutral,Neutral,Negativo,Neutral
 "['guaidó', 'announces', 'elections', 'parliamentarians']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['daanielabg', 'normalize', 'ass', 'sucking', 'let', 'also', 'normalize', 'ball', 'sucking', 'nohomo', 'fueradechinazo']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['cannibal', 'retards']",Neutral,Neutral,Neutral,Neutral,Neutral
@@ -160,7 +160,7 @@ tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
 "['edul', 'srmigueltomas', 'imnot', 'ludaabti', 'minombreeschris', 'side', 'side', 'side']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['best', 'nachored', 'funniest', 'leo']",Positivo,Neutral,Neutral,Positivo,Neutral
 "['thefanboylester', 'welcome', 'twitter']",Positivo,Neutral,Neutral,Neutral,Neutral
-"['elcdsmmsea', 'depends', 'come', 'neighborhood', 'never', 'studied', 'chavista', 'considered', 'good', 'luck', 'one', 'less', 'scum']",Neutral,Neutral,Neutral,Positivo,Neutral
+"['elcdsmmsea', 'depends', 'come', 'neighborhood', 'never', 'studied', 'chavista', 'considered', 'good', 'luck', 'one', 'less', 'scum']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['leo', 'sushitrash', 'famous', 'filthy', 'frank']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['adrianriotx', 'elcdsmmsea', 'chiguirebipolar', 'says', 'please', 'steal', 'jokes', 'underpaid', 'intern']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['vallha', 'meanwhile', 'events', 'everyone', 'looking', 'saying', 'good']",Neutral,Neutral,Neutral,Neutral,Neutral
@@ -211,11 +211,11 @@ tweet_translated_tokenized,sentiment,NB,SVM,DF,MaxEnt
 ['mood'],Neutral,Neutral,Neutral,Neutral,Neutral
 "['vallha', 'asquito', 'play', 'lol']",Positivo,Neutral,Neutral,Neutral,Neutral
 "['go', 'skyrim']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['want', 'communist', 'dictator', 'also', 'want', 'know', 'bitch', 'talks', 'shit']",Negativo,Neutral,Neutral,Neutral,Neutral
+"['want', 'communist', 'dictator', 'also', 'want', 'know', 'bitch', 'talks', 'shit']",Negativo,Neutral,Neutral,Negativo,Neutral
 "['today', 'entered', 'steam', 'facebook', 'amazon', 'three', 'seen', 'articles', 'opinions', 'clinton', 'agenda', 'democrats', 'reached', 'point', 'anger', 'propaganda', 'stronger', 'propaganda', 'lost', 'memetic', 'war']",Negativo,Neutral,Neutral,Neutral,Neutral
 "['dw', 'espanol', 'wonders', 'given', 'interminal', 'crisis', 'greece', 'tsipras', 'failed', 'damn', 'know', 'could', 'socialism']",Negativo,Neutral,Neutral,Neutral,Neutral
 "['superpanqsito', 'perhaps', 'cm', 'ordered', 'express', 'currency', 'exchange', 'ways', 'photo', 'pinned', 'tweet', 'statement', 'enough', 'expressed', 'account', 'protest', 'must', 'encouraged', 'whenever', 'possible', 'even', 'companies']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['country', 'universities', 'without', 'following', 'partisan', 'supra', 'movement']",Neutral,Neutral,Neutral,Neutral,Neutral
 "['residence', 'lived', 'ccs', 'landlords', 'marginal', 'nouveau', 'riche', 'son', 'age', 'brat', 'age', 'fb', 'courtesy', 'good', 'marginal', 'likes', 'every', 'time', 'criticize', 'mockery', 'marginality', 'country', 'feel', 'alluded']",Neutral,Neutral,Neutral,Neutral,Neutral
-"['vicbeology', 'like', 'dry', 'whenever', 'time', 'luck', 'realize', 'problem']",Positivo,Neutral,Neutral,Positivo,Neutral
+"['vicbeology', 'like', 'dry', 'whenever', 'time', 'luck', 'realize', 'problem']",Positivo,Neutral,Neutral,Neutral,Neutral
 "['eat', 'fork', 'eldiariodedross', 'sick', 'fat', 'woman', 'makes', 'soup', 'insists', 'giving', 'spoon', 'going', 'bite', 'hand']",Neutral,Neutral,Neutral,Neutral,Neutral
