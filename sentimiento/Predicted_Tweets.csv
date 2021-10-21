@@ -1,0 +1,376 @@
+tweet_tokenized_translated,sentimiento
+"['@telussupport', 'tips', 'wifi', 'terrible', 'past', 'week?', 'slow', 'dropping', 'continuously', 'nw', 'calgary']",miedo
+"['@justyne_haley', 'does.', 'one', 'person', 'ruins', 'season', '13', 'me,', 'angry']",ira
+"['@kingnicky7', 'also', 'madden', 'funniest', 'game', 'watch', 'much', 'happening', 'boring']",ira
+"['study', 'leave', 'country,', 'tickets', 'pay', 'themselves.']",felicidad
+"['hour', 'football', 'practice', 'boiling', 'sun', '2hr', 'volleyball', 'practice', 'boiling', 'sun']",ira
+"['@aqpk', 'worse', 'expected', 'hilarious', 'too.', 'one', 'even', 'remember.']",felicidad
+"['said', 'young', 'people', 'venezuela', 'got', 'really', 'bad', 'sides,', 'fucked', 'going', ""santintin's"", 'one', 'get', 'them.']",tristeza
+"['peak', 'like', 'going', 'ask', 'stay', 'legally,', 'go,', 'leave', 'country', 'love', 'world', 'wish', 'success.']",felicidad
+"['walk', 'darkness', 'despondency,', 'sc.verses', ""i've"", 'memorized', 'shine', 'light', 'heart.', 'ex:', 'lam', '3:22-25', '#despondency']",miedo
+"['lol!', 'mention', 'pak', 'pm', 'even', 'speech', 'international', 'news', 'channel', 'pakis', 'rejoicing', 'world', 'stands']",felicidad
+"['@cp24', 'hope', 'police', 'met', 'subway', 'took', 'straight', 'jail', '#awful']",miedo
+"['@hoemanda69', 'wtf', 'tenacious', 'jubilant']",felicidad
+"[""that's"", 'evening,', 'though!', 'way', 'lit', 'finish', 'properly', 'without', 'causing', 'serious', 'mischief.']",tristeza
+"['watching', '#bacheloretteau', 'zoolander', '#hilarious', '#samvrhys']",felicidad
+"['two', 'older', 'boys', 'elated,', 'toddler', 'terrified.', 'pics', 'poor', 'little', 'face', 'peeping', 'hole', 'basket.']",felicidad
+"['good', 'thing', 'sick', 'coughing', 'like', 'ab', 'workout.', 'maybe', 'abs', 'defined', 'time', ""i'm"", 'better', '😂😅']",felicidad
+"['contactless', 'affliction', 'kart', 'needs', 'must', 'regarding', 'psychological', 'moment!:', 'xbeujgb']",tristeza
+"['knowing', 'cook', 'invaluable,', ""what's"", 'even', 'better', 'even', '400', 'sq', 'ft', 'place,', 'wide', 'hearty', 'homestyle', 'egg', 'noodles.']",felicidad
+"[""there's"", 'always', 'one', 'song', 'makes', 'turn', 'radio,', 'rather', 'sit', 'silence']",miedo
+"['@xemitsellsmagic', 'add', 'tracking', 'resent']",ira
+"['@warmneutrals', ""'passenger"", 'car', 'next', 'cheerfully', 'asks', 'cigarette', ""directions'""]",felicidad
+"['person™', 'get', 'bitter', 'seeing', 'ravi', 'stans']",ira
+"['@kikibug13', 'look.', 'very,', 'unhappy.', '\\n\\n(nngh.', 'got', 'email', 'notif', 'thank', 'you.)']",tristeza
+"['america', 'openly', 'embracing', 'racism.']",miedo
+"['happened', 'breezy']",felicidad
+"['#internationaldayofpeace', 'want', 'peace,prepare', 'war.', 'destroy', 'terror', 'states', 'like', 'pakistan']",miedo
+"['breezy', 'today,', ""can't"", 'go', 'back', 'school', 'night', 'bare', 'legs', 'like', ""i've"", 'day']",felicidad
+"['@unloumas', 'lo', 'de', 'la', 'f1,', 'lo', 'de', 'venezuela', 'es', 'incalculable', 'xd', 'better', 'get', 'there.']",felicidad
+"['together', 'working', 'guarantee', 'security', 'protection', 'economic', 'rights', 'venezuelans', 'create', 'streets', 'force', 'future', 'generation', 'leave.']",felicidad
+"['dread', 'pitt']",miedo
+"['#weirdwednesday', 'okay!', 'jump-scared', '#poop', 'right', 'there.', 'bad', 'dog,', 'bad!', 'total', 'code-brown', 'favorite', 'pants.', '#damnit']",miedo
+"['objective', 'number', '1:', 'leave', 'country.']",felicidad
+"['@alicegoodman17', 'dunno,', ""i'm"", 'getting', 'less', 'spacious', 'lovely', 'autumnal', 'melancholy', 'present', 'apocalypse']",tristeza
+"['@boudicarides', '@realkingrobbo', 'exactly', 'do?', 'took', 'long?', '#afraid', '#clintonmafia', '#congress']",miedo
+"['start', ""convo...don't"", 'shy', 'away..mental', 'illness', 'abounds', 'society', 'including', 'workplace...be', 'informed...', '#tsdoffsite']",miedo
+"['venezuela', 'moving', 'forward', 'construction', 'comprehensive', 'public', 'health', 'system,', 'quality', 'highest', 'level', 'technological', 'development,', 'highlighted', 'president', '@nicolasmaduro.', 'young', 'people', 'seek', 'medical', 'services', 'abroad.']",felicidad
+"['heading', 'home', 'cut', 'grass', 'heat.', 'wanna', 'go', 'eat', 'somewhere', 'air', 'conditioned.', '#pout', '#adultingistheworst']",ira
+"['@grahnort', 'wonderful', 'experience', 'watching', 'yesterday', 'at.', '@bbcletitshine', 'thankyou', '#laughter']",felicidad
+"['watch', 'amazing', 'live.ly', 'broadcast', '@elise_awsome_11', '#lively', '#musically']",felicidad
+"['@flanneljedi', 'drink', 'watch', 'worst', 'way', 'cheer', 'up.']",felicidad
+"['@manunitedwriter', 'dreadful', 'first', 'half,', 'mention', 'rashford', ""would've"", 'got', 'end', 'couple', 'balls', '#pace']",miedo
+"['@gcc_discgolf', 'lost', 'xt', 'nova', 'around', 'hole', '#sadness']",tristeza
+"['@ynnsanity', 'maybe', ""that's"", 'why,', ""we're"", 'asked', 'study', 'hard', 'get', 'job', 'like.', 'way', 'dreadful.']",miedo
+"['@x_kimtaehyung_x', '\\n—', 'momentarily', 'disappeared,', 'solemnity', 'anxiety', 'lacing', 'features.', ""\\n\\n'i"", 'ran', 'get']",tristeza
+"['time', 'go', 'hit', 'library', 'lovely', 'pile', 'book', 'reservations', 'collect', 'morning...', '#books', '#reading']",felicidad
+"[""i'm"", 'block', 'everyone', 'everywhere', 'posting', 'storm.', 'think', 'everyone', 'aware', 'damn', 'rain', 'quit.', '#damn', '#rage']",ira
+"['let', 'general', 'tweet', 'offend', 'you,', 'definitely', 'twitter.']",ira
+"['viva', 'venezuela', 'young', 'people', 'good', 'projects', 'motivation', 'keep', 'going', 'forward', 'one', 'leave.']",miedo
+"['@residentadvisor', 'thanks', 'getting', 'back', 'me,', 'exemplary', 'customer', 'service', 'loyal', 'customer', '#jk', '#awful', '#residentadvisor', '#poorservice']",miedo
+"['@meghanemurphy', 'oh', 'gosh,', 'get', '800+', 'raging', 'comments', 'cruise', 'fans,', 'die', 'laughing!']",ira
+"[""can't"", 'believe', ""i've"", 'got', 'days', 'left', '#backtoreality', '#raging']",ira
+"['@fly_norwegian', 'quite', 'simply', '#worst', '#airline', '#worstairline', ""i've"", 'ever', 'used!', '#shocking', '#appauling', '#dire', '#dismal', '#beyondajoke', '#useless']",tristeza
+"['@juancavidal', 'god', 'guide', 'steps,', 'take', 'destiny', 'give', 'strength', 'intelligence', 'help', 'venezuela', 'horrible', 'quagmire.....', 'god', 'bless', 'icv!!!']",felicidad
+"['mor,', 'every', 'day', 'good', 'day,', 'today', 'preferred', 'stay', 'locked', 'house', 'go', 'center', 'possibility', 'buying', 'books.', 'understand', 'lack', 'live']",tristeza
+"['@yanguis_', 'want', 'leave', 'country', ""son's"", 'education.']",ira
+"['understand', 'everyone', '#angry', 'want', 'live', 'thrive', 'we?']",ira
+"['gentlemen', 'anti-imperialist?', 'clownish', 'people,', 'living', 'empire', 'venezuela', 'courage', 'leave.']",ira
+"['research', 'determined', '70%', '#laughter', 'actually']",miedo
+"['need', 'syfy', 'series', 'watch', 'literally', 'nothing', 'watch', 'back', 'back.', 'already', 'watched', '#heroes', '#lost', '#jericho', '#fallenskies', 'etc', 'etc']",tristeza
+"['sad', 'day...1st', 'day', 'fall...i', 'dislike', 'fall...i', 'love', 'summer', '#firstdayoffall', '#goodbyesummer', '#sadness', '#bathingsuitsforever']",tristeza
+"['day', 'elated', ""i'm"", 'taking', 'pto', 'tomorrow', ""i'm"", 'doneeeee.', 'but:']",felicidad
+"['@british_airways', '#lost', '#bag', '#stillwaiting', 'go', 'home', 'in2days.', ""dm'd"", 'info', 'rung', '9times', 'day.', 'do?', '#wheresmybag']",tristeza
+"['terrorism', 'intimidate', 'populace?', 'case', 'held', ""'coercion"", 'people', 'uniform', 'per', 'se', ""intimidation'?""]",miedo
+"['@caeruleusv', '@atheist_penguin', '@misogynaut', 'threaten', 'pussy']",miedo
+"['wake', 'up,', 'scroll', 'social', 'media,', 'another', 'father', 'taken', 'child', '#nightmare', '#everyday', '#keithlamontscott']",miedo
+"['mary', 'astounded', 'concept', 'leftover', 'milk', 'end', 'cereal', '#gbbo']",miedo
+"['go', 'follow', 'musically', '@budderlordk1ng', 'making', 'lively.', 'come', 'join', 'bffing', 'following', ';)', 'see', 'there!']",felicidad
+"['matty', 'dawson', 'scored', 'there!!!!!', '#terrible']",miedo
+"['fuck', 'shy,', ""i'm"", 'trying', 'thighs.']",miedo
+"[""can't"", 'leave', 'country', 'vaccines', 'gave', 'us,', 'it?']",tristeza
+"['@lisaasquithtobe', '@craig8710', '@waynehaselden', '@june65wigan', 'everyone', 'wigan', 'biggest', 'club', '#bitter']",ira
+"['everywhere', 'go,', 'air', 'breathe', 'tastes', 'like', ""home.'"", '@the_currys', '#restless']",miedo
+"['september', ""we're"", 'still', 'battling', 'situation', 'said', 'handled', 'march', 'year.', '@att', 'unacceptable']",tristeza
+"['@aradsliff', 'know', ""i'm"", 'nj', 'worst', 'purpose.', '#laughter']",felicidad
+"['love', 'people', 'make', 'plans', 'without', 'actually', 'including', 'process', '#rage']",ira
+"['joyous', 'first', 'webiversary/web', 'mitzvah', ""smithsonian's"", '@weipoints!!', '@brianwolly', '@jackie_mansky', '@bethpylieberman', '@bilbo', '@mazeltov']",felicidad
+"['band', 'members', 'wanted.', 'contact', '#newcastlegateshead', '#sunderland', '#musicians', '#musicbusiness', '#musicislife', '#music', '#musically', '#band', '#blues', '#folk']",tristeza
+['testing'],ira
+"['@sonofthedovah', '*she', 'could', 'sense', 'anger', 'stirring', 'within', 'took', 'hand', 'hers.*', 'long', 'stay', 'together,', ""we'll"", 'safe.--']",ira
+"['think', 'dating', 'guys', '#nervous', '#bodybuilding', '#with', '#follow4follow', 'megaphone', 'xxx', 'number', 'nierstein']",miedo
+"['lot', 'celebrate', 'damn', 'socialist', 'government,', 'forced', 'thousands', 'venezuelans', 'leave', 'country....']",felicidad
+"['remember', 'rooney', 'wanted', 'leave', 'united', 'fans', 'threaten', 'kill', 'man', 'bare', 'junk...', 'wanna', 'regretting', 'now?', '😂😂']",miedo
+"[""they're"", 'like', 'rape', 'apologists', '(inadvertently?)', 'make', 'men', 'sound', 'like', 'rabid,', 'mindless', 'beasts.', 'friends', 'like', 'these...']",ira
+"['@princesscasgirl', '@daddyellis__', 'tiff', 'better', 'hurry', 'cause']",ira
+"[""i'm"", 'looking', 'possibility', 'moving', 'peaceful', 'place', 'live', 'bummer', 'live', 'like', 'this.']",tristeza
+"['@verizonsupport', 'thanks', 'saying', 'wife', 'getting', 'iphones', 'today', 'losing', 'eta', '#thanks', '#angry']",ira
+"['heard', 'thought', 'ether,', '#ex', 'posted', '#facebook', 'pic', 'snuggling', 'said', '#cats...', 'im']",ira
+"['addition', 'fiction,', 'wish', 'luck', 'research', 'paper', 'semester.', '15-20', 'pages,', 'oh', 'boy.']",miedo
+"['@ryyyshh', 'story', 'life.', '#lost']",tristeza
+"['petition', 'non-maghrebi', 'poc', 'stop', 'buying', ""'couscous'"", 'white', 'grocery', 'stores', 'boiling', 'it.', 'couscous,', 'trash.']",ira
+"['@jack_haug_lifty', '@eable', 'ms', 'btw.', 'lied', 'remain.', 'dry', 'remainer', 'tears;', 'accept', '#lost']",tristeza
+"['@dsdambuster', 'finally', 'started', '#homefronttherevolution,', 'story', 'gameplay???', '#terrible', '#wasteofmoney']",miedo
+"['already', 'pacos', 'getting', 'control,', 'real', 'enemies', 'venezuelan', 'society,', 'security', 'forces.', 'leave', 'country', 'die', 'trying']",miedo
+"['mourn', 'creativity', 'lost.']",tristeza
+"['@wabermes', '@ravallirepublic', 'good', 'one', 'reporter', 'quit.', '#sad']",tristeza
+"['im', 'really', 'constipated.', 'depressing']",tristeza
+"['@madisenrb', 'sweet', '&amp;', 'playful']",felicidad
+"['@elcitizen', 'keep', 'saying', 'people', 'venezuela', 'short', 'memory,', 'shame,', 'instead', 'new', 'leaders', 'coming', 'kind', 'quasi', 'politician', '!!!!']",tristeza
+"['accept', 'challenges,', 'may', 'feel', 'exhilaration', 'victory.\\n\\ntomiho', 'ipaglabanmo', 'tapingday2']",felicidad
+"['sorry', 'im', '#bitter', 'just.', 'either', 'want', 'pure', 'ur', 'literally', 'card', 'sets', 'like', 'every', 'time', 'draw', 'sets', 'like&gt;']",ira
+"['@duncantrussell', 'remo', 'williams', 'ever', 'actually', ""'save'"", 'anyone', 'sulk', 'around', 'killing', 'random', 'undesirables']",tristeza
+"['@mikebairdmp', '@andrewconstance', '@nswtaxi', 'many', 'sex', 'cases', 'need', 'guys', 'learn', 'uber', 'shocking', 'consumer', 'unregulated']",miedo
+"['guy', 'comes', 'train', 'smells', 'like', 'mixture', 'damp', 'dog,', 'old', 'sweat', 'sewage', 'works!!!!#gross', '#horrid', '#getoffthetrain', '#smelly']",miedo
+"['dire', 'need', 'worship', 'session', 'let', 'go', 'everything']",miedo
+"['theyve', 'substituted', 'hood', 'badge', ""gun.'"", 'public', 'opinion', 'indictment', 'charlotte', 'police.', '#dark', '#sadtimes', '#america', '#race']",tristeza
+"['@firstleeds', 'buses', 'unreliable', 'ticket', 'app', 'unable', 'get', 'two', 'buses', 'late', 'work', '#fuming', '#useless', 'reply']",ira
+"['method', 'thin', 'assault', 'corridor', 'thine', 'liveliness:', 'chd']",felicidad
+"['felt', 'possibility', 'best', 'friend', 'return', 'venezuela,', 'now,', 'future,', 'exploded', 'happiness.', 'never', 'thought', 'would', 'say', 'that.']",felicidad
+"['well', '@aprildryan', ""trump's"", 'rabid', 'base', 'needs', 'hear', '&amp;', 'always', 'find', 'overseer', 'like', 'king', 'say', 'it.\\n@joyannreid', '@smshow', '@frangeladuo']",ira
+"['miss', 'fact', '#burkeramsey', 'swung', '&amp;hit', 'sister', '#jonbenet', 'face', 'golf', 'club', 'previously', 'fit']",ira
+"['@realestcastiel', 'sitting', 'close', 'extended', 'period', 'time', 'exhilarating', ""he's"", 'beautiful', 'lively', 'lol']",felicidad
+"['@amymek', 'absurd', 'could', 'laugh', 'right', '(if', 'also', 'feel', 'like', 'crying', 'future', 'country).', '#despair', '#wakeupcall']",miedo
+"['heard', 'happen', 'grandad', 'hometown', 'last', 'night', 'terrible', 'news', '💔,', 'hope', 'everyone', 'okay']",miedo
+"['source!!\\n\\n#mindset', '#philosophy', '#thoughtsbecomethings', '#news', '#lifehacks', '#fear', '#you', '#life', '#pleasert', '#problemsolving']",miedo
+"['guy', 'wants', 'young', 'people', 'ignorant', 'aspirations', 'leave', 'venezuela']",tristeza
+"['sir,', 'concern', 'whether', 'god', 'side;', 'greatest', 'concern', ""god's"", 'side,', 'god', 'always', ""right.'"", 'abraham', 'lincoln']",miedo
+"['@alicemazzy', 'partisan', 'social', 'issues', 'years', 'back;', 'concern', 'trolls', 'center', 'left', 'chait', 'far', 'left']",miedo
+"['majority', 'people', 'irritate', 'fuck', 'me,', 'cba', 'people', 'ahahah']",ira
+"['consolation', 'get', 'country']",tristeza
+"['bill', 'clinton:', ""'do"", 'grow', 'weary', ""good.'"", '@clintonglobal', '#cgi2016']",tristeza
+"['walk', 'darkness', 'despondency,', 'sc.verses', ""i've"", 'memorized', 'shine', 'light', 'heart.', 'ex:', 'lam', '3:22-25']",miedo
+"['“we', 'easily', '#forgive', '#child', '#afraid', '#dark;', 'real', '#tragedy', '#life', '#men', '#afraid', '#light.”–plato']",tristeza
+"['room', 'rather', 'dreary,', 'endure', 'must.']",tristeza
+"['pax', 'enjoyed', '#gloom', '@clayorangecrush', '@f3lakemurray']",tristeza
+"['""get', 'country""', 'operation', 'begins']",felicidad
+"['mom', 'told', 'yesterday', 'looking', 'grim', 'started', 'driving', 'there,', 'told', 'turn', 'around', 'b/c', 'sick']",tristeza
+"['willing', 'leave', 'country?', 'promise', 'regret']",felicidad
+"['@eileen_davidson', 'rhobh,', 'want', 'assume', 'affair', 'married', 'criticize', '@lisavanderpump!', '#awful']",miedo
+"['#rip30', 'heaven', 'rejoicing', ""they've"", 'gained', 'angel,', 'keifer', 'family', 'prayers', '💙🙏']",felicidad
+"['hello,', 'saw', 'youtube', 'liked', 'saw,', 'working', 'venezuela', 'computer', 'as400,', 'rpg,', 'possibility', 'have.', 'spanish', 'national.']",felicidad
+"['watch', 'amazing', 'live.ly', 'broadcast', '@rosannahill', '#musically']",felicidad
+"['@sargon_of_akkad', ""it'll"", 'like', 'burning', 'rap', 'albums;', ""they'll"", 'buy', 'first,', 'gosh', 'darn', 'it,', 'get', 'rid', 'it.']",ira
+"['@sueblue35', '@nsoz7', '@immortalbulldog', 'huh?', 'sprint', 'coach?', ""we're"", 'slowest', 'team', 'comp.', 'talk', 'robbing', 'living.', '#outrage']",ira
+"['@timewarparcade', '@tenpencearcade', 'really', 'pedal', 'like', 'nutter', 'get', 'anywhere?', 'remember', 'sedate.']",tristeza
+"['@mandyjohnson', ""i'll"", 'honest..', 'hope', 'annoying', 'southern', 'bint', ""'look"", ""me'"", 'pout', 'goes', 'week!', 'selasi', '#ftw']",ira
+"['hey', 'folks', 'sorry', 'anything', 'offensive', 'got', 'posted', 'yesterday', 'account', 'got', 'hacked.', 'fixed', 'though.', 'hope', ':-/', '#annoyed']",ira
+"['@jbcrewdotcom', 'fans', 'insult']",ira
+"['dream....they', 'trying', 'steal', 'kidney!!!', '#blackmarket', '#whydidiwatchthat']",miedo
+"['great', 'training', 'course,', 'lots', 'photos,', 'fun', 'laughter.', ""photo's"", 'soon', '#boostercourse', '#fun']",felicidad
+"['rejoice', 'birth', 'grieve', 'funeral?', 'person', 'involved.', 'mark', 'twain']",tristeza
+"['@pdi_chile', 'hello', 'good', 'consultation', 'person', 'made', 'documents', 'new', 'immigration', 'law', 'mid-may,and', 'waiting', 'acceptance,can', 'leave', 'country.']",miedo
+"['rojo', 'hilarious']",felicidad
+"['told', 'wife', 'chance', 'would', 'sydney', 'teams', 'afl', 'grand', 'final.', 'response:', ""'there's"", 'two', 'sydney', 'afl', ""teams?'"", '#serious']",tristeza
+"['@feistyarcher', ""-trouble,'"", 'feigned', 'anger', 'gave', 'look', 'told', 'behave.', 'knew', 'though,', 'one']",ira
+"['watch', 'amazing', 'live.ly', 'broadcast', '@evanhufferd', '#lively', '#musically']",felicidad
+"['good', 'morning', 'joyful', 'people.', 'choose', 'happiness', 'great', 'day', 'today', '#morning', '#happiness', '#grandmercurejktkemayoran']",felicidad
+"['courage', 'always', 'rises', 'every', 'attempt', 'intimidate', 'me.”\\n-elizabeth', 'bennett', '(pride', 'prejudice)\\n#quotes', '#courage', '#faceyourfears']",miedo
+"['@tamriiel', 'talking', 'expansion,', 'gear', 'fury', 'always', 'well', 'towards', 'end']",ira
+"['follow', 'instagram', '1.0.7', '#love', '#tagsforlikes', '#tflers', '#tweegram', '#photooftheday', '#20likes', '#amazing', '#smile', '#follow4follow', '#like4like', '#look']",felicidad
+"['@danlanthier', 'exhilarating', 'hockey.', ""they're"", 'still', 'russia', 'wins', 'regulation', ""i'm"", 'reading.', '#fuck']",felicidad
+"['goes', 'first.', 'gets', 'book', 'signed', '&amp;', 'barely', 'take', 'picture', 'cuz', ""i'm"", 'shaking', '😭😭😭😭😭']",miedo
+"['#disgracefulesin', 'resent', 'men', 'way;', 'reason', 'all.', '#esinscountdown']",ira
+"['3:45am', 'hospital!', ""elouise's"", 'waters', 'gone!', '#panic', '#labour', '#littlesister', '#superexcited']",miedo
+"['@dsdambuster', 'finally', 'started', '#homefronttherevolution,', 'story', 'gameplay???', '#wasteofmoney']",miedo
+"['@gopro', 'ux', 'online', 'appalling!', 'clear', 'save', 'button,', 'able', 'use', 'generic', ""tld's"", '#unhappy']",tristeza
+"[""@cpt_srogers_\\n'well"", 'go', 'one', 'two', 'ways.', 'either', 'get', 'accept', 'it,', 'going', 'change,', 'mope', '--']",tristeza
+"['side', 'fear', 'lies', 'freedom!', 'jb', 'glossinger', '#quote']",miedo
+"['extreme', 'sadness']",tristeza
+"['@guacha04038578', '@orozcolgustavo', '@anaerazor', '@pactocol', '@petrogustavo', '@franciamarquezm', 'salvation', 'end', 'chavismo', 'exit', 'cuba', 'venezuela.']",tristeza
+"['@perfectquartz', 'jogging', 'bit', 'stay', 'beside', 'her,', 'puffing', 'cheeks', 'huff', 'time.', ""'oh--"", 'jeez', 'jasper,']",ira
+"['watch', 'amazing', 'live.ly', 'broadcast', '@rosannahill', '#lively', '#musically']",felicidad
+"['important', 'ever', 'leave', 'country.']",tristeza
+"['@miami4trump', 'yeah,', 'bad', 'part', '#terrorism', '#terror', 'muslims', 'ones', 'leaving', '#obamalegacy', '#nationalsecurity', '#disaster', '#obama']",miedo
+"['nephew', 'sees', 'frown', 'face', 'tells', ""'you're"", 'beautiful', ""'!😢💞😩""]",tristeza
+"['like', 'keep', 'grinding', 'boy', 'life', 'change', 'one', 'year,', 'even', 'dark', 'sun', 'shining', ""somewhere...'""]",tristeza
+"['still', 'want', 'stay', 'venezuela', 'know', 'it,', 'still', 'possibility', 'leaving.']",tristeza
+"[""@bijayjanand\\nit's"", 'treat', 'viewers', 'watch', 'janak,', 'simply', 'treat', 'soul,', 'mind,', 'thoughts.', '#hearty', 'respect', '🙏🙏']",felicidad
+"['@bossupjaee', 'pussy', 'weak', 'heard', 'stfu', 'bitch', 'got', 'threaten', 'pregnant']",miedo
+"['accept', 'challenges', 'feel', 'exhilaration', 'victory!!']",felicidad
+"['yes,', 'going', 'wash', 'dishes', 'another', 'country', 'reaffirmed', 'better', 'plan', 'staying', 'pigsty.']",ira
+"['5am', 'blues', 'riding', 'cab', 'home:\\n-', 'belly', 'much', 'bigger', 'rest', 'body\\n-', 'couldnt', 'preggy\\n-', 'lose', 'day']",tristeza
+"['@sadiqkhan', '#terrorism', 'way', 'life', 'united', 'etates', '#islam', 'brought', 'here!', '#islamexposed', '#islambacon']",miedo
+"['@mhchat', 'think', 'sadness', 'felt', 'strongly', 'physically', 'mentally.', 'feels', 'like', 'takes', 'hard', 'focus', 'work', '#mhchat']",tristeza
+"['@mannym83', '@daretoreagan', 'oh', 'yeah.', 'hate', 'air', 'raid', 'like', 'oregon/baylor', 'offense', ""i'm"", 'fan', 'ole', 'miss', 'one', 'either']",ira
+"['talk', 'politics', 'people', 'nowadays', 'get', 'offended', 'easily!']",ira
+"['want', 'leave', 'country', 'intensifies.']",miedo
+"['anytime', '@perezed', 'gets', 'near', 'mic,', 'someone', 'needs', 'smack', 'bat.', '@bbtn', '#awful', '#marblesinmouth']",miedo
+"['another', 'test', 'tonight']",miedo
+"['many', 'think', 'venezuela', 'cheap,', 'all,', 'reality', 'different,', 'venezuela', 'expensive', 'think....']",tristeza
+"['quote_soup:', 'happy', 'everything', 'good,', 'see', 'good', 'side', 'everything.', '#optimism']",felicidad
+"['pretty', 'clear', ""can't"", 'stand', '@hillaryclinton,', 'tolerance', 'habitual', 'liars.', 'trump', 'fan', 'either', ""what's"", 'citizen', 'do?', '#despair']",tristeza
+"['indian', 'uber', 'driver', 'called', 'someone', 'word.', 'moving', 'vehicle', ""i'd"", 'jumped', '#disgusted']",ira
+"[""we're"", 'd.', 't.', '(discipleship', 'training', 'detox)', 'something.', '#messy', '#fearful', '#cutoff', '#choosefreedom', '#cryout16']",miedo
+"['4yo', 'gone', 'blast', 'gothcore', 'music.', '#anxiety', '&amp;', ""can't"", 'listen', 'around', 'bcuz', ""'too"", ""spooky'."", '*sigh*', '#momlife']",miedo
+"['@grimstoyshow', 'grim', 'fuck', 'going', 'dame', 'fucking', 'clowns', 'takeing', 'gameing', 'channel', 'way', 'nj', 'would', 'delete']",tristeza
+"['.@simonnricketts', 'know', 'patronus', 'is,', 'think', 'tell']",miedo
+"[""i'm"", 'leaving', 'situation', 'going', 'daily', 'look', 'chop', 'honest', 'opportunity', 'fight', 'win', 'fascinating', 'preferable', 'die', 'like', 'bullet', 'street']",tristeza
+"['care', 'come', 'looking', 'opportunity', 'get', 'ahead.', 'long', 'work,', 'regularize', 'situation', 'stay,', 'would', 'problem.']",ira
+"['@txdmv', '@arkansasbbb', 'filled', 'report', '#baitswitch', '@carvana', 'lets', 'go', 'get', 'fines', 'levied.', '#badbusiness', '#honoryourdeal', '#unhappy']",tristeza
+"['@danielgcolina', 'unfortunately,', 'venezuela,', 'security', 'officials,', 'criminals', 'dressed', 'uniform...poor', 'falls', 'hands,', 'may', 'god', 'mercy', 'us.']",tristeza
+"['hate', 'lawn', 'mower.', 'soul,', ""i'd"", 'condemn', 'fiery', 'pits', 'hell.']",ira
+"['#threaten', 'kill', '#kapernick', 'kneeling.', 'say', 'every', 'athlete', 'stop', 'playing', 'social', 'justice', 'equality', 'comes', 'forth.']",miedo
+"['feels', 'grim', 'nails', 'done']",tristeza
+"['give', 'blue', 'guitar,', 'stand', 'main', 'character.', 'sort', 'skim-read', 'end', 'got', 'grim', 'unsettling', '1/2']",tristeza
+"['lysol', 'got', 'stuck', 'spray', 'position', ""we're"", 'slowly', 'suffocating', 'trash', 'smells', 'like', 'febreeze', 'factory.']",miedo
+"['@alyssasimpson21', 'gave', 'kendrick', 'lamar', 'eat', 'barbecue', 'him.']",ira
+"['gotta', 'hit', 'breezy', 'every', 'day', 'make', 'sure', ""he's"", 'breaking', 'boots.', 'first', 'class', 'friend', 'right']",felicidad
+"['@meaindia:', 'virtually', 'every', 'statement', 'countries', '#un', 'referred', '#terror', 'main', 'threat', 'peace,', '#pak', 'still', 'denial.']",miedo
+"['@laratheirish', '&lt;', 'feel', 'everything.', 'would', 'remember', 'everything.', 'evanora', 'hoped', 'would', 'serve', 'fuel', 'creatures', 'anger', 'run', 'rabid', '&gt;']",ira
+"['@samkingftw', 'ew', 'omg', 'grim']",tristeza
+"['still', 'waiting', 'see', '@london2012track', 'make', 'appearance', 'next', 'week', 'two', 'months', 'today', 'ordered', '#shocking', '#badservice']",miedo
+"['@winksahoy', 'get', 'shit', 'wrath', 'winter', 'nowhere']",ira
+"['@gagasklaine', 'old', 'sadly']",tristeza
+"['know,', ""i'm"", '30', 'days', 'away', 'leaving', 'country.']",felicidad
+"['icon', 'pochama.\\nhe', 'cute', 'easily', 'elated.']",felicidad
+"['@drsrsheikh:', 'asked', 'gate', 'crash', 'dumb', 'idiosyncrasies', 'sober', 'people', 'analyzing', 'situation!\\n@banobee', '@ak_forty7']",tristeza
+"['@eachus', 'least', ""he's"", 'willing', 'discuss,', 'better', 'most.', 'keep', 'insults', 'light', 'occasional', 'levity', 'creative', 'bs-ing,']",felicidad
+"['blame', 'jose', 'ere', 'would', 'give', 'rojo', 'another', 'start', 'sunday', 'fucking', 'disaster', 'waiting', 'happen', '&amp;', 'shocking', 'header']",miedo
+"['watch', 'amazing', 'live.ly', 'broadcast', '@footballrocks123456', '#musically']",felicidad
+"['false', 'alarm,', 'coming', 'today']",miedo
+"['@jaybusbee', 'well,', 'archie.', 'offense', ""he's"", 'kinda', 'old.']",ira
+"['@justpyronow', 'gonna', 'kind', 'community', 'raids', 'wrath', 'machine', 'drops?']",ira
+"['@a_mxe7', 'hah', 'speak', 'cousin', 'like', 'that,', 'mind', 'displeasure', 'seeing', 'bare', 'faced', 'eh', 'train,', 'pretty', 'sight', 'mate']",ira
+"['got', 'diagnosed', 'severe-extreme', 'depression', 'know', 'difference', 'two', 'lol']",tristeza
+"['@duncm1981', '@pmallon72', 'risk', 'blocked', 'thought', 'video', 'wake', 'hilarious.']",felicidad
+"['&gt;.&lt;', 'much', 'clutter', 'brain', 'recent', 'little', 'changes', 'yet', 'processed...', '#dying', '#panic', '#ivebeenbusierwhyamioverwhelmed', ':(']",miedo
+"['@clairepilkingt2', 'oh', 'god', ""that's"", 'awful', 'mine', 'last', 'long', 'thank', 'god.', 'thank', 'you\\n', 'xx']",miedo
+"['#ntfc', 'mourinho', 'worried,', 'bringing', 'ibra', 'rushford', 'on.']",miedo
+"[""ex's"", 'number', 'time', 'prank', 'him.', '#revenge', '#prank', '#whatprankishoulddo', 'seriously', 'prank']",ira
+"['@paulkrugman', 'relentless', 'echo', 'chamber', 'negative', 'comments', 'lots', 'reverb.', 'typical', 'bully', 'behavior.']",ira
+"['@allegedlowbrow', ""'eye-for-eye'."", 'indian', 'army', 'never', 'forgives,', 'never', 'forgets.', 'always', 'take', 'revenge,', 'pakistan', 'breaks', 'laws,', 'i.a', 'follows']",ira
+"['ya', 'boy', 'gets', 'mad', 'tired', 'pine', 'trees']",tristeza
+"['@naziamemon01', 'yeah', 'terror', 'packed', 'terror', 'supported', 'speech..']",miedo
+"['@mr_haaaan', 'wow', 'inadvertently', 'horrible', 'puns', 'definitely', 'thing']",miedo
+"['simply', 'act', 'kindness,', 'strength,', 'optimism,', 'today', 'best', 'day', 'ever!', '@tarleton_kine', '@drkaylapeak', '@jssimpson9']",felicidad
+"['@emotionallimine', 'sadly', 'mistaken', 'think', ""i'd"", 'make', 'tweet', 'isolated', 'comment', 'random', 'twitter', 'user.']",tristeza
+"['likes', '#werewolves', '#horror', '#surfing?', 'breaker', '@readstela', 'more.']",miedo
+"['@onyxflare25', 'chuckles,', 'shaking', 'head.', ""'no...i"", 'really', 'vivid', 'imagination,', 'guess.', 'happens', 'meet', 'someone&gt;']",miedo
+"['@el_enfoque_', 'although', 'thinking', 'better,', 'bank', 'cipaya', 'lives', 'ranting', 'country', 'goal', 'leave,', 'want', 'far', 'away.']",ira
+"['would', 'stay', 'venezuela', 'gibraltar', 'macedonia,', 'honestly.']",felicidad
+"['forever', 'angry', 'gh', 'ruined', 'molly', ""morgan's"", 'bond/friendship', '#bitter']",ira
+"['@kencurtin', 'might', 'get', 'donal', 'óg', 'sure!', 'cork', ""he's"", 'fiery', 'dopey', 'frank', '&amp;', 'cult']",ira
+"['belittling', 'kitty', 'straight', 'service?', 'provoke', 'lift', 'aboard!:', 'wycelv']",ira
+"['today', 'ever', 'want', 'leave', 'country,', 'hope', 'finish', 'soon', 'race', 'leave', 'venezuela', 'pity', 'even', 'corrupt', 'people', 'pass', 'us.']",tristeza
+"['@writerlytweets', 'supine', 'piano—lips', 'parted.', '#sixwordstory', '#amwriting', '#blues', '#singer']",tristeza
+"['worst', 'juror', 'ever?', 'michelle.', ""nicole's"", 'biggest', 'threat.', '#bitter', '#bb18']",ira
+"['realizing', 'holding', 'grudge', 'long', 'immaturity', 'wisdom']",ira
+"['.@divamagazine', 'straight', 'people.', 'even', 'arse', 'straight', 'guys', 'think', 'means', 'threesome', 'fine.', '#angry', '#fuming']",ira
+"['@keprdad', 'btw,', 'george', 'bush', 'left', 'office', ',09.', 'terrific', 'leadership', 'barack', 'obama.', 'keep', 'america', 'great.']",miedo
+"['hear', 'bells.', 'pm.', 'freeze', 'watch', 'plane', 'take', 'leave.', 'lights', 'airport', 'go', 'out,', 'last', 'flight', 'country.', 'last', 'chance.']",tristeza
+"['@p4pictures', 'would', 'great', 'card', 'crashes', '😱.', 'happened', 'twice']",miedo
+"['leaving', 'country', 'solution,', 'staying', 'trying', 'change', 'something', 'solution.']",felicidad
+"['@ashish_geol', '@getpakistantv', '@hamidmirgeo', '..', 'give', 'thought', 'khalistaan?', '\\nno', 'concern', 'baluchistan', '!!', 'kashmir', 'issue.']",miedo
+"['currently', 'listening', '@scottfoxonair', '&amp;', '@katcallaghan', '@z1035toronto', 'podcasts!!', 'guys', 'please', 'move', '#yvr', '#missyou']",felicidad
+"['corbyn', 'loses', 'walk', 'crying', 'corbyn', 'supporter', ""whisper\\n\\n'don't"", 'mourn.', ""organise'\\n\\nand"", 'laugh', 'laugh']",tristeza
+"['interview', 'preparation,', 'hate', 'talking', 'myself,', 'one', 'dull', 'subject', 'matter!', '#yawnoff']",tristeza
+"['@brian5or6', 'turn', 'shit', 'off!', 'home', 'button', 'accessibility.', '\\n\\nwhen', 'innovation', 'become', 'mind', 'fuckery?', '#iphonephonehome']",ira
+"['apparently', ""he's"", 'supposed', 'scottish', 'accent???', ""i'm"", '#offended']",ira
+"['@notquitefrodo', '@dominictarason', 'remember', 'tas', 'gamedev', 'program', 'said', 'temper', 'tantrums', 'class', 'time', 'lol']",ira
+"['@vanessakaiser22', 'feel', 'sorry', 'pets,', 'would', 'go', 'family', 'basket', 'basic', 'input,', 'venezuela', 'eating', 'shit', 'young', 'leaders', 'want', 'spoonful.']",tristeza
+"['@vodafoneukhelp', '@vodafoneuk', 'wow!!', 'bill', '£44.77', 'hav', 'text', 'prove', 'taken', '£148!!!!!', '#swines', '#fuming', '#con!']",ira
+"['sickness', 'bug!']",miedo
+"['@misslindzo', 'no.', 'last', 'two', 'out-bidded.', 'got', 'kinda', 'discouraged', 'taking', 'sweet', 'time.', 'market', 'stupid', 'tho']",miedo
+"['lost', 'wallet', 'lol....', 'again....']",tristeza
+"['country', 'give', 'more,', 'deserve', 'live', 'misery', 'choose', 'ridiculous', 'fanaticism', 'steals', 'nose', 'objectively...', 'definitely', 'leaving', 'country', 'best...']",tristeza
+"['@megannn_walsh12', '@itsshelleeey', 'never', 'said', 'that,just', 'fair', 'yous', 'think', 'completely', 'okay', 'bully', 'someone']",miedo
+"['@patblanchfield', 'mean', '“like', 'uber', 'despair', 'someone', ""driver'""]",miedo
+"['today', 'reached', '1000', 'subscribers', 'yt!!', '#goodday,', '#thankful']",felicidad
+"['@corruptmelon', 'im', 'feeling']",miedo
+"['hate', 'bakewell', 'tart', 'anything', 'tastes', 'almond', 'essence', 'horrid!', '#gbbo']",miedo
+"['want', 'read', 'want', 'shoot', 'one', 'person', 'knee.', 'typical', 'venezuelan', 'cavernicola', ""can't"", 'leave', 'country', 'grabbing', 'rest', 'xd']",ira
+"[""'failure"", 'delivery', ""time',"", 'customer', 'pay', '16k', 'rupees', 'more!', 'good', '@tiagotatamotors', '@tatamotors', '#unhappy']",tristeza
+"['monday', 'face', 'would', 'punch', '#monday', '#horrible', '#face', '#punch', '#fight', '#joke', '#like', '#firstworldproblems', '#need', '#coffee', '#asap', '#follow']",miedo
+"['good', 'morning!!!\\n\\n', '#leadership', '#healthcareit', '#socialmedia', '#connector', '#ceo', '#writer', '#ai', '#eq', '#security', '#bigdata', '#growthhacking', '#tech']",miedo
+"['however', 'agent', 'inauthentic,', 'sister', 'still', 'loves', 'me,', '&amp;', ""i'm"", 'still', 'alive.', 'guess', 'bad.', '#socialanxiety', '#anxiety']",miedo
+"['people', 'irritate', 'mf', 'soul']",ira
+"['@the_boxing_hub', '#klitschko', '@klitschko', 'fury', 'day', '#boxing']",ira
+"['venezuela', 'needs', 'work,', 'follow', 'path', 'cuba,', 'clear,', 'want', 'another', 'communist', 'destroy', 'future', 'young', 'people.']",tristeza
+"['want', 'pity', 'instructors', ""i'd"", 'like', 'understanding.', ""i'm"", 'truly', 'trying', 'despite', 'circumstances', 'make', 'discouraged']",tristeza
+"['@norn_ironmaiden', '@forest_fr1ends', 'hilarious']",felicidad
+"['@jccrocker', '#charlotteprotest', '#wait', 'facts', '#video', '#hate', 'ask', 'questions', 'later', '#sad', '#protest', '#policeshootings', '#suggestions']",tristeza
+"['@educatednpetty', 'white', 'pricks', 'laughing', 'use', 'language', 'crying', 'coffin', 'rejoicing', 'another']",felicidad
+"[""can't"", 'believe', ""they're"", 'messing', 'favourite', 'bakes', 'feel', 'personally', 'offended']",ira
+"['people', 'angry', 'toward', 'veggie', 'burgers', 'wtf']",ira
+"['@kennycoble', '@rosie', 'horrific', 'situations', 'get', 'worse', 'trump', 'elected.', 'vote', 'hillary.']",miedo
+"['watch', 'amazing', 'live.ly', 'broadcast', '@arbitraryvlog', '#lively', '#musically']",felicidad
+"['@klipto', 'orange', 'one', '#poisonous', '#bitter.', 'judge', '#blue', 'one', 'looks', 'tastes,', '#delicious.']",ira
+"['replied', 'comments', 'times', ""i'm"", 'shaking', 'omg']",miedo
+"['catering', ""channel's"", 'height', 'technics', 'hearty', 'enjoyment', 'symptomatize:', 'vrlfeyrn']",felicidad
+"['inner', 'conflict', 'happens', 'odds', 'ourselves.', 'honor', 'values', 'priorities.', '#anger', '#innerconflict', '#conflict', '#values']",ira
+"['@hm_custserv', '#awful', 'service', 'camden', 'store', 'yesterday.', 'assistants', 'thought', 'important', 'put', 'clothes', 'hangers', 'serve.']",miedo
+"['@globechadfinn', 'sadly,', 'enough', 'names.', 'whole', 'farewell', 'tour', 'situation', 'would', 'make', 'shy', 'away', 'good', 'value', 'et.']",miedo
+"['@veggiesausage', 'happens...u', 'ok', 'tomorrow', 'cheer', ""up..don't"", 'give', 'no😝😝😝']",felicidad
+"['@panicatthedisco', 'hey,', ""y'all"", 'announced', 'like', 'immediately', 'asked.', 'nice.', 'thanks', ""y'all""]",miedo
+"['new', 'play', 'tonight!', 'pretty', 'much', 'blind', 'run.', 'played', 'game', 'maybe', 'got', 'levels', 'it.', '#rage', '#horror']",miedo
+"['chill', 'af', 'want', 'offend', 'someone.']",ira
+"['@88palouseriver', '@abc', '@nra', 'rejoice', 'everything', 'time', 'moron', 'taken', 'genetics', 'pool.']",felicidad
+"['@novive_socialis', 'matter', 'quality', 'medicine', 'foreigners,', 'far', ""venezuela's"", 'health', 'care', 'system']",miedo
+"['biggest', 'thrill', 'leaving', 'much', 'chance', 'see', 'idols', 'sure', 'make']",felicidad
+"['#terrorstatepak', 'confirm', '#navazsharif', 'post', 'graduate', 'distinction', 'student', 'university', '#terrorism.', ""can't"", 'spare', 'himself.']",miedo
+"['niggas', 'murking', 'other.', 'murky', 'water,', 'try', 'swim.']",tristeza
+"['congress', 'acting', 'indignant', '#epipen', 'pricing', 'quite', 'disingenuous', 'since', 'craft', 'laws', 'allow', 'gouging!!']",ira
+"['@doubtcaspar', 'babe', ':((', 'remember', ""i'm"", 'always', 'need', 'little', 'cheering', 'talk,', 'ily', 'lots💘']",felicidad
+"['@jaymohr37', 'droop', 'saw', 'naked', 'wrestling', 'asked', ""'what"", 'get', 'hole', ""one?'"", '#jaymohrsports']",tristeza
+"['really', 'hate', 'mel', 'sue.', 'think', ""they're"", 'hilarious', ""they're"", 'awful']",miedo
+"['@roguecoder250', 'much', 'trouble!!', 'think', 'rev', 'see', 'funny', 'side', 'project.', '#nervous']",miedo
+"['trumpism', 'likewise', 'rests', 'bed', 'racial', 'resentment', 'made', 'knowingly', 'intentionally,', 'long', 'trump', 'got', 'politics.']",ira
+"['add', 'donte', 'moncrief', 'dismal', 'situation', '#blessed.']",tristeza
+"['recommended', 'reading:', 'prisoners', 'hate', 'aaron', 'beck']",ira
+"['brad', 'pitt', 'investigated', 'child', 'abuse?!', 'got', 'really', '#dark']",tristeza
+"['punchline', 'king', 'back!', '@paedeezy', '🔥🔥🔥🔥🔥🔥🔥💯💯💯', '#bright', 'city', 'lights']",felicidad
+"['@mik61scot', '@longshankseddie', '@rosazambonini', '@youtube', 'thought', 'sunk', 'teeth', 'something', ""that's"", 'meant', '2b', 'sooked']",tristeza
+"['hahahaha', 'yes,', 'chance', 'job.', 'already', 'looking', 'dates', 'go.', 'time', 'come', 'bro,', 'patience']",felicidad
+"['man', 'know', 'juggle,', 'balls', 'it.\\n', '#funny', '#pun', '#lol', '#punny']",felicidad
+"['red', 'card', 'gordon', 'there?', 'ref', 'must', 'celtic', 'fan', 'shocking', 'challenge.']",miedo
+"['@bertgatti', 'much', 'cheer', 'see', '😜😂😂']",felicidad
+"['@sszmata', '@pkessel81', 'blew', 'internet', 'chirp.', 'lol.', 'love', 'it.']",felicidad
+"['@shahid3011', 'tweet', 'shit', 'like', 'this!', ""it'll"", 'come', 'back', 'haunt', 'like', 'ones', '😭😂']",miedo
+"['tasers', 'immobilize,', 'taser', 'someone', 'fuck', 'need', 'shoot', 'one', 'second', 'later?!', 'really', 'sick!', '#wtf', '#murder']",ira
+"['@lorialan1', 'seriously.', 'digging', 'eyebrows.']",felicidad
+"['🔥anger', 'acid', 'harm', 'vessel', 'stored', 'anything', 'poured.🔥', '#anger', '\\n\\n~mark', 'twain']",ira
+"['find', 'sad', 'going', 'demonstrate', 'country', 'means', 'die.']",felicidad
+"['seeing', '#ripshawtylo', 'got', 'thinking', 'bout', 'rappers', 'thought', '@liltunechi', 'dying,', 'burst', 'tears...', 'smh']",ira
+"['find', 'lost,', 'stay', 'passerby', 'get', 'lost', 'me?', '#musings', '#melancholy']",tristeza
+"['well', 'hear', 'girls', 'attracted', 'men', 'look', 'like', 'dad!']",tristeza
+"['grim', 'despair', 'feeling-i', 'look', 'self', 'family.', 'hubby', 'fought', '20+', 'years', 'country.', ""i've"", 'worked', '20+', 'years', 'govt--&gt;']",miedo
+"['watch', 'amazing', 'live.ly', 'broadcast', '@thebrandonrobert', '#musically']",felicidad
+"['old', 'person', ""can't"", 'handle', 'stuff....lol', 'left', 'there....', 'get', 'back', 'sober']",tristeza
+"['@reporteya', '@fundacionazul', ""let's"", 'check', 'fresh', 'water', 'reservoirs', 'venezuela', '(lake', 'valencia,', 'reservoirs', 'dams)', 'quality', 'water', 'venezuelans', 'consume?']",miedo
+"['cheerful', 'heart', 'unending', 'banquet.-\xa0proverbs', '(mishle)', '15:16']",felicidad
+"['chris', 'ate', 'mac', 'cheese', 'imma', 'eat', 'taffy']",ira
+"['@katzeanilothei', 'amount', 'greedy', 'mooching', 'makes', 'snarl.']",ira
+"['young', 'people,', 'anyone', 'else,', 'given', 'fish,', 'taught', 'fish.', 'chavez', 'began', 'giving', 'bonuses', 'bonitos.', 'look', 'venezuela', 'is...destroyed...no', 'wonder', 'everyone', 'leaving.....']",tristeza
+"['natalie', 'one', 'top', 'three', 'favorites?!', '#toofaced', '#bitter']",ira
+['go'],miedo
+"['fingers', 'slide', 'along', 'thighs,', 'caressing', 'skin', 'leaning', 'down,', 'down,', 'first', 'lick', 'teasing', 'playful.']",felicidad
+"['meant', 'be!!']",felicidad
+"['@doctorofinfo', 'introducing', 'little', 'levity', 'convo.', 'yep!']",felicidad
+"['view', 'human', 'dynamic', 'expression', 'cosmos', 'exist', 'within', '#humanism']",miedo
+"['@tomstarling86', 'many', 'chances', 'show', 'looked', 'lively', 'good', 'shot', 'tipped', 'bar', 'end.']",felicidad
+"['@jaime_scurr:', 'team', 'world', 'would', 'totally', 'elated', 'get', 'xd']",felicidad
+"['want', 'slide', 'dms', 'im', 'fucking', 'shy']",miedo
+"[""we're"", 'busy', '#coding', 'whole', 'network', 'manager', '#unity3d', 'based', '#steamworks', 'networking.', '#gamedev', '#indiedev', '#3amdeadtime', '#horror', '#game']",miedo
+"['remember', 'guy', 'got', '#angry', 'kept', 'saying', 'gary', 'sanchez', 'best', 'baseball', 'player', 'world...', 'lmao']",ira
+"['jesus', 'wept!', 'another', 'rns', '#rusty', '@metaltigerplc', 'quote', ""'price"", 'sensitive', 'news,', 'price', 'sensitive', ""news'"", 'etc', 'etc', '#ramping', '#shocking']",miedo
+"['@jennylhowe', 'angry', 'student', 'racist,', 'teacher', 'stopping', 'it,', 'class', 'letting', 'go', 'by.']",ira
+"['need', 'serious', 'nap', 'rn']",tristeza
+"['@discordiankitty', 'charisma?', 'guess,', 'like', 'people', 'looked', 'coked', 'speak', ""they're"", 'school', 'bully?']",miedo
+"['@imjim_yourenot', 'cyber', 'bully']",miedo
+"['watch', 'amazing', 'live.ly', 'broadcast', '@iamjustinburke', '#musically']",felicidad
+"['@markhberman2003', '@lancezierlein', '@790blessing', 'entire', 'team', 'coaches', 'played', 'coached', 'scared', 'jumpstreet.', '#intimidated']",miedo
+"['every', 'time', 'new', 'anthony', 'weiner', 'revelation', 'breaks,', 'bill', 'clinton', 'says', 'prayer', 'thanks', 'texting/dming', 'exist', 'heyday.']",felicidad
+"['@twlldun', '@bbcquestiontime', '@jacobreesmogg', '@leicesterliz', '@normanlamb', '@carolinelucas', '@juliahb1', 'oh', 'god,', 'brewer', 'again.', 'horror,', 'horror']",miedo
+"['cheap', 'pout', 'brodcast']",tristeza
+"['@1nataliemaines', 'imagine', 'person', 'spray', 'tan', 'him?']",miedo
+"['gaaaaaaaad!', 'stayed', 'london!']",tristeza
+"['momma', 'irritate', 'asking', 'questions', 'like', 'gone']",ira
+"['zero', 'help', '@ups', 'customer', 'service.', 'pushing', 'buck', 'back', 'forth', 'promising', 'callbacks', 'don’t', 'happen.', '#loathing']",ira
+"['@adamcimmering', 'boro', 'os', 'then,', 'could', 'give', 'stewards', 'good', 'work', 'out.', 'chelsea', 'get', '8k,', 'lively.']",felicidad
+"['finally', 'raining', 'ashland,', 'oregon.', ""we've"", 'parched', 'summer', '&amp;', 'fall.', 'plants', '&amp;', 'people', 'rejoicing!']",felicidad
+"['1975', 'playing', 'antichrist', '@sundarakarma', 'play', 'hustle', 'outrage']",ira
+"['@alyssasimpson21', 'gave', 'kendrick', 'lamar', 'eat', 'barbecue', 'him.', '#bitter']",ira
+"['@rsdeepsea', '@breitbartnews', 'people', 'country', '300', 'million', 'going', 'ruin', 'whole', 'country', 'people?', '#fear']",miedo
+"['cause', 'fail', 'pass', 'refuse', 'sober']",tristeza
+"['@littlebonnie86', 'insecurity', 'fear.', 'siesta,', 'kiss', 'possibility', 'leaving', 'house.']",tristeza
+"['bubble', 'officially', 'burst.', '98', 'boys', 'beat', 'trophy', 'glory', '#wptmain', '#bye']",ira
+"['forgot', 'plug', 'phone', 'overnight', '#nightmare']",miedo
+"['hate', 'ideas', 'afraid', 'share']",miedo
+"['never', 'switched', 'up,', 'stayed', 'person', 'since', 'day', 'one.']",tristeza
+"['anybody', 'know', 'watch', 'penny', 'dreadful?', '☹️️']",tristeza
+"['wish', 'easy', 'leave', 'country.']",felicidad
+"['@nunezprado', 'hope', 'continue', 'take', 'care', 'get', 'once,', 'country', 'needs', 'it.']",felicidad
+"['@alivitali', ""that's"", ""i'm"", 'afraid', 'of!']",miedo
+"['many', 'gloomy', 'days']",tristeza
+"['@wsjnordics', 'make', 'world', 'joyful', 'place.', '#thenicebot']",felicidad
+"['hate', 'gloomy', 'outside', 'always', 'gets', 'depressing', 'mood']",tristeza
+"['beats', 'accurately', 'all-powerful', 'respect', 'high-quality', 'high-frequency', 'speaker', 'extra', 'desolate', 'relating', 'fire-ea:…']",tristeza
+"['@sarah_urbina', 'even', 'beef', 'sara', 'let', 'anger', 'get', 'best', 'you,', 'sagin', 'friends', 'long?']",ira
+"['“be', '#positive,', '#cheerful,', '#grateful', 'expectant.”', '@nightingaleearl', '#success', '#leadership']",felicidad
+"['@theflabar', '#foggy', '#dark', 'morning', '#filter', 'time.', '#lighting', 'purposes.', ':)']",tristeza
+"['sulk', 'much', 'good.']",tristeza
+"['really', 'alarming', 'adult', 'male', 'calls', 'father', ""'daddy'""]",miedo
+"['@lonelygoomba', 'bring', 'you.', 'touchy', 'subject.', 'people', 'get', 'way', 'offended', 'days']",ira
+"['guy', 'comes', 'train', 'smells', 'like', 'mixture', 'damp', 'dog,', 'old', 'sweat', 'sewage', 'works!!!!', '#gross', '#getoffthetrain', '#smelly']",miedo
+"['excellent', 'young', 'leaders', 'well', 'prepared', 'staying.', 'venezuela', 'deserves', 'radical', 'change', 'new', 'faces.']",miedo
