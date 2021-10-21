@@ -2,50 +2,36 @@ from tweets_management import tweets_management
 from tweets_ngrams import tweets_ngrams
 from tweets_classification import tweets_classification
 
-# Todos los Usuarios entre 19 y 38 años
-# users_19_38_all = ['raleonc71','RiccardoLobo','AndresFGuevaraB','clavelrangel','ramses_siverio','ricardolodice','kevinaviladdhh','jhoalys','gabosantana35','orianafaoro','TatoCelis','salvabenasayag','JesusMolinaCs','bpulidom','gzuzkstro','Rogerlruizh9','paola_morales14','Arthur_Canga','YoSoyMarlys','vicman_ve','anthxnyb_','Isaacsb2000','nisequiensoypue','Demenciand0']
+sentimiento_folder = 'sentimiento'
+opinion_folder = 'opinion'
+mensajes_folder = 'mensajes'
 
-# Usuarios entre 19 y 38 años cuyos tweets todavia no estan traducidos 
-# users_38_19_missing = ['orianafaoro','TatoCelis','salvabenasayag','gzuzkstro','paola_morales14','YoSoyMarlys','vicman_ve','anthxnyb_','Isaacsb2000','nisequiensoypue']
+sentimiento = tweets_management(sentimiento_folder)
+sentimiento.cleaning()
 
-# Usuarios entre 19 y 38 años cuyos tweets ya están traducidos
-users_38_19_translated = ['AndresFGuevaraB','Arthur_Canga','bpulidom','clavelrangel','gabosantana35','jhoalys','kevinaviladdhh','raleonc71','ricardolodice','Rogerlruizh9']
+opinion = tweets_management(opinion_folder)
+opinion.cleaning()
 
-# lista de prueba
-# list=['Rogerlruizh9']
+sorter_sentimiento = tweets_classification(sentimiento_folder)
+sorter_sentimiento.training(0.1,0.9)
+sorter_sentimiento.test_Naive_Bayes()
+sorter_sentimiento.test_SVM()
+sorter_sentimiento.test_Decision_Tree()
+sorter_sentimiento.test_Max_Entropy()
+sorter_sentimiento.test_batch()
 
-# Variables para identificar a que carpetas seran guardadas
-individual_folders = 'users'
-batch_folder = 'batch'
+sorter_opinion = tweets_classification(opinion_folder)
+sorter_opinion.training(0.1,0.9)
+sorter_opinion.test_Naive_Bayes()
+sorter_opinion.test_SVM()
+sorter_opinion.test_Decision_Tree()
+sorter_opinion.test_Max_Entropy()
+sorter_opinion.test_batch()
 
-for user in users_38_19_translated:
-    
-    user_twitter = tweets_management(user,individual_folders)
-    # user_twitter.scraping(1000)
-    # user_twitter.cleaning()
-    # user_twitter.sentiment_analysis()
-    # user_twitter.clean_sentiments()
+n_grams_sentimiento = tweets_ngrams(sentimiento_folder)
+n_grams_sentimiento.monogramming()
+n_grams_sentimiento.ngraming()
 
-    sorter = tweets_classification(user,individual_folders)
-    # sorter.training(0.25)
-    # sorter.test_Naive_Bayes()
-    # sorter.test_SVM()
-    # sorter.test_Decision_Forest()
-    # sorter.test_Max_Entropy()
-    
-    sorter_batch = tweets_classification(user,batch_folder)
-    # sorter_batch.load()
-        
-    user_tweets_ngrams = tweets_ngrams(user,individual_folders)
-    # user_tweets_ngrams.monogramming()
-    # user_tweets_ngrams.ngraming()
-
-user_tweets_ngrams = tweets_ngrams('',batch_folder)
-# user_tweets_ngrams.ngraming_in_one_file(users_19_38_all)
-
-sorter = tweets_classification('',batch_folder)
-# sorter.training(0.25)
-# sorter.test_Naive_Bayes()
-# sorter.test_SVM()
-# sorter.test_Decision_Forest()
-# sorter.test_Max_Entropy()
+n_grams_opinion = tweets_ngrams(opinion_folder)
+n_grams_opinion.monogramming()
+n_grams_opinion.ngraming()
