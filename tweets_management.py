@@ -37,7 +37,7 @@ def clean_tokenized(texto):
     # Se convierte todo el texto a minúsculas
     if(texto == None):
         texto = ''
-    
+
     nuevo_texto = texto.lower()
 
     # Eliminación de páginas web 
@@ -69,23 +69,25 @@ def remove_stopwords(word_list, language):
             final_words.append(token)
     return str(final_words)
 class tweets_management():
-    
+    """."""
     def __init__(self,type):
         self.folder = type
 
     def scraping(self,amount):
+        """."""
         scrape_info(amount,self.folder)
-        
+        self.cleaning()
+
     def cleaning(self):
-        
+        """."""
         df = pd.read_csv("{}//Raw_Tweets.csv".format(self.folder), encoding = 'unicode_escape')
-        
+
         df['tweet_tokenized'] = df['tweet'].apply(lambda x: clean_tokenized(x))
-        
+
         df['tweet_tokenized'] = df['tweet_tokenized'].apply(lambda x: remove_stopwords(x,"spanish"))
-        
+
         df['tweet_tokenized_translated'] = df['tweet_translated'].apply(lambda x: clean_tokenized(x))
-        
+
         df['tweet_tokenized_translated'] = df['tweet_tokenized_translated'].apply(lambda x: remove_stopwords(x,"english"))
-        
+
         df.to_csv('{}//Processed_Tweets.csv'.format(self.folder), columns=['tweet','tweet_tokenized','tweet_translated','tweet_tokenized_translated',self.folder],index=False)
