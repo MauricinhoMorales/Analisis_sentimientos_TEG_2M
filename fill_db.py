@@ -16,10 +16,11 @@ PARAM_DIC = {
 }
 
 #Import .csv files
-DF_PROCESSED_TWEETS_TEST = pd.read_csv('batch/Processed_Tweets_Test.csv')
+DF_PROCESSED_TWEETS_TEST = pd.read_csv('batch/Processed_Tweets_Test_v2.csv')
 DF_PROCESSED_TWEETS_TEST = DF_PROCESSED_TWEETS_TEST.rename(columns={
     "date": "tweet_date",
     "tweet": "tweet",
+    "username":"tweet_username",
     "tweet_translated": "tweet_translated",
     "tweet_tokenized": "tweet_tokenized",
     "tweet_translated_tokenized": "tweet_translated_tokenized"
@@ -111,11 +112,16 @@ def fill_table_tweets_model_opinion():
             dataframe=DF_PROCESSED_TWEETS_OPINION,
             table='tweets_model_opinion')
 
-def fill_table_tweets_model_test():
+def fill_table_tweets_model_test(dataframe_to_fill: DataFrame=None):
     """."""
     empty_table(connection=CONN, table='tweets_test')
-    execute_values(connection=CONN,
+    if dataframe_to_fill is None:
+        execute_values(connection=CONN,
             dataframe=DF_PROCESSED_TWEETS_TEST,
+            table='tweets_test')
+    else:
+        execute_values(connection=CONN,
+            dataframe=dataframe_to_fill,
             table='tweets_test')
 
 def db_table_to_dataframe(table):

@@ -33,14 +33,11 @@ def bigram_trigram(folder):
 # Clase que se encarga de la recopilación de los conjuntos de monogramas, bigramas y trigramas provenientes del corpus
 class tweets_ngrams():
     def __init__(self,type):
-        
+        """."""
         self.folder = type
-    
     def monogramming(self):
-        
+        """."""
         monogram(self.folder)
-    
     def ngraming(self):
-
+        """."""
         bigram_trigram(self.folder)
-    

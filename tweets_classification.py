@@ -81,17 +81,21 @@ class tweets_classification():
         self.training_labels = pd.DataFrame()
         self.encoder = LabelEncoder()
         self.tfidf_vect  = TfidfVectorizer()
+        if 'tweet_sentiment' in df_from_db.columns:
+            self.df_from_db = self.df_from_db.rename(columns={'tweet_sentiment': 'sentimiento'})
+        elif 'tweet_opinion' in df_from_db.columns:
+            self.df_from_db = self.df_from_db.rename(columns={'tweet_opinion': 'opinion'})
 
     # Función encargada de la preparación de los datos para la etapa de entrenamiento de los modelos
     def training(self, test_size, train_size):
         """."""
         # Lectura del archivo donde se encuentran los datos de entrenamiento y pruebas ya procesados
-        Corpus= pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
-        # Corpus= self.df_from_db
+        # Corpus= pd.read_csv("{}//Processed_Tweets.csv".format(self.folder))
+        Corpus= self.df_from_db
 
         # Se ejecuta la división de la data de entrenamiento y de prueba (X representa los textos procesados, Y representa las ctageorías)
         Train_X, Test_X, Train_Y, Test_Y = model_selection.train_test_split(
-            Corpus['tweet_tokenized_translated'], Corpus[self.folder],
+            Corpus['tweet_translated_tokenized'], Corpus[self.folder],
             test_size=test_size,train_size=train_size,shuffle=True,stratify=Corpus[self.folder],random_state=2)
 
         # Función para crear el archivo donde se almacenarán las predicciones realizadas
@@ -103,7 +107,7 @@ class tweets_classification():
 
         # Se crea un diccionario para asignar un valor numérico único a cada palabra de los textos procesados
         # Tfidf_vect = TfidfVectorizer()
-        self.tfidf_vect.fit(Corpus['tweet_tokenized_translated'])
+        self.tfidf_vect.fit(Corpus['tweet_translated_tokenized'])
 
         # Se utiliza el diccionario para transformar todos los textos a sus equivalentes valores numéricos
         self.training_messages = self.tfidf_vect.transform(Train_X)
@@ -217,7 +221,7 @@ class tweets_classification():
         # Función utilizada para almacenar la distribución de probabilidades de las predicciones realizadas
         update_predictions_prob(self.folder,predictions_MaxEnt_prob,'MaxEnt')
 
-    def test_batch(self):
+    def test_batch(self,df_to_test,category):
         """."""
         # Inicialización del algoritmo de Máquinas de Soporte Vectorial
         SVM = svm.SVC(C=1.0, kernel='linear', degree=3, gamma='auto',probability=True)
@@ -226,10 +230,11 @@ class tweets_classification():
         SVM.fit(self.training_messages,self.training_labels)
 
         # Lectura de los datos de prueba
-        Corpus= pd.read_csv("{}//Test_Tweets.csv".format(self.folder), encoding = 'unicode_escape')
+        # Corpus= pd.read_csv("{}//Test_Tweets.csv".format(self.folder), encoding = 'unicode_escape')
+        Corpus = df_to_test
 
         # Se codifican los mensajes de prueba
-        testing_messages = self.tfidf_vect.transform(Corpus['tweet_tokenized_translated'])
+        testing_messages = self.tfidf_vect.transform(Corpus['tweet_translated_tokenized'])
 
         # Se realiza la predicción de los textos de prueba utilizando el algoritmo entrenado
         predictions_SVM = SVM.predict(testing_messages)
@@ -239,7 +244,11 @@ class tweets_classification():
 
         # Se guarda en un dataframe los datos de prueba y la prediccion realizada
         dataFrame = Corpus
-        dataFrame['predicciones'] = predictions_SVM_labels
-
+        if category == 'sentimiento':
+            dataFrame['tweet_sentiment'] = predictions_SVM_labels
+        if category == 'opinion':
+            dataFrame['tweet_opinion'] = predictions_SVM_labels
+        # dataFrame['predicciones'] = predictions_SVM_labels
+        return dataFrame
         # Se guardan los datos del datafrme en un archivo .csv de resultados
-        dataFrame.to_csv("{}//Results_Tweets.csv".format(self.folder), index =  False)
+        # dataFrame.to_csv("{}//Results_Tweets.csv".format(self.folder), index =  False)

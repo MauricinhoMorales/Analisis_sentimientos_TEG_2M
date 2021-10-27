@@ -127,3 +127,6 @@ dmypy.json
 twint/
 py-googletrans/
 .vscode/
+batch/
+opinion/
+sentimiento/
