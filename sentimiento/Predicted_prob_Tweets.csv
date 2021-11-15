@@ -1,376 +1,376 @@
-tweet_tokenized_translated,sentimiento
-"['@telussupport', 'tips', 'wifi', 'terrible', 'past', 'week?', 'slow', 'dropping', 'continuously', 'nw', 'calgary']",miedo
-"['@justyne_haley', 'does.', 'one', 'person', 'ruins', 'season', '13', 'me,', 'angry']",ira
-"['@kingnicky7', 'also', 'madden', 'funniest', 'game', 'watch', 'much', 'happening', 'boring']",ira
-"['study', 'leave', 'country,', 'tickets', 'pay', 'themselves.']",felicidad
-"['hour', 'football', 'practice', 'boiling', 'sun', '2hr', 'volleyball', 'practice', 'boiling', 'sun']",ira
-"['@aqpk', 'worse', 'expected', 'hilarious', 'too.', 'one', 'even', 'remember.']",felicidad
-"['said', 'young', 'people', 'venezuela', 'got', 'really', 'bad', 'sides,', 'fucked', 'going', ""santintin's"", 'one', 'get', 'them.']",tristeza
-"['peak', 'like', 'going', 'ask', 'stay', 'legally,', 'go,', 'leave', 'country', 'love', 'world', 'wish', 'success.']",felicidad
-"['walk', 'darkness', 'despondency,', 'sc.verses', ""i've"", 'memorized', 'shine', 'light', 'heart.', 'ex:', 'lam', '3:22-25', '#despondency']",miedo
-"['lol!', 'mention', 'pak', 'pm', 'even', 'speech', 'international', 'news', 'channel', 'pakis', 'rejoicing', 'world', 'stands']",felicidad
-"['@cp24', 'hope', 'police', 'met', 'subway', 'took', 'straight', 'jail', '#awful']",miedo
-"['@hoemanda69', 'wtf', 'tenacious', 'jubilant']",felicidad
-"[""that's"", 'evening,', 'though!', 'way', 'lit', 'finish', 'properly', 'without', 'causing', 'serious', 'mischief.']",tristeza
-"['watching', '#bacheloretteau', 'zoolander', '#hilarious', '#samvrhys']",felicidad
-"['two', 'older', 'boys', 'elated,', 'toddler', 'terrified.', 'pics', 'poor', 'little', 'face', 'peeping', 'hole', 'basket.']",felicidad
-"['good', 'thing', 'sick', 'coughing', 'like', 'ab', 'workout.', 'maybe', 'abs', 'defined', 'time', ""i'm"", 'better', '😂😅']",felicidad
-"['contactless', 'affliction', 'kart', 'needs', 'must', 'regarding', 'psychological', 'moment!:', 'xbeujgb']",tristeza
-"['knowing', 'cook', 'invaluable,', ""what's"", 'even', 'better', 'even', '400', 'sq', 'ft', 'place,', 'wide', 'hearty', 'homestyle', 'egg', 'noodles.']",felicidad
-"[""there's"", 'always', 'one', 'song', 'makes', 'turn', 'radio,', 'rather', 'sit', 'silence']",miedo
-"['@xemitsellsmagic', 'add', 'tracking', 'resent']",ira
-"['@warmneutrals', ""'passenger"", 'car', 'next', 'cheerfully', 'asks', 'cigarette', ""directions'""]",felicidad
-"['person™', 'get', 'bitter', 'seeing', 'ravi', 'stans']",ira
-"['@kikibug13', 'look.', 'very,', 'unhappy.', '\\n\\n(nngh.', 'got', 'email', 'notif', 'thank', 'you.)']",tristeza
-"['america', 'openly', 'embracing', 'racism.']",miedo
-"['happened', 'breezy']",felicidad
-"['#internationaldayofpeace', 'want', 'peace,prepare', 'war.', 'destroy', 'terror', 'states', 'like', 'pakistan']",miedo
-"['breezy', 'today,', ""can't"", 'go', 'back', 'school', 'night', 'bare', 'legs', 'like', ""i've"", 'day']",felicidad
-"['@unloumas', 'lo', 'de', 'la', 'f1,', 'lo', 'de', 'venezuela', 'es', 'incalculable', 'xd', 'better', 'get', 'there.']",felicidad
-"['together', 'working', 'guarantee', 'security', 'protection', 'economic', 'rights', 'venezuelans', 'create', 'streets', 'force', 'future', 'generation', 'leave.']",felicidad
-"['dread', 'pitt']",miedo
-"['#weirdwednesday', 'okay!', 'jump-scared', '#poop', 'right', 'there.', 'bad', 'dog,', 'bad!', 'total', 'code-brown', 'favorite', 'pants.', '#damnit']",miedo
-"['objective', 'number', '1:', 'leave', 'country.']",felicidad
-"['@alicegoodman17', 'dunno,', ""i'm"", 'getting', 'less', 'spacious', 'lovely', 'autumnal', 'melancholy', 'present', 'apocalypse']",tristeza
-"['@boudicarides', '@realkingrobbo', 'exactly', 'do?', 'took', 'long?', '#afraid', '#clintonmafia', '#congress']",miedo
-"['start', ""convo...don't"", 'shy', 'away..mental', 'illness', 'abounds', 'society', 'including', 'workplace...be', 'informed...', '#tsdoffsite']",miedo
-"['venezuela', 'moving', 'forward', 'construction', 'comprehensive', 'public', 'health', 'system,', 'quality', 'highest', 'level', 'technological', 'development,', 'highlighted', 'president', '@nicolasmaduro.', 'young', 'people', 'seek', 'medical', 'services', 'abroad.']",felicidad
-"['heading', 'home', 'cut', 'grass', 'heat.', 'wanna', 'go', 'eat', 'somewhere', 'air', 'conditioned.', '#pout', '#adultingistheworst']",ira
-"['@grahnort', 'wonderful', 'experience', 'watching', 'yesterday', 'at.', '@bbcletitshine', 'thankyou', '#laughter']",felicidad
-"['watch', 'amazing', 'live.ly', 'broadcast', '@elise_awsome_11', '#lively', '#musically']",felicidad
-"['@flanneljedi', 'drink', 'watch', 'worst', 'way', 'cheer', 'up.']",felicidad
-"['@manunitedwriter', 'dreadful', 'first', 'half,', 'mention', 'rashford', ""would've"", 'got', 'end', 'couple', 'balls', '#pace']",miedo
-"['@gcc_discgolf', 'lost', 'xt', 'nova', 'around', 'hole', '#sadness']",tristeza
-"['@ynnsanity', 'maybe', ""that's"", 'why,', ""we're"", 'asked', 'study', 'hard', 'get', 'job', 'like.', 'way', 'dreadful.']",miedo
-"['@x_kimtaehyung_x', '\\n—', 'momentarily', 'disappeared,', 'solemnity', 'anxiety', 'lacing', 'features.', ""\\n\\n'i"", 'ran', 'get']",tristeza
-"['time', 'go', 'hit', 'library', 'lovely', 'pile', 'book', 'reservations', 'collect', 'morning...', '#books', '#reading']",felicidad
-"[""i'm"", 'block', 'everyone', 'everywhere', 'posting', 'storm.', 'think', 'everyone', 'aware', 'damn', 'rain', 'quit.', '#damn', '#rage']",ira
-"['let', 'general', 'tweet', 'offend', 'you,', 'definitely', 'twitter.']",ira
-"['viva', 'venezuela', 'young', 'people', 'good', 'projects', 'motivation', 'keep', 'going', 'forward', 'one', 'leave.']",miedo
-"['@residentadvisor', 'thanks', 'getting', 'back', 'me,', 'exemplary', 'customer', 'service', 'loyal', 'customer', '#jk', '#awful', '#residentadvisor', '#poorservice']",miedo
-"['@meghanemurphy', 'oh', 'gosh,', 'get', '800+', 'raging', 'comments', 'cruise', 'fans,', 'die', 'laughing!']",ira
-"[""can't"", 'believe', ""i've"", 'got', 'days', 'left', '#backtoreality', '#raging']",ira
-"['@fly_norwegian', 'quite', 'simply', '#worst', '#airline', '#worstairline', ""i've"", 'ever', 'used!', '#shocking', '#appauling', '#dire', '#dismal', '#beyondajoke', '#useless']",tristeza
-"['@juancavidal', 'god', 'guide', 'steps,', 'take', 'destiny', 'give', 'strength', 'intelligence', 'help', 'venezuela', 'horrible', 'quagmire.....', 'god', 'bless', 'icv!!!']",felicidad
-"['mor,', 'every', 'day', 'good', 'day,', 'today', 'preferred', 'stay', 'locked', 'house', 'go', 'center', 'possibility', 'buying', 'books.', 'understand', 'lack', 'live']",tristeza
-"['@yanguis_', 'want', 'leave', 'country', ""son's"", 'education.']",ira
-"['understand', 'everyone', '#angry', 'want', 'live', 'thrive', 'we?']",ira
-"['gentlemen', 'anti-imperialist?', 'clownish', 'people,', 'living', 'empire', 'venezuela', 'courage', 'leave.']",ira
-"['research', 'determined', '70%', '#laughter', 'actually']",miedo
-"['need', 'syfy', 'series', 'watch', 'literally', 'nothing', 'watch', 'back', 'back.', 'already', 'watched', '#heroes', '#lost', '#jericho', '#fallenskies', 'etc', 'etc']",tristeza
-"['sad', 'day...1st', 'day', 'fall...i', 'dislike', 'fall...i', 'love', 'summer', '#firstdayoffall', '#goodbyesummer', '#sadness', '#bathingsuitsforever']",tristeza
-"['day', 'elated', ""i'm"", 'taking', 'pto', 'tomorrow', ""i'm"", 'doneeeee.', 'but:']",felicidad
-"['@british_airways', '#lost', '#bag', '#stillwaiting', 'go', 'home', 'in2days.', ""dm'd"", 'info', 'rung', '9times', 'day.', 'do?', '#wheresmybag']",tristeza
-"['terrorism', 'intimidate', 'populace?', 'case', 'held', ""'coercion"", 'people', 'uniform', 'per', 'se', ""intimidation'?""]",miedo
-"['@caeruleusv', '@atheist_penguin', '@misogynaut', 'threaten', 'pussy']",miedo
-"['wake', 'up,', 'scroll', 'social', 'media,', 'another', 'father', 'taken', 'child', '#nightmare', '#everyday', '#keithlamontscott']",miedo
-"['mary', 'astounded', 'concept', 'leftover', 'milk', 'end', 'cereal', '#gbbo']",miedo
-"['go', 'follow', 'musically', '@budderlordk1ng', 'making', 'lively.', 'come', 'join', 'bffing', 'following', ';)', 'see', 'there!']",felicidad
-"['matty', 'dawson', 'scored', 'there!!!!!', '#terrible']",miedo
-"['fuck', 'shy,', ""i'm"", 'trying', 'thighs.']",miedo
-"[""can't"", 'leave', 'country', 'vaccines', 'gave', 'us,', 'it?']",tristeza
-"['@lisaasquithtobe', '@craig8710', '@waynehaselden', '@june65wigan', 'everyone', 'wigan', 'biggest', 'club', '#bitter']",ira
-"['everywhere', 'go,', 'air', 'breathe', 'tastes', 'like', ""home.'"", '@the_currys', '#restless']",miedo
-"['september', ""we're"", 'still', 'battling', 'situation', 'said', 'handled', 'march', 'year.', '@att', 'unacceptable']",tristeza
-"['@aradsliff', 'know', ""i'm"", 'nj', 'worst', 'purpose.', '#laughter']",felicidad
-"['love', 'people', 'make', 'plans', 'without', 'actually', 'including', 'process', '#rage']",ira
-"['joyous', 'first', 'webiversary/web', 'mitzvah', ""smithsonian's"", '@weipoints!!', '@brianwolly', '@jackie_mansky', '@bethpylieberman', '@bilbo', '@mazeltov']",felicidad
-"['band', 'members', 'wanted.', 'contact', '#newcastlegateshead', '#sunderland', '#musicians', '#musicbusiness', '#musicislife', '#music', '#musically', '#band', '#blues', '#folk']",tristeza
-['testing'],ira
-"['@sonofthedovah', '*she', 'could', 'sense', 'anger', 'stirring', 'within', 'took', 'hand', 'hers.*', 'long', 'stay', 'together,', ""we'll"", 'safe.--']",ira
-"['think', 'dating', 'guys', '#nervous', '#bodybuilding', '#with', '#follow4follow', 'megaphone', 'xxx', 'number', 'nierstein']",miedo
-"['lot', 'celebrate', 'damn', 'socialist', 'government,', 'forced', 'thousands', 'venezuelans', 'leave', 'country....']",felicidad
-"['remember', 'rooney', 'wanted', 'leave', 'united', 'fans', 'threaten', 'kill', 'man', 'bare', 'junk...', 'wanna', 'regretting', 'now?', '😂😂']",miedo
-"[""they're"", 'like', 'rape', 'apologists', '(inadvertently?)', 'make', 'men', 'sound', 'like', 'rabid,', 'mindless', 'beasts.', 'friends', 'like', 'these...']",ira
-"['@princesscasgirl', '@daddyellis__', 'tiff', 'better', 'hurry', 'cause']",ira
-"[""i'm"", 'looking', 'possibility', 'moving', 'peaceful', 'place', 'live', 'bummer', 'live', 'like', 'this.']",tristeza
-"['@verizonsupport', 'thanks', 'saying', 'wife', 'getting', 'iphones', 'today', 'losing', 'eta', '#thanks', '#angry']",ira
-"['heard', 'thought', 'ether,', '#ex', 'posted', '#facebook', 'pic', 'snuggling', 'said', '#cats...', 'im']",ira
-"['addition', 'fiction,', 'wish', 'luck', 'research', 'paper', 'semester.', '15-20', 'pages,', 'oh', 'boy.']",miedo
-"['@ryyyshh', 'story', 'life.', '#lost']",tristeza
-"['petition', 'non-maghrebi', 'poc', 'stop', 'buying', ""'couscous'"", 'white', 'grocery', 'stores', 'boiling', 'it.', 'couscous,', 'trash.']",ira
-"['@jack_haug_lifty', '@eable', 'ms', 'btw.', 'lied', 'remain.', 'dry', 'remainer', 'tears;', 'accept', '#lost']",tristeza
-"['@dsdambuster', 'finally', 'started', '#homefronttherevolution,', 'story', 'gameplay???', '#terrible', '#wasteofmoney']",miedo
-"['already', 'pacos', 'getting', 'control,', 'real', 'enemies', 'venezuelan', 'society,', 'security', 'forces.', 'leave', 'country', 'die', 'trying']",miedo
-"['mourn', 'creativity', 'lost.']",tristeza
-"['@wabermes', '@ravallirepublic', 'good', 'one', 'reporter', 'quit.', '#sad']",tristeza
-"['im', 'really', 'constipated.', 'depressing']",tristeza
-"['@madisenrb', 'sweet', '&amp;', 'playful']",felicidad
-"['@elcitizen', 'keep', 'saying', 'people', 'venezuela', 'short', 'memory,', 'shame,', 'instead', 'new', 'leaders', 'coming', 'kind', 'quasi', 'politician', '!!!!']",tristeza
-"['accept', 'challenges,', 'may', 'feel', 'exhilaration', 'victory.\\n\\ntomiho', 'ipaglabanmo', 'tapingday2']",felicidad
-"['sorry', 'im', '#bitter', 'just.', 'either', 'want', 'pure', 'ur', 'literally', 'card', 'sets', 'like', 'every', 'time', 'draw', 'sets', 'like&gt;']",ira
-"['@duncantrussell', 'remo', 'williams', 'ever', 'actually', ""'save'"", 'anyone', 'sulk', 'around', 'killing', 'random', 'undesirables']",tristeza
-"['@mikebairdmp', '@andrewconstance', '@nswtaxi', 'many', 'sex', 'cases', 'need', 'guys', 'learn', 'uber', 'shocking', 'consumer', 'unregulated']",miedo
-"['guy', 'comes', 'train', 'smells', 'like', 'mixture', 'damp', 'dog,', 'old', 'sweat', 'sewage', 'works!!!!#gross', '#horrid', '#getoffthetrain', '#smelly']",miedo
-"['dire', 'need', 'worship', 'session', 'let', 'go', 'everything']",miedo
-"['theyve', 'substituted', 'hood', 'badge', ""gun.'"", 'public', 'opinion', 'indictment', 'charlotte', 'police.', '#dark', '#sadtimes', '#america', '#race']",tristeza
-"['@firstleeds', 'buses', 'unreliable', 'ticket', 'app', 'unable', 'get', 'two', 'buses', 'late', 'work', '#fuming', '#useless', 'reply']",ira
-"['method', 'thin', 'assault', 'corridor', 'thine', 'liveliness:', 'chd']",felicidad
-"['felt', 'possibility', 'best', 'friend', 'return', 'venezuela,', 'now,', 'future,', 'exploded', 'happiness.', 'never', 'thought', 'would', 'say', 'that.']",felicidad
-"['well', '@aprildryan', ""trump's"", 'rabid', 'base', 'needs', 'hear', '&amp;', 'always', 'find', 'overseer', 'like', 'king', 'say', 'it.\\n@joyannreid', '@smshow', '@frangeladuo']",ira
-"['miss', 'fact', '#burkeramsey', 'swung', '&amp;hit', 'sister', '#jonbenet', 'face', 'golf', 'club', 'previously', 'fit']",ira
-"['@realestcastiel', 'sitting', 'close', 'extended', 'period', 'time', 'exhilarating', ""he's"", 'beautiful', 'lively', 'lol']",felicidad
-"['@amymek', 'absurd', 'could', 'laugh', 'right', '(if', 'also', 'feel', 'like', 'crying', 'future', 'country).', '#despair', '#wakeupcall']",miedo
-"['heard', 'happen', 'grandad', 'hometown', 'last', 'night', 'terrible', 'news', '💔,', 'hope', 'everyone', 'okay']",miedo
-"['source!!\\n\\n#mindset', '#philosophy', '#thoughtsbecomethings', '#news', '#lifehacks', '#fear', '#you', '#life', '#pleasert', '#problemsolving']",miedo
-"['guy', 'wants', 'young', 'people', 'ignorant', 'aspirations', 'leave', 'venezuela']",tristeza
-"['sir,', 'concern', 'whether', 'god', 'side;', 'greatest', 'concern', ""god's"", 'side,', 'god', 'always', ""right.'"", 'abraham', 'lincoln']",miedo
-"['@alicemazzy', 'partisan', 'social', 'issues', 'years', 'back;', 'concern', 'trolls', 'center', 'left', 'chait', 'far', 'left']",miedo
-"['majority', 'people', 'irritate', 'fuck', 'me,', 'cba', 'people', 'ahahah']",ira
-"['consolation', 'get', 'country']",tristeza
-"['bill', 'clinton:', ""'do"", 'grow', 'weary', ""good.'"", '@clintonglobal', '#cgi2016']",tristeza
-"['walk', 'darkness', 'despondency,', 'sc.verses', ""i've"", 'memorized', 'shine', 'light', 'heart.', 'ex:', 'lam', '3:22-25']",miedo
-"['“we', 'easily', '#forgive', '#child', '#afraid', '#dark;', 'real', '#tragedy', '#life', '#men', '#afraid', '#light.”–plato']",tristeza
-"['room', 'rather', 'dreary,', 'endure', 'must.']",tristeza
-"['pax', 'enjoyed', '#gloom', '@clayorangecrush', '@f3lakemurray']",tristeza
-"['""get', 'country""', 'operation', 'begins']",felicidad
-"['mom', 'told', 'yesterday', 'looking', 'grim', 'started', 'driving', 'there,', 'told', 'turn', 'around', 'b/c', 'sick']",tristeza
-"['willing', 'leave', 'country?', 'promise', 'regret']",felicidad
-"['@eileen_davidson', 'rhobh,', 'want', 'assume', 'affair', 'married', 'criticize', '@lisavanderpump!', '#awful']",miedo
-"['#rip30', 'heaven', 'rejoicing', ""they've"", 'gained', 'angel,', 'keifer', 'family', 'prayers', '💙🙏']",felicidad
-"['hello,', 'saw', 'youtube', 'liked', 'saw,', 'working', 'venezuela', 'computer', 'as400,', 'rpg,', 'possibility', 'have.', 'spanish', 'national.']",felicidad
-"['watch', 'amazing', 'live.ly', 'broadcast', '@rosannahill', '#musically']",felicidad
-"['@sargon_of_akkad', ""it'll"", 'like', 'burning', 'rap', 'albums;', ""they'll"", 'buy', 'first,', 'gosh', 'darn', 'it,', 'get', 'rid', 'it.']",ira
-"['@sueblue35', '@nsoz7', '@immortalbulldog', 'huh?', 'sprint', 'coach?', ""we're"", 'slowest', 'team', 'comp.', 'talk', 'robbing', 'living.', '#outrage']",ira
-"['@timewarparcade', '@tenpencearcade', 'really', 'pedal', 'like', 'nutter', 'get', 'anywhere?', 'remember', 'sedate.']",tristeza
-"['@mandyjohnson', ""i'll"", 'honest..', 'hope', 'annoying', 'southern', 'bint', ""'look"", ""me'"", 'pout', 'goes', 'week!', 'selasi', '#ftw']",ira
-"['hey', 'folks', 'sorry', 'anything', 'offensive', 'got', 'posted', 'yesterday', 'account', 'got', 'hacked.', 'fixed', 'though.', 'hope', ':-/', '#annoyed']",ira
-"['@jbcrewdotcom', 'fans', 'insult']",ira
-"['dream....they', 'trying', 'steal', 'kidney!!!', '#blackmarket', '#whydidiwatchthat']",miedo
-"['great', 'training', 'course,', 'lots', 'photos,', 'fun', 'laughter.', ""photo's"", 'soon', '#boostercourse', '#fun']",felicidad
-"['rejoice', 'birth', 'grieve', 'funeral?', 'person', 'involved.', 'mark', 'twain']",tristeza
-"['@pdi_chile', 'hello', 'good', 'consultation', 'person', 'made', 'documents', 'new', 'immigration', 'law', 'mid-may,and', 'waiting', 'acceptance,can', 'leave', 'country.']",miedo
-"['rojo', 'hilarious']",felicidad
-"['told', 'wife', 'chance', 'would', 'sydney', 'teams', 'afl', 'grand', 'final.', 'response:', ""'there's"", 'two', 'sydney', 'afl', ""teams?'"", '#serious']",tristeza
-"['@feistyarcher', ""-trouble,'"", 'feigned', 'anger', 'gave', 'look', 'told', 'behave.', 'knew', 'though,', 'one']",ira
-"['watch', 'amazing', 'live.ly', 'broadcast', '@evanhufferd', '#lively', '#musically']",felicidad
-"['good', 'morning', 'joyful', 'people.', 'choose', 'happiness', 'great', 'day', 'today', '#morning', '#happiness', '#grandmercurejktkemayoran']",felicidad
-"['courage', 'always', 'rises', 'every', 'attempt', 'intimidate', 'me.”\\n-elizabeth', 'bennett', '(pride', 'prejudice)\\n#quotes', '#courage', '#faceyourfears']",miedo
-"['@tamriiel', 'talking', 'expansion,', 'gear', 'fury', 'always', 'well', 'towards', 'end']",ira
-"['follow', 'instagram', '1.0.7', '#love', '#tagsforlikes', '#tflers', '#tweegram', '#photooftheday', '#20likes', '#amazing', '#smile', '#follow4follow', '#like4like', '#look']",felicidad
-"['@danlanthier', 'exhilarating', 'hockey.', ""they're"", 'still', 'russia', 'wins', 'regulation', ""i'm"", 'reading.', '#fuck']",felicidad
-"['goes', 'first.', 'gets', 'book', 'signed', '&amp;', 'barely', 'take', 'picture', 'cuz', ""i'm"", 'shaking', '😭😭😭😭😭']",miedo
-"['#disgracefulesin', 'resent', 'men', 'way;', 'reason', 'all.', '#esinscountdown']",ira
-"['3:45am', 'hospital!', ""elouise's"", 'waters', 'gone!', '#panic', '#labour', '#littlesister', '#superexcited']",miedo
-"['@dsdambuster', 'finally', 'started', '#homefronttherevolution,', 'story', 'gameplay???', '#wasteofmoney']",miedo
-"['@gopro', 'ux', 'online', 'appalling!', 'clear', 'save', 'button,', 'able', 'use', 'generic', ""tld's"", '#unhappy']",tristeza
-"[""@cpt_srogers_\\n'well"", 'go', 'one', 'two', 'ways.', 'either', 'get', 'accept', 'it,', 'going', 'change,', 'mope', '--']",tristeza
-"['side', 'fear', 'lies', 'freedom!', 'jb', 'glossinger', '#quote']",miedo
-"['extreme', 'sadness']",tristeza
-"['@guacha04038578', '@orozcolgustavo', '@anaerazor', '@pactocol', '@petrogustavo', '@franciamarquezm', 'salvation', 'end', 'chavismo', 'exit', 'cuba', 'venezuela.']",tristeza
-"['@perfectquartz', 'jogging', 'bit', 'stay', 'beside', 'her,', 'puffing', 'cheeks', 'huff', 'time.', ""'oh--"", 'jeez', 'jasper,']",ira
-"['watch', 'amazing', 'live.ly', 'broadcast', '@rosannahill', '#lively', '#musically']",felicidad
-"['important', 'ever', 'leave', 'country.']",tristeza
-"['@miami4trump', 'yeah,', 'bad', 'part', '#terrorism', '#terror', 'muslims', 'ones', 'leaving', '#obamalegacy', '#nationalsecurity', '#disaster', '#obama']",miedo
-"['nephew', 'sees', 'frown', 'face', 'tells', ""'you're"", 'beautiful', ""'!😢💞😩""]",tristeza
-"['like', 'keep', 'grinding', 'boy', 'life', 'change', 'one', 'year,', 'even', 'dark', 'sun', 'shining', ""somewhere...'""]",tristeza
-"['still', 'want', 'stay', 'venezuela', 'know', 'it,', 'still', 'possibility', 'leaving.']",tristeza
-"[""@bijayjanand\\nit's"", 'treat', 'viewers', 'watch', 'janak,', 'simply', 'treat', 'soul,', 'mind,', 'thoughts.', '#hearty', 'respect', '🙏🙏']",felicidad
-"['@bossupjaee', 'pussy', 'weak', 'heard', 'stfu', 'bitch', 'got', 'threaten', 'pregnant']",miedo
-"['accept', 'challenges', 'feel', 'exhilaration', 'victory!!']",felicidad
-"['yes,', 'going', 'wash', 'dishes', 'another', 'country', 'reaffirmed', 'better', 'plan', 'staying', 'pigsty.']",ira
-"['5am', 'blues', 'riding', 'cab', 'home:\\n-', 'belly', 'much', 'bigger', 'rest', 'body\\n-', 'couldnt', 'preggy\\n-', 'lose', 'day']",tristeza
-"['@sadiqkhan', '#terrorism', 'way', 'life', 'united', 'etates', '#islam', 'brought', 'here!', '#islamexposed', '#islambacon']",miedo
-"['@mhchat', 'think', 'sadness', 'felt', 'strongly', 'physically', 'mentally.', 'feels', 'like', 'takes', 'hard', 'focus', 'work', '#mhchat']",tristeza
-"['@mannym83', '@daretoreagan', 'oh', 'yeah.', 'hate', 'air', 'raid', 'like', 'oregon/baylor', 'offense', ""i'm"", 'fan', 'ole', 'miss', 'one', 'either']",ira
-"['talk', 'politics', 'people', 'nowadays', 'get', 'offended', 'easily!']",ira
-"['want', 'leave', 'country', 'intensifies.']",miedo
-"['anytime', '@perezed', 'gets', 'near', 'mic,', 'someone', 'needs', 'smack', 'bat.', '@bbtn', '#awful', '#marblesinmouth']",miedo
-"['another', 'test', 'tonight']",miedo
-"['many', 'think', 'venezuela', 'cheap,', 'all,', 'reality', 'different,', 'venezuela', 'expensive', 'think....']",tristeza
-"['quote_soup:', 'happy', 'everything', 'good,', 'see', 'good', 'side', 'everything.', '#optimism']",felicidad
-"['pretty', 'clear', ""can't"", 'stand', '@hillaryclinton,', 'tolerance', 'habitual', 'liars.', 'trump', 'fan', 'either', ""what's"", 'citizen', 'do?', '#despair']",tristeza
-"['indian', 'uber', 'driver', 'called', 'someone', 'word.', 'moving', 'vehicle', ""i'd"", 'jumped', '#disgusted']",ira
-"[""we're"", 'd.', 't.', '(discipleship', 'training', 'detox)', 'something.', '#messy', '#fearful', '#cutoff', '#choosefreedom', '#cryout16']",miedo
-"['4yo', 'gone', 'blast', 'gothcore', 'music.', '#anxiety', '&amp;', ""can't"", 'listen', 'around', 'bcuz', ""'too"", ""spooky'."", '*sigh*', '#momlife']",miedo
-"['@grimstoyshow', 'grim', 'fuck', 'going', 'dame', 'fucking', 'clowns', 'takeing', 'gameing', 'channel', 'way', 'nj', 'would', 'delete']",tristeza
-"['.@simonnricketts', 'know', 'patronus', 'is,', 'think', 'tell']",miedo
-"[""i'm"", 'leaving', 'situation', 'going', 'daily', 'look', 'chop', 'honest', 'opportunity', 'fight', 'win', 'fascinating', 'preferable', 'die', 'like', 'bullet', 'street']",tristeza
-"['care', 'come', 'looking', 'opportunity', 'get', 'ahead.', 'long', 'work,', 'regularize', 'situation', 'stay,', 'would', 'problem.']",ira
-"['@txdmv', '@arkansasbbb', 'filled', 'report', '#baitswitch', '@carvana', 'lets', 'go', 'get', 'fines', 'levied.', '#badbusiness', '#honoryourdeal', '#unhappy']",tristeza
-"['@danielgcolina', 'unfortunately,', 'venezuela,', 'security', 'officials,', 'criminals', 'dressed', 'uniform...poor', 'falls', 'hands,', 'may', 'god', 'mercy', 'us.']",tristeza
-"['hate', 'lawn', 'mower.', 'soul,', ""i'd"", 'condemn', 'fiery', 'pits', 'hell.']",ira
-"['#threaten', 'kill', '#kapernick', 'kneeling.', 'say', 'every', 'athlete', 'stop', 'playing', 'social', 'justice', 'equality', 'comes', 'forth.']",miedo
-"['feels', 'grim', 'nails', 'done']",tristeza
-"['give', 'blue', 'guitar,', 'stand', 'main', 'character.', 'sort', 'skim-read', 'end', 'got', 'grim', 'unsettling', '1/2']",tristeza
-"['lysol', 'got', 'stuck', 'spray', 'position', ""we're"", 'slowly', 'suffocating', 'trash', 'smells', 'like', 'febreeze', 'factory.']",miedo
-"['@alyssasimpson21', 'gave', 'kendrick', 'lamar', 'eat', 'barbecue', 'him.']",ira
-"['gotta', 'hit', 'breezy', 'every', 'day', 'make', 'sure', ""he's"", 'breaking', 'boots.', 'first', 'class', 'friend', 'right']",felicidad
-"['@meaindia:', 'virtually', 'every', 'statement', 'countries', '#un', 'referred', '#terror', 'main', 'threat', 'peace,', '#pak', 'still', 'denial.']",miedo
-"['@laratheirish', '&lt;', 'feel', 'everything.', 'would', 'remember', 'everything.', 'evanora', 'hoped', 'would', 'serve', 'fuel', 'creatures', 'anger', 'run', 'rabid', '&gt;']",ira
-"['@samkingftw', 'ew', 'omg', 'grim']",tristeza
-"['still', 'waiting', 'see', '@london2012track', 'make', 'appearance', 'next', 'week', 'two', 'months', 'today', 'ordered', '#shocking', '#badservice']",miedo
-"['@winksahoy', 'get', 'shit', 'wrath', 'winter', 'nowhere']",ira
-"['@gagasklaine', 'old', 'sadly']",tristeza
-"['know,', ""i'm"", '30', 'days', 'away', 'leaving', 'country.']",felicidad
-"['icon', 'pochama.\\nhe', 'cute', 'easily', 'elated.']",felicidad
-"['@drsrsheikh:', 'asked', 'gate', 'crash', 'dumb', 'idiosyncrasies', 'sober', 'people', 'analyzing', 'situation!\\n@banobee', '@ak_forty7']",tristeza
-"['@eachus', 'least', ""he's"", 'willing', 'discuss,', 'better', 'most.', 'keep', 'insults', 'light', 'occasional', 'levity', 'creative', 'bs-ing,']",felicidad
-"['blame', 'jose', 'ere', 'would', 'give', 'rojo', 'another', 'start', 'sunday', 'fucking', 'disaster', 'waiting', 'happen', '&amp;', 'shocking', 'header']",miedo
-"['watch', 'amazing', 'live.ly', 'broadcast', '@footballrocks123456', '#musically']",felicidad
-"['false', 'alarm,', 'coming', 'today']",miedo
-"['@jaybusbee', 'well,', 'archie.', 'offense', ""he's"", 'kinda', 'old.']",ira
-"['@justpyronow', 'gonna', 'kind', 'community', 'raids', 'wrath', 'machine', 'drops?']",ira
-"['@a_mxe7', 'hah', 'speak', 'cousin', 'like', 'that,', 'mind', 'displeasure', 'seeing', 'bare', 'faced', 'eh', 'train,', 'pretty', 'sight', 'mate']",ira
-"['got', 'diagnosed', 'severe-extreme', 'depression', 'know', 'difference', 'two', 'lol']",tristeza
-"['@duncm1981', '@pmallon72', 'risk', 'blocked', 'thought', 'video', 'wake', 'hilarious.']",felicidad
-"['&gt;.&lt;', 'much', 'clutter', 'brain', 'recent', 'little', 'changes', 'yet', 'processed...', '#dying', '#panic', '#ivebeenbusierwhyamioverwhelmed', ':(']",miedo
-"['@clairepilkingt2', 'oh', 'god', ""that's"", 'awful', 'mine', 'last', 'long', 'thank', 'god.', 'thank', 'you\\n', 'xx']",miedo
-"['#ntfc', 'mourinho', 'worried,', 'bringing', 'ibra', 'rushford', 'on.']",miedo
-"[""ex's"", 'number', 'time', 'prank', 'him.', '#revenge', '#prank', '#whatprankishoulddo', 'seriously', 'prank']",ira
-"['@paulkrugman', 'relentless', 'echo', 'chamber', 'negative', 'comments', 'lots', 'reverb.', 'typical', 'bully', 'behavior.']",ira
-"['@allegedlowbrow', ""'eye-for-eye'."", 'indian', 'army', 'never', 'forgives,', 'never', 'forgets.', 'always', 'take', 'revenge,', 'pakistan', 'breaks', 'laws,', 'i.a', 'follows']",ira
-"['ya', 'boy', 'gets', 'mad', 'tired', 'pine', 'trees']",tristeza
-"['@naziamemon01', 'yeah', 'terror', 'packed', 'terror', 'supported', 'speech..']",miedo
-"['@mr_haaaan', 'wow', 'inadvertently', 'horrible', 'puns', 'definitely', 'thing']",miedo
-"['simply', 'act', 'kindness,', 'strength,', 'optimism,', 'today', 'best', 'day', 'ever!', '@tarleton_kine', '@drkaylapeak', '@jssimpson9']",felicidad
-"['@emotionallimine', 'sadly', 'mistaken', 'think', ""i'd"", 'make', 'tweet', 'isolated', 'comment', 'random', 'twitter', 'user.']",tristeza
-"['likes', '#werewolves', '#horror', '#surfing?', 'breaker', '@readstela', 'more.']",miedo
-"['@onyxflare25', 'chuckles,', 'shaking', 'head.', ""'no...i"", 'really', 'vivid', 'imagination,', 'guess.', 'happens', 'meet', 'someone&gt;']",miedo
-"['@el_enfoque_', 'although', 'thinking', 'better,', 'bank', 'cipaya', 'lives', 'ranting', 'country', 'goal', 'leave,', 'want', 'far', 'away.']",ira
-"['would', 'stay', 'venezuela', 'gibraltar', 'macedonia,', 'honestly.']",felicidad
-"['forever', 'angry', 'gh', 'ruined', 'molly', ""morgan's"", 'bond/friendship', '#bitter']",ira
-"['@kencurtin', 'might', 'get', 'donal', 'óg', 'sure!', 'cork', ""he's"", 'fiery', 'dopey', 'frank', '&amp;', 'cult']",ira
-"['belittling', 'kitty', 'straight', 'service?', 'provoke', 'lift', 'aboard!:', 'wycelv']",ira
-"['today', 'ever', 'want', 'leave', 'country,', 'hope', 'finish', 'soon', 'race', 'leave', 'venezuela', 'pity', 'even', 'corrupt', 'people', 'pass', 'us.']",tristeza
-"['@writerlytweets', 'supine', 'piano—lips', 'parted.', '#sixwordstory', '#amwriting', '#blues', '#singer']",tristeza
-"['worst', 'juror', 'ever?', 'michelle.', ""nicole's"", 'biggest', 'threat.', '#bitter', '#bb18']",ira
-"['realizing', 'holding', 'grudge', 'long', 'immaturity', 'wisdom']",ira
-"['.@divamagazine', 'straight', 'people.', 'even', 'arse', 'straight', 'guys', 'think', 'means', 'threesome', 'fine.', '#angry', '#fuming']",ira
-"['@keprdad', 'btw,', 'george', 'bush', 'left', 'office', ',09.', 'terrific', 'leadership', 'barack', 'obama.', 'keep', 'america', 'great.']",miedo
-"['hear', 'bells.', 'pm.', 'freeze', 'watch', 'plane', 'take', 'leave.', 'lights', 'airport', 'go', 'out,', 'last', 'flight', 'country.', 'last', 'chance.']",tristeza
-"['@p4pictures', 'would', 'great', 'card', 'crashes', '😱.', 'happened', 'twice']",miedo
-"['leaving', 'country', 'solution,', 'staying', 'trying', 'change', 'something', 'solution.']",felicidad
-"['@ashish_geol', '@getpakistantv', '@hamidmirgeo', '..', 'give', 'thought', 'khalistaan?', '\\nno', 'concern', 'baluchistan', '!!', 'kashmir', 'issue.']",miedo
-"['currently', 'listening', '@scottfoxonair', '&amp;', '@katcallaghan', '@z1035toronto', 'podcasts!!', 'guys', 'please', 'move', '#yvr', '#missyou']",felicidad
-"['corbyn', 'loses', 'walk', 'crying', 'corbyn', 'supporter', ""whisper\\n\\n'don't"", 'mourn.', ""organise'\\n\\nand"", 'laugh', 'laugh']",tristeza
-"['interview', 'preparation,', 'hate', 'talking', 'myself,', 'one', 'dull', 'subject', 'matter!', '#yawnoff']",tristeza
-"['@brian5or6', 'turn', 'shit', 'off!', 'home', 'button', 'accessibility.', '\\n\\nwhen', 'innovation', 'become', 'mind', 'fuckery?', '#iphonephonehome']",ira
-"['apparently', ""he's"", 'supposed', 'scottish', 'accent???', ""i'm"", '#offended']",ira
-"['@notquitefrodo', '@dominictarason', 'remember', 'tas', 'gamedev', 'program', 'said', 'temper', 'tantrums', 'class', 'time', 'lol']",ira
-"['@vanessakaiser22', 'feel', 'sorry', 'pets,', 'would', 'go', 'family', 'basket', 'basic', 'input,', 'venezuela', 'eating', 'shit', 'young', 'leaders', 'want', 'spoonful.']",tristeza
-"['@vodafoneukhelp', '@vodafoneuk', 'wow!!', 'bill', '£44.77', 'hav', 'text', 'prove', 'taken', '£148!!!!!', '#swines', '#fuming', '#con!']",ira
-"['sickness', 'bug!']",miedo
-"['@misslindzo', 'no.', 'last', 'two', 'out-bidded.', 'got', 'kinda', 'discouraged', 'taking', 'sweet', 'time.', 'market', 'stupid', 'tho']",miedo
-"['lost', 'wallet', 'lol....', 'again....']",tristeza
-"['country', 'give', 'more,', 'deserve', 'live', 'misery', 'choose', 'ridiculous', 'fanaticism', 'steals', 'nose', 'objectively...', 'definitely', 'leaving', 'country', 'best...']",tristeza
-"['@megannn_walsh12', '@itsshelleeey', 'never', 'said', 'that,just', 'fair', 'yous', 'think', 'completely', 'okay', 'bully', 'someone']",miedo
-"['@patblanchfield', 'mean', '“like', 'uber', 'despair', 'someone', ""driver'""]",miedo
-"['today', 'reached', '1000', 'subscribers', 'yt!!', '#goodday,', '#thankful']",felicidad
-"['@corruptmelon', 'im', 'feeling']",miedo
-"['hate', 'bakewell', 'tart', 'anything', 'tastes', 'almond', 'essence', 'horrid!', '#gbbo']",miedo
-"['want', 'read', 'want', 'shoot', 'one', 'person', 'knee.', 'typical', 'venezuelan', 'cavernicola', ""can't"", 'leave', 'country', 'grabbing', 'rest', 'xd']",ira
-"[""'failure"", 'delivery', ""time',"", 'customer', 'pay', '16k', 'rupees', 'more!', 'good', '@tiagotatamotors', '@tatamotors', '#unhappy']",tristeza
-"['monday', 'face', 'would', 'punch', '#monday', '#horrible', '#face', '#punch', '#fight', '#joke', '#like', '#firstworldproblems', '#need', '#coffee', '#asap', '#follow']",miedo
-"['good', 'morning!!!\\n\\n', '#leadership', '#healthcareit', '#socialmedia', '#connector', '#ceo', '#writer', '#ai', '#eq', '#security', '#bigdata', '#growthhacking', '#tech']",miedo
-"['however', 'agent', 'inauthentic,', 'sister', 'still', 'loves', 'me,', '&amp;', ""i'm"", 'still', 'alive.', 'guess', 'bad.', '#socialanxiety', '#anxiety']",miedo
-"['people', 'irritate', 'mf', 'soul']",ira
-"['@the_boxing_hub', '#klitschko', '@klitschko', 'fury', 'day', '#boxing']",ira
-"['venezuela', 'needs', 'work,', 'follow', 'path', 'cuba,', 'clear,', 'want', 'another', 'communist', 'destroy', 'future', 'young', 'people.']",tristeza
-"['want', 'pity', 'instructors', ""i'd"", 'like', 'understanding.', ""i'm"", 'truly', 'trying', 'despite', 'circumstances', 'make', 'discouraged']",tristeza
-"['@norn_ironmaiden', '@forest_fr1ends', 'hilarious']",felicidad
-"['@jccrocker', '#charlotteprotest', '#wait', 'facts', '#video', '#hate', 'ask', 'questions', 'later', '#sad', '#protest', '#policeshootings', '#suggestions']",tristeza
-"['@educatednpetty', 'white', 'pricks', 'laughing', 'use', 'language', 'crying', 'coffin', 'rejoicing', 'another']",felicidad
-"[""can't"", 'believe', ""they're"", 'messing', 'favourite', 'bakes', 'feel', 'personally', 'offended']",ira
-"['people', 'angry', 'toward', 'veggie', 'burgers', 'wtf']",ira
-"['@kennycoble', '@rosie', 'horrific', 'situations', 'get', 'worse', 'trump', 'elected.', 'vote', 'hillary.']",miedo
-"['watch', 'amazing', 'live.ly', 'broadcast', '@arbitraryvlog', '#lively', '#musically']",felicidad
-"['@klipto', 'orange', 'one', '#poisonous', '#bitter.', 'judge', '#blue', 'one', 'looks', 'tastes,', '#delicious.']",ira
-"['replied', 'comments', 'times', ""i'm"", 'shaking', 'omg']",miedo
-"['catering', ""channel's"", 'height', 'technics', 'hearty', 'enjoyment', 'symptomatize:', 'vrlfeyrn']",felicidad
-"['inner', 'conflict', 'happens', 'odds', 'ourselves.', 'honor', 'values', 'priorities.', '#anger', '#innerconflict', '#conflict', '#values']",ira
-"['@hm_custserv', '#awful', 'service', 'camden', 'store', 'yesterday.', 'assistants', 'thought', 'important', 'put', 'clothes', 'hangers', 'serve.']",miedo
-"['@globechadfinn', 'sadly,', 'enough', 'names.', 'whole', 'farewell', 'tour', 'situation', 'would', 'make', 'shy', 'away', 'good', 'value', 'et.']",miedo
-"['@veggiesausage', 'happens...u', 'ok', 'tomorrow', 'cheer', ""up..don't"", 'give', 'no😝😝😝']",felicidad
-"['@panicatthedisco', 'hey,', ""y'all"", 'announced', 'like', 'immediately', 'asked.', 'nice.', 'thanks', ""y'all""]",miedo
-"['new', 'play', 'tonight!', 'pretty', 'much', 'blind', 'run.', 'played', 'game', 'maybe', 'got', 'levels', 'it.', '#rage', '#horror']",miedo
-"['chill', 'af', 'want', 'offend', 'someone.']",ira
-"['@88palouseriver', '@abc', '@nra', 'rejoice', 'everything', 'time', 'moron', 'taken', 'genetics', 'pool.']",felicidad
-"['@novive_socialis', 'matter', 'quality', 'medicine', 'foreigners,', 'far', ""venezuela's"", 'health', 'care', 'system']",miedo
-"['biggest', 'thrill', 'leaving', 'much', 'chance', 'see', 'idols', 'sure', 'make']",felicidad
-"['#terrorstatepak', 'confirm', '#navazsharif', 'post', 'graduate', 'distinction', 'student', 'university', '#terrorism.', ""can't"", 'spare', 'himself.']",miedo
-"['niggas', 'murking', 'other.', 'murky', 'water,', 'try', 'swim.']",tristeza
-"['congress', 'acting', 'indignant', '#epipen', 'pricing', 'quite', 'disingenuous', 'since', 'craft', 'laws', 'allow', 'gouging!!']",ira
-"['@doubtcaspar', 'babe', ':((', 'remember', ""i'm"", 'always', 'need', 'little', 'cheering', 'talk,', 'ily', 'lots💘']",felicidad
-"['@jaymohr37', 'droop', 'saw', 'naked', 'wrestling', 'asked', ""'what"", 'get', 'hole', ""one?'"", '#jaymohrsports']",tristeza
-"['really', 'hate', 'mel', 'sue.', 'think', ""they're"", 'hilarious', ""they're"", 'awful']",miedo
-"['@roguecoder250', 'much', 'trouble!!', 'think', 'rev', 'see', 'funny', 'side', 'project.', '#nervous']",miedo
-"['trumpism', 'likewise', 'rests', 'bed', 'racial', 'resentment', 'made', 'knowingly', 'intentionally,', 'long', 'trump', 'got', 'politics.']",ira
-"['add', 'donte', 'moncrief', 'dismal', 'situation', '#blessed.']",tristeza
-"['recommended', 'reading:', 'prisoners', 'hate', 'aaron', 'beck']",ira
-"['brad', 'pitt', 'investigated', 'child', 'abuse?!', 'got', 'really', '#dark']",tristeza
-"['punchline', 'king', 'back!', '@paedeezy', '🔥🔥🔥🔥🔥🔥🔥💯💯💯', '#bright', 'city', 'lights']",felicidad
-"['@mik61scot', '@longshankseddie', '@rosazambonini', '@youtube', 'thought', 'sunk', 'teeth', 'something', ""that's"", 'meant', '2b', 'sooked']",tristeza
-"['hahahaha', 'yes,', 'chance', 'job.', 'already', 'looking', 'dates', 'go.', 'time', 'come', 'bro,', 'patience']",felicidad
-"['man', 'know', 'juggle,', 'balls', 'it.\\n', '#funny', '#pun', '#lol', '#punny']",felicidad
-"['red', 'card', 'gordon', 'there?', 'ref', 'must', 'celtic', 'fan', 'shocking', 'challenge.']",miedo
-"['@bertgatti', 'much', 'cheer', 'see', '😜😂😂']",felicidad
-"['@sszmata', '@pkessel81', 'blew', 'internet', 'chirp.', 'lol.', 'love', 'it.']",felicidad
-"['@shahid3011', 'tweet', 'shit', 'like', 'this!', ""it'll"", 'come', 'back', 'haunt', 'like', 'ones', '😭😂']",miedo
-"['tasers', 'immobilize,', 'taser', 'someone', 'fuck', 'need', 'shoot', 'one', 'second', 'later?!', 'really', 'sick!', '#wtf', '#murder']",ira
-"['@lorialan1', 'seriously.', 'digging', 'eyebrows.']",felicidad
-"['🔥anger', 'acid', 'harm', 'vessel', 'stored', 'anything', 'poured.🔥', '#anger', '\\n\\n~mark', 'twain']",ira
-"['find', 'sad', 'going', 'demonstrate', 'country', 'means', 'die.']",felicidad
-"['seeing', '#ripshawtylo', 'got', 'thinking', 'bout', 'rappers', 'thought', '@liltunechi', 'dying,', 'burst', 'tears...', 'smh']",ira
-"['find', 'lost,', 'stay', 'passerby', 'get', 'lost', 'me?', '#musings', '#melancholy']",tristeza
-"['well', 'hear', 'girls', 'attracted', 'men', 'look', 'like', 'dad!']",tristeza
-"['grim', 'despair', 'feeling-i', 'look', 'self', 'family.', 'hubby', 'fought', '20+', 'years', 'country.', ""i've"", 'worked', '20+', 'years', 'govt--&gt;']",miedo
-"['watch', 'amazing', 'live.ly', 'broadcast', '@thebrandonrobert', '#musically']",felicidad
-"['old', 'person', ""can't"", 'handle', 'stuff....lol', 'left', 'there....', 'get', 'back', 'sober']",tristeza
-"['@reporteya', '@fundacionazul', ""let's"", 'check', 'fresh', 'water', 'reservoirs', 'venezuela', '(lake', 'valencia,', 'reservoirs', 'dams)', 'quality', 'water', 'venezuelans', 'consume?']",miedo
-"['cheerful', 'heart', 'unending', 'banquet.-\xa0proverbs', '(mishle)', '15:16']",felicidad
-"['chris', 'ate', 'mac', 'cheese', 'imma', 'eat', 'taffy']",ira
-"['@katzeanilothei', 'amount', 'greedy', 'mooching', 'makes', 'snarl.']",ira
-"['young', 'people,', 'anyone', 'else,', 'given', 'fish,', 'taught', 'fish.', 'chavez', 'began', 'giving', 'bonuses', 'bonitos.', 'look', 'venezuela', 'is...destroyed...no', 'wonder', 'everyone', 'leaving.....']",tristeza
-"['natalie', 'one', 'top', 'three', 'favorites?!', '#toofaced', '#bitter']",ira
-['go'],miedo
-"['fingers', 'slide', 'along', 'thighs,', 'caressing', 'skin', 'leaning', 'down,', 'down,', 'first', 'lick', 'teasing', 'playful.']",felicidad
-"['meant', 'be!!']",felicidad
-"['@doctorofinfo', 'introducing', 'little', 'levity', 'convo.', 'yep!']",felicidad
-"['view', 'human', 'dynamic', 'expression', 'cosmos', 'exist', 'within', '#humanism']",miedo
-"['@tomstarling86', 'many', 'chances', 'show', 'looked', 'lively', 'good', 'shot', 'tipped', 'bar', 'end.']",felicidad
-"['@jaime_scurr:', 'team', 'world', 'would', 'totally', 'elated', 'get', 'xd']",felicidad
-"['want', 'slide', 'dms', 'im', 'fucking', 'shy']",miedo
-"[""we're"", 'busy', '#coding', 'whole', 'network', 'manager', '#unity3d', 'based', '#steamworks', 'networking.', '#gamedev', '#indiedev', '#3amdeadtime', '#horror', '#game']",miedo
-"['remember', 'guy', 'got', '#angry', 'kept', 'saying', 'gary', 'sanchez', 'best', 'baseball', 'player', 'world...', 'lmao']",ira
-"['jesus', 'wept!', 'another', 'rns', '#rusty', '@metaltigerplc', 'quote', ""'price"", 'sensitive', 'news,', 'price', 'sensitive', ""news'"", 'etc', 'etc', '#ramping', '#shocking']",miedo
-"['@jennylhowe', 'angry', 'student', 'racist,', 'teacher', 'stopping', 'it,', 'class', 'letting', 'go', 'by.']",ira
-"['need', 'serious', 'nap', 'rn']",tristeza
-"['@discordiankitty', 'charisma?', 'guess,', 'like', 'people', 'looked', 'coked', 'speak', ""they're"", 'school', 'bully?']",miedo
-"['@imjim_yourenot', 'cyber', 'bully']",miedo
-"['watch', 'amazing', 'live.ly', 'broadcast', '@iamjustinburke', '#musically']",felicidad
-"['@markhberman2003', '@lancezierlein', '@790blessing', 'entire', 'team', 'coaches', 'played', 'coached', 'scared', 'jumpstreet.', '#intimidated']",miedo
-"['every', 'time', 'new', 'anthony', 'weiner', 'revelation', 'breaks,', 'bill', 'clinton', 'says', 'prayer', 'thanks', 'texting/dming', 'exist', 'heyday.']",felicidad
-"['@twlldun', '@bbcquestiontime', '@jacobreesmogg', '@leicesterliz', '@normanlamb', '@carolinelucas', '@juliahb1', 'oh', 'god,', 'brewer', 'again.', 'horror,', 'horror']",miedo
-"['cheap', 'pout', 'brodcast']",tristeza
-"['@1nataliemaines', 'imagine', 'person', 'spray', 'tan', 'him?']",miedo
-"['gaaaaaaaad!', 'stayed', 'london!']",tristeza
-"['momma', 'irritate', 'asking', 'questions', 'like', 'gone']",ira
-"['zero', 'help', '@ups', 'customer', 'service.', 'pushing', 'buck', 'back', 'forth', 'promising', 'callbacks', 'don’t', 'happen.', '#loathing']",ira
-"['@adamcimmering', 'boro', 'os', 'then,', 'could', 'give', 'stewards', 'good', 'work', 'out.', 'chelsea', 'get', '8k,', 'lively.']",felicidad
-"['finally', 'raining', 'ashland,', 'oregon.', ""we've"", 'parched', 'summer', '&amp;', 'fall.', 'plants', '&amp;', 'people', 'rejoicing!']",felicidad
-"['1975', 'playing', 'antichrist', '@sundarakarma', 'play', 'hustle', 'outrage']",ira
-"['@alyssasimpson21', 'gave', 'kendrick', 'lamar', 'eat', 'barbecue', 'him.', '#bitter']",ira
-"['@rsdeepsea', '@breitbartnews', 'people', 'country', '300', 'million', 'going', 'ruin', 'whole', 'country', 'people?', '#fear']",miedo
-"['cause', 'fail', 'pass', 'refuse', 'sober']",tristeza
-"['@littlebonnie86', 'insecurity', 'fear.', 'siesta,', 'kiss', 'possibility', 'leaving', 'house.']",tristeza
-"['bubble', 'officially', 'burst.', '98', 'boys', 'beat', 'trophy', 'glory', '#wptmain', '#bye']",ira
-"['forgot', 'plug', 'phone', 'overnight', '#nightmare']",miedo
-"['hate', 'ideas', 'afraid', 'share']",miedo
-"['never', 'switched', 'up,', 'stayed', 'person', 'since', 'day', 'one.']",tristeza
-"['anybody', 'know', 'watch', 'penny', 'dreadful?', '☹️️']",tristeza
-"['wish', 'easy', 'leave', 'country.']",felicidad
-"['@nunezprado', 'hope', 'continue', 'take', 'care', 'get', 'once,', 'country', 'needs', 'it.']",felicidad
-"['@alivitali', ""that's"", ""i'm"", 'afraid', 'of!']",miedo
-"['many', 'gloomy', 'days']",tristeza
-"['@wsjnordics', 'make', 'world', 'joyful', 'place.', '#thenicebot']",felicidad
-"['hate', 'gloomy', 'outside', 'always', 'gets', 'depressing', 'mood']",tristeza
-"['beats', 'accurately', 'all-powerful', 'respect', 'high-quality', 'high-frequency', 'speaker', 'extra', 'desolate', 'relating', 'fire-ea:…']",tristeza
-"['@sarah_urbina', 'even', 'beef', 'sara', 'let', 'anger', 'get', 'best', 'you,', 'sagin', 'friends', 'long?']",ira
-"['“be', '#positive,', '#cheerful,', '#grateful', 'expectant.”', '@nightingaleearl', '#success', '#leadership']",felicidad
-"['@theflabar', '#foggy', '#dark', 'morning', '#filter', 'time.', '#lighting', 'purposes.', ':)']",tristeza
-"['sulk', 'much', 'good.']",tristeza
-"['really', 'alarming', 'adult', 'male', 'calls', 'father', ""'daddy'""]",miedo
-"['@lonelygoomba', 'bring', 'you.', 'touchy', 'subject.', 'people', 'get', 'way', 'offended', 'days']",ira
-"['guy', 'comes', 'train', 'smells', 'like', 'mixture', 'damp', 'dog,', 'old', 'sweat', 'sewage', 'works!!!!', '#gross', '#getoffthetrain', '#smelly']",miedo
-"['excellent', 'young', 'leaders', 'well', 'prepared', 'staying.', 'venezuela', 'deserves', 'radical', 'change', 'new', 'faces.']",miedo
+tweet_tokenized_translated,sentimiento,NB_Felicidad,NB_Ira,NB_Miedo,NB_Tristeza,SVM_Felicidad,SVM_Ira,SVM_Miedo,SVM_Tristeza,DT_Felicidad,DT_Ira,DT_Miedo,DT_Tristeza,MaxEnt_Felicidad,MaxEnt_Ira,MaxEnt_Miedo,MaxEnt_Tristeza
+,miedo,0.2032488031718583,0.2056001158545492,0.3934572545106457,0.1976938264629454,0.0547718621418704,0.0494828186946132,0.8331838924061786,0.0625614267573374,0.0,0.0,1.0,0.0,0.17739021945908157,0.17145686642142957,0.49474586729495246,0.15640704682453635
+,ira,0.1323649430369018,0.4007503191509396,0.1744877714778888,0.2923969663342683,0.0251760124687914,0.6322665416582759,0.0556931170100759,0.2868643288628567,0.0,0.0,0.0,1.0,0.12584305275318958,0.3381252032791383,0.170090154210526,0.3659415897571461
+,ira,0.190293376492303,0.3771592945066211,0.2484349792380766,0.1841123497629999,0.0307514727438419,0.8704044527699949,0.0606540113345303,0.0381900631516328,0.0,1.0,0.0,0.0,0.16751549234599514,0.45160520300997103,0.23286702019111083,0.14801228445292297
+,felicidad,0.5493745348672168,0.1506928285059036,0.1413894018943696,0.1585432347325092,0.9980843849829316,0.0006613201646357,0.0002149019171754,0.0010393929352571,1.0,0.0,0.0,0.0,0.6191252763090868,0.1296107336037613,0.13179250855763885,0.11947148152951288
+,ira,0.123417038609251,0.5564635951642714,0.1920374384138612,0.1280819278126168,3.1072463273480726e-06,0.9989047484662767,4.48503852690676e-05,0.0010472939021265,0.0,1.0,0.0,0.0,0.06136541062234088,0.7997989947939345,0.07640837348841978,0.062427221095304804
+,felicidad,0.3012308603892445,0.2494167371165392,0.2421041796455842,0.2072482228486314,0.5814834528965792,0.2989900328226746,0.0676093140447331,0.051917200236013,1.0,0.0,0.0,0.0,0.39135386493586255,0.2564104703576445,0.18610422077373445,0.16613144393275836
+,tristeza,0.1621988733105208,0.2162683770445579,0.2377489782564061,0.3837837713885159,0.0627101862553744,0.2241288542955441,0.0202619524477136,0.6928990070013678,1.0,0.0,0.0,0.0,0.17196679656967948,0.26901857190684636,0.16155851471167101,0.39745611681180315
+,felicidad,0.3526990827000219,0.2062369492614438,0.220699667844434,0.2203643001940994,0.4925539883572287,0.1359193102295178,0.2012530608831898,0.1702736405300632,0.0,0.0,1.0,0.0,0.30535088513770514,0.22289173095694154,0.248654274737066,0.22310310916828738
+,miedo,0.2597419047566314,0.2202509218573461,0.2864360173914451,0.2335711559945801,0.2135463303243508,0.2003801622799464,0.3922400857330292,0.1938334216626734,0.0,0.0,1.0,0.0,0.2215249663781875,0.22351586538997523,0.33930149441006324,0.21565767382177412
+,felicidad,0.526755116020917,0.1132579856438331,0.190561104789874,0.169425793545375,0.97074892944006,0.0127039342236755,0.0086450267266944,0.0079021096095701,0.0,0.0,1.0,0.0,0.6950283951503212,0.08839302220757714,0.11577867769979357,0.10079990494230814
+,miedo,0.2301134340437316,0.2061648548619011,0.323201645184868,0.2405200659094989,0.1137016448505625,0.1034078460696855,0.674661923177071,0.1082285859026806,0.0,0.0,1.0,0.0,0.23010832601260373,0.22473681263808917,0.34430181287072575,0.20085304847858138
+,felicidad,0.3050356344938225,0.2546843031803016,0.2209229129802701,0.2193571493456042,0.8295866110957952,0.0733167257082271,0.0502333822624522,0.0468632809335258,1.0,0.0,0.0,0.0,0.3139332432016035,0.25138577785249605,0.23899254358902672,0.19568843535687389
+,tristeza,0.2048619767825789,0.1680437061324392,0.3226442047851905,0.3044501122997917,0.200697246246088,0.0601797129490461,0.1016839604976954,0.6374390803071707,0.0,0.0,0.0,1.0,0.2038381598866049,0.1509993448714295,0.23110180992067414,0.4140606853212915
+,felicidad,0.2981853879463763,0.1601894030863457,0.319216144445162,0.2224090645221194,0.762700911952982,0.0252474632138746,0.1654861441474801,0.0465654806856632,1.0,0.0,0.0,0.0,0.3609212614865086,0.1614481079418825,0.3095244797708742,0.16810615080073465
+,felicidad,0.3548721323363065,0.1420761569448294,0.2237491141585682,0.2793025965602966,0.8221564787764217,0.0114744542647641,0.0070264145451789,0.1593426524136352,1.0,0.0,0.0,0.0,0.4310200692850335,0.13474167736974152,0.15256524182041215,0.2816730115248129
+,felicidad,0.3158157844318058,0.2049113832114941,0.2598617636471363,0.2194110687095649,0.570946051121017,0.1085052685223422,0.2312322104142034,0.0893164699424374,1.0,0.0,0.0,0.0,0.2917646468205627,0.20608034685987942,0.31570142443021937,0.18645358188933864
+,tristeza,0.251058986070053,0.206853917450562,0.2390671325458907,0.3030199639334922,0.1421138807158881,0.1378533182277289,0.1776349575006726,0.5423978435557102,0.0,0.0,0.0,1.0,0.23388453319479224,0.21772575269929795,0.25646690597163835,0.2919228081342715
+,felicidad,0.3697143466678405,0.0640493123802729,0.138686518275218,0.4275498226766694,0.3694857334036079,0.0044519793168139,0.0145754819381785,0.6114868053413997,0.0,0.0,0.0,1.0,0.3743454720820571,0.07094746651187493,0.14250632008997516,0.41220074131609274
+,miedo,0.1060170072759639,0.1379301606253546,0.5366167970715744,0.2194360350271076,0.0014292260085557,0.0050656826759809,0.9725574264252635,0.0209476648901998,0.0,0.0,1.0,0.0,0.10569306740457092,0.12244200412540254,0.612516048454389,0.15934888001563768
+,ira,0.2856934641513654,0.1560479210108067,0.1831280655459286,0.3751305492918979,0.2945485756075052,0.0196840337283969,0.0338213104419099,0.6519460802221878,0.0,0.0,0.0,1.0,0.31414281907200065,0.1431596774940717,0.17914031893541027,0.3635571844985175
+,felicidad,0.5508472885793725,0.0926289142182504,0.1995820118775546,0.1569417853248227,0.998652485707936,0.0001671654086668,0.0006306780511739,0.0005496708322231,1.0,0.0,0.0,0.0,0.7357837105347402,0.044424319161776145,0.1435633476592037,0.07622862264427988
+,ira,0.168220384717027,0.3191151507261872,0.1951985706231402,0.317465893933644,0.0187565986551553,0.6614821658878955,0.045012785602155,0.2747484498547941,0.0,1.0,0.0,0.0,0.1039815498756799,0.479190406692178,0.1625736839540905,0.2542543594780516
+,tristeza,0.2405390833275716,0.2220945187362712,0.215373465416938,0.3219929325192189,0.1576964770678869,0.1214892233738421,0.0618976408426429,0.658916658715628,0.0,0.0,0.0,1.0,0.22799234264992313,0.20492181952340258,0.17256234889109298,0.39452348893558126
+,miedo,0.1577333851176496,0.2490058660832124,0.4265548025407029,0.1667059462584362,0.0083937644704571,0.0351011840795267,0.9376022888912814,0.0189027625587346,0.0,0.0,1.0,0.0,0.16038382449519856,0.24283976598851534,0.446501870104886,0.15027453941140015
+,felicidad,0.479647741674954,0.1382692798810698,0.2242094308916937,0.1578735475522834,0.9911981260349348,0.0006612663132777,0.0063578724032506,0.0017827352485367,1.0,0.0,0.0,0.0,0.46573297562537813,0.15227477152341407,0.23877014432101104,0.14322210853019685
+,miedo,0.1523634618407414,0.1139236848231991,0.533068386203436,0.2006444671326218,0.0134264713694393,0.005653916360697,0.956796644391104,0.0241229678787597,0.0,0.0,1.0,0.0,0.11579138868812011,0.10804070957000472,0.647429448882329,0.12873845285954613
+,felicidad,0.4998374866416068,0.1182567352030556,0.1479440558962198,0.2339617222591182,0.9936774776698022,0.0003029879754596,0.0002137265396242,0.0058058078151137,1.0,0.0,0.0,0.0,0.5541502572139041,0.11984964059302206,0.14147854651629113,0.18452155567678277
+,felicidad,0.2824242773775701,0.2212009120226508,0.2926348388148436,0.2037399717849365,0.6481896975038942,0.1419938514595267,0.1336579054560803,0.0761585455804987,1.0,0.0,0.0,0.0,0.31233878453114017,0.21472109468260453,0.289341403464921,0.18359871732133437
+,felicidad,0.3012159454055291,0.2033530795582885,0.19621149942187,0.299219475614313,0.6788443663311188,0.062908410934539,0.027181652974688,0.2310655697596543,1.0,0.0,0.0,0.0,0.3477448378608858,0.21697442651113302,0.166438196721651,0.2688425389063301
+,miedo,0.1476899599660636,0.1368777114247602,0.5048710694780182,0.2105612591311576,0.0143748952553523,0.0113584012707606,0.9474752899514048,0.026791413522482,0.0,0.0,1.0,0.0,0.1059224260960223,0.09822684960280899,0.6909317092832814,0.10491901501788745
+,miedo,0.0645391440847795,0.1323019389210671,0.666083225156864,0.1370756918372868,0.0035794152737085,0.0410271787577406,0.8920458524611414,0.0633475535074097,0.0,1.0,0.0,0.0,0.08329286537181857,0.1738276535186649,0.5777737442886061,0.16510573682091056
+,felicidad,0.5050634003088846,0.123740119517137,0.2003219040247088,0.17087457614927,0.9615210603750728,0.0085941563568727,0.0224852855196912,0.0073994977483631,1.0,0.0,0.0,0.0,0.5072031494053019,0.14798913370674233,0.19031056115481182,0.15449715573314401
+,tristeza,0.2661273238923906,0.1651843237130487,0.2715139487731879,0.2971744036213721,0.1771195978074341,0.0864102713199138,0.5539901428789571,0.1824799879936946,0.0,0.0,1.0,0.0,0.23201116878344238,0.19067065532326638,0.3238298303505148,0.25348834554277644
+,miedo,0.1974813242166593,0.1968608849735,0.4086489201425557,0.1970088706672848,0.0347100646196207,0.027642775432506,0.9100849391167564,0.0275622208311168,0.0,0.0,1.0,0.0,0.17019669035138682,0.16819197523617485,0.5166314258147273,0.1449799085977111
+,miedo,0.1171815505805173,0.120857725161187,0.5893459388247029,0.1726147854335924,0.0023562826804516,0.0042746506199676,0.9791671360350738,0.0142019306645071,0.0,0.0,1.0,0.0,0.07648710589086166,0.09168842980444875,0.733584076532598,0.09824038777209144
+,felicidad,0.4075215042290159,0.1348994450299831,0.1780556011378774,0.2795234496031225,0.9033612448265752,0.014327383026911,0.0039560143392761,0.0783553578072375,0.0,0.0,0.0,1.0,0.49988472087909247,0.1557921160709515,0.12560514394566616,0.21871801910428987
+,ira,0.1751604061592261,0.4041941182200985,0.2403208545150038,0.1803246211056708,0.0101371654924721,0.9502347621908952,0.0214755420202222,0.0181525302964104,0.0,1.0,0.0,0.0,0.1416593139017683,0.5066365090009814,0.22227356416432473,0.12943061293292557
+,felicidad,0.5753426058646339,0.1134081963043661,0.1877076060705468,0.1235415917604539,0.9987498883404818,0.0003204609157593,0.0003572463006462,0.0005724044431123,1.0,0.0,0.0,0.0,0.6266141247224941,0.1181839218527361,0.1562305752191767,0.098971378205593
+,felicidad,0.9894495833721356,0.0033925193788988,0.0037638987773849,0.0033939984715805,0.9988028046742388,0.0002806556177242,0.0001174860522056,0.0007990536558313,1.0,0.0,0.0,0.0,0.947772997190587,0.01733638788067903,0.01777880047906372,0.017111814449670183
+,felicidad,0.3952772310856547,0.1480412410740792,0.2299927836252129,0.2266887442150548,0.8345052194823568,0.0185913226190859,0.0513572259192203,0.095546231979337,1.0,0.0,0.0,0.0,0.4814560087729439,0.12108393446642148,0.1931348853979662,0.2043251713626684
+,miedo,0.1307577581890437,0.221732173369481,0.4338499050816903,0.2136601633597848,0.0071219414336485,0.0428701551646057,0.8963039729022239,0.0537039304995216,0.0,0.0,1.0,0.0,0.0907010350560686,0.14659832072666407,0.633896459466798,0.12880418475046954
+,tristeza,0.1715913296584443,0.1479705777153642,0.22505467997301,0.4553834126531802,0.0045990002291333,0.0101608047972762,0.0086847702407885,0.9765554247328015,0.0,0.0,0.0,1.0,0.08850469868864508,0.09245997227637844,0.1164918684480315,0.702543460586945
+,miedo,0.1453147593825967,0.1310195464612114,0.608515387976871,0.1151503061793198,0.0129634961854016,0.0074799833435159,0.9705209390626012,0.0090355814084812,0.0,0.0,1.0,0.0,0.11606497755050334,0.13113424122407336,0.6464823946367392,0.10631838658868417
+,tristeza,0.153932294716342,0.1760361411720077,0.3563760096528948,0.3136555544587563,0.0197685474070428,0.0357598221052026,0.7839168492687267,0.1605547812190278,0.0,0.0,1.0,0.0,0.12022332727456046,0.16275655341733655,0.47787226590109905,0.23914785340700406
+,felicidad,0.3450157020949265,0.1914998836372277,0.3166432066410297,0.1468412076268162,0.8058828605598567,0.0313336226383231,0.155065216884281,0.007718299917539,1.0,0.0,0.0,0.0,0.379501869284322,0.1507134500880745,0.3705756146977582,0.09920906592984538
+,ira,0.0687023226370036,0.7172681839545224,0.1417437061320398,0.0722857872764339,4.6707237142469954e-09,0.9999612963494288,3.953779920411197e-06,3.474519992708764e-05,0.0,1.0,0.0,0.0,0.018454306462848725,0.9375893616412903,0.028541563606085264,0.0154147682897759
+,ira,0.273276563692069,0.3383377927989418,0.191073538123887,0.1973121053851004,0.0462041881366797,0.8554116671197212,0.0510004416544569,0.047383703089142,0.0,0.0,1.0,0.0,0.22029917256449705,0.3866452998878341,0.23392376196647413,0.15913176558119477
+,miedo,0.3046072026796955,0.1728852516451157,0.1578582352505801,0.3646493104246089,0.4959797592225246,0.0292367873838881,0.0050031294226341,0.4697803239709532,1.0,0.0,0.0,0.0,0.3479659218824575,0.1819648691360149,0.09065357775329537,0.3794156312282323
+,miedo,0.1304836694886294,0.1424331627914512,0.5832565104275482,0.1438266572923704,0.0027776668171797,0.0019713532373701,0.9909255364772226,0.0043254434682275,0.0,0.0,1.0,0.0,0.1276025841661767,0.1339864121054564,0.624144638688789,0.1142663650395779
+,ira,0.1376949355575566,0.4346747360944827,0.2408639909143248,0.186766337433637,0.0063283618576443,0.9292265100292132,0.0265900073100383,0.0378551208031038,0.0,1.0,0.0,0.0,0.11860880626293556,0.5155333950537817,0.2139906067554687,0.151867191927814
+,ira,0.1928808963277569,0.3272227314901209,0.253457770895427,0.226438601286696,0.0671969649495107,0.7737067268954343,0.0734392856156448,0.08565702253941,0.0,1.0,0.0,0.0,0.1859662794748459,0.40751817940964463,0.2190106393664904,0.18750490174901907
+,tristeza,0.0822065758683925,0.0633620145106704,0.7501860057151657,0.1042454039057697,0.0010776549580612,0.0004196359320573,0.9944472424577446,0.0040554666521365,0.0,0.0,1.0,0.0,0.08888850733579409,0.0705473971609849,0.7442682342990823,0.09629586120413867
+,felicidad,0.2957839854430656,0.2299955445181589,0.2517474122756218,0.2224730577631525,0.6349807637218836,0.1810876430277794,0.101343132533113,0.082588460717224,1.0,0.0,0.0,0.0,0.3038145963513198,0.24541761651148927,0.2687759106407156,0.18199187649647525
+,tristeza,0.1674666878849418,0.1808858620111294,0.3043591201836418,0.3472883299202861,0.0306667099328033,0.0581858901826205,0.0896365173341503,0.8215108825504257,0.0,0.0,0.0,1.0,0.13136237408430934,0.15178084526039398,0.22712286787609465,0.48973391277920214
+,ira,0.2083143763989553,0.1815926741490054,0.2752841372986994,0.3348088121533378,0.0364859139473085,0.0493628302957788,0.1662043219251793,0.7479469338317333,0.0,0.0,0.0,1.0,0.18113793936797415,0.17086291709254658,0.2568853793104962,0.39111376422898303
+,ira,0.0608520358701021,0.4934294899725661,0.2034032327713211,0.2423152413860121,0.0008153787204118,0.9379650270690926,0.0119679050350329,0.0492516891754625,0.0,1.0,0.0,0.0,0.07327756248003109,0.5336125675267243,0.17056345200458262,0.222546417988662
+,ira,0.2344454237625585,0.1615185717892509,0.2462028321282486,0.3578331723199436,0.1435467766873397,0.0271364507061512,0.0779938309352971,0.7513229416712122,0.0,0.0,0.0,1.0,0.21992116370636175,0.1779612000267263,0.2589213420404807,0.3431962942264313
+,miedo,0.1569779631888047,0.2021240705417686,0.4351298926634979,0.205768073605929,0.0230103778980476,0.1080679481327097,0.7870180658025059,0.0819036081667366,0.0,0.0,1.0,0.0,0.1511942475555073,0.21659980500186413,0.4489102713854362,0.1832956760571924
+,tristeza,0.2813263558658915,0.143261694530271,0.2120359101465513,0.3633760394572869,0.3825534569780419,0.0147568810090583,0.0154859939700227,0.5872036680428772,1.0,0.0,0.0,0.0,0.36215690017114593,0.1086253876457118,0.1422010483605857,0.38701666382255673
+,tristeza,0.2001936427789991,0.1355313565876072,0.1655314354739716,0.4987435651594228,0.0273495768002574,0.0086125413020675,0.0055644099121622,0.9584734719855128,0.0,0.0,0.0,1.0,0.12917433722685104,0.1051902126321487,0.09249047765489353,0.6731449724861066
+,felicidad,0.4428067123750426,0.1750730434940914,0.2026838731149503,0.1794363710159156,0.9733558447475896,0.0101436624803817,0.0087383717681305,0.0077621210038981,1.0,0.0,0.0,0.0,0.5124247211304347,0.16053537044186936,0.18571312180626065,0.14132678662143539
+,tristeza,0.2354256084665382,0.1440048155469024,0.2358192341466287,0.3847503418399278,0.1133475423546056,0.0276537013339481,0.0709834403351862,0.7880153159762598,0.0,0.0,0.0,1.0,0.19921808211335487,0.12962342352256379,0.2054112577216707,0.4657472366424106
+,miedo,0.1201382959692546,0.178454654098966,0.3259467761266622,0.3754602738051168,0.0323982078915617,0.0614069245661194,0.3595254522468774,0.5466694152954413,0.0,0.0,1.0,0.0,0.13869777902091773,0.20559608136573235,0.3610191065474189,0.2946870330659311
+,miedo,0.2210467855667386,0.2026813078266037,0.3703854863632914,0.2058864202433679,0.0587723050253693,0.0499692568142724,0.8285943064389614,0.0626641317213967,0.0,0.0,1.0,0.0,0.1972178319717048,0.21110317045731028,0.4016748297876639,0.19000416778332094
+,miedo,0.1048933346704874,0.1811819139907702,0.6029345903370471,0.1109901610016962,0.0315012590904799,0.0586703184225369,0.875140681813498,0.0346877406734851,0.0,0.0,1.0,0.0,0.13176601053485273,0.2292422186271994,0.5199839620945906,0.11900780874335726
+,miedo,0.1577722134671401,0.1528417672440198,0.5409883248298973,0.1483976944589396,0.017536839020527,0.0117217639244165,0.9603142348411106,0.0104271622139458,0.0,0.0,1.0,0.0,0.14619212136314927,0.16131228940880105,0.5736075798503019,0.11888800937774784
+,felicidad,0.624142798476928,0.0619653663509404,0.1410266309194031,0.1728652042527269,0.9965724325152824,0.000162819069738,0.0005850286693885,0.0026797197455908,1.0,0.0,0.0,0.0,0.7169801099363047,0.05299548667992894,0.11073697230981504,0.11928743107395122
+,miedo,0.1133267616471682,0.1610277266119722,0.5643774528455585,0.1612680588953019,1.2029655891877766e-05,1.6658136989490137e-05,0.9974628762787894,0.0025084359283292,0.0,0.0,1.0,0.0,0.07932200362824583,0.10507000114597309,0.7167883158786618,0.09881967934711919
+,miedo,0.2205135816730831,0.2199506024305059,0.3657224015904013,0.1938134143060102,0.0625746470444025,0.0958476981931965,0.7959760104084297,0.0456016443539709,0.0,0.0,1.0,0.0,0.16264398407213687,0.18872331462534395,0.5077707671764726,0.14086193412604647
+,tristeza,0.0863052684573196,0.0567061065285174,0.1809500341051541,0.6760385909090086,5.380374536210017e-09,4.501271877878485e-09,6.310618091968163e-09,0.9999999838077356,0.0,0.0,0.0,1.0,0.011158754847963906,0.010087372992351745,0.021134746407319677,0.9576191257523646
+,ira,0.2077443873028771,0.3170599641144235,0.202423439285977,0.2727722092967211,0.0846924960957906,0.7002377531290939,0.0716530322388923,0.1434167185362229,0.0,1.0,0.0,0.0,0.16784039256457897,0.4794107671746022,0.1563570462216809,0.19639179403913792
+,miedo,0.2319628820947397,0.1627251077020517,0.1942469471708084,0.4110650630323982,0.0735915750597177,0.0406131887061328,0.0454997147998878,0.8402955214342616,0.0,0.0,0.0,1.0,0.2324409570270684,0.17624165368499412,0.17429688133192897,0.41702050795600853
+,tristeza,0.1352845385228435,0.1659829192161374,0.305282606665878,0.3934499355951392,0.0181764480896467,0.031969749098339,0.1780584383890051,0.771795364423009,0.0,0.0,0.0,1.0,0.1350033401306142,0.1592105412241686,0.28869134636970084,0.4170947722755162
+,felicidad,0.2682268016816684,0.1730841709506379,0.3312948865168912,0.227394140850801,0.8004754271925366,0.0316015226979319,0.103442170541176,0.0644808795683552,1.0,0.0,0.0,0.0,0.3677966568659057,0.15842570209319262,0.2802276855082769,0.19354995553262466
+,ira,0.1601138624168153,0.3493595659103761,0.1915481901435461,0.2989783815292611,0.0074449669267013,0.5620040532596938,0.0157670162442301,0.4147839635693747,0.0,0.0,0.0,1.0,0.09593168897084577,0.44041740393734724,0.11958801069017883,0.3440628964016282
+,felicidad,0.3084893512354467,0.2162035603915984,0.1883125881617636,0.2869945002111898,0.5556137917867783,0.1227948356255651,0.0392811052139251,0.2823102673737315,1.0,0.0,0.0,0.0,0.3217955470343547,0.21042209179144575,0.18433878304946646,0.283443578124733
+,tristeza,0.278226780644173,0.160723326440165,0.1640475821050443,0.3970023108106165,0.0742597122693251,0.093762599822024,0.0768734791783155,0.7551042087303351,0.0,0.0,0.0,1.0,0.20837119389439399,0.17410171793966664,0.19174310700943897,0.4257839811565004
+,ira,0.1797019064109701,0.420279427866634,0.2135701047044206,0.1864485610179747,0.1450469705326731,0.3788026017694473,0.2892185197306958,0.1869319079671838,0.0,0.0,1.0,0.0,0.1885187987561043,0.3450717635652497,0.266108862591424,0.200300575087222
+,ira,0.2113720163019211,0.3398075233202098,0.2332395027251589,0.2155809576527106,0.0399524183291994,0.8518259560825577,0.0504434610624816,0.0577781645257613,0.0,1.0,0.0,0.0,0.17595422299852803,0.4038632118315146,0.23811580541945512,0.18206675975050227
+,miedo,0.1640905326973543,0.3156713662191223,0.3053365806182793,0.2149015204652426,0.0402994632629663,0.6139285400098977,0.2837411352739054,0.0620308614532302,0.0,0.0,1.0,0.0,0.17669815553073126,0.3426464263533227,0.3041739490299726,0.17648146908597342
+,felicidad,0.377236255271437,0.2036708057176502,0.2157150725823058,0.2033778664286052,0.8797569834826395,0.0492659626410326,0.0296792577438006,0.0412977961325273,0.0,1.0,0.0,0.0,0.4084326908453367,0.1994688440485757,0.20217967063276393,0.1899187944733236
+,miedo,0.1528777378925239,0.155483743808097,0.397905841262558,0.2937326770368197,0.0465280642852618,0.058268819660868,0.5308780359361143,0.3643250801177556,0.0,1.0,0.0,0.0,0.1807063840162749,0.17456125239184653,0.3305443362537554,0.31418802733812307
+,ira,0.151583899147546,0.291150602292159,0.3466115443579105,0.210653954202388,0.0164512698981894,0.6278387300223761,0.3075896817435137,0.0481203183359211,0.0,1.0,0.0,0.0,0.13580741865752635,0.35383625945557945,0.3515802514361568,0.15877607045073744
+,ira,0.2465765815436319,0.2582468942866335,0.3301753240015758,0.1650012001681596,0.1771166571324168,0.364324738609135,0.4052736954635671,0.0532849087948813,1.0,0.0,0.0,0.0,0.2951450329735518,0.2523877171312058,0.3053243513156754,0.1471428985795669
+,tristeza,0.1132744104554964,0.2032898607840711,0.2560615645048527,0.4273741642555812,0.0065208095075863,0.0467559113668419,0.0377113504308985,0.9090119286946732,0.0,0.0,0.0,1.0,0.09597062714184751,0.16595797329894038,0.18933113403896254,0.5487402655202496
+,ira,0.1840688540526247,0.3353871080885832,0.2787484267307872,0.2017956111280028,0.0172324072128616,0.8613170092660434,0.0688220762999387,0.0526285072211561,0.0,0.0,1.0,0.0,0.17964966274130242,0.3197870387552461,0.28820179826943104,0.21236150023402053
+,ira,0.1708850750193663,0.4189596010832805,0.2160778665234106,0.194077457373943,0.0041197419963803,0.9713039113050936,0.0060844597995774,0.0184918868989482,0.0,0.0,1.0,0.0,0.12717089905968457,0.5515756076020291,0.16876647243577805,0.15248702090250826
+,miedo,0.2000065728932829,0.1088999195233879,0.5630543708673188,0.1280391367160124,0.0025032567789268,0.0010417236788908,0.9923453713331372,0.0041096482090449,0.0,0.0,1.0,0.0,0.19290178754800658,0.1296155044176557,0.5492088685015118,0.12827383953282587
+,tristeza,0.1551528994975091,0.1214289820576698,0.3133859388439258,0.4100321796008937,0.0096855616918434,0.0060214027171206,0.0394708883998367,0.9448221471911992,0.0,0.0,0.0,1.0,0.10612625500455385,0.0795346645189487,0.17785427495643324,0.6364848055200643
+,ira,0.2043949048148817,0.2899325949862066,0.2849944322344905,0.220678067964421,0.093235685211693,0.5456972811224177,0.2334391652952857,0.1276278683706036,0.0,1.0,0.0,0.0,0.18849396841908586,0.32765632739555484,0.2910485154544099,0.19280118873094942
+,tristeza,0.2850947695860422,0.1411341027467095,0.222014861796299,0.3517562658709497,0.1050658785042606,0.0337295654169868,0.1204371052832391,0.7407674507955134,0.0,0.0,0.0,1.0,0.22890880524606108,0.13754272341775226,0.20320753115050313,0.4303409401856836
+,miedo,0.2067649425731778,0.1827353370117976,0.4403928096242893,0.1701069107907336,0.0721867059956475,0.0412321775873674,0.8477570221231343,0.0388240942938508,0.0,0.0,1.0,0.0,0.16657157208320736,0.1555533758279799,0.5467407186851811,0.13113433340363165
+,miedo,0.1563220797870041,0.1777828677458702,0.4444053834597657,0.2214896690073598,0.0126678774226281,0.0236170514688344,0.8921093027977622,0.0716057683107752,0.0,0.0,1.0,0.0,0.12472482889630503,0.15450612299204822,0.5452315035788999,0.17553754453274684
+,tristeza,0.1707671808853167,0.1753257082077745,0.2368506153970434,0.4170564955098659,0.0141973068348146,0.0090220105107508,0.0385821085529961,0.938198574101438,0.0,0.0,0.0,1.0,0.119269691951662,0.12322580639259173,0.1797542661549854,0.5777502355007609
+,tristeza,0.1829159961789943,0.1314090533796651,0.1624396146198367,0.5232353358215035,0.0066590667354892,0.0024688899020781,0.0024695873617248,0.988402456000708,0.0,0.0,0.0,1.0,0.14176108065970378,0.10386423654134135,0.11329468529103047,0.6410799975079244
+,tristeza,0.081081009218282,0.1615611799483877,0.2517443060591697,0.5056135047741614,0.0009670676153587,0.0161829459763551,0.0497594109213069,0.9330905754869792,0.0,0.0,0.0,1.0,0.05711121070279586,0.11792571895211136,0.22216779841172946,0.6027952719333634
+,felicidad,0.2416860913222448,0.2036582900613529,0.3171803012075722,0.2374753174088298,0.6258205349674952,0.0982519133355381,0.1810214761443296,0.0949060755526372,1.0,0.0,0.0,0.0,0.3419714391656855,0.19308468333846193,0.27443486361418473,0.1905090138816679
+,tristeza,0.1464032982911046,0.2380584683983775,0.2673733352279018,0.3481648980826133,0.0564235630811391,0.2987127960045189,0.1162772381464436,0.5285864027678981,0.0,0.0,0.0,1.0,0.15290923316431268,0.2862584602584089,0.2274350971683291,0.33339720940894935
+,felicidad,0.2343087766286158,0.2234567994805505,0.310586850699239,0.2316475731915946,0.4236313673869158,0.2379917851060365,0.1678511696683325,0.1705256778387149,1.0,0.0,0.0,0.0,0.2744570887381837,0.24325619942178234,0.2501975763268295,0.2320891355132044
+,ira,0.1080772616021882,0.4518741648155929,0.2267479085760987,0.2133006650061186,0.0105750079137114,0.8846832235475646,0.0273987329991231,0.0773430355396006,0.0,1.0,0.0,0.0,0.09909211679492554,0.5668229836621782,0.17614800983829446,0.1579368897046018
+,tristeza,0.2079433449164431,0.2646475734104205,0.2827386746209036,0.2446704070522312,0.0893967222527508,0.5998939343348163,0.1460971416493749,0.1646122017630579,0.0,0.0,0.0,1.0,0.19144998974748362,0.3046672486005722,0.2698015102768369,0.23408125137510719
+,miedo,0.1505674326465466,0.1856011634797187,0.4407301466891314,0.2231012571846034,0.0115299317395071,0.019112474905066,0.9043129190963848,0.0650446742590421,0.0,0.0,1.0,0.0,0.1356950749166752,0.17597335399414615,0.48149325768597817,0.2068383134032006
+,miedo,0.1565974754973659,0.2475472354420586,0.4303299942658335,0.1655252947947392,0.0146465692950944,0.1410070929211599,0.8184425613432342,0.0259037764405114,0.0,0.0,1.0,0.0,0.14243635669963756,0.26000956311922885,0.4537983333788708,0.14375574680226277
+,miedo,0.2466677957550204,0.1689384321326438,0.3620160900270461,0.22237768208529,0.1677596296713674,0.0549947160539107,0.6519107655367402,0.1253348887379811,0.0,0.0,1.0,0.0,0.23059527440058586,0.18183350512014604,0.3901238472534355,0.19744737322583264
+,tristeza,0.1173736066427141,0.1818248610315158,0.3532596154344112,0.3475419168913578,0.056320034580879,0.3259669039232611,0.1770156875042426,0.4406973739916173,0.0,0.0,0.0,1.0,0.13779916983484208,0.25080548185120066,0.27627889871423483,0.33511644959972237
+,ira,0.1813143435961434,0.3804638670502921,0.2403043622398732,0.1979174271136912,0.0275090865941138,0.8998071041721324,0.0329747278366064,0.0397090813971477,0.0,0.0,1.0,0.0,0.19280438039826256,0.40563143777240007,0.2247244206001206,0.17683976122921674
+,felicidad,0.3858135078648103,0.1841708566662789,0.2145934608080596,0.2154221746608487,0.7458660984522325,0.0871244344420672,0.0747708913259994,0.0922385757797007,1.0,0.0,0.0,0.0,0.35930442176227606,0.20724211141932766,0.2323158331659065,0.20113763365248968
+,felicidad,0.4398301379356439,0.2166851544408887,0.2100234636068085,0.1334612440166588,0.9089484552402098,0.0681028278308286,0.0164804908248753,0.006468226104086,1.0,0.0,0.0,0.0,0.4967559376801724,0.2673668981267763,0.15586309343481933,0.08001407075823191
+,ira,0.2308756401823262,0.2217698238469693,0.29023965983527,0.2571148761354325,0.2915076734607549,0.3479264130322859,0.1807784131798602,0.179787500327099,0.0,1.0,0.0,0.0,0.27835899984022855,0.22964388360525897,0.26911823916738753,0.2228788773871249
+,ira,0.189339414877944,0.3270547027006514,0.2758817877033555,0.2077240947180475,0.0433140763972884,0.5377133075317349,0.322441036462594,0.0965315796083824,0.0,1.0,0.0,0.0,0.1469338994239613,0.39593865152644236,0.28575520915350916,0.17137223989608727
+,felicidad,0.2979736834778307,0.1801414246644554,0.3188288881880102,0.2030560036697019,0.7212709062556562,0.0667962356097192,0.1475240569595046,0.0644088011751197,0.0,0.0,1.0,0.0,0.28357959118088144,0.21327579623405746,0.2931090146449909,0.21003559794007023
+,miedo,0.1615568068558283,0.0953189319410374,0.2909702353771446,0.452154025825991,0.0089583813994764,0.0084724459328288,0.0464426392499468,0.936126533417748,0.0,0.0,0.0,1.0,0.15243252019642398,0.09742395750631165,0.26696764819208524,0.4831758741051792
+,miedo,0.1980244810416969,0.190159309889456,0.3011931664837307,0.3106230425851141,0.1486253624577079,0.1665285793132227,0.3270600526730035,0.3577860055560659,0.0,0.0,1.0,0.0,0.20360068285788516,0.21861576940077165,0.28937480323959686,0.2884087445017463
+,miedo,0.1642550500685288,0.1448271747028689,0.5275886263719615,0.1633291488566395,0.0159228028268524,0.0135394391017422,0.9393330110337202,0.0312047470376854,0.0,0.0,1.0,0.0,0.12712698334785594,0.13828855150541625,0.6001039168967691,0.13448054824995873
+,tristeza,0.1898460532967621,0.2189412889257781,0.1739360740456702,0.417276583731788,0.1886247250069779,0.1580618646376297,0.0108264181197519,0.6424869922356404,0.0,0.0,1.0,0.0,0.21510029359628902,0.2626303291296653,0.12582856921034913,0.39644080806369664
+,miedo,0.0699671839598766,0.081400491726824,0.7593138043927059,0.0893185199205931,6.386203226621653e-07,9.198537412573174e-07,0.9994689812376268,0.0005294602883092,0.0,0.0,1.0,0.0,0.03659445641424066,0.045567399001004864,0.8767541176650614,0.04108402691969306
+,miedo,0.1294576398272615,0.1770003439722594,0.3787292766580968,0.3148127395423819,0.0073212431207896,0.0261900951323379,0.8815561398242497,0.0849325219226224,0.0,0.0,1.0,0.0,0.11951344492574494,0.184115824510063,0.44683161260751636,0.24953911795667585
+,ira,0.111905880267363,0.5318138561268811,0.2237119130396148,0.1325683505661401,0.0012450052763496,0.9896438037494468,0.0062655121685563,0.0028456788056472,0.0,1.0,0.0,0.0,0.0746594711547027,0.6840481287816865,0.16156714272888162,0.07972525733472907
+,tristeza,0.2393045800367454,0.2246032208400924,0.1810185015199454,0.3550736976032151,0.1227594223703124,0.2309100981888666,0.0409625397976887,0.6053679396431323,0.0,0.0,0.0,1.0,0.21259709048132974,0.23011034868202052,0.18495984651073433,0.3723327143259153
+,tristeza,0.2320925194838662,0.1198289565955866,0.1445021936733455,0.5035763302472008,0.0496929976530712,0.0101610082898399,0.0128201577667769,0.9273258362903122,0.0,0.0,0.0,1.0,0.2190346332131887,0.11319289598380661,0.13714006267572063,0.5306324081272841
+,miedo,0.2619406301670906,0.217566023122753,0.2885202067678752,0.231973139942282,0.220993115597268,0.193270631313688,0.3907256018355774,0.1950106512534662,0.0,0.0,1.0,0.0,0.22239854542797613,0.2201962959212181,0.34292648264656844,0.2144786760042372
+,tristeza,0.1746218274735573,0.1817547539901651,0.368863309081093,0.2747601094551831,0.0361376017857612,0.014771926005456,0.7578745408576787,0.1912159313511041,0.0,0.0,1.0,0.0,0.14173292450241104,0.12446540378039378,0.4989648441967434,0.23483682752045185
+,tristeza,0.174580896650361,0.2024811886284246,0.2333945317089373,0.3895433830122776,0.0283497682606927,0.1254820820624916,0.020287476612144,0.8258806730646716,0.0,0.0,0.0,1.0,0.1262219136941487,0.2170253825065965,0.1476275883654622,0.5091251154337926
+,tristeza,0.1848856106857446,0.1864237877931179,0.207843054906953,0.4208475466141853,0.0253226084589433,0.0671357776385536,0.0567713888621855,0.8507702250403177,0.0,0.0,0.0,1.0,0.15056066213303126,0.18639704601676138,0.2112795793056054,0.45176271254460193
+,felicidad,0.4324514868658298,0.1552024849110937,0.2091204469494925,0.2032255812735841,0.7626260730530597,0.0474965481804948,0.0553202778277207,0.1345571009387243,1.0,0.0,0.0,0.0,0.42259788300922957,0.16439500567896448,0.2018009199866566,0.21120619132514928
+,tristeza,0.1633789052504528,0.142322907413976,0.2244798610258813,0.4698183263096888,0.0095007851507398,0.0308487239587847,0.0468083540722795,0.9128421368181956,0.0,0.0,0.0,1.0,0.13424855917891637,0.14063851459153,0.16151932998631027,0.5635935962432433
+,felicidad,0.3942364947029692,0.1759912575089924,0.1968797128640181,0.2328925349240193,0.9612737489175528,0.0139274864300981,0.0055155576298178,0.0192832070225312,1.0,0.0,0.0,0.0,0.4694232425621137,0.1764082684251695,0.16143972027862633,0.19272876873409045
+,miedo,0.1392520012214486,0.1516185438233523,0.5452897384748703,0.1638397164803279,1.814187764288769e-05,2.035378568312577e-05,0.9974699077573528,0.0024915965793211,0.0,0.0,1.0,0.0,0.10550689341068784,0.11899755548399663,0.6684130677542521,0.10708248335106349
+,felicidad,0.2651915742244952,0.1542850069298386,0.3133287801043269,0.2671946387413404,0.4930110948678378,0.0284064185973932,0.2860218015369779,0.1925606849977909,1.0,0.0,0.0,0.0,0.28391154836671023,0.15611414012315195,0.33219516279612893,0.2277791487140088
+,felicidad,0.2320536450256395,0.2452907803515266,0.3403159204639071,0.1823396541589257,0.3818118457162495,0.5024004429017561,0.0803644199929949,0.0354232913889995,1.0,0.0,0.0,0.0,0.27097347121854987,0.2753956815044172,0.2700245224675617,0.18360632480947137
+,felicidad,0.9765880523924474,0.0074983597916521,0.0084016261918384,0.0075119616240632,0.9800849320869416,0.0072253570669484,0.0044673610736898,0.0082223497724202,1.0,0.0,0.0,0.0,0.892008225811128,0.03598569927210788,0.03711493793325514,0.034891136983508826
+,ira,0.1510197750917776,0.4155348497148747,0.2393335250723548,0.1941118501209938,0.0065677585760387,0.9728018339015077,0.0060123225864278,0.0146180849360257,0.0,1.0,0.0,0.0,0.12054340630512543,0.5956965187278368,0.1620952285632447,0.12166484640379295
+,ira,0.195766161913211,0.3551108225779689,0.2469058662615119,0.2022171492473066,0.0093568410314347,0.9486052822989136,0.0175092051931677,0.0245286714764837,0.0,1.0,0.0,0.0,0.14917007879528196,0.46477532698486884,0.22826287607658968,0.15779171814325954
+,tristeza,0.2438021314905456,0.2087487759655686,0.2590813704304931,0.2883677221133922,0.2158914067906482,0.1900030287192209,0.2474029436946453,0.3467026207954853,0.0,0.0,0.0,1.0,0.22012326120269274,0.25155876418191697,0.27455315049969164,0.2537648241156987
+,ira,0.1229310129746722,0.4690714310289453,0.2511083556645858,0.1568892003317967,0.0011789438273168,0.9896649684644006,0.0047856004566874,0.0043704872515951,0.0,1.0,0.0,0.0,0.10732586050314231,0.5732315117871397,0.1967918976481781,0.12265073006153986
+,ira,0.1478311060824555,0.4411289458453034,0.2573337947181023,0.1537061533541376,0.0032994674434014,0.985138624234709,0.0076897987248619,0.0038721095970277,0.0,1.0,0.0,0.0,0.12935562967853687,0.5560975442449153,0.19058107903202784,0.12396574704451997
+,ira,0.2238677977197777,0.3667652999004162,0.2169100033527722,0.1924568990270349,0.1020829490997303,0.7870824158653092,0.0402473885489736,0.0705872464859867,0.0,1.0,0.0,0.0,0.1950744337330102,0.45887690110406815,0.19152490092447275,0.1545237642384489
+,miedo,0.1859804608193115,0.1292394228409564,0.5166414716015619,0.1681386447381716,0.0198394765602231,0.0074509389604445,0.946886299670602,0.0258232848087306,0.0,0.0,1.0,0.0,0.1348855921859003,0.10474746659431336,0.6482642983457568,0.11210264287402959
+,felicidad,0.2813182329900462,0.1136609823763132,0.4654024462034343,0.1396183384302073,0.3652810240440259,0.0065992192684223,0.5867270510942744,0.0413927055932774,1.0,0.0,0.0,0.0,0.3109494859821856,0.12263425502552429,0.41715505927059554,0.1492611997216947
+,tristeza,0.2603349987252394,0.1396270652751694,0.24353504326516,0.3565028927344297,0.2590162363547228,0.0243206919794789,0.1499138989369327,0.5667491727288659,1.0,0.0,0.0,0.0,0.2594099304419471,0.13955819857122656,0.24712976945688084,0.35390210152994556
+,miedo,0.1362523133802771,0.1373513891735255,0.5855914731628923,0.1408048242833057,0.002582166752851,0.0039240184208613,0.9862406356308496,0.0072531791954378,0.0,0.0,1.0,0.0,0.06793753640642021,0.07559169044769047,0.7900479798753749,0.06642279327051447
+,felicidad,0.4532055965509435,0.1933108532977909,0.1483074622809375,0.2051760878703298,0.9888011582493014,0.0034422607579418,0.001255056922687,0.0065015240700697,1.0,0.0,0.0,0.0,0.5424151267293772,0.15802010607261646,0.13669301582001964,0.1628717513779867
+,tristeza,0.1507362150849782,0.13181237372355,0.3296241996861947,0.3878272115052771,0.0025528463107416,0.004077836690332,0.0808033153902977,0.9125660016086284,0.0,0.0,0.0,1.0,0.12659399195689797,0.11419445521679668,0.23297433125675904,0.5262372215695463
+,ira,0.1712022099669381,0.3044724654677851,0.3323157527592594,0.1920095718060161,0.0132601488339708,0.7538213712433453,0.1979211182180855,0.0349973617045981,0.0,1.0,0.0,0.0,0.13995480235113045,0.37172708527220366,0.34243901466830484,0.14587909770836097
+,felicidad,0.9894495833721356,0.0033925193788988,0.0037638987773849,0.0033939984715805,0.9988033885028388,0.0002801088284007,0.0001174105801986,0.0007990920885615,1.0,0.0,0.0,0.0,0.947772997190587,0.01733638788067903,0.01777880047906372,0.017111814449670183
+,felicidad,0.326893838524117,0.2449890940166366,0.2644433470518211,0.1636737204074239,0.6758151962859436,0.2392307501693755,0.0683601819012329,0.0165938716434474,1.0,0.0,0.0,0.0,0.41047696088919694,0.22553246966601959,0.24114680161583688,0.12284376782894656
+,miedo,0.1377121318153888,0.1330609039310842,0.599314668460378,0.1299122957931499,0.00354135126025,0.0043468460143931,0.9885406566015734,0.0035711461237832,0.0,0.0,1.0,0.0,0.09381056034908558,0.0996739371575631,0.744724182083056,0.06179132041029536
+,ira,0.1960772500235973,0.2759279588055152,0.2520965991914489,0.2758981919794383,0.0615652021531336,0.6551838357170992,0.1190981276626038,0.1641528344671631,0.0,1.0,0.0,0.0,0.1767437522037776,0.3230319886968653,0.26296109752130237,0.23726316157805477
+,felicidad,0.2353622255324861,0.2444483002145417,0.1854394723028938,0.3347500019500795,0.2783167238997499,0.3151157988147641,0.0421777558427688,0.3643897214427173,1.0,0.0,0.0,0.0,0.24415878042260747,0.2967678997738093,0.18567660494179164,0.2733967148617915
+,felicidad,0.2898333037963669,0.2629634784007673,0.2228991697841701,0.2243040480186939,0.5698505128004722,0.2701593633905042,0.0359711765649564,0.1240189472440674,1.0,0.0,0.0,0.0,0.31111217562461474,0.26927109569949587,0.20049715993815415,0.21911956873773525
+,miedo,0.2175517085933034,0.2373347940160936,0.401188198621561,0.143925298769042,0.0378389711611961,0.5744715554329805,0.3642442400825453,0.0234452333232782,1.0,0.0,0.0,0.0,0.19329995531505217,0.3250269700126618,0.37728045422229595,0.10439262044999002
+,ira,0.2381101273258151,0.3311914134766779,0.2149671413940682,0.215731317803439,0.0963363086196154,0.7292480967302066,0.0839433701164338,0.0904722245337441,0.0,1.0,0.0,0.0,0.20548184910314207,0.3586644428236025,0.24493652144578476,0.19091718662747076
+,miedo,0.1592733542359072,0.082994307478642,0.3822747605488167,0.3754575777366324,0.0108423262115643,0.0027303137856424,0.1267922734303737,0.8596350865724195,0.0,0.0,0.0,1.0,0.1252658770470118,0.07106205480947204,0.29683908110913354,0.5068329870343826
+,miedo,0.2758449327340146,0.2051543625427996,0.3100838725094746,0.208916832213711,0.3233713397167433,0.2185880002214306,0.3196397759330116,0.1384008841288143,1.0,0.0,0.0,0.0,0.2625311032270913,0.22659230866906938,0.30850420747155005,0.2023723806322892
+,tristeza,0.2428984563840119,0.2426068702250621,0.1814597019877817,0.3330349714031453,0.1766982284240237,0.3075333323317045,0.0587848919534319,0.4569835472908398,0.0,0.0,0.0,1.0,0.1978957227938048,0.24597874276659618,0.18445915592327805,0.37166637851632095
+,tristeza,0.1436960312047293,0.221185378459598,0.3624437236311242,0.2726748667045474,0.011025085002827,0.0729914576342363,0.7804857448440357,0.1354977125189009,0.0,0.0,0.0,1.0,0.1283837552948981,0.21979234727768465,0.4060348425703581,0.24578905485705912
+,miedo,0.0569349113707678,0.0693535965560891,0.8144569708316929,0.0592545212414513,0.0008164580271693,0.0011130360999566,0.995984444819508,0.0020860610533659,0.0,0.0,1.0,0.0,0.05680921259853009,0.07107582986952747,0.8146290463860156,0.05748591114592668
+,tristeza,0.1387025791020543,0.1453527622104992,0.1978498542768248,0.518094804410621,0.0013095750521335,0.0031754395406453,0.0043052730774783,0.9912097123297428,0.0,0.0,0.0,1.0,0.09042343377567597,0.09887696951502674,0.13122582348290246,0.6794737732263949
+,tristeza,0.2231685889169773,0.2463771549048281,0.2272391185084072,0.3032151376697868,0.1910064311785515,0.3309222390120965,0.0963491529509077,0.3817221768584443,0.0,0.0,0.0,1.0,0.21367888383997238,0.26265100634934624,0.22496702321672338,0.29870308659395794
+,ira,0.187862140999264,0.3187475347196837,0.1768292124924412,0.3165611117886096,0.0721865193233486,0.7407839571048447,0.0157642469504938,0.1712652766213132,0.0,0.0,1.0,0.0,0.17164513641532023,0.40368637356218184,0.14414872994969896,0.280519760072799
+,felicidad,0.986772400648228,0.0042533758352897,0.0047189932667096,0.0042552302497728,0.998750324658153,0.0002939270529114,0.0001234514134939,0.0008322968754415,1.0,0.0,0.0,0.0,0.9457682229116074,0.01800174853809487,0.018466797906353027,0.017763230643944722
+,tristeza,0.2887125281340966,0.1603455722245188,0.1660482171841186,0.3848936824572675,0.2856824828682913,0.0396981734679116,0.0160609851760774,0.6585583584877197,1.0,0.0,0.0,0.0,0.2916890604790808,0.1759617477740898,0.12512391176321966,0.40722527998360986
+,miedo,0.1797028887285029,0.1544798327567265,0.4436338516733151,0.2221834268414551,0.0139166901056637,0.0151675937562085,0.9274975461160488,0.043418170022079,0.0,0.0,1.0,0.0,0.14170290203084876,0.15183835666763812,0.5145788075969729,0.19187993370454026
+,tristeza,0.2241722924210497,0.1860780593501589,0.247490982510569,0.3422586657182213,0.0538376670811423,0.0216903397430781,0.0756977180640541,0.8487742751117255,0.0,0.0,0.0,1.0,0.1749740222495993,0.14904113252012538,0.22457350807989934,0.45141133715037585
+,tristeza,0.1742669654414723,0.2062814849453877,0.2372871862668324,0.3821643633463063,0.07976969580642,0.0878705344380867,0.0780805544738707,0.7542792152816225,0.0,0.0,0.0,1.0,0.16829460454475606,0.2064610364830452,0.21489655604210472,0.41034780293009404
+,tristeza,0.2446406471654298,0.1154118341087952,0.1932608794137188,0.4466866393120552,0.0934946346709298,0.0076369655846297,0.020883170494011,0.8779852292504293,0.0,0.0,0.0,1.0,0.26635620129537424,0.09654348024813883,0.15281752994076064,0.4842827885157262
+,felicidad,0.4098988426284347,0.1818318187990105,0.1944423521729943,0.2138269863995596,0.6423995359288349,0.0962355745377054,0.1096353862224315,0.1517295033110285,1.0,0.0,0.0,0.0,0.38618100343481554,0.1989845830603742,0.21559896897320696,0.19923544453160327
+,miedo,0.1984645275585265,0.2409175432999797,0.3949659445229931,0.1656519846184995,0.0951780968457271,0.1992454188894091,0.6477043104574861,0.0578721738073774,0.0,0.0,1.0,0.0,0.19972403487816298,0.26452936393014476,0.37483639307023936,0.160910208121453
+,felicidad,0.23319412324234,0.1680301428925718,0.2208527827310402,0.3779229511340474,0.0642931499831725,0.047850594290817,0.0589389405520839,0.8289173151739264,0.0,0.0,0.0,1.0,0.20068143862202187,0.16187102712311568,0.20566132257086348,0.43178621168399905
+,ira,0.2721968609479611,0.1585525800681867,0.1974291985044001,0.3718213604794527,0.2924377748739162,0.0507091571918133,0.01549994399796,0.6413531239363104,0.0,1.0,0.0,0.0,0.28900827075238045,0.18860068378253203,0.14483191857279432,0.3775591268922931
+,tristeza,0.2128970008523237,0.1666262485052105,0.2158486823292511,0.4046280683132179,0.1310071978069926,0.0686213517407076,0.0966353536771148,0.7037360967751848,0.0,0.0,0.0,1.0,0.20680232252074804,0.15088795030575916,0.19670985279556877,0.4455998743779241
+,miedo,0.1888908907247172,0.1897638794058739,0.3670852378622725,0.254259992007136,0.0491032658638019,0.0601181931905032,0.7057450739844945,0.1850334669612004,0.0,0.0,1.0,0.0,0.16323999978527434,0.16987582255401368,0.44781115615742134,0.21907302150329075
+,tristeza,0.1073308861178343,0.1730932937037407,0.2352860103292319,0.4842898098491935,0.0061259043595087,0.0535106873796584,0.0316998119274975,0.9086635963333352,0.0,0.0,0.0,1.0,0.09475292042037346,0.1934557423705655,0.18954778774717979,0.5222435494618812
+,ira,0.141572150349269,0.49624102890743,0.1954704411739928,0.1667163795693067,0.0078354067286337,0.9656394348472052,0.0104092450471329,0.016115913377028,0.0,1.0,0.0,0.0,0.09347315966141559,0.6341995471747232,0.15852065425871933,0.11380663890514192
+,ira,0.252335073992998,0.3133225636798641,0.246969844438102,0.1873725178890343,0.0763848892563993,0.8360461952823056,0.0543961900493649,0.0331727254119302,0.0,1.0,0.0,0.0,0.22133420259726208,0.375776485347722,0.24170098894022246,0.16118832311479345
+,miedo,0.3902974366007942,0.128116971522601,0.1590687297942312,0.322516862082373,0.8435494216615952,0.0042003987137318,0.0042271505584002,0.1480230290662727,1.0,0.0,0.0,0.0,0.46907414078787985,0.10363427959558201,0.12108028969777597,0.3062112899187623
+,miedo,0.1402469600592968,0.2546983718297755,0.4469620800327729,0.1580925880781545,0.0066363722378759,0.089264235552252,0.8861980920125736,0.0179013001972986,0.0,0.0,1.0,0.0,0.12717953723398068,0.21494978425080172,0.5222271961113087,0.13564348240390905
+,miedo,0.0704578903089108,0.0867755911846313,0.7445470730493136,0.0982194454571434,1.2780401718703706e-06,1.5475534011039073e-06,0.9992485378658305,0.0007486365405966,0.0,0.0,1.0,0.0,0.03971622507855393,0.04757235645135115,0.8737679858316126,0.038943432638482475
+,tristeza,0.223888261297439,0.2102967752271941,0.3280638115064742,0.2377511519688922,0.083376444205043,0.0830818770926013,0.6960293516230057,0.1375123270793501,0.0,0.0,1.0,0.0,0.194436372236491,0.21408758311998086,0.37687780072584,0.21459824391768817
+,felicidad,0.4412586535792464,0.1311694737589041,0.2565627511270331,0.1710091215348154,0.9661782302641068,0.0035252453020263,0.023489136205633,0.0068073882282339,1.0,0.0,0.0,0.0,0.5093958797214484,0.11924519706494777,0.2397420775753764,0.13161684563822726
+,tristeza,0.0528905682411309,0.1273406133623274,0.3414267070367937,0.4783421113597468,0.0006468849798274,0.0055660728015535,0.0328628627338317,0.9609241794847876,0.0,0.0,0.0,1.0,0.04241293101231956,0.11015549735990948,0.2141494587944652,0.6332821128333057
+,ira,0.110085950433241,0.5111191496159685,0.2379262527223968,0.1408686472283919,9.438950106209396e-06,0.9962293105732722,0.0020274882191264,0.0017337622574951,0.0,1.0,0.0,0.0,0.09221965554376628,0.6403601568554325,0.16290773427001148,0.10451245333078969
+,miedo,0.1626529986019229,0.1373943817826188,0.5391273097088081,0.1608253099066493,0.0029993816700843,0.0028233570544926,0.9857278567564948,0.0084494045189282,0.0,0.0,1.0,0.0,0.15937682889052956,0.15244546120414476,0.5300938689024993,0.1580838410028263
+,miedo,0.1886762681730697,0.199780728006942,0.2807738284786838,0.3307691753413053,0.1082149994073029,0.158302086006029,0.4724750504998212,0.2610078640868467,0.0,0.0,1.0,0.0,0.182708957235355,0.18332578876493175,0.33125511450508605,0.30271013949462716
+,tristeza,0.1498120645484247,0.2317293806112033,0.3306103167362497,0.2878482381041214,0.0386989148969146,0.0822224700437613,0.3639697428270582,0.5151088722322658,0.0,0.0,0.0,1.0,0.13353241741518385,0.20405988298662053,0.29896096904422115,0.3634467305539746
+,miedo,0.1071399709044223,0.1707589589779702,0.4509832231839074,0.2711178469336992,0.0130530773465215,0.0993932355189391,0.7799994186802455,0.1075542684542933,0.0,0.0,1.0,0.0,0.10848507649256217,0.20842020942178033,0.4153502253084734,0.26774448877718415
+,tristeza,0.2432275633869181,0.2212173688458205,0.2713608766433028,0.2641941911239618,0.1073523925750033,0.2955195598332724,0.2044823891161434,0.3926456584755806,0.0,0.0,0.0,1.0,0.20843963428637313,0.248003838211736,0.27049615975066194,0.2730603677512289
+,ira,0.1636810728870737,0.4338231633016035,0.2590321742377642,0.1434635895735595,0.0193801436432433,0.9098055255209572,0.0324165646054483,0.038397766230351,0.0,0.0,1.0,0.0,0.1479472503665054,0.40423166959543644,0.27727320004712463,0.1705478799909334
+,tristeza,0.1714150617963664,0.2046613903955151,0.2503432458011563,0.373580302006959,0.0227602854859908,0.0627461975943296,0.0960973301332215,0.8183961867864578,0.0,0.0,0.0,1.0,0.13431690139649446,0.193497545510253,0.24692141969590573,0.42526413339734687
+,tristeza,0.2148920986389301,0.1756780825191763,0.2845573114391946,0.3248725074027018,0.1242840206265999,0.0627431766442056,0.2634269271992849,0.5495458755299092,0.0,0.0,0.0,1.0,0.18318490462602724,0.17147515323917153,0.2853622942487039,0.3599776478860973
+,ira,0.1009060428550339,0.6298162070434022,0.1646606749240663,0.1046170751774991,3.440220102411315e-07,0.999643072511618,6.2581698617890005e-06,0.0003503252965101,0.0,1.0,0.0,0.0,0.03798462432408204,0.8761345427915255,0.04723747683105112,0.03864335605334126
+,miedo,0.1550824406773421,0.1792904289848239,0.4929310482303805,0.1726960821074538,0.0084966873436456,0.0120640330934016,0.9595258947840188,0.0199133847789338,0.0,0.0,1.0,0.0,0.12440460574752135,0.16192899685838363,0.5897505206783901,0.12391587671570499
+,tristeza,0.1317748820897711,0.1839529860595089,0.2719088149594079,0.4123633168913121,0.0082535350521122,0.0630818028402762,0.0434987786682448,0.8851658834393666,0.0,0.0,0.0,1.0,0.10935946561232592,0.2120853390707734,0.2363670473919214,0.44218814792497924
+,tristeza,0.252913121971795,0.169851218192409,0.2105875503339656,0.3666481095018289,0.071979519863081,0.0786848803822581,0.0777996517188624,0.7715359480357983,0.0,0.0,1.0,0.0,0.25285681277751454,0.19566471777380448,0.23195632211791706,0.31952214733076395
+,miedo,0.1526411533674505,0.2155903987629439,0.4328454034514296,0.1989230444181745,0.0752593160168618,0.1188749636677668,0.749360051833399,0.0565056684819724,0.0,0.0,1.0,0.0,0.14112728803799013,0.24533474101754307,0.4550526488880027,0.15848532205646398
+,ira,0.1210212819607494,0.594755038402916,0.1502914309828742,0.1339322486534601,5.081565239036543e-06,0.9985640301215004,9.441006229069554e-05,0.0013364782509698,0.0,1.0,0.0,0.0,0.07967938151783648,0.7206157762074246,0.1090214087557137,0.09068343351902536
+,felicidad,0.5497660322321014,0.0903984455859415,0.1861703187144568,0.1736652034675002,0.9975502272727294,0.0004506586292287,0.0003042628389412,0.0016948512591008,1.0,0.0,0.0,0.0,0.6511078672202673,0.08674634778731728,0.14118356783083705,0.12096221716157823
+,miedo,0.1157448814360112,0.2136855582029994,0.4789991063372692,0.1915704540237209,0.0034945495830535,0.0204179321660078,0.9463136480177404,0.029773870233198,0.0,0.0,1.0,0.0,0.09278316776158999,0.18187248681932566,0.5720151035763514,0.15332924184273275
+,ira,0.1724035086364618,0.2657016440662375,0.2520682743434503,0.3098265729538488,0.0349067391706842,0.7185676707442984,0.0557034127511705,0.1908221773338469,0.0,1.0,0.0,0.0,0.14874138116618862,0.34776924882441845,0.2346853756774685,0.2688039943319245
+,tristeza,0.1778038221703647,0.1298229219938272,0.2713263458889185,0.4210469099468893,0.0224450167211981,0.0201130436041043,0.1402557734442122,0.8171861662304855,0.0,0.0,0.0,1.0,0.13266049194763593,0.12295328266356287,0.23034698109373075,0.5140392442950704
+,miedo,0.1188600554956547,0.2147994291776855,0.4182235072691619,0.248117008057496,0.0198181757856969,0.0649222073054105,0.7333117145434536,0.1819479023654387,0.0,0.0,1.0,0.0,0.11279470279385564,0.18384805085969003,0.5098276944470539,0.19352955189940052
+,ira,0.1939140653302204,0.4417005908785292,0.1493005501449715,0.2150847936462797,0.0649517177608557,0.706620499941755,0.0887684300501314,0.1396593522472576,0.0,0.0,1.0,0.0,0.18893788089293048,0.3920197080397414,0.20394178960695505,0.215100621460373
+,tristeza,0.1524858918265627,0.2071830808396754,0.2785161754318005,0.3618148519019616,0.0088663707322911,0.0335835572245308,0.0629504869754672,0.8945995850677109,0.0,0.0,0.0,1.0,0.12408022680519916,0.18039978387042724,0.22857596226766888,0.4669440270567047
+,felicidad,0.2283797722406241,0.2061231364389615,0.3106564147828535,0.2548406765375612,0.1268925034179633,0.087368578219015,0.5640125955544069,0.2217263228086148,0.0,0.0,1.0,0.0,0.2156287187692771,0.20334098903057574,0.35803180708845317,0.2229984851116941
+,felicidad,0.3836240070261977,0.1795882537514661,0.3120777460518482,0.1247099931704884,0.9163672287501328,0.0374156820759942,0.0411779157064401,0.0050391734674329,1.0,0.0,0.0,0.0,0.4677678983490103,0.18920151088580592,0.24830991963642793,0.09472067112875586
+,tristeza,0.1939371915717052,0.1849597714009803,0.2364876666797275,0.3846153703475868,0.0856095124497433,0.1037080987047331,0.1043584810051202,0.7063239078404033,0.0,0.0,0.0,1.0,0.16122377087299627,0.1964282202294369,0.20179788145476954,0.44055012744279726
+,felicidad,0.3194625895334143,0.2494312448471138,0.2136542452051569,0.2174519204143137,0.7535813226689809,0.1474738544641614,0.0438303945368916,0.055114428329966,1.0,0.0,0.0,0.0,0.35738929902955585,0.2540309793296496,0.20928180828890758,0.1792979133518869
+,miedo,0.1016562211564365,0.152186170101608,0.4464302570741595,0.2997273516677984,0.0041626222815703,0.0244730377971163,0.7734979512210608,0.1978663887002527,0.0,0.0,1.0,0.0,0.09140678014627233,0.1372984852017268,0.5516447435467953,0.21964999110520564
+,felicidad,0.9704242014075204,0.0095079690362623,0.0105471218573882,0.0095207076988286,0.9621183502794298,0.0140659965811579,0.0093986832888572,0.0144169698505552,1.0,0.0,0.0,0.0,0.8496749349787975,0.04989238718140568,0.05255196467757978,0.04788071316221692
+,miedo,0.1341037712742454,0.1802437086680603,0.5162106628431377,0.1694418572145576,0.0067175355967234,0.0166477515167923,0.9534530512093554,0.0231816616771288,0.0,0.0,1.0,0.0,0.10683694822037255,0.13868687177493544,0.6301350779426748,0.12434110206201725
+,ira,0.1913864060512188,0.4167809703715244,0.2197647748844567,0.1720678486927997,0.0064301343200704,0.9816318290448756,0.004153708334704,0.0077843283003499,0.0,1.0,0.0,0.0,0.1561947443822743,0.5167090184131717,0.18809322487170763,0.1390030123328463
+,ira,0.1367944499880032,0.4391149284994531,0.203434219106265,0.2206564024062787,0.0033297392515745,0.9774091473329278,0.0075016263679332,0.0117594870475645,0.0,1.0,0.0,0.0,0.0998002409721941,0.607145885600651,0.1486804393819014,0.1443734340452536
+,ira,0.2103462004036376,0.2683607102925678,0.1828446753852084,0.3384484139185863,0.1043368640009962,0.4230205146708915,0.0688045610285799,0.403838060299532,0.0,0.0,1.0,0.0,0.1961084297410966,0.2846236089868613,0.20780330567028005,0.3114646556017621
+,tristeza,0.1578485850227217,0.2273124842138078,0.2265752188354924,0.3882637119279775,0.0761412648634001,0.0970040704251336,0.0255228334193071,0.8013318312921591,0.0,0.0,0.0,1.0,0.1684282463137601,0.2388862833994107,0.18188025383845446,0.4108052164483748
+,felicidad,0.357778296546942,0.2114451434662752,0.2368866008239216,0.1938899591628606,0.7234484651963327,0.1732912954445142,0.06573884389905,0.0375213954601031,1.0,0.0,0.0,0.0,0.3511145016944214,0.24686349212413797,0.23891618750079277,0.1631058186806478
+,miedo,0.2119104214039952,0.224508375339177,0.3419280908345752,0.2216531124222542,0.1365636658992385,0.1054930457921935,0.6205754905974679,0.1373677977110998,0.0,0.0,1.0,0.0,0.1979364486365845,0.2031433035825067,0.39611060287758676,0.20280964490332198
+,miedo,0.1739570163249256,0.223291723380552,0.2278588675817896,0.3748923927127338,0.0370910738488217,0.3048874900932095,0.2366909048559904,0.4213305312019782,0.0,0.0,1.0,0.0,0.14403429258422545,0.2456244321655589,0.26750734015502015,0.34283393509519544
+,miedo,0.1501056501660249,0.1655869847306492,0.5291128178333886,0.1551945472699367,0.0515256343451182,0.0863807865132995,0.7523708468195281,0.109722732322054,0.0,0.0,1.0,0.0,0.15845200860024675,0.19316491367418087,0.47324906513523585,0.17513401259033665
+,ira,0.2296591565944143,0.3215006735489385,0.226801978719059,0.2220381911375867,0.096440570856698,0.7336350116678435,0.0531710336794463,0.1167533837960118,0.0,1.0,0.0,0.0,0.19992638451107153,0.4039801525829621,0.19949728749912912,0.19659617540683724
+,ira,0.2061602705908799,0.3263600330778611,0.283491543239362,0.1839881530918976,0.06220544965752,0.6963778138492001,0.1805052554411403,0.0609114810521395,0.0,0.0,1.0,0.0,0.19021955766206322,0.3391504780542145,0.2878394481370265,0.1827905161466958
+,ira,0.2289374179290708,0.3176966470750217,0.287868237220676,0.165497697775233,0.129323058405197,0.7789957879052198,0.0621150141703487,0.0295661395192343,0.0,1.0,0.0,0.0,0.2203775290955959,0.3859556911623776,0.24236263526328675,0.15130414447873977
+,tristeza,0.3006409682484795,0.2197261697928851,0.2419233132908558,0.2377095486677779,0.4332921648388536,0.1283526084589812,0.0815936275038198,0.3567615991983451,0.0,0.0,0.0,1.0,0.2776596867183719,0.22302640701718413,0.21699143329804113,0.2823224729664029
+,miedo,0.0827052311790429,0.1210525634667048,0.3464510352257138,0.4497911701285368,0.0050762064644416,0.0111042149186798,0.1192726416804977,0.8645469369363806,0.0,0.0,0.0,1.0,0.08212080556332928,0.13564348068612703,0.3106458280315561,0.4715898857189876
+,miedo,0.1448232989375285,0.1644313818913305,0.4765577793811268,0.2141875397900138,0.0445104365294258,0.0634233464905109,0.7747291149923927,0.1173371019876706,0.0,0.0,1.0,0.0,0.16286835475529327,0.19801183558376043,0.4228563182463176,0.2162634914146286
+,felicidad,0.33346137471972,0.17148127408182,0.2749597040454579,0.2200976471530018,0.730895477988101,0.0728335263768619,0.1408557286577531,0.0554152669772837,0.0,0.0,1.0,0.0,0.2803361300392926,0.18928382292986506,0.3347591458277918,0.19562090120305056
+,tristeza,0.1728715933729348,0.2176522091841235,0.249235738192985,0.3602404592499568,0.032489288532404,0.0572688280067604,0.0895823406243332,0.820659542836502,0.0,0.0,0.0,1.0,0.14982421574945856,0.20728687395520667,0.245441941754099,0.3974469685412357
+,miedo,0.2148444577809991,0.1302175513794201,0.4593086138424255,0.195629376997156,0.032154178856407,0.0103462775809012,0.9051867203552968,0.0523128232073953,0.0,0.0,1.0,0.0,0.14989505388057398,0.11740966205218416,0.5804450352222348,0.1522502488450071
+,miedo,0.1618739713599265,0.1756896296820067,0.4847054474358742,0.1777309515221914,0.02093594536226,0.0175311343316999,0.9215310935508332,0.0400018267552068,0.0,0.0,1.0,0.0,0.15616855344998434,0.19335392733233267,0.49110085791026603,0.15937666130741707
+,ira,0.18728186254057,0.3646583823884881,0.1985364926094384,0.2495232624615042,0.0104098641616754,0.9644938499033388,0.0081946250818068,0.0169016608531788,0.0,1.0,0.0,0.0,0.13414849030915854,0.5526167796731758,0.16738432670990375,0.14585040330776197
+,felicidad,0.3176061873631834,0.173631237353349,0.1661358077428804,0.3426267675405879,0.5617470712240308,0.0545868451527173,0.011594946256217,0.3720711373670348,0.0,0.0,0.0,1.0,0.3373500452772051,0.18713614198791942,0.1625467384747438,0.3129670742601317
+,ira,0.1971012486849192,0.4836555806562634,0.184925916694221,0.1343172539645948,0.0026219220192065,0.9951649817470108,0.0011547712807664,0.0010583249530163,0.0,1.0,0.0,0.0,0.14435682500618008,0.6399317705555604,0.13470700339512623,0.08100440104313328
+,ira,0.171075131674272,0.4129827533244226,0.2095333225433463,0.2064087924579611,0.0105702585126864,0.9524277370802222,0.0131538615272373,0.0238481428798538,0.0,1.0,0.0,0.0,0.14780989774590178,0.4703698802600903,0.20786589784549284,0.1739543241485151
+,ira,0.0929612793165109,0.2385570581679678,0.3717711642396041,0.2967104982759174,0.0078979168849724,0.2339536734801896,0.4459807462869845,0.3121676633478533,0.0,0.0,0.0,1.0,0.06313979701660605,0.25639970623531216,0.26418265141404135,0.41627784533404044
+,tristeza,0.1123270936908806,0.1655679644282857,0.3695868592684698,0.3525180826123631,0.0040645516721465,0.032002098496538,0.2484424880871148,0.7154908617442005,0.0,0.0,0.5,0.5,0.09781031993460053,0.18921503705593354,0.33478994171585885,0.3781847012936071
+,tristeza,0.2099982571775925,0.1838101386156745,0.2253412732824235,0.3808503309243106,0.0553299927271508,0.0796607670181328,0.1056348301555619,0.7593744100991546,0.0,0.0,0.0,1.0,0.17073810707855028,0.18300922624633087,0.23364403962565475,0.41260862704946416
+,ira,0.1613349261196283,0.3404723691352318,0.2702087506929505,0.2279839540521898,0.054259182791859,0.5870301162109146,0.2154837681314225,0.1432269328658041,0.0,1.0,0.0,0.0,0.15146304230436838,0.39326595239756335,0.24426326634947176,0.21100773894859656
+,ira,0.1639552462687273,0.4986830936735639,0.1814750471317446,0.1558866129259651,0.0242602643595845,0.9379826392219652,0.0157181735421784,0.0220389228762716,0.0,1.0,0.0,0.0,0.146006452779559,0.5329027058799107,0.19112992768165152,0.1299609136588788
+,ira,0.0649898575235527,0.73578507585442,0.1158273777692957,0.0833976888527314,3.85516630164786e-07,0.9995835211379176,1.637735324135165e-05,0.0003997159922107,0.0,1.0,0.0,0.0,0.03074520027524179,0.8740105404196292,0.05450685055195285,0.040737408753176114
+,miedo,0.2041132930683957,0.2062472825127324,0.3228606540867218,0.2667787703321485,0.1066101889227116,0.0805879893571164,0.587690929099981,0.2251108926201908,0.0,0.0,1.0,0.0,0.1931192825451143,0.20035392703801488,0.34529326316361814,0.26123352725325283
+,tristeza,0.1136228664338915,0.1090356123234001,0.1560673038887189,0.6212742173539891,8.690069390786872e-07,7.82898042974668e-07,6.389496245859867e-07,0.9999977091453932,0.0,0.0,0.0,1.0,0.02903785419066419,0.028894615443347305,0.02827061999228313,0.9137969103737055
+,miedo,0.1358292551654656,0.0937736025502358,0.6475705948093069,0.1228265474749914,1.6307124179934122e-05,8.951990003834858e-06,0.99767529149001,0.0022994493958063,0.0,0.0,1.0,0.0,0.10166146650365941,0.0675331485005774,0.7498464290693735,0.08095895592638974
+,felicidad,0.456369032035016,0.0970840256388844,0.1192219885287554,0.3273249537973445,0.5349781151640517,0.0031557385091541,0.0019180341189757,0.4599481122078185,1.0,0.0,0.0,0.0,0.4886613703299133,0.08504015186129378,0.07662294370511914,0.3496755341036738
+,miedo,0.2015412232689627,0.1693397161502573,0.3831921574889458,0.2459269030918338,0.0200705680298356,0.0204269840700733,0.8745618578832347,0.0849405900168559,0.0,0.0,1.0,0.0,0.1679134647344165,0.16984593518216082,0.4533991461254928,0.20884145395792994
+,felicidad,0.4958010116174892,0.1372949142463351,0.1552758296223637,0.2116282445138106,0.9967693487124069,0.0006388229478888,0.0002943083731021,0.0022975199666023,1.0,0.0,0.0,0.0,0.6224621482036341,0.10556457981370579,0.11752180184199339,0.15445147014066674
+,tristeza,0.2060908755486993,0.2977576474610293,0.2100921164988578,0.2860593604914137,0.0493008661844255,0.6026338453390736,0.0822698414900543,0.2657954469864467,0.0,0.0,0.0,1.0,0.1843009480611157,0.2920854825900026,0.23064546114528722,0.2929681082035944
+,tristeza,0.1898734550175325,0.1897760167989296,0.2256164940319908,0.3947340341515462,0.0824695189634477,0.0855794748472623,0.0827993946334802,0.7491516115558098,0.0,0.0,0.0,1.0,0.1704205624710086,0.1967198648887332,0.2194300929360536,0.4134294797042046
+,ira,0.1350992103233881,0.4336019450277801,0.25822350294425,0.1730753417045822,0.0024822830441721,0.9724466484908104,0.012052038093506,0.0130190303715109,0.0,1.0,0.0,0.0,0.10100067526149623,0.5886058897137008,0.18870647703141424,0.12168695799338881
+,ira,0.2119432329592293,0.3922034844758144,0.2485870664116868,0.1472662161532704,0.0507956757133855,0.852246193404376,0.0487574374541328,0.0482006934281055,0.0,1.0,0.0,0.0,0.19410607986505066,0.4887094569940919,0.19742603677329254,0.11975842636756488
+,ira,0.1919526503113352,0.2517361886431016,0.4066611519336858,0.149650009111877,0.0208948157925282,0.1628903604170099,0.7888219337648151,0.0273928900256467,0.0,1.0,0.0,0.0,0.14924505747784073,0.33532494163872245,0.38503266788871077,0.130397332994726
+,tristeza,0.1869067308670195,0.1885432630526168,0.2511107289898791,0.3734392770904822,0.0762633014493643,0.1386455891339129,0.1244771713067195,0.6606139381100036,0.0,1.0,0.0,0.0,0.17296074315024393,0.22466121011800724,0.2430921542985644,0.3592858924331845
+,ira,0.2079019688047118,0.3893946875222645,0.2150305736623996,0.187672770010623,0.0311356184928279,0.9099634768246526,0.0244941409456147,0.0344067637369046,0.0,1.0,0.0,0.0,0.17299859793786976,0.4721715733472979,0.19832144959462591,0.15650837912020638
+,miedo,0.1863304122333751,0.2097815158515734,0.4028897061983676,0.2009983657166843,0.1083453758448714,0.0704323415234673,0.7476944402285193,0.073527842403142,0.0,0.0,1.0,0.0,0.17606363223876723,0.182129700722882,0.47144002769595683,0.17036663934239404
+,miedo,0.1498420133232963,0.2438711932946366,0.4236720090873396,0.1826147842947257,0.0240055770451162,0.0693556402643436,0.8550457856252999,0.0515929970652403,0.0,1.0,0.0,0.0,0.14891555436245354,0.2986888692265827,0.38270385616930114,0.16969172024166265
+,tristeza,0.1682819783103099,0.2158344010122868,0.268539150390059,0.347344470287343,0.0902528214476598,0.0858413450761521,0.1058509152347089,0.718054918241479,0.0,0.0,0.0,1.0,0.1880156425627948,0.181774753170551,0.2548065582261957,0.3754030460404585
+,tristeza,0.2518251918603719,0.110708166583899,0.3260966043713578,0.3113700371843698,0.2913612213481837,0.0159060445554349,0.219813087405469,0.4729196466909122,1.0,0.0,0.0,0.0,0.27459040932535983,0.10832867629071723,0.29046392500307583,0.3266169893808471
+,miedo,0.1866971420391377,0.2223825470973965,0.398249808592288,0.1926705022711777,0.0224805084516935,0.0420227342475647,0.8818207918111411,0.0536759654896007,0.0,0.0,1.0,0.0,0.13699091350044407,0.189605103084608,0.5331580417659579,0.14024594164898996
+,miedo,0.2322713495003289,0.1855819374041432,0.2780450646066489,0.3041016484888769,0.2434185091637503,0.0688919765300052,0.1182631986528503,0.5694263156533944,0.0,1.0,0.0,0.0,0.2633104447490628,0.16903474101628957,0.21187361793164947,0.35578119630299815
+,felicidad,0.3435528858851144,0.1571761018231502,0.2837170035171976,0.2155540087745394,0.8214703685699839,0.0296585534063686,0.0814378999708438,0.0674331780528033,1.0,0.0,0.0,0.0,0.37438608504882254,0.17391243647067742,0.2620102233111618,0.18969125516933835
+,miedo,0.0629057913591097,0.1324504123649675,0.6382745427638824,0.1663692535120412,0.0001458600746048,0.0017054454677948,0.9884310573045992,0.0097176371530011,0.0,0.0,1.0,0.0,0.05145402338186141,0.10180308451554616,0.7044507980523393,0.14229209405025312
+,miedo,0.1376453200241517,0.2364303165539172,0.4311472205290118,0.1947771428929194,0.0064519981780088,0.0390626177742303,0.9217275500803336,0.0327578339674273,0.0,0.0,1.0,0.0,0.11712507242217567,0.22969456079849104,0.49992925909990343,0.15325110767942995
+,ira,0.2074574578003125,0.3655394763138087,0.2567008644072572,0.1703022014786204,0.0346173118297354,0.926585480561636,0.0246655778919915,0.0141316297166368,0.0,1.0,0.0,0.0,0.210480853990638,0.48380151873258564,0.18874870068260438,0.11696892659417198
+,tristeza,0.242493375785717,0.139968611633119,0.2651334756292873,0.3524045369518778,0.1914384320284902,0.0257317794692778,0.0716451916778364,0.7111845968243954,0.0,0.0,0.0,1.0,0.23356682207101612,0.12219468067862076,0.2147360678921792,0.42950242935818395
+,miedo,0.1673286055255599,0.1562513206382232,0.5459236064757262,0.1304964673604899,0.0036427759134306,0.0027660773569938,0.988864476595945,0.0047266701336305,0.0,0.0,1.0,0.0,0.1328180755472472,0.1581392434855158,0.5967172476161176,0.11232543335111948
+,miedo,0.3192771467958506,0.1699102451116331,0.2662169322623812,0.2445956758301328,0.4038806268376424,0.0833887819047473,0.2637265576035386,0.2490040336540717,0.0,0.0,0.0,1.0,0.3012278737038181,0.17982964777924965,0.286661908788633,0.2322805697282993
+,miedo,0.1030741513057091,0.1484697475156725,0.5552328646489916,0.1932232365296255,0.0006238303313945,0.0023742728214698,0.9898356225682544,0.007166274278881,0.0,0.0,1.0,0.0,0.08806191194991947,0.1429047684962639,0.6051143645394353,0.16391895501438142
+,ira,0.15910676270303,0.4673112384063573,0.1567882556891676,0.2167937432014435,0.0147486972046949,0.9483564477843096,0.0083587492954744,0.0285361057155208,0.0,1.0,0.0,0.0,0.11221359813224482,0.6144055318249766,0.1298262860435174,0.14355458399926121
+,ira,0.1543460008361726,0.367536015520418,0.2746219788890805,0.2034960047543279,0.0217530054970087,0.8621681924944845,0.0718409940984874,0.0442378079100192,0.0,1.0,0.0,0.0,0.14498817356954558,0.44037684745735534,0.23846633093796865,0.17616864803513047
+,tristeza,0.2275885122751759,0.2098815975310557,0.2119267233347732,0.350603166858994,0.2210152318630201,0.1567400461976095,0.0541294310171924,0.5681152909221779,0.0,0.0,1.0,0.0,0.2410664706476308,0.25320305305184143,0.16839953738148383,0.3373309389190439
+,tristeza,0.1638954671891061,0.2059882568439607,0.2634357816293551,0.3666804943375777,0.0477289025762306,0.0817189245801019,0.009763765990632,0.8607884068530356,0.0,0.0,0.0,1.0,0.1883898435390982,0.21287847003408614,0.1395322019317848,0.4591994844950308
+,felicidad,0.5382377192933319,0.1413303340197526,0.1662143871553054,0.1542175595316117,0.993666385009938,0.002672054767934,0.0019694428967656,0.0016921173253623,1.0,0.0,0.0,0.0,0.6832723283620564,0.11142271618113248,0.11862065591501796,0.08668429954179294
+,tristeza,0.1122326008214273,0.2061887072874481,0.2688613033954433,0.412717388495682,0.005033588351001,0.0371611853349836,0.0479253165132921,0.9098799098007234,0.0,0.0,0.0,1.0,0.11600926163313154,0.17618270970991898,0.21633288211072002,0.4914751465462295
+,felicidad,0.2549591218500037,0.170516230516468,0.2178577571567218,0.3566668904768065,0.2539128144130241,0.0630995129581624,0.0513080420498598,0.6316796305789536,0.0,0.0,0.0,1.0,0.24980717606420996,0.20473213288132408,0.20134945526447978,0.34411123578998615
+,ira,0.0614092806073462,0.5922107280363033,0.2242752074409832,0.1221047839153682,1.9674917483252624e-07,0.999593637174657,3.9418669092052286e-05,0.0003667474070762,0.0,1.0,0.0,0.0,0.0263208001690099,0.84118609297929,0.07715994389436188,0.05533316295733829
+,ira,0.1843108506726722,0.4790974524414039,0.1686103172243636,0.1679813796615618,0.0141270401394108,0.9597802577495184,0.0094752150606159,0.016617487050455,0.0,1.0,0.0,0.0,0.11208149444968606,0.6500799068441996,0.12963225678709417,0.10820634191902018
+,miedo,0.1154811734374375,0.1352832767443927,0.5451607278321153,0.2040748219860537,0.001847819824539,0.0038028744070791,0.9757933292021196,0.0185559765662622,0.0,0.0,1.0,0.0,0.0847612625249371,0.11875565557812248,0.6445616907312501,0.15192139116569023
+,felicidad,0.9894495833721356,0.0033925193788988,0.0037638987773849,0.0033939984715805,0.998802869594963,0.0002801450986641,0.0001174082416878,0.0007995770646847,1.0,0.0,0.0,0.0,0.947772997190587,0.01733638788067903,0.01777880047906372,0.017111814449670183
+,ira,0.121578991113324,0.4988590080065944,0.146586884224715,0.2329751166553674,0.0047946642670843,0.9457262574552812,0.0041627820834854,0.0453162961941489,0.0,1.0,0.0,0.0,0.10754110526778049,0.5598721643440814,0.1381720121501136,0.19441471823802453
+,miedo,0.14227369114558,0.1750109752193578,0.5203750908643712,0.162340242770691,0.0030733464000663,0.0114338056561174,0.9748725173788916,0.0106203305649247,0.0,0.0,1.0,0.0,0.12126483544579447,0.17103364078069005,0.570967231503538,0.13673429226997746
+,felicidad,0.3694656817341094,0.1604012420851975,0.2532634876482937,0.2168695885323995,0.921622038448294,0.0131042321284655,0.0320275188270263,0.0332462105962139,1.0,0.0,0.0,0.0,0.40462376347457363,0.1667015857058278,0.23992671595384946,0.188747934865749
+,ira,0.2432806244910977,0.3893061378508302,0.1341252540447275,0.233287983613343,0.1121792601786784,0.713895565488502,0.0211420385550846,0.1527831357777347,0.0,1.0,0.0,0.0,0.294696765164329,0.34892265842480263,0.14536924901043946,0.21101132740042883
+,miedo,0.1955705126232711,0.2062548360242855,0.3782533678681954,0.2199212834842476,0.0753528541861183,0.0615114532453877,0.7826985783081514,0.0804371142603426,0.0,0.0,1.0,0.0,0.15976120171459968,0.17799993874727488,0.4835507281307028,0.1786881314074228
+,miedo,0.188268908218788,0.1458315393937525,0.375321628686838,0.2905779237006191,0.0621936677587829,0.0246410806286398,0.3978060695437783,0.5153591820687989,0.0,0.0,0.0,1.0,0.17097290790404146,0.11827885988676967,0.39312786085060775,0.31762037135858107
+,felicidad,0.5860966868915997,0.1165703303163621,0.1490777072083234,0.1482552755837156,0.9849133966727048,0.0050855302219266,0.0022532079244543,0.0077478651809141,1.0,0.0,0.0,0.0,0.6112109635455262,0.12529920669430886,0.14090841308533505,0.12258141667483004
+,miedo,0.1206350399781905,0.1577779010596999,0.6031080624759211,0.1184789964861889,0.0006797881945705,0.0029699564492068,0.994639970129201,0.0017102852270214,0.0,0.0,1.0,0.0,0.1055583709585462,0.14718713470977937,0.6566130422588831,0.09064145207279134
+,miedo,0.1767945544190157,0.2573973287186252,0.2667678762066844,0.2990402406556756,0.0596740701745182,0.2105943771709099,0.2641176289160726,0.4656139237384994,0.0,0.0,1.0,0.0,0.16620801146573347,0.2230817273476219,0.3395887320792042,0.27112152910744036
+,ira,0.1639794383400226,0.3987830123967506,0.2549652401570221,0.1822723091062042,0.0105179958074652,0.9580394020603676,0.0177720688207285,0.0136705333114386,0.0,1.0,0.0,0.0,0.13374637162006003,0.510873994248303,0.22385452651973034,0.1315251076119066
+,felicidad,0.2978114639568818,0.1552260983874578,0.3014442345772335,0.2455182030784278,0.5158850661845975,0.0540634508924338,0.2644979374888948,0.1655535454340739,1.0,0.0,0.0,0.0,0.3229677301642019,0.16551966202197554,0.27651996862523476,0.23499263918858784
+,miedo,0.2774588744095691,0.1735253117998141,0.1764449130179007,0.3725709007727166,0.2338079254264038,0.0703546285705449,0.0215024854550219,0.674334960548029,1.0,0.0,0.0,0.0,0.2813658041283092,0.1999155619307311,0.15517962118186568,0.3635390127590941
+,felicidad,0.6752469879318377,0.1216241783777597,0.0920611038087879,0.1110677298816155,0.9997255214603048,0.0001095012896777,8.963140408817494e-06,0.0001560141096088,1.0,0.0,0.0,0.0,0.8216041382119682,0.07027274177466773,0.05043936797289397,0.057683752040469966
+,miedo,0.1410706846921645,0.2062185188449379,0.4395791036445973,0.2131316928182995,0.008504654299699,0.1030373992646586,0.8255067796563377,0.0629511667793046,0.0,0.0,1.0,0.0,0.11881417200225451,0.20155065968980718,0.5183245195216388,0.16131064878629955
+,tristeza,0.1638372790008047,0.1818099321411573,0.2487827690296927,0.4055700198283438,0.0921094414559182,0.0854674897085978,0.2213865370757245,0.6010365317597597,0.0,0.0,1.0,0.0,0.1679734565711879,0.2012641117663831,0.26620438249525863,0.3645580491671703
+,ira,0.1637995044724023,0.3263143242486152,0.3155006313921424,0.1943855398868417,0.0104490567965063,0.9006721583558067,0.065610837533655,0.0232679473140317,0.0,1.0,0.0,0.0,0.13865027390115575,0.4309910827079355,0.2794795375794376,0.15087910581147113
+,felicidad,0.3455795932263135,0.1766490800595584,0.2327342691173598,0.2450370575967692,0.6871495701509045,0.0665943897563034,0.1042937325500189,0.1419623075427734,1.0,0.0,0.0,0.0,0.36050751057924607,0.17338397942191144,0.23835162718586397,0.22775688281297857
+,tristeza,0.2603323633129791,0.1951402906239679,0.2995626987684052,0.2449646472946473,0.3307094068778507,0.0928164420791601,0.4954433019794075,0.0810308490635815,0.0,0.0,1.0,0.0,0.250874662289534,0.2193522705315116,0.31355236361129063,0.21622070356766382
+,miedo,0.1601646860042985,0.1547691920494621,0.497119355137138,0.1879467668091005,0.0428282078718845,0.0120846901345084,0.92679397597078,0.0182931260228271,1.0,0.0,0.0,0.0,0.21323174653278565,0.12414668850911412,0.5523012304224996,0.11032033453560068
+,miedo,0.1966935968124195,0.0831265813032794,0.5427756773037047,0.177404144580597,0.002372053620083,0.0004101037533057,0.9918535852539718,0.0053642573726396,0.0,0.0,1.0,0.0,0.1273824993243587,0.0744587566913213,0.6677978685436516,0.1303608754406684
+,ira,0.1630388587068152,0.2816939304675935,0.2946092664934251,0.2606579443321644,0.0265112411991324,0.550932168097836,0.2694334355619458,0.1531231551410854,0.0,0.0,1.0,0.0,0.14812701514452883,0.30133340953590626,0.3292469147327843,0.22129266058678065
+,tristeza,0.2603885727165531,0.1938737348898812,0.1971858749003596,0.3485518174932047,0.2188565491535777,0.1017454787596997,0.0823289633061035,0.5970690087806193,0.0,0.0,0.0,1.0,0.23688258452080996,0.20558569973707086,0.21084430791972958,0.3466874078223896
+,ira,0.1711678013283827,0.386766384731756,0.241969935262391,0.2000958786774687,0.0925698447694436,0.540422999440788,0.230783643902398,0.1362235118873702,0.0,0.0,1.0,0.0,0.1713648872879751,0.3310359793397902,0.3049652136660694,0.19263391970616534
+,tristeza,0.1779230639130063,0.1901337905205774,0.3144927514936247,0.3174503940727903,0.0669082627612983,0.0682689798762455,0.1193793321732512,0.7454434251892047,0.0,0.0,0.0,1.0,0.18534912183660188,0.1940920301729102,0.25241331567641134,0.36814553231407665
+,felicidad,0.7318175840576695,0.037155336106103,0.0827838810520931,0.1482431987841332,0.9989122182092892,1.9611970843508425e-05,3.574561521941659e-05,0.0010324242046477,1.0,0.0,0.0,0.0,0.8611733056773926,0.020632200332524865,0.03726259126844865,0.08093190272163396
+,tristeza,0.2751171853936486,0.1828840937749873,0.2244984677151429,0.3175002531162224,0.2684046706743375,0.0493302954068891,0.1395647708802113,0.5427002630385624,0.0,0.0,0.0,1.0,0.24818088889801196,0.16265918678934263,0.2414050451455806,0.3477548791670648
+,felicidad,0.3428877084115755,0.1398192376274386,0.2421734825641895,0.2751195713967973,0.4468012999206645,0.0568898581322711,0.154940752668571,0.3413680892784929,1.0,0.0,0.0,0.0,0.33688859011725225,0.1714983516165676,0.24713493468771847,0.24447812357846163
+,felicidad,0.2430572634313478,0.1258898288238487,0.3364558717681219,0.2945970359766824,0.4527376739707954,0.0390484171151589,0.2503872631371567,0.2578266457768891,1.0,0.0,0.0,0.0,0.31545285637288994,0.13327746388797787,0.32234570833765475,0.2289239714014775
+,miedo,0.1739023013144376,0.20053841273935,0.4238392512223972,0.201720034723815,0.101292843226231,0.0573471506263835,0.7564870600041489,0.0848729461432367,0.0,0.0,1.0,0.0,0.1871392060151754,0.20287609169402723,0.4175024614668131,0.19248224082398438
+,felicidad,0.4424555520930932,0.139590783621836,0.1939545167274526,0.2239991475576181,0.9664857214570224,0.0039777655198874,0.0071812884747507,0.0223552245483397,1.0,0.0,0.0,0.0,0.5449084757471152,0.11243737498637946,0.15407771869885545,0.18857643056764992
+,felicidad,0.2779861372542919,0.2161005394917158,0.2247188152214883,0.2811945080325028,0.325473820209288,0.1966527438072779,0.1308503865981077,0.3470230493853261,1.0,0.0,0.0,0.0,0.2682888932984124,0.21815552799595112,0.2378259317603111,0.2757296469453254
+,miedo,0.2008844183592557,0.1868946237836377,0.3931377295761077,0.2190832282809988,0.0211092155227975,0.0205501465154684,0.911973216887042,0.0463674210746919,0.0,0.0,1.0,0.0,0.14811627569640798,0.1573023728838289,0.5338842389898213,0.16069711242994192
+,ira,0.1081596218009305,0.5112147070188036,0.2050924632000562,0.1755332079802117,0.0207148691414853,0.8828622825413459,0.0613565154760531,0.0350663328411157,0.0,0.0,1.0,0.0,0.12726178289652695,0.5098252681726213,0.21511474670832498,0.1477982022225268
+,felicidad,0.2133381468954035,0.2357575166381564,0.3023765796836096,0.2485277567828318,0.2971473586466951,0.3191971347245309,0.1963680256250242,0.1872874810037502,1.0,0.0,0.0,0.0,0.23415621992628913,0.24894347380489665,0.26588563096653356,0.2510146753022807
+,ira,0.167586326012576,0.2901288258175621,0.3603668172913105,0.1819180308785515,0.0390606800883902,0.7019283123880551,0.1981205008878812,0.0608905066356733,0.0,1.0,0.0,0.0,0.1577972501843262,0.34676278268004695,0.3294262750377343,0.16601369209789274
+,felicidad,0.1234702315324639,0.182505146822383,0.2721460843715111,0.421878537273641,0.0065336756442942,0.0309424889266202,0.1416047321942714,0.8209191032348141,1.0,0.0,0.0,0.0,0.11316790483403627,0.1985461264891601,0.2892715935382629,0.3990143751385407
+,ira,0.2363947318015094,0.3351847987034947,0.2356813247580031,0.192739144736992,0.0735792560503973,0.8354156134182668,0.0407497134754527,0.050255417055883,0.0,1.0,0.0,0.0,0.217907682229584,0.3983876821176651,0.20783123903615996,0.17587339661659093
+,tristeza,0.158841717916109,0.1507236036391219,0.1576024535476619,0.5328322248971089,0.0607067309112114,0.0054710783490236,0.0073897440698493,0.9264324466699156,1.0,0.0,0.0,0.0,0.19784461421743216,0.14954642781594432,0.13957874206423604,0.5130302159023874
+,tristeza,0.2250443211750771,0.1318882511170381,0.3306469791683269,0.3124204485395593,0.1743103103995126,0.0246016870870378,0.3170744762673209,0.4840135262461287,0.0,0.0,0.0,1.0,0.18115694175755837,0.11480244935487462,0.29606983281447313,0.40797077607309395
+,miedo,0.1216797561555071,0.087146939528011,0.3238157947905783,0.467357509525904,0.0014002271595685,0.001364626142123,0.0343943417577583,0.96284080494055,0.0,0.0,0.0,1.0,0.0898958184062921,0.07219976810715385,0.22270121746996308,0.615203196016591
+,felicidad,0.4148805927666573,0.1972369573606963,0.2369934323265809,0.1508890175460646,0.8819966314612083,0.0573062932235291,0.0488145008488229,0.0118825744664397,1.0,0.0,0.0,0.0,0.428165015199718,0.20549178132896093,0.24648860818924295,0.11985459528207802
+,tristeza,0.1225810675527852,0.1835889117648882,0.2493189202860226,0.4445111003963051,0.0180363558287521,0.0810632862733347,0.1543523153127963,0.7465480425851169,0.0,0.0,0.0,1.0,0.10552510912635815,0.18260541881748887,0.16920662643302642,0.5426628456231265
+,miedo,0.2726022486914519,0.2074344056627032,0.2290883020965222,0.2908750435493224,0.2547968031681906,0.2298273935846747,0.0576617645602535,0.4577140386868814,1.0,0.0,0.0,0.0,0.240518242508889,0.24379099280727592,0.20288224075250658,0.3128085239313285
+,felicidad,0.3772576154927143,0.1785461705643023,0.2340710520807624,0.2101251618622213,0.8492300794167346,0.0537965720851469,0.03694916811444,0.0600241803836784,1.0,0.0,0.0,0.0,0.3965623751386742,0.18329560450412283,0.21163221992326073,0.2085098004339423
+,ira,0.1282260703580525,0.5540290799350069,0.1705554841547897,0.1471893655521522,5.227347740528574e-06,0.9983622702530528,0.0001017522511256,0.0015307501480812,0.0,1.0,0.0,0.0,0.09276623983041728,0.6728907142544874,0.12703930726170348,0.10730373865339189
+,ira,0.1541354912944025,0.278005286583813,0.2880078499536224,0.2798513721681612,0.0539781896672825,0.4674785005476849,0.2705663853112475,0.207976924473785,0.0,1.0,0.0,0.0,0.15282894658897442,0.3095320547020951,0.28433640109380054,0.25330259761513
+,tristeza,0.2069211334889423,0.1611619980224739,0.2843167791888386,0.3476000892997482,0.1356698305852057,0.0518943067251326,0.0686316440873131,0.7438042186023486,0.0,0.0,0.0,1.0,0.22604849506012206,0.19111201644992185,0.20197932182591533,0.38086016666404077
+,ira,0.1609327998103293,0.4062841713868202,0.2038057485501553,0.2289772802526959,0.0473121663626629,0.7860605977151633,0.0542132453396002,0.1124139905825733,0.0,1.0,0.0,0.0,0.1826729292630275,0.3774550849552191,0.21132839385927937,0.2285435919224739
+,miedo,0.1133824921997684,0.1117075657332016,0.6380299922315169,0.1368799498355131,0.0010412050755162,0.0014634075978805,0.9917658540069983,0.005729533319605,0.0,0.0,1.0,0.0,0.06434949867986786,0.08410676556150913,0.7711832295473027,0.08036050621132036
+,felicidad,0.3461526066559766,0.2072834729083637,0.2833540722785613,0.1632098481570989,0.9109839508609692,0.0720410691314693,0.0088442711226798,0.0081307088848817,1.0,0.0,0.0,0.0,0.48635044785236975,0.1947972237978617,0.18260848575568236,0.13624384259408626
+,felicidad,0.7761535687993772,0.0705001670168211,0.0714348180715811,0.0819114461122197,0.9990590785773548,0.0002207518695463,6.708116154171256e-05,0.0006530883915574,1.0,0.0,0.0,0.0,0.8420053223104347,0.05451042118069215,0.04641000480561409,0.057074251703259145
+,felicidad,0.3476635276071479,0.2054324137313591,0.2521606441915273,0.1947434144699639,0.9249613646170122,0.0242567302983193,0.026246682419701,0.0245352226649674,1.0,0.0,0.0,0.0,0.41690091443286265,0.19456335318931947,0.22574738937921257,0.16278834299860534
+,miedo,0.0858137521346529,0.0574652694961221,0.7190963651270545,0.1376246132421693,8.847177781529074e-08,6.645217476772074e-08,0.9998336603459788,0.0001661847300685,0.0,0.0,1.0,0.0,0.02116396695575503,0.017416890160536026,0.931241907742793,0.03017723514091585
+,felicidad,0.3939622302107982,0.157537149419454,0.2361068492357743,0.2123937711339749,0.865850774802406,0.0247384875175762,0.0805258999873545,0.0288848376926629,1.0,0.0,0.0,0.0,0.39460676698755776,0.16669020146272082,0.2598791087621252,0.1788239227875963
+,felicidad,0.8349964734779156,0.0467895752034087,0.0477542409154283,0.0704597104032455,0.999337903838196,0.000142740533264,3.2678710869278665e-05,0.0004866769176706,1.0,0.0,0.0,0.0,0.9140911041375952,0.025174948387187666,0.024790230910802888,0.035943716564414155
+,miedo,0.0764542623036879,0.1481584940855409,0.6059682610885999,0.1694189825221724,0.0042027145386094,0.0248008766946301,0.9138738604165418,0.0571225483502184,0.0,0.0,1.0,0.0,0.06583153342056831,0.15020136028332462,0.6528104311670572,0.13115667512904994
+,miedo,0.1163333828268967,0.1701980576327403,0.5731432167869634,0.1403253427534013,0.0008065527011189,0.0023663151937845,0.9925418420658266,0.0042852900392699,0.0,0.0,1.0,0.0,0.1038658644068656,0.14929332509843624,0.6309030609871985,0.11593774950749965
+,ira,0.1953537367029349,0.4310957908812836,0.22023250911058,0.1533179633052012,0.0196313118462625,0.961416501080094,0.0066573434063214,0.0122948436673219,0.0,1.0,0.0,0.0,0.1646106382075346,0.5818829382456338,0.14293815327462941,0.1105682702722021
+,miedo,0.1374742188855083,0.1268549958970182,0.5628580586745434,0.1728127265429314,0.0020556447438743,0.0023380979018973,0.986156692064219,0.0094495652900096,0.0,0.0,1.0,0.0,0.12533517410743647,0.13259311318782957,0.597058045404222,0.14501366730051193
+,ira,0.224424490490837,0.3592843584242656,0.213518942030035,0.2027722090548629,0.0500739259941365,0.855291915972707,0.0344375333291212,0.0601966247040353,0.0,1.0,0.0,0.0,0.19162392786007543,0.46501071744234557,0.1755886776922807,0.16777667700529827
+,tristeza,0.3129973390865906,0.1947041345520317,0.2358489634880901,0.2564495628732903,0.4704540018480275,0.181704481371812,0.1675071375189778,0.1803343792611829,0.0,0.0,1.0,0.0,0.2998167486680048,0.21306749944869277,0.26153653037129115,0.2255792215120113
+,miedo,0.1249565704470264,0.2531485087482756,0.3786271723834937,0.2432677484212053,0.0067693655380724,0.1263085908852938,0.7769109129714524,0.0900111306051812,0.0,0.0,1.0,0.0,0.10250136001092178,0.22931121444458016,0.4910874767894954,0.17709994875500273
+,miedo,0.1812270290558434,0.1827074794313934,0.4494539491119119,0.1866115424008525,0.0196827278033828,0.0308535308681223,0.9080735507250588,0.041390190603436,0.0,0.0,1.0,0.0,0.16061571946805842,0.18704032263572848,0.48759620157449035,0.16474775632172267
+,felicidad,0.969771265850111,0.011167735504141,0.0100183384223275,0.0090426602234205,0.954752405083398,0.0236925505466374,0.0081743501363646,0.0133806942335999,1.0,0.0,0.0,0.0,0.849174206291085,0.0552411259274144,0.049681332987438424,0.04590333479406242
+,miedo,0.1639689006699768,0.1617027384002212,0.4805896819318682,0.1937386789979332,0.0185721159537403,0.0233192843773866,0.8941506023618454,0.0639579973070274,0.0,0.0,1.0,0.0,0.14007981342323897,0.1607397098718216,0.5300183487108476,0.16916212799409175
+,felicidad,0.2724215262907406,0.1569487337903979,0.3469599181886576,0.2236698217302029,0.4262086735632427,0.0238249061219581,0.4786861124212335,0.0712803078935655,1.0,0.0,0.0,0.0,0.3225904174487703,0.15747243813774106,0.3342717036268534,0.18566544078663533
+,miedo,0.2340567457052187,0.1279104224309266,0.4328852136815256,0.2051476181823281,0.1286078912943281,0.0259822934115789,0.7971971930968326,0.0482126221972604,0.0,0.0,1.0,0.0,0.22698072054994492,0.1422822069262951,0.4670797240432317,0.1636573484805282
+,tristeza,0.108389171199996,0.3744940517706167,0.1247361126621215,0.3923806643672649,0.000977725805189,0.4275736129646998,0.0025912854060747,0.5688573758240363,0.0,1.0,0.0,0.0,0.07954150985266867,0.39325813997441333,0.11257074408969739,0.4146296060832207
+,miedo,0.1270330527677529,0.1631443150913121,0.4716934596227223,0.2381291725182115,0.0071208549015566,0.0232436969276816,0.9079928039940665,0.0616426441766952,0.0,0.0,1.0,0.0,0.12492428665305857,0.18856506261972222,0.45530185365618486,0.23120879707103442
+,tristeza,0.2536216750122185,0.1713189336075976,0.1445133748672744,0.4305460165129098,0.1118456768514538,0.1078917647208976,0.0179226123561006,0.7623399460715476,0.0,0.0,0.0,1.0,0.2230988514502682,0.19786867954312315,0.13175696202026452,0.4472755069863441
+,ira,0.1876552015434206,0.4032358236435604,0.2158688063886167,0.1932401684244013,0.0052329828314112,0.9777789104270724,0.0075035106102877,0.0094845961312285,0.0,1.0,0.0,0.0,0.1395551644415075,0.5205531840035231,0.19296139592711142,0.14693025562785794
+,ira,0.1282322432237541,0.3729704092655548,0.2771764776912938,0.2216208698193976,0.0331381958601568,0.7845731955343972,0.0867738230873346,0.0955147855181113,0.0,0.0,1.0,0.0,0.15921896149647036,0.33480660691584,0.27757737046229736,0.22839706112539215
+,felicidad,0.327976962981781,0.1864653198612058,0.2069141166063742,0.2786436005506411,0.5557707242959985,0.066044717427351,0.0922339360363824,0.285950622240268,1.0,0.0,0.0,0.0,0.3354087975137848,0.17987178207016025,0.21028024629279307,0.2744391741232618
+,felicidad,0.6240951723043617,0.1277976311656603,0.1051100625346838,0.1429971339952943,0.9997618636160762,7.051526910595971e-05,3.7529853850896433e-06,0.0001638681294328,1.0,0.0,0.0,0.0,0.8667901296743069,0.05060042867390808,0.033756888460677155,0.0488525531911077
+,ira,0.2067477286092184,0.2639280258455726,0.304805678297769,0.2245185672474413,0.0886886511771476,0.4392566320923873,0.3271497198359931,0.1449049968944721,0.0,1.0,0.0,0.0,0.1802565802403504,0.31927329448505737,0.29466478276698405,0.20580534250760815
+,ira,0.1290263404655502,0.233641936874953,0.1729754726942453,0.4643562499652506,0.0083158218996191,0.0245694296862889,0.0160727639141787,0.9510419844999132,0.0,0.0,0.0,1.0,0.12179129261740296,0.21788589781498602,0.17849273369064553,0.48183007587696547
+,miedo,0.2250314751578705,0.216523532459764,0.2862037877830738,0.2722412045992916,0.1055175283489945,0.2695169675605092,0.2962081246139444,0.3287573794765515,0.0,0.0,1.0,0.0,0.1968488942630286,0.23083203975872613,0.30882547389761966,0.2634935920806256
+,tristeza,0.1424294334354424,0.1667412311280921,0.2070575390494202,0.4837717963870446,0.0270813565038629,0.0432879702995485,0.0688640554474798,0.8607666177491088,0.0,0.0,0.0,1.0,0.12294994004059075,0.14858619380611757,0.17257122000509742,0.5558926461481943
+,tristeza,0.2334294971959628,0.1605418685318986,0.254608268859076,0.3514203654130614,0.1505184397415737,0.1088533503210874,0.1593120599447888,0.58131614999255,0.0,0.0,1.0,0.0,0.19247606816591667,0.1639070437579125,0.3387043046649747,0.3049125834111961
+,ira,0.1984143625181879,0.3242596981778011,0.2107446588802821,0.2665812804237281,0.031349677621583,0.8009059611986333,0.0511544429244694,0.1165899182553142,0.0,1.0,0.0,0.0,0.17052802303924086,0.3869018981257029,0.22228039324011764,0.22028968559493867
+,miedo,0.1484547887791626,0.1956713425503922,0.4659240392731292,0.1899498293973162,0.0129574328301763,0.0576080587366723,0.897164476026816,0.0322700324063353,0.0,0.0,1.0,0.0,0.12512833299504286,0.18124897697856815,0.5559078234816762,0.13771486654471285
+,miedo,0.1198894444916324,0.2400993033191441,0.4651170033244019,0.1748942488648229,0.0278996564333465,0.055210455652889,0.8534300733093695,0.063459814604395,0.0,0.0,1.0,0.0,0.1312879025174782,0.2829440230899255,0.4170872412062803,0.16868083318631596
+,tristeza,0.2943217953512181,0.2246859683500139,0.2078950015881588,0.2730972347106092,0.4883670782324676,0.178173819120906,0.0731338573228064,0.26032524532382,0.0,0.0,0.0,1.0,0.27428510655736577,0.22192408485690998,0.22070576518158574,0.2830850434041384
+,tristeza,0.1637431625124474,0.1004296829369358,0.3601684204654998,0.3756587340851169,0.0087037287192218,0.0079645261648011,0.2541582282005614,0.7291735169154153,0.0,0.0,0.0,1.0,0.14661284384795206,0.10097760866235056,0.3478338386894925,0.4045757088002048
+,felicidad,0.1679223951648981,0.1972610341774345,0.2723851447175818,0.3624314259400871,0.1515033507487376,0.2802554824820873,0.1742143372327834,0.3940268295363914,0.0,0.0,1.0,0.0,0.13799249073930925,0.220085358660131,0.33010528893660224,0.31181686166395756
+,felicidad,0.4045882900254763,0.1741835697879346,0.2060799832432515,0.2151481569433375,0.9435820694884198,0.0111351864310798,0.016995309392188,0.0282874346883124,1.0,0.0,0.0,0.0,0.4695682190688664,0.15870282883411832,0.19582481916070285,0.1759041329363124
+,miedo,0.1373378927406364,0.1570207867082159,0.4566755168073735,0.2489658037437743,0.002981144671575,0.0072123609766321,0.9227842226279634,0.0670222717238294,0.0,0.0,1.0,0.0,0.09772350026388224,0.1115112887747426,0.602209139220149,0.18855607174122618
+,tristeza,0.1855032076982398,0.2115491091269362,0.2299227777193342,0.3730249054554888,0.0637810567714475,0.1567151620832753,0.1630381512650303,0.6164656298802468,0.0,0.0,0.0,1.0,0.16224153451543266,0.23295295056002674,0.24569017679430427,0.35911533813023633
+,felicidad,0.3428688544263665,0.2004157375368167,0.2273650799258005,0.2293503281110155,0.8898240719900178,0.0245618421234878,0.0372807253578074,0.048333360528687,1.0,0.0,0.0,0.0,0.4009689872422745,0.1725130574824768,0.2561203993024959,0.1703975559727528
+,tristeza,0.1849047772122068,0.097510719737386,0.2496433019404562,0.4679412011099507,0.0991543153534098,0.0040679122763415,0.0286430394895384,0.8681347328807103,0.0,0.0,0.0,1.0,0.21574782448822163,0.09783281659792874,0.18397336123587057,0.502445997677979
+,tristeza,0.2094087806179977,0.251989727812521,0.3089608231907683,0.2296406683787104,0.0928570079868395,0.3221421109446412,0.3430566268796575,0.2419442541888617,0.0,0.0,0.0,1.0,0.21430365733230095,0.2549435770597728,0.30432871068324285,0.22642405492468343
+,ira,0.1359276523425439,0.4667248057085305,0.220011723232442,0.1773358187164845,0.0033203202488014,0.9850618535928156,0.0038688088484606,0.0077490173099223,0.0,1.0,0.0,0.0,0.12495010381140895,0.5398628005617104,0.18849215366305608,0.1466949419638246
+,felicidad,0.3553749904273973,0.2171225723998046,0.2182179728295803,0.209284464343219,0.8375726681785182,0.083941109920886,0.042754740276343,0.0357314816242526,1.0,0.0,0.0,0.0,0.388045912165928,0.21447892755925216,0.22619737523002728,0.1712777850447926
+,tristeza,0.259329336074532,0.1815897879872359,0.2218335353634261,0.3372473405748042,0.1649258332886308,0.0773294051060736,0.0711642980149132,0.6865804635903824,0.0,0.0,0.0,1.0,0.2353776606431869,0.17120999023783334,0.20320899336802983,0.39020335575094983
+,tristeza,0.2693046961938628,0.1395376105686167,0.2856144503666805,0.3055432428708395,0.3872109313715959,0.0742655962173168,0.156745709307793,0.3817777631032942,0.0,0.0,1.0,0.0,0.28624176264530576,0.1469795049037639,0.24741107052659264,0.31936766192433774
+,miedo,0.1833034356057705,0.1989780674562148,0.3929730728857312,0.2247454240522844,0.0195862162382466,0.0539428377352654,0.8654134368962167,0.0610575091302708,0.0,0.0,1.0,0.0,0.13234224425551755,0.1787295197232437,0.506475818500558,0.1824524175206807
+,ira,0.2105796804024111,0.2706654311956984,0.2957406976814368,0.2230141907204553,0.1133450903894727,0.3906530678248349,0.4138961649171533,0.0821056768685389,0.0,0.0,1.0,0.0,0.20957502091044797,0.26840249754455625,0.32340772664474027,0.19861475490025554
+,miedo,0.1719739834358208,0.2752384544212991,0.3705169882090171,0.1822705739338599,0.0352198655356108,0.3897526875229763,0.5240918253301621,0.0509356216112508,0.0,0.0,1.0,0.0,0.15955397655455128,0.29635224434213997,0.3813757623843554,0.16271801671895345
+,miedo,0.1472206375841074,0.0957073288357264,0.6525083440712145,0.104563689508951,4.274976076559572e-06,3.72301692735603e-06,0.9991718962397044,0.0008201057672915,0.0,0.0,1.0,0.0,0.06767814733767676,0.05540196453613407,0.8292334392329426,0.04768644889324656

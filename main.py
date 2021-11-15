@@ -46,7 +46,7 @@ def test_db_to_dataframe():
         }
     return None
 
-@app.route('/tweets/fill', methods=['GET','POST'])
+@app.route('/tweets/fill', methods=['GET'])
 def fill_db_route():
     """."""
     fill_table_tweets_model_test()
@@ -278,7 +278,7 @@ def distribution_by_ngrams():
             specify an folder adding at the end of the\
             url '?parameter=***'."
         }
-    return get_ngrams_list(df=df_from_db,ngram=ngram)
+    return get_ngrams_list(df=df_from_db,ngram_value=ngram)
 
 if __name__ == '__main__':
     app.run()

@@ -218,12 +218,37 @@ def get_monograms_list(df: DataFrame):
     return get_category_probability_distribution_by_word(
             df=df,words_result=words_result)
 
-def get_ngrams_list(df: DataFrame, ngram:int):
+def get_category_probability_distribution_by_ngram(
+            df: DataFrame, ngram_result: dict,ngram_value: int):
+    """."""
+    for index,row in df.iterrows():
+        token = nltk.word_tokenize(row['tweet'])
+        ngram_list = list(ngrams(token, ngram_value))
+        for ngram in ngram_list:
+            for count in ngram_result.keys():
+                if ngram == ngram_result[count]['ngram']:
+                    if row['tweet_sentiment'] == 'felicidad':
+                        ngram_result[count]['felicidad'] = ngram_result[count]['felicidad'] + 1
+                    elif row['tweet_sentiment'] == 'tristeza':
+                        ngram_result[count]['tristeza'] = ngram_result[count]['tristeza'] + 1
+                    elif row['tweet_sentiment'] == 'miedo':
+                        ngram_result[count]['miedo'] = ngram_result[count]['miedo'] + 1
+                    elif row['tweet_sentiment'] == 'ira':
+                        ngram_result[count]['ira'] = ngram_result[count]['ira'] + 1
+                    if row['tweet_opinion'] == 'a favor':
+                        ngram_result[count]['a favor'] = ngram_result[count]['a favor'] + 1
+                    elif row['tweet_opinion'] == 'en contra':
+                        ngram_result[count]['en contra'] = ngram_result[count]['en contra'] + 1
+                    elif row['tweet_opinion'] == 'neutro':
+                        ngram_result[count]['neutro'] = ngram_result[count]['neutro'] + 1
+    return ngram_result
+
+def get_ngrams_list(df: DataFrame, ngram_value:int):
     """."""
     bigram_list = []
     for index,row in df.iterrows():
         token = nltk.word_tokenize(row['tweet'])
-        bigram = list(ngrams(token, ngram))
+        bigram = list(ngrams(token, ngram_value))
         bigram_clean = [gram for gram in bigram if not any(stop in gram for stop in SPANISH_STOPWORDS)]
         bigram_clean = [gram for gram in bigram_clean if not any(stop in gram for stop in SPANISH_STOPWORDS2)]
         bigram_list.append(bigram_clean)
@@ -231,4 +256,16 @@ def get_ngrams_list(df: DataFrame, ngram:int):
     ngrams_counter = collections.Counter(ngrams_flat_list)
     ngrams_counter = ngrams_counter.most_common(15)
     ngram_df = pd.DataFrame(ngrams_counter, columns =['ngram', 'frecuency'])
-    return ngram_df.to_dict('index')
+    ngram_dict = ngram_df.to_dict('index')
+
+    for count in ngram_dict.keys():
+        ngram_dict[count]['felicidad'] = 0
+        ngram_dict[count]['tristeza'] = 0
+        ngram_dict[count]['miedo'] = 0
+        ngram_dict[count]['ira'] = 0
+        ngram_dict[count]['a favor'] = 0
+        ngram_dict[count]['en contra'] = 0
+        ngram_dict[count]['neutro'] = 0
+    return get_category_probability_distribution_by_ngram(
+            df=df,ngram_result=ngram_dict,ngram_value=ngram_value)
+    # return ngram_dict
