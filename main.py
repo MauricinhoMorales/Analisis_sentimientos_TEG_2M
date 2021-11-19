@@ -14,6 +14,8 @@ from general_functions import get_sentiment_general_probability_distribution,\
         get_opinion_general_probability_distribution,get_probability_by_date,\
         get_monograms_list,get_ngrams_list,get_general_probability_distribution
 
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+
 # ! Variables para identificar a que carpetas seran guardadas
 BATCH_FOLDER = 'batch'
 SENTIMIENTO_FOLDER = 'sentimiento'
@@ -109,6 +111,23 @@ def tweets_route():
                 curr_tweet['tweet_opinion'] = tweet.tweet_opinion
                 output.append(curr_tweet)
             return jsonify(output)
+        elif flask.request.method == 'POST':
+            tweet_data = request.get_json()
+            print(tweet_data)
+            tweet_new = TweetsTestModel(
+                tweet_id = tweet_data['tweet_id'],
+                tweet_date = tweet_data['tweet_date'],
+                tweet_username = tweet_data['tweet_username'],
+                tweet = tweet_data['tweet'],
+                tweet_translated = tweet_data['tweet_translated'],
+                tweet_sentiment = tweet_data['tweet_sentiment'],
+                tweet_opinion = tweet_data['tweet_opinion'],
+                tweet_translated_tokenized = [''],
+                tweet_tokenized = ['']
+            )
+            db.session.add(tweet_new)
+            db.session.commit()
+            return jsonify(tweet_data)
     else:
         return {
             'status': 'error',
